@@ -65,9 +65,13 @@ python scripts/build_index.py --check           # 只校验（CI / 提交前）
 python scripts/export_tbx.py                    # 重新生成 TBX
 python scripts/import_csv.py 输入.csv --domain 计算机          # 通用导入（CSV/TSV/JSON/行式）
 python scripts/import_iate.py iate导出.tbx --domain 医学 --reliability 3   # IATE TBX 导入
+python scripts/sync_remote.py             # 同步到 GitHub（REST 通道，见下）
 ```
 
-全部 Python 3 标准库、零依赖。
+全部 Python 3 标准库、零依赖。**为什么发布走 REST 而不是 git push**：本机的
+github.com git 协议被网络阻断（api.github.com 通畅）——`sync_remote.py` 沿用
+PaperPilot 项目 sync-github.py 的「blob 内容寻址增量」打法；令牌从
+`PP_GITHUB_TOKEN` 环境变量或密钥库文件读取，不进命令行。
 
 ## 贡献纪律（重要）
 
@@ -97,7 +101,7 @@ python scripts/import_iate.py iate导出.tbx --domain 医学 --reliability 3   #
 
 ## 现状与路线
 
-- v1.0.0（2026-10）：4 域 80 条自编种子（计算机/AI、医学、金融、法律），
+- v1.0.0（2026-10，**已发布**）：4 域 80 条自编种子（计算机/AI、医学、金融、法律），
   数据规范与同步协议定型，IATE 导入器就绪；
 - 下一步：用 IATE 导入器成规模扩充（en+zh 全域）；社区 PR 补域（化学、生物、
   心理学、电子工程…）；可选 Zenodo/HuggingFace 镜像发布 DOI。
