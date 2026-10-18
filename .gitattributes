@@ -1,0 +1,9 @@
+# 数据仓的字节稳定性优先：所有文本一律 LF（index.json 的 sha256 同步协议
+# 依赖文件字节不变——CRLF 换行漂移会让 --check 在不同机器上忽红忽绿）
+* text=auto eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.tbx text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.txt text eol=lf

@@ -1,0 +1,29 @@
+{
+  "$schema_note": "领域注册表：domain=数据文件里的规范域标签（中文，稳定不改）；slug=文件名与 URL 标识；en=英文显示名。新增领域先在这里登记，再加 data/<slug>.csv。",
+  "domains": [
+    {
+      "domain": "计算机",
+      "slug": "computer-science",
+      "en": "Computer Science / AI",
+      "source_note": "自编种子（PaperPilot 术语表领域化批次，2026-10）；译法取社区/教科书主流"
+    },
+    {
+      "domain": "医学",
+      "slug": "medicine",
+      "en": "Medicine",
+      "source_note": "自编种子（PaperPilot 术语表领域化批次，2026-10）；循证医学与临床通行译法"
+    },
+    {
+      "domain": "金融",
+      "slug": "finance",
+      "en": "Finance / Economics",
+      "source_note": "自编种子（PaperPilot 术语表领域化批次，2026-10）；财务与金融学通行译法"
+    },
+    {
+      "domain": "法律",
+      "slug": "law",
+      "en": "Law",
+      "source_note": "自编种子（PaperPilot 术语表领域化批次，2026-10）；大陆法/普通法通行概念译法"
+    }
+  ]
+}

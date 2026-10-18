@@ -1,0 +1,54 @@
+{
+  "name": "open-termbank",
+  "description": "多学科领域中英术语对照数据库（按域取用 / CSV+TBX / CC BY 4.0）",
+  "version": "1.0.0",
+  "updated": "2026-10-18T12:09:20+08:00",
+  "owner": "yebuqiu",
+  "language_pair": "en → zh-CN",
+  "license": {
+    "data": "CC-BY-4.0",
+    "code": "Apache-2.0"
+  },
+  "domains": [
+    {
+      "domain": "计算机",
+      "slug": "computer-science",
+      "en": "Computer Science / AI",
+      "file": "computer-science.csv",
+      "count": 20,
+      "sha256": "0458fc234f8831ab390dc87bbb48d30afd78f9b682fcd83188b83d75c1428e8d"
+    },
+    {
+      "domain": "金融",
+      "slug": "finance",
+      "en": "Finance / Economics",
+      "file": "finance.csv",
+      "count": 20,
+      "sha256": "4f3c82cbf413e0038e2a003861b7c7d8152771b978b0f9d941ee610f9eaf91b1"
+    },
+    {
+      "domain": "法律",
+      "slug": "law",
+      "en": "Law",
+      "file": "law.csv",
+      "count": 20,
+      "sha256": "6d05b3ede0a6afe4d937565936f8a68be368e1da065045b83fc53fd13f1df82c"
+    },
+    {
+      "domain": "医学",
+      "slug": "medicine",
+      "en": "Medicine",
+      "file": "medicine.csv",
+      "count": 20,
+      "sha256": "78ca9d992aa8de84fc83ad800624afd5e65810695d5ff32416df82561577558e"
+    }
+  ],
+  "total": 80,
+  "protocol": {
+    "sync": "消费方轮询 index.json；对比每域 sha256 决定是否重新下载该域 CSV",
+    "urls": {
+      "raw": "https://raw.githubusercontent.com/yebuqiu/open-termbank/main/data/",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/yebuqiu/open-termbank@main/data/"
+    }
+  }
+}

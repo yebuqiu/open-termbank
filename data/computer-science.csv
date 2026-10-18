@@ -1,0 +1,21 @@
+source,target,domain
+transformer,Transformer,计算机
+large language model,大语言模型,计算机
+fine-tuning,微调,计算机
+pre-training,预训练,计算机
+reinforcement learning,强化学习,计算机
+supervised learning,监督学习,计算机
+graph neural network,图神经网络,计算机
+convolutional neural network,卷积神经网络,计算机
+attention mechanism,注意力机制,计算机
+embedding,嵌入表示,计算机
+inference,推理,计算机
+hallucination,幻觉,计算机
+prompt,提示词,计算机
+tokenizer,分词器,计算机
+benchmark,基准测试,计算机
+ablation study,消融实验,计算机
+state-of-the-art,最先进水平,计算机
+zero-shot learning,零样本学习,计算机
+retrieval-augmented generation,检索增强生成,计算机
+mixture of experts,专家混合,计算机

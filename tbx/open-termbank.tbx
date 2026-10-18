@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<martif type="TBX-Min" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt><title>open-termbank</title></titleStmt>
+      <sourceDesc><p>Multi-domain English-Chinese termbase (data: CC BY 4.0, https://github.com/yebuqiu/open-termbank)</p></sourceDesc>
+    </fileDesc>
+    <encodingDesc><p type="XCSURI" value="tbxxcs.xcs"/></encodingDesc>
+  </martifHeader>
+  <text><body>
+    <termEntry id="otb-1">
+      <langSet xml:lang="en"><tig><term>transformer</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>Transformer</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-2">
+      <langSet xml:lang="en"><tig><term>large language model</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>大语言模型</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-3">
+      <langSet xml:lang="en"><tig><term>fine-tuning</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>微调</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-4">
+      <langSet xml:lang="en"><tig><term>pre-training</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>预训练</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-5">
+      <langSet xml:lang="en"><tig><term>reinforcement learning</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>强化学习</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-6">
+      <langSet xml:lang="en"><tig><term>supervised learning</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>监督学习</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-7">
+      <langSet xml:lang="en"><tig><term>graph neural network</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>图神经网络</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-8">
+      <langSet xml:lang="en"><tig><term>convolutional neural network</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>卷积神经网络</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-9">
+      <langSet xml:lang="en"><tig><term>attention mechanism</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>注意力机制</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-10">
+      <langSet xml:lang="en"><tig><term>embedding</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>嵌入表示</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-11">
+      <langSet xml:lang="en"><tig><term>inference</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>推理</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-12">
+      <langSet xml:lang="en"><tig><term>hallucination</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>幻觉</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-13">
+      <langSet xml:lang="en"><tig><term>prompt</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>提示词</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-14">
+      <langSet xml:lang="en"><tig><term>tokenizer</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>分词器</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-15">
+      <langSet xml:lang="en"><tig><term>benchmark</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>基准测试</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-16">
+      <langSet xml:lang="en"><tig><term>ablation study</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>消融实验</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-17">
+      <langSet xml:lang="en"><tig><term>state-of-the-art</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>最先进水平</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-18">
+      <langSet xml:lang="en"><tig><term>zero-shot learning</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>零样本学习</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-19">
+      <langSet xml:lang="en"><tig><term>retrieval-augmented generation</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>检索增强生成</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-20">
+      <langSet xml:lang="en"><tig><term>mixture of experts</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>专家混合</term></tig></langSet>
+      <descrip type="subjectField">计算机</descrip>
+    </termEntry>
+    <termEntry id="otb-21">
+      <langSet xml:lang="en"><tig><term>return on investment</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>投资回报率</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-22">
+      <langSet xml:lang="en"><tig><term>earnings per share</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>每股收益</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-23">
+      <langSet xml:lang="en"><tig><term>price-to-earnings ratio</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>市盈率</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-24">
+      <langSet xml:lang="en"><tig><term>volatility</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>波动率</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-25">
+      <langSet xml:lang="en"><tig><term>hedging</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>套期保值</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-26">
+      <langSet xml:lang="en"><tig><term>arbitrage</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>套利</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-27">
+      <langSet xml:lang="en"><tig><term>derivative</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>衍生品</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-28">
+      <langSet xml:lang="en"><tig><term>liquidity</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>流动性</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-29">
+      <langSet xml:lang="en"><tig><term>asset allocation</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>资产配置</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-30">
+      <langSet xml:lang="en"><tig><term>fiscal policy</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>财政政策</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-31">
+      <langSet xml:lang="en"><tig><term>monetary policy</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>货币政策</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-32">
+      <langSet xml:lang="en"><tig><term>quantitative easing</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>量化宽松</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-33">
+      <langSet xml:lang="en"><tig><term>gross domestic product</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>国内生产总值</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-34">
+      <langSet xml:lang="en"><tig><term>inflation</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>通货膨胀</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-35">
+      <langSet xml:lang="en"><tig><term>default risk</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>违约风险</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-36">
+      <langSet xml:lang="en"><tig><term>portfolio diversification</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>投资组合分散化</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-37">
+      <langSet xml:lang="en"><tig><term>bear market</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>熊市</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-38">
+      <langSet xml:lang="en"><tig><term>initial public offering</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>首次公开募股</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-39">
+      <langSet xml:lang="en"><tig><term>securitization</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>资产证券化</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-40">
+      <langSet xml:lang="en"><tig><term>opportunity cost</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>机会成本</term></tig></langSet>
+      <descrip type="subjectField">金融</descrip>
+    </termEntry>
+    <termEntry id="otb-41">
+      <langSet xml:lang="en"><tig><term>jurisdiction</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>管辖权</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-42">
+      <langSet xml:lang="en"><tig><term>precedent</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>判例</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-43">
+      <langSet xml:lang="en"><tig><term>tort</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>侵权</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-44">
+      <langSet xml:lang="en"><tig><term>consideration</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>对价</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-45">
+      <langSet xml:lang="en"><tig><term>force majeure</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>不可抗力</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-46">
+      <langSet xml:lang="en"><tig><term>arbitration clause</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>仲裁条款</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-47">
+      <langSet xml:lang="en"><tig><term>intellectual property</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>知识产权</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-48">
+      <langSet xml:lang="en"><tig><term>due diligence</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>尽职调查</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-49">
+      <langSet xml:lang="en"><tig><term>burden of proof</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>举证责任</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-50">
+      <langSet xml:lang="en"><tig><term>strict liability</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>严格责任</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-51">
+      <langSet xml:lang="en"><tig><term>breach of contract</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>违约</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-52">
+      <langSet xml:lang="en"><tig><term>injunctive relief</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>禁令救济</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-53">
+      <langSet xml:lang="en"><tig><term>statute of limitations</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>诉讼时效</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-54">
+      <langSet xml:lang="en"><tig><term>class action</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>集体诉讼</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-55">
+      <langSet xml:lang="en"><tig><term>confidentiality clause</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>保密条款</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-56">
+      <langSet xml:lang="en"><tig><term>indemnification</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>补偿条款</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-57">
+      <langSet xml:lang="en"><tig><term>legal person</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>法人</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-58">
+      <langSet xml:lang="en"><tig><term>applicable law</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>适用法律</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-59">
+      <langSet xml:lang="en"><tig><term>waiver</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>权利放弃</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-60">
+      <langSet xml:lang="en"><tig><term>hearsay evidence</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>传闻证据</term></tig></langSet>
+      <descrip type="subjectField">法律</descrip>
+    </termEntry>
+    <termEntry id="otb-61">
+      <langSet xml:lang="en"><tig><term>myocardial infarction</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>心肌梗死</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-62">
+      <langSet xml:lang="en"><tig><term>hypertension</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>高血压</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-63">
+      <langSet xml:lang="en"><tig><term>diabetes mellitus</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>糖尿病</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-64">
+      <langSet xml:lang="en"><tig><term>cerebrovascular accident</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>脑血管意外</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-65">
+      <langSet xml:lang="en"><tig><term>randomized controlled trial</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>随机对照试验</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-66">
+      <langSet xml:lang="en"><tig><term>meta-analysis</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>荟萃分析</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-67">
+      <langSet xml:lang="en"><tig><term>odds ratio</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>比值比</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-68">
+      <langSet xml:lang="en"><tig><term>confidence interval</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>置信区间</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-69">
+      <langSet xml:lang="en"><tig><term>sensitivity</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>灵敏度</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-70">
+      <langSet xml:lang="en"><tig><term>specificity</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>特异度</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-71">
+      <langSet xml:lang="en"><tig><term>adverse event</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>不良事件</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-72">
+      <langSet xml:lang="en"><tig><term>contraindication</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>禁忌证</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-73">
+      <langSet xml:lang="en"><tig><term>comorbidity</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>合并症</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-74">
+      <langSet xml:lang="en"><tig><term>prognosis</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>预后</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-75">
+      <langSet xml:lang="en"><tig><term>informed consent</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>知情同意</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-76">
+      <langSet xml:lang="en"><tig><term>case-control study</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>病例对照研究</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-77">
+      <langSet xml:lang="en"><tig><term>cohort study</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>队列研究</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-78">
+      <langSet xml:lang="en"><tig><term>placebo</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>安慰剂</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-79">
+      <langSet xml:lang="en"><tig><term>biomarker</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>生物标志物</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+    <termEntry id="otb-80">
+      <langSet xml:lang="en"><tig><term>systematic review</term></tig></langSet>
+      <langSet xml:lang="zh-CN"><tig><term>系统综述</term></tig></langSet>
+      <descrip type="subjectField">医学</descrip>
+    </termEntry>
+  </body></text>
+</martif>

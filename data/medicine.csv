@@ -1,0 +1,21 @@
+source,target,domain
+myocardial infarction,心肌梗死,医学
+hypertension,高血压,医学
+diabetes mellitus,糖尿病,医学
+cerebrovascular accident,脑血管意外,医学
+randomized controlled trial,随机对照试验,医学
+meta-analysis,荟萃分析,医学
+odds ratio,比值比,医学
+confidence interval,置信区间,医学
+sensitivity,灵敏度,医学
+specificity,特异度,医学
+adverse event,不良事件,医学
+contraindication,禁忌证,医学
+comorbidity,合并症,医学
+prognosis,预后,医学
+informed consent,知情同意,医学
+case-control study,病例对照研究,医学
+cohort study,队列研究,医学
+placebo,安慰剂,医学
+biomarker,生物标志物,医学
+systematic review,系统综述,医学
