@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+celestial mechanics,天体力学,天文,研究天体在引力作用下运动规律的学科,
+orbit,轨道,天文,天体在引力作用下围绕中心天体运行的路径,
+orbital period,轨道周期,天文,天体沿轨道绕中心天体运行一周所需的时间,
+eccentricity,偏心率,天文,描述轨道偏离圆形程度的无量纲参数,orbital eccentricity
+perihelion,近日点,天文,行星或彗星轨道上距离太阳最近的点,
+aphelion,远日点,天文,行星或彗星轨道上距离太阳最远的点,
+Lagrange point,拉格朗日点,天文,两天体引力与旋转离心力相平衡的特解位置,libration point; Lagrangian point
+Kepler's laws,开普勒定律,天文,描述行星绕太阳运动规律的三条基本定律,
+orbital inclination,轨道倾角,天文,天体轨道面与参考平面之间的夹角,inclination
+tidal force,潮汐力,天文,天体对邻近物体不同部位的引力差产生的拉伸效应,
+main sequence,主序,天文,赫罗图上恒星稳定进行氢核聚变的密集分布带,
+red giant,红巨星,天文,恒星演化后期体积膨胀表面温度降低的阶段,
+white dwarf,白矮星,天文,中小质量恒星死亡后留下的致密简并残骸,degenerate dwarf
+neutron star,中子星,天文,大质量恒星核心坍缩形成的以中子为主的致密天体,
+supernova,超新星,天文,恒星演化末期发生的剧烈爆发现象,SN
+stellar nucleosynthesis,恒星核合成,天文,恒星内部通过核聚变生成较重元素的过程,nucleosynthesis
+Hertzsprung-Russell diagram,赫罗图,天文,以光度和表面温度为坐标标示恒星分布的图,H-R diagram; HRD
+photosphere,光球层,天文,恒星大气中向外发射可见光的主要薄层,
+stellar evolution,恒星演化,天文,恒星从形成到死亡所经历的演化全过程,
+Cepheid variable,造父变星,天文,光变周期与绝对光度密切相关的脉动变星,Cepheid
+brown dwarf,褐矮星,天文,质量不足以维持氢核聚变的亚恒星天体,
+protostar,原恒星,天文,星际分子云坍缩形成的恒星胚胎阶段,
+galaxy,星系,天文,由恒星气体尘埃和暗物质组成的巨大引力束缚系统,
+spiral galaxy,旋涡星系,天文,具有旋臂结构且含有大量年轻恒星的盘状星系,
+elliptical galaxy,椭圆星系,天文,外形呈椭球状且缺乏旋臂结构的星系,
+Milky Way,银河系,天文,太阳系所属的拥有数千亿颗恒星的棒旋星系,the Galaxy
+Local Group,本星系群,天文,银河系与邻近星系组成的小型星系群,
+active galactic nucleus,活动星系核,天文,星系中心释放巨大能量的致密高能区域,AGN
+quasar,类星体,天文,距离遥远且光度极高的活动星系核,QSO; quasi-stellar object
+dark matter,暗物质,天文,不发出电磁辐射但引力效应显著的物质成分,
+dark energy,暗能量,天文,驱动宇宙加速膨胀的未知能量成分,
+Big Bang,大爆炸,天文,描述宇宙起源于高温致密状态并持续膨胀的理论,Big Bang theory
+cosmic microwave background,宇宙微波背景,天文,宇宙早期热辐射遗留至今的微波背景,CMB; CMBR
+redshift,红移,天文,天体光谱线向长波方向移动的现象,
+Hubble constant,哈勃常数,天文,刻画宇宙当前膨胀速率的比例常数,H0
+galaxy cluster,星系团,天文,由数百上千个星系组成的引力束缚系统,cluster of galaxies
+gravitational lensing,引力透镜,天文,大质量天体弯曲时空使背景光线偏折的效应,gravitational lens
+asteroid,小行星,天文,围绕太阳运行的体积较小的岩石质天体,minor planet
+comet,彗星,天文,由冰和尘埃组成接近太阳时产生彗尾的小天体,
+meteoroid,流星体,天文,运行于行星际空间的小块岩石或金属碎屑,
+Kuiper belt,柯伊伯带,天文,海王星轨道之外富含冰质小天体的环带,Edgeworth-Kuiper belt
+Oort cloud,奥尔特云,天文,包围太阳系的球状长周期彗星储备区,
+dwarf planet,矮行星,天文,绕太阳运行呈球形但未清空邻近轨道的天体,
+asteroid belt,小行星带,天文,火星与木星轨道之间的小行星密集区域,main asteroid belt
+meteor shower,流星雨,天文,地球穿越彗星遗留碎屑带时出现的流星群现象,
+transit,凌日,天文,较小天体从恒星圆面前经过的现象,
+occultation,掩星,天文,前方天体遮挡后方天体造成的短暂消失现象,
+telescope,望远镜,天文,收集并聚焦天体辐射以进行观测的仪器,
+reflecting telescope,反射望远镜,天文,利用镜面反射收集聚焦光线的望远镜,reflector
+refracting telescope,折射望远镜,天文,利用透镜折射收集聚焦光线的望远镜,refractor
+aperture,口径,天文,望远镜物镜或主镜接收光线的有效直径,
+angular resolution,角分辨率,天文,望远镜区分两个相邻天体的最小角距离,resolving power
+adaptive optics,自适应光学,天文,实时校正大气湍流扰动以提高成像质量的技术,AO
+interferometry,干涉测量,天文,组合多台望远镜信号以获得高分辨率的观测技术,
+photometry,测光,天文,测量天体辐射强度及其变化的方法,
+spectroscopy,光谱学,天文,通过分析天体光谱研究其物理化学性质的方法,
+charge-coupled device,电荷耦合器件,天文,天文成像中广泛使用的半导体探测器,CCD
+apparent magnitude,视星等,天文,表征天体在地球上看起来亮度的等级,
+absolute magnitude,绝对星等,天文,天体置于标准距离处呈现的亮度等级,
+radio telescope,射电望远镜,天文,接收天体射电辐射的大型天线系统,
+radio galaxy,射电星系,天文,在射电波段发出极强辐射的活动星系,
+pulsar,脉冲星,天文,高速自转并发出规则射电脉冲的中子星,PSR
+21 cm line,21厘米谱线,天文,中性氢原子自旋跃迁发射的射电谱线,H I line; hydrogen line
+very long baseline interferometry,甚长基线干涉测量,天文,联合遥远台站射电望远镜实现极高分辨率的技术,VLBI
+space telescope,空间望远镜,天文,在地球大气层外运行的天文观测望远镜,
+cosmic ray,宇宙线,天文,来自宇宙深处主要由原子核组成的高能粒子流,cosmic rays
+synchrotron radiation,同步辐射,天文,相对论性电子在磁场中回旋运动发出的辐射,
+black hole,黑洞,天文,引力强到连光也无法逃逸的时空区域,
+event horizon,事件视界,天文,黑洞周围物质一旦越过便不可返回的边界,
+accretion disk,吸积盘,天文,气体绕致密天体旋转并逐渐下落形成的盘状结构,accretion disc
+gamma-ray burst,伽马射线暴,天文,宇宙中突然出现的短暂而剧烈的伽马射线爆发现象,GRB
+X-ray binary,X射线双星,天文,致密天体吸积伴星物质并发出X射线的双星系统,
+supermassive black hole,超大质量黑洞,天文,质量达数百万至数十亿倍太阳质量的星系中心黑洞,SMBH
+relativistic jet,相对论性喷流,天文,以接近光速从致密天体附近喷出的等离子体流,
+gravitational wave,引力波,天文,时空曲率扰动以波形式向外传播的现象,GW
+neutrino astronomy,中微子天文学,天文,通过探测宇宙中微子研究天体过程的分支学科,
+magnetar,磁星,天文,具有宇宙中最强磁场的特殊中子星,
+exoplanet,系外行星,天文,围绕太阳系外其他恒星运行的行星,extrasolar planet
+habitable zone,宜居带,天文,行星表面温度允许液态水存在的恒星周围区域,Goldilocks zone; circumstellar habitable zone
+planetary ring,行星环,天文,由碎屑颗粒围绕行星赤道面运行的环状结构,ring system
+regolith,风化层,天文,覆盖在行星或卫星表面的松散碎屑层,
+differentiation,分异,天文,行星内部物质按密度重新分布形成分层结构的过程,planetary differentiation
+impact crater,撞击坑,天文,小天体高速撞击行星表面形成的环形凹坑,crater
+albedo,反照率,天文,天体表面反射入射辐射能力的比例量度,
+terrestrial planet,类地行星,天文,以硅酸盐岩石为主要成分的固体行星,rocky planet
+parallax,视差,天文,因观测位置变化引起的天体视方向改变,
+proper motion,自行,天文,恒星在天球上逐年发生的微小位置变化,
+celestial coordinate system,天球坐标系,天文,用于确定天体在天球上位置的坐标体系,
+right ascension,赤经,天文,天球赤道坐标系中类似经度的坐标量,RA
+declination,赤纬,天文,天球赤道坐标系中类似纬度的坐标量,Dec
+ecliptic,黄道,天文,太阳在天球上周年视运动所走的轨迹,
+astrometry,天体测量学,天文,精确测定天体位置距离与运动的学科,
+epoch,历元,天文,天文观测与星表数据所对应的参考时刻,
+space probe,空间探测器,天文,飞往其他天体进行考察的无人航天器,
+flyby,飞掠,天文,探测器近距离飞越目标天体的飞行方式,
+orbiter,轨道器,天文,进入环绕目标天体轨道运行的探测器,
+lander,着陆器,天文,降落到天体表面开展探测的航天器,
+rover,巡视器,天文,能够在天体表面移动考察的轮式探测车,
+orbital insertion,轨道进入,天文,探测器减速制动进入目标天体轨道的过程,
+launch window,发射窗口,天文,满足任务条件适合航天器发射的时间段,

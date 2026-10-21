@@ -5,25 +5,121 @@
       "domain": "计算机",
       "slug": "computer-science",
       "en": "Computer Science / AI",
-      "source_note": "自编种子（PaperPilot 术语表领域化批次，2026-10）；译法取社区/教科书主流"
+      "source_note": "自编种子（2026-10）+ v2.0.0 扩充；译法取社区/教科书主流"
     },
     {
       "domain": "医学",
       "slug": "medicine",
       "en": "Medicine",
-      "source_note": "自编种子（PaperPilot 术语表领域化批次，2026-10）；循证医学与临床通行译法"
+      "source_note": "自编种子（2026-10）+ v2.0.0 扩充；循证医学与临床通行译法"
     },
     {
       "domain": "金融",
       "slug": "finance",
       "en": "Finance / Economics",
-      "source_note": "自编种子（PaperPilot 术语表领域化批次，2026-10）；财务与金融学通行译法"
+      "source_note": "自编种子（2026-10）+ v2.0.0 扩充；财务与金融学通行译法"
     },
     {
       "domain": "法律",
       "slug": "law",
       "en": "Law",
-      "source_note": "自编种子（PaperPilot 术语表领域化批次，2026-10）；大陆法/普通法通行概念译法"
+      "source_note": "自编种子（2026-10）+ v2.0.0 扩充；大陆法/普通法通行概念译法"
+    },
+    {
+      "domain": "工程",
+      "slug": "engineering",
+      "en": "Engineering (General / Mechanical / Electrical / Civil)",
+      "source_note": "v2.0.0 自编扩充；工程学科通行译法"
+    },
+    {
+      "domain": "生物",
+      "slug": "biology",
+      "en": "Biology / Life Sciences",
+      "source_note": "v2.0.0 自编扩充；生命科学与生物技术通行译法"
+    },
+    {
+      "domain": "化学",
+      "slug": "chemistry",
+      "en": "Chemistry",
+      "source_note": "v2.0.0 自编扩充；IUPAC 与教科书通行译法"
+    },
+    {
+      "domain": "物理",
+      "slug": "physics",
+      "en": "Physics",
+      "source_note": "v2.0.0 自编扩充；教科书与学界通行译法"
+    },
+    {
+      "domain": "数学",
+      "slug": "mathematics",
+      "en": "Mathematics / Statistics",
+      "source_note": "v2.0.0 自编扩充；教科书与统计学界通行译法"
+    },
+    {
+      "domain": "教育",
+      "slug": "education",
+      "en": "Education / Pedagogy",
+      "source_note": "v2.0.0 自编扩充；教育学界通行译法"
+    },
+    {
+      "domain": "心理学",
+      "slug": "psychology",
+      "en": "Psychology",
+      "source_note": "v2.0.0 自编扩充；APA 与教科书通行译法"
+    },
+    {
+      "domain": "语言学",
+      "slug": "linguistics",
+      "en": "Linguistics",
+      "source_note": "v2.0.0 自编扩充；语言学界通行译法"
+    },
+    {
+      "domain": "艺术",
+      "slug": "art",
+      "en": "Arts / Design",
+      "source_note": "v2.0.0 自编扩充；艺术史与设计界通行译法"
+    },
+    {
+      "domain": "环境",
+      "slug": "environment",
+      "en": "Environmental Science",
+      "source_note": "v2.0.0 自编扩充；环境科学与政策通行译法"
+    },
+    {
+      "domain": "材料",
+      "slug": "materials",
+      "en": "Materials Science",
+      "source_note": "v2.0.0 自编扩充；材料学界通行译法"
+    },
+    {
+      "domain": "能源",
+      "slug": "energy",
+      "en": "Energy / Power",
+      "source_note": "v2.0.0 自编扩充；能源与电力行业通行译法"
+    },
+    {
+      "domain": "管理",
+      "slug": "management",
+      "en": "Management / Business",
+      "source_note": "v2.0.0 自编扩充；管理学与商界通行译法"
+    },
+    {
+      "domain": "传播",
+      "slug": "communication",
+      "en": "Communication / Media Studies",
+      "source_note": "v2.0.0 自编扩充；新闻传播学界通行译法"
+    },
+    {
+      "domain": "农业",
+      "slug": "agriculture",
+      "en": "Agriculture",
+      "source_note": "v2.0.0 自编扩充；农学与农业科学通行译法"
+    },
+    {
+      "domain": "天文",
+      "slug": "astronomy",
+      "en": "Astronomy / Space Science",
+      "source_note": "v2.0.0 自编扩充；天文学与航天界通行译法"
     }
   ]
 }

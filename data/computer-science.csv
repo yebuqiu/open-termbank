@@ -1,21 +1,101 @@
-source,target,domain
-transformer,Transformer,计算机
-large language model,大语言模型,计算机
-fine-tuning,微调,计算机
-pre-training,预训练,计算机
-reinforcement learning,强化学习,计算机
-supervised learning,监督学习,计算机
-graph neural network,图神经网络,计算机
-convolutional neural network,卷积神经网络,计算机
-attention mechanism,注意力机制,计算机
-embedding,嵌入表示,计算机
-inference,推理,计算机
-hallucination,幻觉,计算机
-prompt,提示词,计算机
-tokenizer,分词器,计算机
-benchmark,基准测试,计算机
-ablation study,消融实验,计算机
-state-of-the-art,最先进水平,计算机
-zero-shot learning,零样本学习,计算机
-retrieval-augmented generation,检索增强生成,计算机
-mixture of experts,专家混合,计算机
+source,target,domain,definition,synonyms
+transformer,Transformer,计算机,一种基于自注意力机制的深度学习架构，是当今大语言模型与多模态模型的主流基础,
+large language model,大语言模型,计算机,基于海量文本训练的参数规模庞大的语言模型，能够完成多种自然语言理解与生成任务,LLM
+fine-tuning,微调,计算机,在预训练模型基础上用较小规模领域数据继续训练以适配特定任务的方法,
+pre-training,预训练,计算机,在大规模通用数据上先行训练模型以获得通用表示能力的阶段,
+reinforcement learning,强化学习,计算机,智能体通过与环境交互并依据奖励信号改进策略的机器学习方法,RL
+supervised learning,监督学习,计算机,利用带标注样本训练模型以学习输入到输出映射关系的机器学习方法,
+graph neural network,图神经网络,计算机,直接作用于图结构数据并通过消息传递聚合邻居信息的神经网络,GNN
+convolutional neural network,卷积神经网络,计算机,利用卷积运算提取局部特征的神经网络，广泛用于图像等任务,CNN
+attention mechanism,注意力机制,计算机,让模型按相关性为输入各部分分配权重以聚焦关键信息的机制,
+embedding,嵌入表示,计算机,将离散符号映射为连续向量以保留语义或结构信息的稠密表示方法,
+inference,推理,计算机,利用训练好的模型对新输入进行预测或生成输出的过程,
+hallucination,幻觉,计算机,生成式模型输出与事实不符或缺乏依据的貌似可信内容的现象,
+prompt,提示词,计算机,输入给生成式模型用以引导其输出内容的自然语言指令或上下文,
+tokenizer,分词器,计算机,将文本切分为词元序列以便模型处理的工具或算法,
+benchmark,基准测试,计算机,用于在统一标准下评估和比较模型或系统性能的数据集与评测方法,
+ablation study,消融实验,计算机,通过移除或替换模型组件来评估各部分对整体性能贡献的实验,
+state-of-the-art,最先进水平,计算机,当前某任务上性能最优或技术最前沿的方法与成果,SOTA
+zero-shot learning,零样本学习,计算机,模型在未见过某类训练样本的情况下直接完成该类任务的学习方式,
+retrieval-augmented generation,检索增强生成,计算机,先从外部知识库检索相关信息再据此生成回答的技术框架,RAG
+mixture of experts,专家混合,计算机,由多个子网络组成并按输入动态选择部分专家参与计算的模型结构,MoE
+algorithm,算法,计算机,求解特定问题的一组有限而明确的操作步骤,
+data structure,数据结构,计算机,组织和存储数据以支持高效访问与修改的方式,
+binary search tree,二叉搜索树,计算机,每个结点左子树键值均小于右子树键值且支持高效查找的二叉树,BST
+hash table,哈希表,计算机,通过散列函数将键映射到存储位置以实现快速查找的数据结构,hash map
+dynamic programming,动态规划,计算机,将问题分解为重叠子问题并保存中间结果以避免重复计算的算法设计方法,DP
+greedy algorithm,贪心算法,计算机,每步都做出当前看来最优选择以期望获得全局较优解的算法策略,
+time complexity,时间复杂度,计算机,描述算法运行时间随输入规模增长趋势的度量,
+graph traversal,图遍历,计算机,按照特定规则访问图中所有顶点的过程，常见方式有深度优先与广度优先,
+linked list,链表,计算机,由结点通过指针依次连接而成的线性数据结构,
+heap,堆,计算机,满足父结点键值总是优先于子结点的完全二叉树结构，常用于实现优先队列,
+process,进程,计算机,正在运行的程序实例，是操作系统进行资源分配与保护的基本单位,
+thread,线程,计算机,进程内独立调度执行的最小单位，同一进程的线程共享地址空间,
+deadlock,死锁,计算机,多个进程因互相等待对方占有资源而都无法继续推进的状态,
+virtual memory,虚拟内存,计算机,为进程提供连续地址空间抽象并将部分数据换出到磁盘的内存管理机制,
+semaphore,信号量,计算机,用于进程或线程间同步与互斥的计数型同步原语,
+scheduling,调度,计算机,操作系统按一定策略把处理器等资源分配给就绪任务的过程,
+file system,文件系统,计算机,负责在存储设备上组织、命名、存取和管理文件的机制,
+interrupt,中断,计算机,由硬件或软件触发使处理器暂停当前任务转而处理紧急事件的机制,
+kernel,内核,计算机,操作系统中直接管理硬件资源并向应用提供系统服务的核心部分,
+router,路由器,计算机,在不同网络之间依据地址信息转发数据分组的网络设备,
+packet switching,分组交换,计算机,把报文划分为带首部的小分组并独立存储转发的交换方式,
+bandwidth,带宽,计算机,单位时间内信道或链路能够传输的数据量上限,
+latency,时延,计算机,数据从发送端到达接收端所经历的时间,
+domain name system,域名系统,计算机,把便于记忆的域名解析为网络地址的分布式命名服务,DNS
+hypertext transfer protocol,超文本传输协议,计算机,万维网中浏览器与服务器之间传输超文本资源的应用层协议,HTTP
+congestion control,拥塞控制,计算机,通过调节发送速率防止网络因负载过重而性能恶化的机制,
+socket,套接字,计算机,为应用进程提供网络通信端点的编程接口,
+relational database,关系数据库,计算机,以二维表形式组织数据并基于关系代数进行查询的数据库,
+transaction,事务,计算机,作为整体执行且满足原子性、一致性等性质的一组数据库操作,
+index,索引,计算机,为加速数据检索而对表中的列建立的辅助数据结构,
+query optimization,查询优化,计算机,数据库为查询语句选择高效执行计划的过程,
+normalization,规范化,计算机,通过分解关系模式以消除数据冗余和更新异常的设计方法,
+structured query language,结构化查询语言,计算机,用于定义和操作关系数据库的标准语言,SQL
+concurrency control,并发控制,计算机,保证多个事务同时执行时数据库仍处于一致状态的控制机制,
+version control,版本控制,计算机,记录和管理软件代码随时间变化的修改历史的工具与流程,
+continuous integration,持续集成,计算机,开发者频繁地将代码合并到主干并自动构建测试的开发实践,CI
+software testing,软件测试,计算机,通过运行程序发现缺陷并验证其是否满足需求的活动,
+refactoring,重构,计算机,在不改变外部行为的前提下改善代码内部结构的修改活动,
+design pattern,设计模式,计算机,针对常见软件设计问题的可复用解决方案模板,
+code review,代码评审,计算机,由同行检查代码以发现缺陷并保证质量与风格一致的活动,
+software architecture,软件体系结构,计算机,对系统主要构件、构件关系及设计决策的高层描述,
+compiler,编译器,计算机,把高级语言源程序整体翻译为等价目标代码的程序,
+interpreter,解释器,计算机,逐条读取并直接执行源程序语句而无需预先生成目标代码的程序,
+garbage collection,垃圾回收,计算机,运行时系统自动识别并释放不再被引用内存的机制,GC
+type system,类型系统,计算机,定义语言中值的类型及类型检查规则以防止错误操作的规则集合,
+polymorphism,多态,计算机,同一接口可作用于不同类型对象并表现出不同行为的语言特性,
+closure,闭包,计算机,函数与其定义时所处的词法环境绑定后形成的可独立传递的实体,
+object-oriented programming,面向对象编程,计算机,以对象为核心并通过封装、继承和多态组织程序的编程范式,OOP
+encryption,加密,计算机,利用密钥和算法把明文变换为密文以保护信息机密性的过程,
+public key cryptography,公钥密码学,计算机,使用成对的公钥与私钥实现加密或签名的密码体制,asymmetric cryptography
+digital signature,数字签名,计算机,基于公钥密码实现消息来源认证与完整性验证的密码机制,
+authentication,身份认证,计算机,验证通信实体所声称身份是否真实的过程,
+access control,访问控制,计算机,依据策略限制主体对资源所能执行操作的安全机制,
+malware,恶意软件,计算机,以破坏、窃取信息或控制受害系统为目的而设计的软件,
+vulnerability,漏洞,计算机,系统中可被攻击者利用以破坏安全策略的设计或实现缺陷,
+cryptographic hash function,密码散列函数,计算机,把任意长度输入映射为定长摘要且难以逆向或碰撞的函数,
+consensus,共识,计算机,使分布式系统中多个节点就某一取值达成一致的协议过程,
+load balancing,负载均衡,计算机,把请求或任务合理分摊到多台服务器以提升整体处理能力的技术,
+fault tolerance,容错,计算机,系统在部分组件失效时仍能继续提供正确服务的能力,
+replication,复制,计算机,在多个节点上维护相同数据副本以提高可用性与可靠性的技术,
+distributed computing,分布式计算,计算机,把计算任务分解后由网络中多台计算机协同完成的计算方式,
+consistency model,一致性模型,计算机,规定分布式系统中并发读写操作可见顺序的规则约定,
+message queue,消息队列,计算机,以队列形式在应用之间异步传递消息的通信中间件,
+cache,高速缓存,计算机,位于处理器与主存之间用于暂存频繁访问数据的高速小容量存储器,
+pipeline,流水线,计算机,把指令执行划分为若干阶段并重叠执行以提高吞吐量的技术,
+instruction set architecture,指令集体系结构,计算机,处理器向软件暴露的指令、寄存器与寻址方式等抽象接口,ISA
+register,寄存器,计算机,处理器内部访问速度最快且用于暂存指令和数据的小容量存储单元,
+memory hierarchy,存储器层次结构,计算机,按速度与容量分级组织存储器以兼顾性能与成本的体系结构,
+branch prediction,分支预测,计算机,处理器猜测分支指令跳转方向以保持流水线连续执行的技术,
+superscalar,超标量,计算机,每个时钟周期能够同时发射并执行多条指令的处理器微结构,
+user interface,用户界面,计算机,用户与计算机系统之间进行信息交互的媒介与表现形式,UI
+usability,可用性,计算机,衡量产品让特定用户高效且满意地达成目标难易程度的属性,
+human-computer interaction,人机交互,计算机,研究人与计算机系统之间交互方式及其设计的交叉学科,HCI
+virtual reality,虚拟现实,计算机,借助计算机生成可交互的三维沉浸式环境的技术,VR
+augmented reality,增强现实,计算机,把虚拟信息实时叠加到真实场景中以增强感知的技术,AR
+lexical analysis,词法分析,计算机,编译过程中把源程序字符流切分为记号序列的阶段,
+syntax analysis,语法分析,计算机,依据文法规则把记号序列组织成语法结构树的编译阶段,parsing
+code generation,代码生成,计算机,编译过程中把中间表示转换为目标机器代码的阶段,
+abstract syntax tree,抽象语法树,计算机,以树形结构表示源程序语法成分并略去细节符号的中间表示,AST
+regular expression,正则表达式,计算机,用特定符号规则描述字符串模式的形式化表达式,regex

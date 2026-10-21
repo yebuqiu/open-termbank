@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+alloy,合金,材料,由两种或多种金属或非金属元素组成的具有金属特性的物质,
+steel,钢,材料,含碳量较低并可通过热处理调整性能的铁碳合金,
+cast iron,铸铁,材料,含碳量较高以铸造方法成形的铁碳合金,
+stainless steel,不锈钢,材料,含铬量高而具有优良耐蚀性能的合金钢,
+aluminum alloy,铝合金,材料,以铝为基加入其他元素获得轻质高强特性的合金,
+superalloy,高温合金,材料,能在高温环境下长期保持强度与抗氧化性的合金,high-temperature alloy
+nonferrous metal,有色金属,材料,除铁铬锰以外的所有金属及其合金的统称,
+grain boundary,晶界,材料,多晶体中相邻取向不同晶粒之间的界面区域,
+dislocation,位错,材料,晶体中原子排列发生线状错排的一种缺陷,
+crystal lattice,晶格,材料,晶体内部质点在空间作周期性规则排列的几何构架,
+solid solution,固溶体,材料,溶质原子溶入溶剂晶格中所形成的均匀固相,
+intermetallic compound,金属间化合物,材料,金属元素间按确定比例形成的有序晶体结构化合物,
+ceramic,陶瓷,材料,由无机非金属原料经成型与高温烧结制成的多晶材料,
+sintering,烧结,材料,粉末压坯在低于熔点温度加热而实现致密化的过程,
+refractory material,耐火材料,材料,能在高温条件下保持结构稳定性的无机非金属材料,refractory
+glass,玻璃,材料,熔体快速冷却而形成的具有短程有序结构的非晶态固体,
+cement,水泥,材料,加水拌和后能在空气与水中硬化的粉状水硬性胶凝材料,
+alumina,氧化铝,材料,硬度高绝缘性好且耐高温的重要陶瓷原料,aluminium oxide
+silicon carbide,碳化硅,材料,兼具高硬度高热导与半导体性能的共价键化合物,SiC
+zirconia,氧化锆,材料,断裂韧度较高且可通过相变增韧的结构陶瓷材料,zirconium dioxide
+ferrite,铁氧体,材料,以氧化铁为主要成分的磁性陶瓷材料,
+thermal barrier coating,热障涂层,材料,涂覆于高温部件表面以阻隔热量传入的陶瓷涂层,TBC
+polymer,聚合物,材料,由大量重复结构单元经共价键连接而成的高分子化合物,macromolecule
+thermoplastic,热塑性塑料,材料,受热软化冷却硬化且可反复塑制成形的聚合物材料,
+thermoset,热固性塑料,材料,固化成形后形成交联网络而不能再熔融的聚合物,thermosetting plastic
+elastomer,弹性体,材料,在外力作用下能产生大变形并迅速复原的高分子材料,rubber
+polyethylene,聚乙烯,材料,由乙烯聚合而成且产量最大的通用热塑性塑料,PE
+epoxy resin,环氧树脂,材料,分子含环氧基团且固化后粘接性与尺寸稳定性优异的树脂,EP
+polymerization,聚合,材料,单体分子经化学反应连接成大分子的过程,
+degree of polymerization,聚合度,材料,高分子链中所含结构单元的平均数目,DP
+glass transition temperature,玻璃化转变温度,材料,非晶聚合物由玻璃态向高弹态转变的特征温度,Tg
+viscoelasticity,黏弹性,材料,材料同时呈现黏性流体与弹性固体特征的力学行为,
+cross-linking,交联,材料,线型大分子链之间形成化学键而构成网状结构的过程,crosslinking
+copolymer,共聚物,材料,由两种或多种单体共同聚合而成的高分子化合物,
+composite material,复合材料,材料,由两种以上不同性质材料复合而成的新型多相材料,composite
+carbon fiber,碳纤维,材料,含碳量高且比强度比模量优异的纤维状增强材料,CF
+fiber reinforced polymer,纤维增强聚合物,材料,以纤维为增强体树脂为基体的复合材料,FRP
+laminate,层压板,材料,多层片状材料经叠合加压固化而成的板状复合材料,
+matrix,基体,材料,复合材料中连续分布并包覆增强体的相,
+reinforcement,增强体,材料,复合材料中承担主要载荷并提高强度刚度的组分,reinforcing phase
+interface,界面,材料,复合材料中基体与增强体相互接触的结合区域,
+sandwich structure,夹层结构,材料,两层薄面板夹持轻质芯材构成的高比刚度结构,sandwich construction
+semiconductor,半导体,材料,导电能力介于导体与绝缘体之间且可控的材料,
+silicon,硅,材料,应用最广泛的半导体元素也是集成电路的基础材料,Si
+wafer,晶圆,材料,用于制造集成电路的圆形单晶硅薄片,slice
+doping,掺杂,材料,有控制地向半导体中引入杂质原子以改变其导电性能,
+p-n junction,PN结,材料,P型与N型半导体接触形成的具有单向导电性的界面,pn junction
+band gap,带隙,材料,半导体中价带顶与导带底之间的能量间隔,energy gap
+intrinsic semiconductor,本征半导体,材料,完全纯净且载流子仅由本征激发产生的半导体,
+epitaxy,外延,材料,在单晶衬底上按衬底晶向生长单晶薄膜的工艺,
+gallium arsenide,砷化镓,材料,电子迁移率高适用于高频光电器件的化合物半导体,GaAs
+photoresist,光刻胶,材料,经光照后溶解性发生改变用于图形转移的感光材料,resist
+nanomaterial,纳米材料,材料,至少一维尺寸处于纳米量级而呈现特殊性能的材料,
+nanoparticle,纳米颗粒,材料,三维尺寸均在纳米量级的微小颗粒,
+carbon nanotube,碳纳米管,材料,由石墨烯片层卷曲而成的中空管状纳米碳材料,CNT
+graphene,石墨烯,材料,由单层碳原子以蜂窝状排列构成的二维材料,
+quantum dot,量子点,材料,尺寸小于激子玻尔半径而表现量子限域效应的半导体纳米晶,QD
+fullerene,富勒烯,材料,由碳原子组成封闭笼状结构的分子碳材料,
+nanocomposite,纳米复合材料,材料,分散相至少一维为纳米尺度的多相复合材料,
+self-assembly,自组装,材料,基本单元通过非共价作用自发形成有序结构的过程,
+X-ray diffraction,X射线衍射,材料,利用晶体对X射线的衍射效应分析物相与结构的方法,XRD
+scanning electron microscope,扫描电子显微镜,材料,用聚焦电子束扫描样品表面获得形貌图像的仪器,SEM
+transmission electron microscope,透射电子显微镜,材料,利用透射电子成像以观察材料内部微细结构的仪器,TEM
+energy dispersive spectroscopy,能谱分析,材料,通过测量特征X射线能量对微区成分作定性定量分析的方法,EDS
+differential scanning calorimetry,差示扫描量热法,材料,测量样品与参比物热流差随温度变化以研究热效应的技术,DSC
+thermogravimetric analysis,热重分析,材料,在程序控温下测量样品质量随温度变化的分析方法,TGA
+infrared spectroscopy,红外光谱,材料,基于分子对红外光的选择性吸收来分析化学结构的方法,IR spectroscopy
+X-ray photoelectron spectroscopy,X射线光电子能谱,材料,测量光电子结合能以分析表面元素组成与化学态的方法,XPS
+metallography,金相学,材料,研究金属与合金显微组织及其与性能关系的学科,
+fractography,断口分析,材料,通过观察断口形貌推断断裂机制与原因的分析方法,
+Raman spectroscopy,拉曼光谱,材料,利用拉曼散射效应研究分子振动与材料结构的光谱方法,
+atomic force microscope,原子力显微镜,材料,利用探针与表面间作用力获得纳米级形貌图像的仪器,AFM
+phase diagram,相图,材料,描述材料相平衡关系随成分温度等参数变化的几何图形,equilibrium diagram
+phase transformation,相变,材料,材料中一种相转变为另一种相的物理过程,
+quenching,淬火,材料,将钢加热保温后快速冷却以获得马氏体组织的热处理,quench hardening
+tempering,回火,材料,淬火后将钢重新加热到一定温度保温冷却的热处理,
+annealing,退火,材料,加热保温后缓慢冷却以软化材料改善组织的热处理,
+normalizing,正火,材料,加热后在空气中冷却以细化晶粒均匀组织的热处理,
+carburizing,渗碳,材料,使碳原子渗入钢件表层以提高硬度与耐磨性的化学热处理,carburization
+martensite,马氏体,材料,奥氏体经快速冷却形成的过饱和固溶体组织,
+austenite,奥氏体,材料,碳溶于面心立方铁中形成的间隙固溶体,
+precipitation hardening,沉淀强化,材料,利用细小第二相从过饱和固溶体析出而提高强度的方法,age hardening
+tensile strength,抗拉强度,材料,材料在拉伸试验中所能承受的最大工程应力,ultimate tensile strength; UTS
+yield strength,屈服强度,材料,材料开始发生明显塑性变形时的应力,
+elongation,伸长率,材料,试样拉断后标距伸长量与原始标距的百分比,
+hardness,硬度,材料,材料抵抗局部塑性变形或压入的能力,
+toughness,韧性,材料,材料在断裂前吸收能量并发生塑性变形的能力,
+elastic modulus,弹性模量,材料,弹性变形阶段应力与应变的比例系数,Young's modulus
+fatigue limit,疲劳极限,材料,材料经无限次应力循环而不破坏的最大应力,endurance limit
+creep,蠕变,材料,材料在恒定应力与较高温度下随时间缓慢变形的现象,
+fracture toughness,断裂韧度,材料,材料抵抗含裂纹构件发生失稳扩展的能力,
+plasticity,塑性,材料,材料在外力去除后保持永久变形而不破坏的能力,
+corrosion,腐蚀,材料,材料与环境介质发生化学或电化学作用而破坏的现象,
+electrochemical corrosion,电化学腐蚀,材料,金属在电解质溶液中因原电池作用而发生的腐蚀,
+stress corrosion cracking,应力腐蚀开裂,材料,拉应力与特定腐蚀介质共同作用导致的脆性开裂,SCC
+cathodic protection,阴极保护,材料,使金属构件成为阴极从而抑制其腐蚀的电化学防护方法,
+passivation,钝化,材料,金属表面形成致密氧化膜而显著降低腐蚀速率的现象,
+corrosion inhibitor,缓蚀剂,材料,少量添加即可显著减缓金属腐蚀速率的化学物质,inhibitor
+electroplating,电镀,材料,利用电解在工件表面沉积金属镀层的表面处理方法,electrodeposition
+anodizing,阳极氧化,材料,以工件为阳极通过电解在其表面生成氧化膜的处理方法,anodic oxidation

@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+attention,注意,心理学,心理活动对一定对象的指向与集中、是信息选择加工的基础,
+perception,知觉,心理学,大脑对感觉信息进行组织与解释从而获得事物整体意义的过程,
+memory,记忆,心理学,个体对经验的识记、保持、再认与再现的心理过程,
+working memory,工作记忆,心理学,对信息进行暂时存储与加工的容量有限的记忆系统,short-term memory
+long-term memory,长时记忆,心理学,信息保持时间长久、容量几乎无限的记忆系统,
+episodic memory,情景记忆,心理学,对个人亲身经历的特定时间地点事件的记忆,event memory
+semantic memory,语义记忆,心理学,对一般知识、概念、事实及其意义的记忆系统,
+chunking,组块,心理学,将零散信息组织成有意义单元以扩大短时记忆容量的策略,
+priming,启动效应,心理学,先前接触的刺激对后续相关刺激加工产生的易化影响,
+mental schema,心理图式,心理学,个体头脑中组织知识经验的认知结构框架,schema
+attachment,依恋,心理学,婴幼儿与主要照料者之间形成的持久而亲密的情感联结,
+object permanence,客体永久性,心理学,皮亚杰提出的婴儿认识到物体不在眼前依然存在的认知能力,
+conservation,守恒,心理学,儿童认识到物体外观变化而其数量或体积等属性不变的认知能力,
+egocentrism,自我中心,心理学,前运算阶段儿童难以从他人角度看待事物的认知特点,
+critical period,关键期,心理学,个体发展中某种能力最易习得、错过难以弥补的特定时段,sensitive period
+maturation,成熟,心理学,由遗传因素决定、按固定顺序展开的身心变化过程,
+adolescence,青春期,心理学,儿童向成人过渡的阶段、伴随生理剧变与自我同一性探索,puberty
+identity crisis,同一性危机,心理学,埃里克森提出的青少年在确立自我认同过程中经历的冲突与困惑,
+moral development,道德发展,心理学,个体道德判断与道德行为随年龄和经验逐步发展的过程,
+theory of mind,心理理论,心理学,个体理解他人拥有信念、意图与愿望等心理状态的能力,ToM
+conformity,从众,心理学,个体在群体压力下改变自身行为或信念以与多数人保持一致的现象,
+obedience,服从,心理学,个体按照权威人物的明确要求而做出相应行为的社会现象,
+groupthink,群体思维,心理学,高凝聚力群体为求一致而压制异议、导致决策质量下降的现象,
+bystander effect,旁观者效应,心理学,紧急情境中在场人数越多、个体施助意愿反而越低的现象,
+social facilitation,社会促进,心理学,他人在场提高个体简单任务表现却降低复杂任务表现的现象,
+stereotype,刻板印象,心理学,对某群体成员形成的过度概括且僵化的认知观念,
+prejudice,偏见,心理学,对特定群体及其成员持有的缺乏事实依据的负性态度,
+attribution,归因,心理学,人们对自己或他人行为的原因进行解释与推断的过程,
+cognitive dissonance,认知失调,心理学,个体同时持有相互矛盾认知时产生的不舒适紧张状态,
+social identity,社会认同,心理学,个体从所属群体成员身份中获得的自我概念与价值感,social identity theory
+psychotherapy,心理治疗,心理学,运用心理学原理与方法帮助来访者缓解心理困扰的专业干预,talk therapy
+cognitive behavioral therapy,认知行为疗法,心理学,通过识别与改变不良认知和行为模式来改善情绪的治疗方法,CBT
+psychoanalysis,精神分析,心理学,弗洛伊德创立的通过探索潜意识冲突进行治疗的方法与理论体系,
+exposure therapy,暴露疗法,心理学,让来访者逐步接触恐惧刺激以消退焦虑反应的行为治疗技术,
+depression,抑郁障碍,心理学,以持续情绪低落、兴趣减退与精力下降为核心症状的心境障碍,major depressive disorder
+anxiety disorder,焦虑障碍,心理学,以过度且难以控制的焦虑、担忧及回避行为为特征的障碍类别,
+PTSD,创伤后应激障碍,心理学,经历重大创伤事件后出现的再体验、回避与警觉增高等症状群,post-traumatic stress disorder
+schizophrenia,精神分裂症,心理学,以幻觉、妄想、思维紊乱及情感平淡为特征的重性精神障碍,
+bipolar disorder,双相情感障碍,心理学,以躁狂与抑郁交替发作为主要特征的心境障碍,manic depression
+therapeutic alliance,治疗联盟,心理学,治疗师与来访者之间为达成治疗目标而形成的信任合作关系,working alliance
+big five,大五人格,心理学,将人格概括为开放性、尽责性、外倾性、宜人性与神经质五维度的模型,five-factor model; FFM
+extraversion,外倾性,心理学,描述个体社交性、活力与积极情绪倾向的人格维度,extroversion
+neuroticism,神经质,心理学,描述个体情绪不稳定与负性情绪倾向的人格维度,
+trait theory,特质理论,心理学,认为人格由相对稳定、可测量的行为倾向特质构成的理论取向,
+self-actualization,自我实现,心理学,马斯洛需求层次中个体充分发挥潜能、实现理想自我的最高需要,
+locus of control,控制点,心理学,个体将事件结果归因于自身或外部力量的稳定倾向,internal-external locus of control
+defense mechanism,防御机制,心理学,自我为缓解焦虑与冲突而采取的无意识心理策略,
+repression,压抑,心理学,将痛苦冲动或记忆排除到意识之外的防御机制,
+projection,投射,心理学,将自己难以接受的冲动或特质归因于他人的防御机制,
+temperament,气质,心理学,个体在情绪反应与活动水平上表现出的先天稳定的个体差异,
+neuron,神经元,心理学,神经系统的基本结构与功能单位、负责接收整合与传递信息,
+synapse,突触,心理学,神经元之间或神经元与效应细胞之间传递信息的连接结构,
+neurotransmitter,神经递质,心理学,在突触间隙释放并传递神经信号的化学物质,
+dopamine,多巴胺,心理学,与奖赏、动机和运动控制密切相关的神经递质,
+serotonin,血清素,心理学,参与调节情绪、睡眠与食欲的单胺类神经递质,5-HT
+amygdala,杏仁核,心理学,位于颞叶内侧、在情绪加工尤其是恐惧反应中起关键作用的脑结构,
+hippocampus,海马体,心理学,位于颞叶内侧、对记忆形成与空间导航至关重要的脑结构,
+prefrontal cortex,前额叶皮层,心理学,负责执行功能、决策与社会行为调节的大脑皮层区域,
+neuroplasticity,神经可塑性,心理学,大脑结构与功能随经验和学习而发生改变的能力,brain plasticity
+lateralization,大脑功能偏侧化,心理学,特定认知功能主要由某一侧大脑半球主导的现象,hemispheric lateralization
+independent variable,自变量,心理学,实验中被研究者操纵以观察其效应的变量,IV
+dependent variable,因变量,心理学,实验中被测量以反映自变量效应的变量,DV
+control group,控制组,心理学,实验中不接受实验处理、用于比较的组别,
+experimental group,实验组,心理学,实验中接受研究者所施加实验处理的组别,
+random assignment,随机分配,心理学,将被试以随机方式分入各组以控制个体差异的方法,
+double-blind experiment,双盲实验,心理学,被试与主试均不知分组情况以避免期望效应的实验设计,double-blind study
+placebo effect,安慰剂效应,心理学,个体因相信接受了有效治疗而产生症状改善的心理生理效应,
+replication,重复验证,心理学,用相同或相似方法再次进行研究以检验结果可靠性的过程,
+operational definition,操作性定义,心理学,用可观察、可测量的操作来界定抽象概念的定义方式,
+confounding variable,混淆变量,心理学,与自变量同步变化、干扰因果推断的额外变量,confound
+IQ,智商,心理学,通过标准化智力测验测得的、反映个体智力相对水平的分数,intelligence quotient
+reliability,信度,心理学,心理测量结果的一致性、稳定性与可靠性程度,
+validity,效度,心理学,测验能够真正测到所欲测量构念的程度,
+standardization,标准化,心理学,使测验编制、施测与评分遵循统一规范的过程,
+percentile rank,百分等级,心理学,表示某分数在常模团体中超越人数百分比的相对位置量数,
+normal distribution,正态分布,心理学,呈对称钟形、均值与中位数重合的概率分布,Gaussian distribution
+standard deviation,标准差,心理学,反映数据离散程度的统计量、为方差的平方根,SD
+projective test,投射测验,心理学,通过呈现模糊刺激让被试解释以探测其人格特征的测验,
+aptitude test,能力倾向测验,心理学,用于评估个体特定潜能与学习能力的测验,
+test-retest reliability,重测信度,心理学,同一测验间隔一段时间后两次施测结果的一致性系数,
+stress,压力,心理学,个体面对超出自身资源的内外要求时产生的身心紧张状态,psychological stress
+coping,应对,心理学,个体为管理压力情境而采取的主动认知与行为努力,
+burnout,职业倦怠,心理学,长期工作压力导致的情绪耗竭、去人格化与成就感低落综合征,
+resilience,心理韧性,心理学,个体在逆境或创伤后良好适应并恢复的心理能力,
+mindfulness,正念,心理学,有意识地以不加评判的态度觉察当下体验的心理状态与训练方法,
+biofeedback,生物反馈,心理学,借助仪器将生理信息反馈给个体以学会自我调节的技术,
+psychosomatic disorder,心身疾病,心理学,心理因素在发生发展中起重要作用的躯体疾病,psychophysiological disorder
+well-being,幸福感,心理学,个体对生活整体质量的积极评价与良好心理功能的主观状态,subjective well-being
+health belief model,健康信念模型,心理学,用感知威胁与感知收益解释健康行为改变的理论模型,HBM
+behavioral medicine,行为医学,心理学,整合行为科学与医学知识以预防、诊断和治疗疾病的交叉学科,
+job satisfaction,工作满意度,心理学,员工对其工作各方面的总体积极评价与情感反应,
+organizational commitment,组织承诺,心理学,员工对组织的认同程度与继续留任的意愿强度,
+transformational leadership,变革型领导,心理学,通过愿景激励与智力激发促使下属超越自我的领导风格,
+employee engagement,员工敬业度,心理学,员工在工作中投入的活力、奉献与专注程度,
+occupational stress,职业压力,心理学,工作环境要求与员工资源不匹配引发的身心紧张反应,work stress
+personnel selection,人员甄选,心理学,运用测评方法从应聘者中选拔合适人才的过程,employee selection
+performance appraisal,绩效评估,心理学,依据标准对员工工作绩效进行系统评价的管理活动,performance evaluation
+team building,团队建设,心理学,通过有计划的干预活动提升团队凝聚力与协作效能的过程,
+work-life balance,工作生活平衡,心理学,个体在工作职责与个人生活之间达成协调的状态,
+organizational culture,组织文化,心理学,组织成员共享的价值观、信念与行为规范的体系,

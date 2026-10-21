@@ -23,20 +23,39 @@ PaperPilot 仓库《术语库开源项目调研与术语表领域化设计》文
 ```
 data/
   domains.json            领域注册表（域标签 / slug / 英文名）
-  computer-science.csv    每域一文件，UTF-8 无 BOM
-  medicine.csv            表头固定：source,target,domain
-  finance.csv             domain 列 = domains.json 里的规范中文域标签
-  law.csv
+  computer-science.csv    每域一文件，UTF-8 无 BOM、LF 换行
+  medicine.csv            表头固定：source,target,domain,definition,synonyms
+  …（共 20 域）           domain 列 = domains.json 里的规范中文域标签
   index.json              同步协议入口：版本 + 每域 sha256 + 条数（脚本生成，勿手改）
   SOURCES.md              来源与许可登记（每笔外部导入必须记一行）
 tbx/
   open-termbank.tbx       TBX-Min 导出（CAT 工具通用，脚本生成）
 ```
 
-- **行格式**：`transformer,Transformer,计算机`——三列，不多不少；
+**行格式**（v2.0.0 起五列）：
+
+```
+quenching,淬火,材料,将钢加热保温后快速冷却以获得马氏体组织的热处理,quench hardening
+```
+
+| 列 | 含义 | 约束 |
+|----|------|------|
+| source | 英文术语 | 通用小写（缩写/专名除外）；文件内唯一（大小写不敏感） |
+| target | 规范中文译名 | 教科书/标准/学界通行译法 |
+| domain | 领域标签 | 须在 `domains.json` 登记 |
+| definition | 简明中文定义 | **必填**，15~60 字，自编（不抄词典） |
+| synonyms | 英文同义词/缩写 | 可空；多个用 `; ` 分隔 |
+
+- **字节纪律**：字段内禁止 ASCII 逗号 / 双引号 / 换行（定义用中文标点）——
+  全库「无引号纯文本」，朴素 `split(",")` 解析也安全；三列时代的消费方
+  按位置取前三列即可，多余列自然忽略（向后兼容）；
 - **同 source 不重复**（文件内大小写不敏感去重；跨域同词允许但会告警）；
 - **域标签即分类**：加领域 = 在 `domains.json` 登记 + 新建 `data/<slug>.csv`；
-- 机器入口是 `index.json`：`version`、`updated`、每域 `file/count/sha256`。
+- 机器入口是 `index.json`：`version`、`updated`、`schema`、每域 `file/count/sha256`。
+
+**领域一览（v2.0.0，20 域 × 100 条）**：计算机、医学、金融、法律、工程、
+生物、化学、物理、数学、教育、心理学、语言学、艺术、环境、材料、能源、
+管理、传播、农业、天文。
 
 ## 怎么用（消费方）
 
@@ -101,7 +120,9 @@ PaperPilot 项目 sync-github.py 的「blob 内容寻址增量」打法；令牌
 
 ## 现状与路线
 
-- v1.0.0（2026-10，**已发布**）：4 域 80 条自编种子（计算机/AI、医学、金融、法律），
-  数据规范与同步协议定型，IATE 导入器就绪；
-- 下一步：用 IATE 导入器成规模扩充（en+zh 全域）；社区 PR 补域（化学、生物、
-  心理学、电子工程…）；可选 Zenodo/HuggingFace 镜像发布 DOI。
+- v1.0.0（2026-10-18，已发布）：4 域 80 条自编种子，数据规范与同步协议定型；
+- **v2.0.0（2026-10-21，已发布）**：**20 域 × 100 条 = 2000 条**，全部带自编中文定义，
+  45% 条目附英文同义词/缩写；模式升级为五列（`+definition,synonyms`），
+  TBX 导出含 `<descrip type="definition">` 与同义词 tig；向后兼容三列消费方；
+- 下一步：用 IATE 导入器成规模扩充（en+zh 全域）；社区 PR 补域与补条；
+  可选 Zenodo/HuggingFace 镜像发布 DOI。

@@ -1,21 +1,101 @@
-source,target,domain
-myocardial infarction,心肌梗死,医学
-hypertension,高血压,医学
-diabetes mellitus,糖尿病,医学
-cerebrovascular accident,脑血管意外,医学
-randomized controlled trial,随机对照试验,医学
-meta-analysis,荟萃分析,医学
-odds ratio,比值比,医学
-confidence interval,置信区间,医学
-sensitivity,灵敏度,医学
-specificity,特异度,医学
-adverse event,不良事件,医学
-contraindication,禁忌证,医学
-comorbidity,合并症,医学
-prognosis,预后,医学
-informed consent,知情同意,医学
-case-control study,病例对照研究,医学
-cohort study,队列研究,医学
-placebo,安慰剂,医学
-biomarker,生物标志物,医学
-systematic review,系统综述,医学
+source,target,domain,definition,synonyms
+myocardial infarction,心肌梗死,医学,冠状动脉急性闭塞导致心肌持续性缺血而发生的坏死,heart attack; MI
+hypertension,高血压,医学,动脉血压持续升高并损害心脑肾等靶器官的慢性疾病,high blood pressure
+diabetes mellitus,糖尿病,医学,胰岛素分泌不足或作用障碍引起的以慢性高血糖为特征的代谢性疾病,DM
+cerebrovascular accident,脑血管意外,医学,脑部血管突然阻塞或破裂引起局灶性脑功能缺损的急性事件,stroke; CVA
+randomized controlled trial,随机对照试验,医学,将受试者随机分入干预组与对照组以评价干预效果的实验性研究,RCT
+meta-analysis,荟萃分析,医学,对同一问题的多项独立研究结果进行定量合并的统计分析方法,
+odds ratio,比值比,医学,病例组与对照组暴露比值之比，反映暴露与疾病的关联强度,OR
+confidence interval,置信区间,医学,按设定置信水平估计总体参数可能所在范围的区间估计方法,CI
+sensitivity,灵敏度,医学,诊断试验将实际患病者正确判为阳性的比例,true positive rate
+specificity,特异度,医学,诊断试验将实际未患病者正确判为阴性的比例,true negative rate
+adverse event,不良事件,医学,受试者接受处理后出现的任何不利医学事件，未必与该处理有因果关系,AE
+contraindication,禁忌证,医学,因风险明显大于获益而不宜使用某种药物或疗法的情形,
+comorbidity,合并症,医学,患者除主要疾病之外同时罹患的其他疾病状态,
+prognosis,预后,医学,根据疾病特征对其发展过程和最终结局作出的预测估计,
+informed consent,知情同意,医学,患者充分了解诊疗方案的目的风险与获益后自愿作出的同意决定,
+case-control study,病例对照研究,医学,按是否患病分组并回顾性比较既往暴露差异的观察性研究,case-referent study
+cohort study,队列研究,医学,按是否暴露分组并前瞻随访比较结局发生情况的观察性研究,follow-up study
+placebo,安慰剂,医学,不含有效药理成分而外观与受试药物相同的模拟制剂,
+biomarker,生物标志物,医学,可客观测量并反映生理病理过程或治疗反应的生物学指标,biological marker
+systematic review,系统综述,医学,按预先制定的方案全面收集并严格评价某问题全部证据的综述,
+atrium,心房,医学,心脏接纳静脉回流血并将其送入心室的薄壁腔室,
+ventricle,心室,医学,心脏收缩时将血液泵入动脉的厚壁肌性腔室,
+alveolus,肺泡,医学,肺内进行气体交换的半球形小囊，外包丰富毛细血管网,
+nephron,肾单位,医学,肾脏生成尿液的基本功能单位，由肾小体和肾小管构成,
+synapse,突触,医学,神经元之间或神经元与效应细胞之间传递信号的连接结构,
+homeostasis,稳态,医学,机体通过神经体液调节维持内环境理化性质相对稳定的状态,
+cardiac output,心输出量,医学,每分钟由一侧心室射入动脉的血液总量,CO
+glomerular filtration rate,肾小球滤过率,医学,单位时间内两肾生成超滤液的量，是评价肾功能的重要指标,GFR
+action potential,动作电位,医学,可兴奋细胞受有效刺激时膜电位发生的快速可传导的变化,
+tidal volume,潮气量,医学,平静呼吸时每次吸入或呼出的气体容量,TV
+necrosis,坏死,医学,活体内局部组织细胞的病理性死亡，常伴周围炎症反应,
+apoptosis,细胞凋亡,医学,受基因调控的细胞主动性程序性死亡过程,programmed cell death
+inflammation,炎症,医学,机体针对损伤因子发生的以血管反应为核心的防御性反应,
+hyperplasia,增生,医学,组织或器官内实质细胞数量增多导致体积增大的适应性改变,
+thrombosis,血栓形成,医学,活体心脏或血管内血液成分凝集形成固体质块的过程,
+embolism,栓塞,医学,不溶于血的异常物质随血流运行并阻塞血管腔的现象,
+edema,水肿,医学,组织间隙或体腔内体液异常积聚的病理状态,oedema
+fibrosis,纤维化,医学,器官损伤修复过程中纤维结缔组织异常增多的病理改变,
+pharmacokinetics,药代动力学,医学,定量研究药物在体内吸收分布代谢排泄过程及其规律的学科,PK
+bioavailability,生物利用度,医学,药物经血管外途径给药后进入体循环的程度与速度,
+half-life,半衰期,医学,血浆药物浓度下降一半所需要的时间,elimination half-life
+agonist,激动剂,医学,能与受体结合并激活受体产生生物效应的药物,
+antagonist,拮抗剂,医学,与受体结合但不激活受体并可阻断激动剂作用的药物,blocker
+pneumonia,肺炎,医学,由病原体感染或理化因素引起的肺泡与肺间质炎症,
+chronic obstructive pulmonary disease,慢性阻塞性肺疾病,医学,以持续性气流受限为特征且呈进行性发展的慢性气道疾病,COPD
+asthma,哮喘,医学,以慢性气道炎症和气道高反应性为特征的反复发作性喘息疾病,bronchial asthma
+gastroesophageal reflux disease,胃食管反流病,医学,胃内容物反流入食管引起不适症状或并发症的慢性疾病,GERD
+cirrhosis,肝硬化,医学,各种慢性肝损伤导致肝组织弥漫性纤维化伴假小叶形成的终末阶段,
+hepatitis,肝炎,医学,由病毒酒精药物或自身免疫等因素引起的肝脏炎症,
+peptic ulcer,消化性溃疡,医学,胃肠道黏膜被胃酸和胃蛋白酶自身消化所形成的慢性溃疡,
+pancreatitis,胰腺炎,医学,胰酶在胰腺内被异常激活引起自身消化的炎症性疾病,
+epilepsy,癫痫,医学,脑神经元反复异常放电导致短暂脑功能障碍的慢性疾病,
+parkinson disease,帕金森病,医学,黑质多巴胺能神经元变性引起的以运动迟缓静止性震颤为特征的疾病,PD
+alzheimer disease,阿尔茨海默病,医学,以进行性记忆减退和认知功能障碍为主要表现的神经退行性疾病,AD
+multiple sclerosis,多发性硬化,医学,免疫介导的中枢神经系统炎性脱髓鞘疾病，病灶多发且病程反复,MS
+migraine,偏头痛,医学,反复发作的中重度搏动性头痛，常伴恶心畏光畏声,
+anemia,贫血,医学,外周血血红蛋白浓度低于正常下限导致组织供氧不足的综合征,
+leukemia,白血病,医学,造血干细胞恶性克隆性增殖并抑制正常造血的血液系统肿瘤,
+lymphoma,淋巴瘤,医学,起源于淋巴结或结外淋巴组织的恶性肿瘤,
+carcinoma,癌,医学,起源于上皮组织的恶性肿瘤，是最常见的一类恶性肿瘤,
+melanoma,黑色素瘤,医学,起源于黑素细胞的高度恶性肿瘤，好发于皮肤,malignant melanoma
+heart failure,心力衰竭,医学,心脏泵血功能减退不能满足机体代谢需要的临床综合征,HF; cardiac failure
+arrhythmia,心律失常,医学,心脏冲动的频率节律起源部位或传导速度发生异常,cardiac arrhythmia
+coronary artery disease,冠状动脉疾病,医学,冠状动脉粥样硬化使管腔狭窄阻塞导致心肌缺血的心脏病,CAD
+atrial fibrillation,心房颤动,医学,心房快速无序激动导致心律绝对不齐的常见心律失常,AF
+tuberculosis,结核病,医学,结核分枝杆菌感染引起的慢性传染病，最常累及肺脏,TB
+sepsis,脓毒症,医学,感染引起宿主反应失调而导致危及生命的器官功能障碍,
+hypothyroidism,甲状腺功能减退,医学,甲状腺激素合成或分泌不足引起的全身代谢减低综合征,
+hyperthyroidism,甲状腺功能亢进,医学,甲状腺激素分泌过多引起的以高代谢和神经兴奋为特征的综合征,
+acute kidney injury,急性肾损伤,医学,肾功能在数小时至数天内急剧下降并导致代谢废物蓄积的综合征,AKI
+chronic kidney disease,慢性肾脏病,医学,各种原因引起的肾脏结构或功能异常持续超过三个月的疾病状态,CKD
+rheumatoid arthritis,类风湿关节炎,医学,以对称性侵蚀性多关节炎为主要表现的自身免疫性疾病,RA
+osteoporosis,骨质疏松,医学,骨量减少伴骨微结构破坏导致骨脆性增加易骨折的代谢性骨病,
+depression,抑郁症,医学,以持续情绪低落兴趣减退和精力下降为核心症状的心境障碍,major depressive disorder
+schizophrenia,精神分裂症,医学,以幻觉妄想和思维紊乱为主要表现的严重精神障碍,
+computed tomography,计算机断层扫描,医学,利用X线束环绕扫描并由计算机重建断面图像的影像技术,CT
+magnetic resonance imaging,磁共振成像,医学,利用静磁场与射频脉冲使组织内氢质子共振并重建图像的技术,MRI
+ultrasonography,超声检查,医学,利用超声波在组织界面的反射回波进行成像的无创检查方法,ultrasound; sonography
+electrocardiogram,心电图,医学,从体表记录心脏电活动变化的曲线图形,ECG; EKG
+endoscopy,内镜检查,医学,将内镜经自然腔道置入体内直接观察管腔病变的诊疗技术,
+biopsy,活组织检查,医学,从患者体内切取或穿刺获取组织进行病理学检查的诊断方法,
+positron emission tomography,正电子发射断层成像,医学,探测正电子核素示踪剂分布以显示组织代谢功能状态的影像技术,PET
+incidence,发病率,医学,一定时期内特定人群中新发生某病病例的频率,incidence rate
+prevalence,患病率,医学,特定时点或时期内人群中现患某病病例所占的比例,
+relative risk,相对危险度,医学,暴露组发病率与非暴露组发病率的比值,RR; risk ratio
+herd immunity,群体免疫,医学,人群中免疫者达到一定比例从而间接保护易感者的现象,community immunity
+case fatality rate,病死率,医学,某病全部患者中因该病死亡者所占的比例,CFR
+complete blood count,全血细胞计数,医学,对外周血红细胞白细胞和血小板进行计数分类的常规检验,CBC
+serum creatinine,血清肌酐,医学,血清中肌酐的浓度，是评估肾小球滤过功能的常用指标,Scr
+hemoglobin A1c,糖化血红蛋白,医学,血红蛋白与葡萄糖非酶结合的产物，反映近三个月平均血糖水平,HbA1c; glycated hemoglobin
+C-reactive protein,C反应蛋白,医学,炎症或组织损伤时由肝脏迅速合成的急性时相蛋白,CRP
+troponin,肌钙蛋白,医学,心肌损伤时释放入血的特异性调节蛋白，是诊断心肌梗死的重要标志物,cTn; cardiac troponin
+antibody,抗体,医学,B淋巴细胞受抗原刺激后产生的能特异性结合抗原的球蛋白,Ab
+antigen,抗原,医学,能诱导机体免疫应答并与相应抗体特异性结合的物质,Ag
+vaccine,疫苗,医学,用病原微生物或其成分制备的能诱导特异性保护免疫的生物制品,
+cytokine,细胞因子,医学,免疫细胞及其他细胞分泌的在细胞间传递调节信号的小分子蛋白质,
+anesthesia,麻醉,医学,用药物或其他方法使机体或局部暂时丧失感觉以利于手术的技术,anaesthesia
+hemostasis,止血,医学,血液从受损血管流出后自行停止的生理过程或促使出血停止的措施,haemostasis
+transplantation,移植,医学,将自体或异体的细胞组织器官移入受者体内以替代受损结构的技术,grafting
+debridement,清创术,医学,清除创口内异物和失活污染组织以促进愈合的外科处理方法,

@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+mitochondrion,线粒体,生物,真核细胞中进行有氧呼吸并合成ATP的半自主性细胞器,chondriosome
+ribosome,核糖体,生物,由rRNA和蛋白质组成并负责合成蛋白质的细胞颗粒,
+endoplasmic reticulum,内质网,生物,真核细胞内由膜围成的管网结构，参与蛋白质加工与脂质合成,ER
+golgi apparatus,高尔基体,生物,由扁平膜囊组成并参与蛋白质修饰分选与分泌的细胞器,golgi complex; golgi body
+lysosome,溶酶体,生物,内含多种水解酶并能分解衰老结构及外来物的膜性细胞器,
+cytoskeleton,细胞骨架,生物,由微管微丝和中间纤维组成并维持细胞形态的蛋白网络,
+cell membrane,细胞膜,生物,包围细胞并控制物质出入的磷脂双分子层结构,plasma membrane
+nucleus,细胞核,生物,真核细胞中储存遗传物质并控制细胞活动的膜性结构,
+chloroplast,叶绿体,生物,绿色植物细胞中进行光合作用的含叶绿素的质体,
+cell cycle,细胞周期,生物,细胞从一次分裂结束到下一次分裂结束所经历的全过程,
+mitosis,有丝分裂,生物,真核细胞将复制后的染色体均等分配至两个子细胞的分裂方式,
+meiosis,减数分裂,生物,生殖细胞形成过程中染色体数目减半的连续两次分裂,reduction division
+osmosis,渗透作用,生物,水分子通过半透膜从低浓度一侧向高浓度一侧扩散的现象,
+allele,等位基因,生物,位于同源染色体相同座位上控制同一性状的不同形式的基因,
+genotype,基因型,生物,生物个体所携带的全部基因组成的总和,
+phenotype,表型,生物,生物体在基因型与环境相互作用下表现出的可观察性状,
+homozygous,纯合子,生物,同源染色体相同座位上两个等位基因相同的个体,homozygote
+heterozygous,杂合子,生物,同源染色体相同座位上两个等位基因不同的个体,heterozygote
+mutation,突变,生物,遗传物质发生突然的能够遗传的改变,
+chromosome,染色体,生物,细胞核内由DNA与蛋白质组成的遗传物质载体,
+locus,基因座,生物,特定基因在染色体上所处的固定位置,gene locus
+linkage,连锁,生物,位于同一染色体上的基因倾向于一起遗传给后代的现象,genetic linkage
+crossing over,交换,生物,减数分裂中同源染色体的非姐妹染色单体之间互换片段的现象,crossover
+gene expression,基因表达,生物,基因所携带的遗传信息经转录翻译形成功能产物的过程,
+epigenetics,表观遗传学,生物,研究不涉及DNA序列改变的可遗传的基因表达变化的学科,
+DNA replication,DNA复制,生物,以亲代DNA为模板合成完全相同子代DNA分子的过程,
+transcription,转录,生物,以DNA为模板在RNA聚合酶作用下合成RNA的过程,
+translation,翻译,生物,以mRNA为模板在核糖体上合成蛋白质的过程,protein synthesis
+messenger RNA,信使RNA,生物,携带DNA遗传信息并指导蛋白质合成的RNA分子,mRNA
+transfer RNA,转运RNA,生物,在蛋白质合成中识别密码子并转运相应氨基酸的小分子RNA,tRNA
+codon,密码子,生物,mRNA上决定一个氨基酸的相邻三个核苷酸组成的序列,
+promoter,启动子,生物,基因上游被RNA聚合酶识别并结合从而启动转录的DNA序列,
+exon,外显子,生物,真核基因中经剪接后保留在成熟mRNA中的编码序列,
+intron,内含子,生物,真核基因中在转录后被剪接去除的非编码序列,intervening sequence
+polymerase chain reaction,聚合酶链式反应,生物,在体外利用引物和耐热DNA聚合酶大量扩增特定DNA片段的技术,PCR
+gene editing,基因编辑,生物,利用工程核酸酶对基因组特定位点进行定向改造的技术,genome editing
+plasmid,质粒,生物,细菌等细胞中独立于染色体并能自主复制的环状DNA分子,
+restriction enzyme,限制性内切酶,生物,能识别特定DNA序列并在该处切割双链DNA的酶,restriction endonuclease
+reverse transcriptase,逆转录酶,生物,以RNA为模板催化合成DNA的聚合酶,RNA-dependent DNA polymerase
+ecosystem,生态系统,生物,一定空间内生物群落与非生物环境相互作用形成的功能整体,
+food web,食物网,生物,生态系统中多条食物链相互交错形成的营养关系网络,
+trophic level,营养级,生物,生物在食物链中所处的营养位置等级,
+biodiversity,生物多样性,生物,一定区域内遗传多样性物种多样性和生态系统多样性的总和,biological diversity
+niche,生态位,生物,物种在生态系统中所处的地位及其利用资源的综合方式,ecological niche
+carrying capacity,环境容纳量,生物,一定环境条件下所能长期维持的种群最大个体数量,K value
+succession,演替,生物,生物群落随时间推移发生的有规律的类型更替过程,ecological succession
+symbiosis,共生,生物,两种生物长期紧密共同生活形成的相互关系,
+keystone species,关键种,生物,对维持群落结构和稳定性具有不成比例重要作用的物种,
+biomass,生物量,生物,单位面积或体积内现存生物体的有机物总量,
+natural selection,自然选择,生物,适应环境的个体更易存活繁殖从而使有利变异逐代积累的过程,
+speciation,物种形成,生物,种群在长期演化中形成生殖隔离并产生新物种的过程,
+adaptation,适应,生物,生物经自然选择获得的与环境相协调的性状或这一形成过程,
+genetic drift,遗传漂变,生物,小种群中基因频率因随机抽样误差而发生的随机波动,
+gene flow,基因流,生物,基因借助个体迁移或配子传播在种群之间的交流,gene migration
+phylogeny,系统发育,生物,生物类群在进化历史上形成的起源与亲缘关系,
+convergent evolution,趋同进化,生物,亲缘关系较远的类群因相似环境压力演化出相似性状的现象,
+homology,同源性,生物,不同生物的结构或序列源自共同祖先的相似性,
+bacteriophage,噬菌体,生物,专门侵染细菌并在其体内增殖的病毒,phage
+spore,孢子,生物,生物产生的能抵抗不良环境或用于繁殖的休眠体,
+prokaryote,原核生物,生物,细胞内没有核膜包被的细胞核的单细胞生物,
+eukaryote,真核生物,生物,细胞具有核膜包被的真正细胞核的生物,
+fermentation,发酵,生物,微生物在无氧条件下分解有机物获取能量的代谢过程,
+binary fission,二分裂,生物,单细胞生物由一个母体直接分裂成两个子体的无性繁殖方式,
+conjugation,接合作用,生物,细菌通过细胞间直接接触转移遗传物质的现象,bacterial conjugation
+biofilm,生物膜,生物,微生物附着于物体表面并分泌胞外基质形成的膜状群落,
+pathogen,病原体,生物,能引起宿主疾病的微生物或寄生虫,infectious agent
+sterilization,灭菌,生物,杀灭或去除物体上一切微生物及其芽孢的处理过程,
+photosynthesis,光合作用,生物,绿色植物利用光能将二氧化碳和水合成有机物并释放氧气的过程,
+transpiration,蒸腾作用,生物,植物体内水分以水蒸气形式经气孔散失到大气中的过程,
+xylem,木质部,生物,植物体内输导水分和无机盐并起机械支持作用的组织,
+phloem,韧皮部,生物,植物体内输导光合作用产物的组织,
+stoma,气孔,生物,植物表皮上由一对保卫细胞围成的进行气体交换的小孔,stomata
+germination,萌发,生物,种子在适宜条件下恢复生长并突破种皮的过程,seed germination
+pollination,传粉,生物,花粉从雄蕊花药传递到雌蕊柱头的过程,
+meristem,分生组织,生物,植物体内具有持续细胞分裂能力的组织,
+phototropism,向光性,生物,植物器官朝向光源方向弯曲生长的特性,
+auxin,生长素,生物,能促进细胞伸长并调节植物生长发育的一类植物激素,indoleacetic acid; IAA
+metamorphosis,变态发育,生物,动物幼体经过形态结构剧烈变化发育为成体的过程,
+hibernation,冬眠,生物,某些动物在冬季降低代谢进入休眠以度过不良环境的现象,
+echolocation,回声定位,生物,动物发出声波并依据回声判断周围物体方位的能力,
+molting,蜕皮,生物,节肢动物等在生长过程中周期性脱去旧表皮或外骨骼的现象,ecdysis
+migration,迁徙,生物,动物随季节变化进行的长距离周期性移动,animal migration
+invertebrate,无脊椎动物,生物,体内没有由脊椎骨构成脊柱的动物类群的总称,
+exoskeleton,外骨骼,生物,覆盖在节肢动物等体表起支持保护作用的坚硬结构,
+enzyme,酶,生物,由活细胞产生并具有高效专一催化能力的生物催化剂,biocatalyst
+substrate,底物,生物,酶促反应中被酶催化发生转化的反应物,
+adenosine triphosphate,三磷酸腺苷,生物,细胞内直接储存和供应能量的高能磷酸化合物,ATP
+glycolysis,糖酵解,生物,葡萄糖在细胞质中分解为丙酮酸并产生少量ATP的过程,EMP pathway
+citric acid cycle,三羧酸循环,生物,乙酰辅酶A在线粒体中彻底氧化并生成还原当量的循环途径,TCA cycle; Krebs cycle
+oxidative phosphorylation,氧化磷酸化,生物,利用电子传递链释放的能量驱动ADP合成ATP的过程,
+peptide bond,肽键,生物,一个氨基酸的羧基与另一个氨基酸的氨基脱水缩合形成的共价键,
+denaturation,变性,生物,蛋白质或核酸在理化因素作用下失去天然构象和活性的过程,
+phospholipid,磷脂,生物,含磷酸基团的脂类，是构成生物膜的主要成分,
+protein folding,蛋白质折叠,生物,多肽链盘绕卷曲形成具有特定功能的三维结构的过程,
+sequence alignment,序列比对,生物,比较两条或多条核酸蛋白质序列以寻找相似区域的方法,
+genome annotation,基因组注释,生物,识别基因组中的基因及功能元件并标注其功能的过程,
+basic local alignment search tool,基本局部比对搜索工具,生物,在序列数据库中快速查找局部相似区域的检索工具,BLAST
+phylogenetic tree,系统发育树,生物,用树状分支图形表示物种或基因间进化亲缘关系的图,evolutionary tree
+next-generation sequencing,下一代测序,生物,可一次性对海量DNA分子进行并行测序的高通量技术,NGS; high-throughput sequencing
+open reading frame,开放阅读框,生物,从起始密码子到终止密码子之间可连续编码蛋白质的核苷酸序列,ORF

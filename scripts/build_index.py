@@ -3,15 +3,25 @@
 """open-termbank 数据构建器：校验 data/*.csv → 生成/核对 data/index.json。
 
 用法：
-  python scripts/build_index.py [--version 1.0.0]   # 校验并（重新）生成 index.json
+  python scripts/build_index.py [--version 2.0.0]   # 校验并（重新）生成 index.json
   python scripts/build_index.py --check             # 只校验（CI / 提交前门禁）
 
+数据模式（v2.0.0 起，五列）：
+  source,target,domain,definition,synonyms
+    source     英文术语（小写，缩写/专名除外）
+    target     规范中文译名
+    domain     规范中文域标签（须在 domains.json 登记）
+    definition 简明中文定义（自编，非空）
+    synonyms   英文同义词/缩写，"; " 分隔，可为空
+
 校验项（任一失败即退出码 1）：
-  1. 表头必须精确为 source,target,domain（UTF-8，无 BOM——BOM 会破坏机器读取）；
-  2. 每行恰好 3 列、source/target 非空且不相等、domain 非空且已在 domains.json 登记；
-  3. 文件内无重复 source（大小写不敏感）；
-  4. data/*.csv 与 domains.json 一一对应（无孤儿文件、无空注册）；
-  5. index.json 的 sha256/count 与数据文件实际一致（--check 模式）。
+  1. 表头必须精确为上述五列（UTF-8，无 BOM——BOM 会破坏机器读取）；
+  2. 每行恰好 5 列、source/target/definition 非空、source≠target、domain 已登记；
+  3. 字段内**禁止 ASCII 逗号 / 双引号 / 换行**（本库刻意保持「无引号纯文本」，
+     让 split(",") 级别的朴素解析也安全；定义一律用中文标点）；
+  4. 文件内无重复 source（大小写不敏感）；
+  5. data/*.csv 与 domains.json 一一对应（无孤儿文件、无空注册）；
+  6. index.json 的 sha256/count 与数据文件实际一致（--check 模式）。
 
 index.json 是消费方的同步协议入口：版本号 + 每域文件 sha256 + 条数。
 零第三方依赖（Python 3 标准库）。
@@ -27,7 +37,7 @@ from datetime import datetime, timezone, timedelta
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
-HEADER = ["source", "target", "domain"]
+HEADER = ["source", "target", "domain", "definition", "synonyms"]
 
 
 def fail(msg):
@@ -55,7 +65,7 @@ def load_domains():
 
 
 def load_csv(path):
-    """读数据文件（无 BOM、精确表头）。返回 (rows, errors)。"""
+    """读数据文件（无 BOM、精确表头、五列）。返回 (rows, errors)，rows 为五元组。"""
     errors = []
     raw = open(path, "rb").read()
     if raw.startswith(b"\xef\xbb\xbf"):
@@ -69,13 +79,14 @@ def load_csv(path):
         errors.append("表头应为 %s，实际 %r" % (HEADER, rows[0]))
         return [], errors
     seen = {}
+    data_rows = []
     for i, row in enumerate(rows[1:], start=2):
         if not row or (len(row) == 1 and not row[0].strip()):
             continue  # 容忍末尾空行
-        if len(row) != 3:
-            errors.append("第 %d 行列数=%d（应为 3）" % (i, len(row)))
+        if len(row) != 5:
+            errors.append("第 %d 行列数=%d（应为 5：检查是否有未转义 ASCII 逗号）" % (i, len(row)))
             continue
-        s, t, d = (x.strip() for x in row)
+        s, t, d, df, sy = (x.strip() for x in row)
         if not s or not t:
             errors.append("第 %d 行 source/target 为空" % i)
             continue
@@ -85,14 +96,20 @@ def load_csv(path):
         if not d:
             errors.append("第 %d 行 domain 为空" % i)
             continue
+        if not df:
+            errors.append("第 %d 行 definition 为空（v2.0.0 起必填）" % i)
+            continue
+        bad = [f for f in (s, t, d, df, sy) if ("," in f or '"' in f or "\n" in f or "\r" in f)]
+        if bad:
+            errors.append("第 %d 行字段含 ASCII 逗号/引号/换行（请改用中文标点）" % i)
+            continue
         key = s.lower()
         if key in seen:
             errors.append("重复 source（第 %d 行与第 %d 行，大小写不敏感）：%s" % (i, seen[key], s))
             continue
         seen[key] = i
-        rows_data = (s, t, d)
-        rows.append(rows_data)
-    return [r for r in rows if isinstance(r, tuple)], errors
+        data_rows.append((s, t, d, df, sy))
+    return data_rows, errors
 
 
 def main():
@@ -124,7 +141,7 @@ def main():
         for e in errors:
             problems += fail("data/%s：%s" % (f, e))
         registered = set()
-        for (_, _, d) in rows:
+        for (_, _, d, _, _) in rows:
             if d not in by_domain:
                 problems += fail("data/%s：domain「%s」未在 domains.json 登记" % (f, d))
             else:
@@ -150,7 +167,7 @@ def main():
     cross = {}
     for f, rows in [(os.path.basename(p), load_csv(p)[0]) for p in
                     (os.path.join(DATA, f) for f in csv_files)]:
-        for (s, _, _) in rows:
+        for (s, _, _, _, _) in rows:
             cross.setdefault(s.lower(), []).append(f)
     dups = {s: fs for s, fs in cross.items() if len(fs) > 1}
     if dups:
@@ -178,6 +195,7 @@ def main():
         "updated": stamp,
         "owner": owner,
         "language_pair": "en → zh-CN",
+        "schema": "source,target,domain,definition,synonyms",
         "license": {"data": "CC-BY-4.0", "code": "Apache-2.0"},
         "domains": domains_out,
         "total": total,

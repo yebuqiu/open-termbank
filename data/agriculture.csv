@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+tillage,耕作,农业,通过犁耙等措施改良土壤耕层结构的农事作业,soil cultivation
+sowing,播种,农业,将种子按一定方式播入土壤的栽培环节,seeding
+crop rotation,轮作,农业,同一地块按序轮换种植不同作物的制度,rotation
+intercropping,间作,农业,同田同期分行种植两种以上作物的方式,
+multiple cropping,复种,农业,一年内在同一地块种植多季作物的制度,
+seedling raising,育苗,农业,在苗床培育壮苗以供移栽的技术环节,nursery raising
+transplanting,移栽,农业,将秧苗从苗床移入大田定植的作业,
+topdressing,追肥,农业,作物生长期间补充速效肥料的施肥措施,side dressing
+plant density,种植密度,农业,单位面积内作物株数及其群体结构安排,
+fallow,休耕,农业,暂停种植使土壤恢复地力的农田利用方式,
+soil texture,土壤质地,农业,土壤中砂粒黏粒比例决定的粗细程度,
+soil structure,土壤结构,农业,土粒胶结形成的团聚体及其排列形态,
+soil organic matter,土壤有机质,农业,土壤中动植物残体与腐殖质的总称,SOM
+humus,腐殖质,农业,有机质分解形成的稳定深色胶体物质,
+soil pH,土壤酸碱度,农业,反映土壤溶液酸碱性强弱的指标,soil acidity
+cation exchange capacity,阳离子交换量,农业,土壤胶体吸附交换阳离子能力的指标,CEC
+soil profile,土壤剖面,农业,地表至母质的土壤垂直层次断面,
+soil erosion,土壤侵蚀,农业,水风等外力导致表土流失退化的过程,
+soil fertility,土壤肥力,农业,土壤供应协调作物水肥气热的能力,
+salinization,盐碱化,农业,土壤积累过多可溶性盐分而退化的过程,soil salination
+pest,害虫,农业,危害作物造成损失的昆虫及其他有害动物,
+plant disease,植物病害,农业,病原物侵染或不良环境引起的作物病变,
+pesticide,农药,农业,用于防治病虫草鼠害的化学或生物制剂,
+fungicide,杀菌剂,农业,防治植物真菌性病害的药剂,
+herbicide,除草剂,农业,防除农田杂草的化学药剂,weed killer
+biological control,生物防治,农业,利用天敌或生物制剂控制有害生物的措施,biocontrol
+integrated pest management,有害生物综合治理,农业,协调多种措施经济安全控制有害生物的策略,IPM
+plant quarantine,植物检疫,农业,防止危险性病虫草传播蔓延的法规措施,
+pesticide residue,农药残留,农业,施用后残存于农产品与环境中的农药,
+disease forecasting,病害预测预报,农业,依据气象与病原条件预测病害发生趋势,
+horticulture,园艺学,农业,研究果树蔬菜花卉栽培与利用的学科,
+grafting,嫁接,农业,将接穗接于砧木使其愈合生长的繁殖法,
+pruning,修剪,农业,剪除部分枝条以调节树体生长与结果,
+greenhouse,温室,农业,可调控温光湿进行周年栽培的保护设施,glasshouse
+cutting,扦插,农业,取植物茎叶根插入基质生根的繁殖法,
+rootstock,砧木,农业,嫁接时承受接穗并提供根系的植株,
+scion,接穗,农业,嫁接时接于砧木上的枝或芽,
+protected cultivation,保护地栽培,农业,利用设施调控环境进行的园艺生产,
+forcing culture,促成栽培,农业,人工调控使作物提前成熟上市的栽培方式,forcing
+fruit thinning,疏果,农业,摘除部分幼果以改善品质与合理负载,
+animal husbandry,畜牧业,农业,饲养繁殖畜禽以获取畜产品的产业部门,
+forage,饲草,农业,供家畜采食的青绿或干制植物性饲料,fodder
+silage,青贮饲料,农业,青绿饲料经厌氧发酵制成的多汁饲料,ensilage
+breeding stock,种畜,农业,用于繁殖后代的优良公母畜禽,
+lactation,泌乳期,农业,母畜分娩后分泌乳汁的生理阶段,
+mastitis,乳房炎,农业,奶牛乳腺感染发炎的常见疾病,
+vaccination,免疫接种,农业,接种疫苗使动物获得免疫力的防疫措施,immunization
+veterinary medicine,兽医学,农业,研究动物疾病诊断与防治的学科,
+feed conversion ratio,饲料转化率,农业,单位增重所耗饲料量的效率指标,FCR
+artificial insemination,人工授精,农业,人为采集精液输入母畜生殖道的繁殖技术,AI
+agricultural economics,农业经济学,农业,研究农业资源配置与经济关系的学科,
+supply and demand,供求关系,农业,市场上商品供给与需求的相互作用关系,
+agricultural subsidy,农业补贴,农业,政府为扶持农业提供的财政转移支付,farm subsidy
+cooperative,农业合作社,农业,农户自愿联合经营的互助性经济组织,farm cooperative
+agricultural industrialization,农业产业化,农业,种养加贸工农一体化经营的组织方式,
+land rent,地租,农业,土地使用者向土地所有者支付的报酬,
+comparative advantage,比较优势,农业,相对成本较低所形成的竞争优势,
+price elasticity,价格弹性,农业,需求量对价格变动反应的灵敏程度,
+agricultural insurance,农业保险,农业,分散农业生产经营风险的保险制度,crop insurance
+agricultural market,农产品市场,农业,农产品交换流通的场所与机制,farm produce market
+plant breeding,作物育种,农业,改良作物遗传特性培育新品种的技术,crop breeding
+heterosis,杂种优势,农业,杂交一代优于亲本的生活力与产量表现,hybrid vigor
+cultivar,栽培品种,农业,经人工选育性状稳定可供推广的品种,cultivated variety
+germplasm,种质资源,农业,携带遗传信息可供育种利用的材料,genetic resources
+selection,选择育种,农业,从群体中挑选优良个体繁育后代的方法,
+hybridization,杂交育种,农业,通过亲本杂交重组基因培育新品种,crossbreeding
+inbred line,自交系,农业,多代自交形成的遗传纯合品系,
+mutation breeding,诱变育种,农业,利用理化因素诱发变异选育新品种,
+male sterility,雄性不育,农业,雄蕊发育异常不能产生正常花粉的特性,
+variety trial,品种试验,农业,多点鉴定新品种丰产性与适应性的试验,variety testing
+agrometeorology,农业气象学,农业,研究气象条件与农业生产关系的学科,agricultural meteorology
+growing degree days,有效积温,农业,作物发育期高于生物学下限温度的累积值,GDD
+frost damage,霜冻,农业,气温骤降使作物遭受冻害的气象灾害,frost
+drought,干旱,农业,长期缺雨导致土壤水分亏缺的灾害,
+evapotranspiration,蒸散,农业,土壤蒸发与植物蒸腾的总耗水过程,ET
+phenology,物候学,农业,研究生物季节现象与环境关系的学科,
+microclimate,小气候,农业,局部下垫面影响下的小范围气候特征,
+cold damage,冷害,农业,作物遭遇低温而未结冰时受到的伤害,chilling injury
+agroclimatic zoning,农业气候区划,农业,按气候条件划分农业适宜性区域的工作,
+weather index insurance,气象指数保险,农业,以气象指标触发赔付的农业保险,index insurance
+irrigation,灌溉,农业,人工补充农田水分以满足作物需水的措施,
+drip irrigation,滴灌,农业,经滴头缓慢供水至根区的节水灌溉方法,trickle irrigation
+sprinkler irrigation,喷灌,农业,利用喷头将水雾化均匀洒布的灌溉方法,spray irrigation
+drainage,农田排水,农业,排除田间多余水分防止渍害的工程措施,farmland drainage
+irrigation quota,灌溉定额,农业,单位面积作物一次或全期的灌水量标准,
+water use efficiency,水分利用效率,农业,单位耗水量所生产的干物质量,WUE
+canal lining,渠道衬砌,农业,用混凝土等护砌渠道减少渗漏的措施,
+surface irrigation,地面灌溉,农业,水沿畦沟流动借重力湿润土壤的灌溉方式,flood irrigation
+waterlogging,渍害,农业,土壤水分过多致作物根系缺氧受害的现象,
+pumping station,泵站,农业,提水加压以进行灌溉或排水的设施,pump station
+agricultural mechanization,农业机械化,农业,用机械装备替代人畜力作业的过程,farm mechanization
+combine harvester,联合收割机,农业,一次完成收割脱粒与清选作业的机械,combine
+tractor,拖拉机,农业,牵引与驱动农机具的通用动力机械,
+precision agriculture,精准农业,农业,按时空差异实施变量投入的信息化农业,precision farming
+seed drill,条播机,农业,开沟播种覆土一次完成的播种机械,
+postharvest handling,采后处理,农业,采收后分级包装与保鲜的系列作业,
+food preservation,食品保藏,农业,抑制腐败变质以延长食品贮藏期的技术,
+pasteurization,巴氏杀菌,农业,低温加热杀灭致病菌的食品处理方法,
+cold chain,冷链,农业,生鲜产品全程低温流通的贮运体系,
+food fermentation,食品发酵,农业,利用微生物转化原料制成食品的技术,

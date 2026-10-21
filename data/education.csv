@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+curriculum,课程,教育,学校为实现教育目标而系统组织的全部教学内容与学习经验的总和,
+syllabus,教学大纲,教育,规定一门课程的教学目标、内容范围与进度安排的纲领性文件,course outline
+lesson plan,教案,教育,教师为具体课时撰写的教学目标、教学流程与活动安排的实施方案,
+pedagogy,教学法,教育,关于教学过程的原则、策略与方法的理论及其实践体系,
+scaffolding,支架式教学,教育,教师提供临时性支持帮助学习者完成超出独立水平的任务再逐步撤除,instructional scaffolding
+differentiated instruction,差异化教学,教育,依据学生的学习准备度、兴趣与风格调整教学内容与方式的教学策略,differentiation
+flipped classroom,翻转课堂,教育,学生课前自学讲授内容、课上开展互动练习与答疑的教学模式,inverted classroom
+cooperative learning,合作学习,教育,学生以小组形式分工协作、共同完成学习任务的教学组织策略,
+inquiry-based learning,探究式学习,教育,学习者通过提出问题、搜集证据与建构解释来获取知识的教学方式,inquiry learning
+hidden curriculum,隐性课程,教育,学校情境中非正式传递的价值观、规范与态度等潜在教育影响,
+behaviorism,行为主义,教育,主张学习是刺激与反应之间联结的形成、强调可观察行为变化的学习理论,
+cognitivism,认知主义,教育,将学习视为信息加工与内部认知结构变化过程的学习理论取向,
+constructivism,建构主义,教育,认为知识是学习者在与环境互动中主动建构而非被动接受的学习理论,
+social learning theory,社会学习理论,教育,班杜拉提出的个体可通过观察与模仿榜样而获得行为的理论,observational learning theory
+experiential learning,体验式学习,教育,学习者经由亲身实践、反思与再应用而建构经验的循环学习模式,
+situated learning,情境学习,教育,强调知识学习与真实情境及社会实践密不可分的学习理论,
+connectivism,关联主义,教育,认为学习是在网络化节点之间建立连接的数字时代学习理论,
+andragogy,成人教育学,教育,研究成人学习者特点及其教学原则的教育理论分支,
+self-directed learning,自主学习,教育,学习者自主设定目标、选择策略并监控调节进程的学习方式,
+lifelong learning,终身学习,教育,贯穿个体一生、涵盖正规与非正规各阶段的学习理念与实践,
+motivation,学习动机,教育,激发、维持并引导个体学习行为朝向目标的内部心理过程,
+self-efficacy,自我效能感,教育,个体对自身能否成功完成特定任务的能力信念与判断,perceived self-efficacy
+metacognition,元认知,教育,个体对自己认知活动的认识、监控与调节的能力,
+transfer of learning,学习迁移,教育,先前习得的知识技能对新学习或新情境表现产生的影响,learning transfer
+zone of proximal development,最近发展区,教育,维果茨基提出的儿童独立活动水平与在帮助下可达水平之间的差距,ZPD
+prior knowledge,先前知识,教育,学习者在接触新内容之前已具备的相关知识经验与认知结构,
+cognitive load,认知负荷,教育,学习任务对工作记忆资源造成的总需求、可分为内在与外在等类型,cognitive load theory
+attribution theory,归因理论,教育,解释个体如何推断行为结果原因及其对后续动机影响的理论,
+achievement goal,成就目标,教育,学习者在成就情境中追求的目标取向、可分为掌握目标与表现目标,achievement goal orientation
+learned helplessness,习得性无助,教育,个体反复经历失败后形成的认为努力无效而放弃尝试的心理状态,
+e-learning,电子学习,教育,借助数字技术与网络平台开展的教学与学习活动的总称,electronic learning
+MOOC,慕课,教育,面向大众开放、支持大规模学习者在线注册学习的网络课程形式,massive open online course
+learning management system,学习管理系统,教育,用于课程发布、学习跟踪与教学管理的网络软件平台,LMS
+blended learning,混合式学习,教育,将面对面教学与在线学习有机结合的教学模式,hybrid learning
+educational technology,教育技术,教育,研究如何运用技术手段与系统设计改进教学过程与效果的学科领域,instructional technology
+multimedia learning,多媒体学习,教育,学习者同时通过文字、图像等多种媒介表征获取知识的过程,
+adaptive learning,自适应学习,教育,系统依据学习者表现动态调整内容难度与路径的个性化学习方式,
+gamification,游戏化,教育,将积分、徽章、排行榜等游戏元素融入非游戏情境以提升动机的设计方法,
+open educational resources,开放教育资源,教育,以开放许可发布、可免费使用与改编的教学材料的总称,OER
+virtual learning environment,虚拟学习环境,教育,支持在线课程组织、资源分享与师生互动的网络化学习空间,VLE
+formative assessment,形成性评价,教育,在教学过程中持续实施、旨在提供反馈以改进学习的评价方式,
+summative assessment,总结性评价,教育,在教学单元或课程结束时对学习成果进行的终结性评价,
+rubric,评分量规,教育,明确描述不同表现水平标准的结构化评分工具,
+standardized test,标准化测验,教育,按统一程序编制、施测与评分并附有常模的测验,
+norm-referenced test,常模参照测验,教育,将被试成绩与常模团体比较以确定相对位置的测验,NRT
+criterion-referenced test,标准参照测验,教育,依据既定标准而非他人成绩判定学习者掌握水平的测验,CRT
+item analysis,试题分析,教育,对测验题目的难度、区分度等统计指标进行的量化分析,
+authentic assessment,真实性评价,教育,通过真实或仿真情境中的任务表现来评价学生能力的方式,
+diagnostic assessment,诊断性评价,教育,在教学开始前实施、用于了解学生起点水平与学习困难的评价,
+performance assessment,表现性评价,教育,要求学习者完成实际任务并依据其过程与成果评分的评价方法,
+comparative education,比较教育,教育,对不同国家与地区教育制度和实践进行跨文化比较研究的学科,
+PISA,国际学生评估项目,教育,经济合作与发展组织实施的测评十五岁学生素养的国际项目,Programme for International Student Assessment
+educational borrowing,教育借鉴,教育,一国参考并引入他国教育政策或实践的做法,
+internationalization of education,教育国际化,教育,教育在课程、人员流动与国际合作等方面跨越国界发展的过程,
+cross-cultural study,跨文化研究,教育,比较不同文化背景下教育现象异同的研究取向,
+TIMSS,国际数学与科学趋势研究,教育,定期评估各国学生数学与科学学业成就的国际比较项目,Trends in International Mathematics and Science Study
+global citizenship education,全球公民教育,教育,培养学习者全球意识、跨文化理解与社会责任感的教育取向,GCE
+educational indicator,教育指标,教育,用于描述和监测教育系统运行状况与发展水平的统计数据,
+area studies in education,教育区域研究,教育,对特定国家或地区教育进行深入系统的专门研究,
+policy transfer,政策转移,教育,教育政策从一种政治或文化情境引入另一情境的过程,
+higher education,高等教育,教育,建立在中等教育之上、包括专科本科与研究生层次的专业与学术教育,
+academic degree,学位,教育,高等教育机构依据学术水平标准授予学习者的学术称号,
+tenure,终身教职,教育,高校教师经考核获得的无重大过失不得解聘的职务保障制度,academic tenure
+undergraduate education,本科教育,教育,高等教育中授予学士学位的首个学位层次的教育,
+postgraduate education,研究生教育,教育,本科之后培养硕士与博士层次专门人才的高等教育阶段,graduate education
+general education,通识教育,教育,旨在拓宽知识视野、培养健全人格的非专业性基础教育,liberal education
+academic freedom,学术自由,教育,学者在教学与研究中不受不合理干预的权利与学术传统,
+enrollment rate,入学率,教育,某阶段教育实际在学人数占相应年龄组人口的比例,
+research university,研究型大学,教育,以高水平科学研究与研究生培养为主要职能的大学,
+academic discipline,学科,教育,按照知识体系划分的教学科目与学术研究门类,
+instructional design,教学设计,教育,系统规划教学目标、内容、策略与评价以优化教学效果的过程,ID
+lecture,讲授法,教育,教师以口头语言系统向学生传授知识的教学方法,
+seminar,研讨课,教育,学生在教师引导下围绕专题进行讨论与探究的教学组织形式,
+case method,案例教学法,教育,通过分析真实情境案例培养学生判断与决策能力的教学方法,case study method
+problem-based learning,问题导向学习,教育,以学生解决真实复杂问题为主线组织学习的教学模式,PBL
+project-based learning,项目式学习,教育,学生通过完成有成果产出的长期项目来建构知识的教学方式,PjBL
+mastery learning,掌握学习,教育,主张给予足够时间与反馈几乎所有学生都能达成教学目标的教学理论,
+discovery learning,发现学习,教育,学习者通过自主探索与发现来理解概念与原理的教学方法,
+microteaching,微格教学,教育,在缩小时空情境中训练单项教学技能并借助录像反馈的师资培训方法,
+task-based learning,任务型教学,教育,以完成有意义的真实任务为核心组织教学活动的教学方法,TBL
+educational administration,教育行政,教育,国家或地方教育机关对教育事业进行规划、组织与领导的活动,
+school management,学校管理,教育,对学校人、财、物与教学活动进行计划、组织与控制的过程,
+school-based management,校本管理,教育,将决策权下放给学校层面以增强学校自主性的管理模式,SBM
+educational policy,教育政策,教育,国家或政党为指导教育事业发展而制定的行动准则,
+teacher evaluation,教师评价,教育,依据标准对教师工作表现与专业水平进行价值判断的活动,teacher appraisal
+educational leadership,教育领导,教育,教育管理者引领组织成员共同实现教育目标的影响力过程,
+accreditation,认证,教育,由专门机构对学校或专业质量进行评估并认可其合格资格的制度,
+school culture,学校文化,教育,学校成员在长期办学实践中形成的共同价值观、规范与行为方式,
+charter school,特许学校,教育,获得政府特许状、享有一定办学自主权的公立学校,
+educational planning,教育规划,教育,对未来教育事业发展的目标、规模与措施进行的系统设计,
+early childhood education,学前教育,教育,对入小学前婴幼儿实施的保育与教育活动的总称,ECE; preschool education
+kindergarten,幼儿园,教育,为三至六岁儿童提供集体保育与教育的学前教育机构,
+special education,特殊教育,教育,为有特殊教育需要的儿童与青少年提供的个别化教育服务,
+inclusive education,融合教育,教育,让所有儿童包括残障儿童在普通学校环境中共同学习的教育实践,
+individualized education program,个别化教育计划,教育,为每位特殊需要学生量身制定的教育目标与服务方案,IEP
+gifted education,资优教育,教育,为智力或特殊才能显著超常的儿童提供的加速或充实性教育,talent education
+learning disability,学习障碍,教育,个体在听、说、读、写、算等学习方面表现出的神经性发展障碍,
+developmentally appropriate practice,发展适宜性实践,教育,依据儿童年龄特点与个体差异设计教育活动的学前教育原则,DAP
+play-based learning,游戏化学习,教育,以游戏为主要载体促进幼儿身心全面发展的教育方式,learning through play
+school readiness,入学准备,教育,儿童在认知、语言与社会性等方面做好适应小学学习的准备状态,

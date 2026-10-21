@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+ecosystem,生态系统,环境,生物群落与非生物环境相互作用形成的统一整体,ecological system
+food chain,食物链,环境,生物之间以摄食关系形成的物质能量传递序列,
+trophic level,营养级,环境,生物在食物链中所处的能量传递层级,
+ecological niche,生态位,环境,物种在群落中的功能地位与资源利用方式,niche
+biodiversity,生物多样性,环境,一定区域内生物种类基因与生态系统的多样程度,biological diversity
+carrying capacity,环境容纳量,环境,环境资源可长期供养的种群最大数量,
+ecological succession,生态演替,环境,群落随时间定向更替并趋于稳定的过程,succession
+primary productivity,初级生产力,环境,生产者经光合作用固定能量的速率,
+symbiosis,共生,环境,两种生物长期共同生活相互影响的种间关系,
+detritus,碎屑,环境,动植物残体分解形成的有机颗粒物质,
+sewage treatment,污水处理,环境,用物理化学生物方法净化废水的工艺过程,wastewater treatment
+activated sludge,活性污泥法,环境,利用微生物絮体降解污水有机物的处理工艺,
+aeration,曝气,环境,向污水中鼓入空气供氧以促进生物处理的工序,
+flue gas desulfurization,烟气脱硫,环境,脱除燃煤烟气中二氧化硫的污染控制技术,FGD
+electrostatic precipitator,静电除尘器,环境,利用高压电场捕集烟气颗粒物的装置,ESP
+scrubber,洗涤塔,环境,用液体吸收去除废气污染物的净化设备,gas scrubber
+soil remediation,土壤修复,环境,清除或降低土壤污染物以恢复其功能的技术,
+phytoremediation,植物修复,环境,利用植物吸收转化污染物的原位净化技术,
+adsorption,吸附,环境,污染物附着于固体表面而被去除的物化过程,
+incineration,焚烧,环境,高温氧化处置废物并回收热能的处理方式,
+greenhouse gas,温室气体,环境,能吸收并再辐射红外线导致温室效应的气体,GHG
+global warming,全球变暖,环境,人类活动引起地表平均气温持续上升的现象,
+carbon footprint,碳足迹,环境,活动或产品全生命周期排放温室气体的总量,
+carbon neutrality,碳中和,环境,排放与吸收抵消实现净零碳排放的状态,
+climate feedback,气候反馈,环境,气候系统内部过程对初始变化的放大或抑制,
+albedo,反照率,环境,地表反射太阳辐射占总入射辐射的比例,
+sea level rise,海平面上升,环境,气候变暖致海水膨胀冰川消融引起的海面抬升,
+carbon sink,碳汇,环境,能吸收并储存大气二氧化碳的系统或过程,
+ocean acidification,海洋酸化,环境,海水吸收二氧化碳后酸碱度下降的现象,
+mitigation,减缓,环境,通过减排与增汇延缓气候变化的努力,climate mitigation
+environmental monitoring,环境监测,环境,对环境要素进行系统观测与数据分析的活动,
+remote sensing,遥感,环境,不接触目标借助传感器获取地物信息的技术,RS
+sampling,采样,环境,按规范从总体中采集代表性环境样品的过程,
+air quality index,空气质量指数,环境,综合评价空气污染程度的量化分级指标,AQI
+PM2.5,细颗粒物,环境,空气动力学直径不超过2.5微米的颗粒物,fine particulate matter
+chromatography,色谱法,环境,利用组分分配差异分离分析混合物的方法,
+spectrophotometry,分光光度法,环境,依据物质对光的吸收测定其含量的分析方法,
+bioindicator,指示生物,环境,对环境变化敏感可指示污染状况的生物,indicator species
+detection limit,检出限,环境,分析方法能可靠检出待测物的最低浓度,
+GIS,地理信息系统,环境,采集管理并分析空间地理数据的计算机系统,geographic information system
+sustainable development,可持续发展,环境,满足当代需求而不损害后代发展能力的发展模式,
+circular economy,循环经济,环境,资源高效循环利用以减少废弃物的经济模式,
+cleaner production,清洁生产,环境,从源头削减污染提高资源效率的生产方式,
+renewable energy,可再生能源,环境,自然界可持续再生的能源如太阳能与风能,renewables
+ecological footprint,生态足迹,环境,衡量人类资源消耗所需生产性土地的面积指标,
+life cycle assessment,生命周期评价,环境,评估产品全过程资源消耗与环境影响的方法,LCA
+green economy,绿色经济,环境,兼顾经济增长与生态环境保护的经济形态,
+triple bottom line,三重底线,环境,从经济社会环境三个维度衡量发展绩效的框架,TBL
+sustainable consumption,可持续消费,环境,减少资源消耗与环境影响的消费方式,
+eco-efficiency,生态效率,环境,以较少资源环境代价获得较多产出的效率理念,
+bioaccumulation,生物富集,环境,污染物沿食物链在生物体内逐级积累的现象,biomagnification
+persistent organic pollutants,持久性有机污染物,环境,难降解易迁移可生物富集的有机污染物,POPs
+heavy metals,重金属,环境,密度较大且对生物具有毒害作用的金属元素,
+acid rain,酸雨,环境,酸碱度明显低于正常值的大气降水,acid deposition
+photochemical smog,光化学烟雾,环境,污染物经光化学反应生成的刺激性烟雾,
+eutrophication,富营养化,环境,水体氮磷过量导致藻类暴发的污染现象,
+biodegradation,生物降解,环境,微生物将有机物分解为简单物质的过程,
+redox reaction,氧化还原反应,环境,伴随电子转移并影响污染物形态转化的反应,
+volatilization,挥发,环境,物质由液相或固相进入大气的迁移过程,
+speciation,形态分析,环境,测定元素不同化学形态及其分布的分析,speciation analysis
+environmental impact assessment,环境影响评价,环境,预测评估建设项目环境影响以辅助决策的制度,EIA
+baseline survey,本底调查,环境,项目实施前对区域环境现状进行的系统调查,
+mitigation measures,减缓措施,环境,降低或消除不良环境影响的对策与手段,
+public participation,公众参与,环境,公众介入环境决策并表达意见的法定程序,
+cumulative impact,累积影响,环境,多个项目影响叠加形成的综合环境效应,
+environmental risk assessment,环境风险评价,环境,评估突发事故造成环境危害的概率与后果,
+alternative analysis,替代方案分析,环境,比较不同选址与工艺方案环境影响的工作,
+strategic environmental assessment,战略环境评价,环境,在政策规划层面开展的环境影响评价,SEA
+post-project analysis,后评价,环境,项目建成后对环评结论与措施效果的验证,
+screening,筛选,环境,环评初期判断项目是否需深入评价的程序,
+sanitary landfill,卫生填埋,环境,分层压实覆土处置固体废物的最终处置方式,landfill
+composting,堆肥,环境,微生物好氧分解有机废物制成腐殖质的过程,
+recycling,回收利用,环境,将废弃物加工为可再利用资源的过程,
+hazardous waste,危险废物,环境,具腐蚀毒性易燃等危害特性的废物,dangerous waste
+leachate,渗滤液,环境,废物填埋场中渗出的高浓度污染液体,landfill leachate
+waste sorting,垃圾分类,环境,按成分属性对废弃物分类投放与收集的制度,waste separation
+municipal solid waste,生活垃圾,环境,居民日常生活产生的固态废弃物,MSW
+waste-to-energy,垃圾焚烧发电,环境,利用焚烧热能发电的废物能源化方式,WTE
+refuse-derived fuel,垃圾衍生燃料,环境,废物经分选加工制成的可燃性燃料,RDF
+transfer station,垃圾转运站,环境,集中压缩并转运生活垃圾的中转设施,
+emission standard,排放标准,环境,法定限制污染物排放浓度或总量的技术规范,discharge standard
+polluter pays principle,污染者付费原则,环境,污染者承担污染治理费用的环境经济原则,PPP
+emission trading,排污权交易,环境,允许排污指标在市场上买卖的环境管理制度,cap and trade
+environmental tax,环境税,环境,对污染排放行为征收的调节性税种,eco-tax
+total emission control,总量控制,环境,按区域环境容量限定排污总量的管理制度,
+discharge permit,排污许可证,环境,依法核定排污种类与数量的行政许可,pollution permit
+environmental law,环境法,环境,调整环境保护相关社会关系的法律规范体系,
+ecological red line,生态保护红线,环境,严格保护重要生态功能空间的管控边界,
+environmental accountability,环境问责,环境,对失职造成环境损害者追究责任的制度,
+environmental planning,环境规划,环境,统筹区域环境保护目标与措施的计划工作,
+endangered species,濒危物种,环境,种群稀少并面临灭绝危险的物种,threatened species
+habitat,栖息地,环境,生物种群生活繁衍所依赖的特定环境场所,
+nature reserve,自然保护区,环境,依法划定以保护典型生态系统的区域,protected area
+in situ conservation,就地保护,环境,在物种原生境中实施的保护方式,
+ex situ conservation,迁地保护,环境,将物种移入人工环境繁育保护的方式,
+invasive species,入侵物种,环境,传入新区扩散并危害本地生态的外来物种,alien invasive species
+ecological corridor,生态廊道,环境,连接破碎化生境便于物种迁移的通道,wildlife corridor
+germplasm bank,种质资源库,环境,保存生物遗传材料以备利用的设施,gene bank
+species diversity,物种多样性,环境,一定区域内物种的丰富度与均匀度水平,
+poaching,偷猎,环境,非法猎捕受保护野生动物的行为,illegal hunting

@@ -26,12 +26,16 @@ OUT = os.path.join(ROOT, "tbx")
 
 
 def read_all():
+    """读全部数据文件。兼容三列（v1.x）与五列（v2.x）行，统一返回五元组。"""
     rows = []
     for f in sorted(x for x in os.listdir(DATA) if x.endswith(".csv")):
         with io.open(os.path.join(DATA, f), encoding="utf-8") as fh:
             for r in csv.reader(fh):
-                if r and r[0] != "source":
-                    rows.append((r[0].strip(), r[1].strip(), r[2].strip()))
+                if r and r[0] != "source" and len(r) >= 3:
+                    s, t, d = r[0].strip(), r[1].strip(), r[2].strip()
+                    df = r[3].strip() if len(r) > 3 else ""
+                    sy = r[4].strip() if len(r) > 4 else ""
+                    rows.append((s, t, d, df, sy))
     return rows
 
 
@@ -64,13 +68,23 @@ def main():
         '  </martifHeader>',
         '  <text><body>',
     ]
-    for i, (s, t, d) in enumerate(rows, start=1):
+    for i, (s, t, d, df, sy) in enumerate(rows, start=1):
         parts.append('    <termEntry id="otb-%d">' % i)
-        parts.append('      <langSet xml:lang="en"><tig><term>%s</term></tig></langSet>'
-                     % escape(s))
+        if sy:
+            # 英文 langSet：主术语 + 每个同义词各一个 tig（TBX-Min 允许 0..n tig）
+            tigs = ['<tig><term>%s</term></tig>' % escape(s)]
+            for alt in (x.strip() for x in sy.split(";")):
+                if alt and alt.lower() != s.lower():
+                    tigs.append('<tig><term>%s</term></tig>' % escape(alt))
+            parts.append('      <langSet xml:lang="en">%s</langSet>' % "".join(tigs))
+        else:
+            parts.append('      <langSet xml:lang="en"><tig><term>%s</term></tig></langSet>'
+                         % escape(s))
         parts.append('      <langSet xml:lang="zh-CN"><tig><term>%s</term></tig></langSet>'
                      % escape(t))
         parts.append('      <descrip type="subjectField">%s</descrip>' % escape(d))
+        if df:
+            parts.append('      <descrip type="definition">%s</descrip>' % escape(df))
         parts.append('    </termEntry>')
     parts.append('  </body></text>')
     parts.append('</martif>')

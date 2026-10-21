@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+gear,齿轮,工程,通过轮齿啮合传递运动与动力的回转类机械零件,toothed wheel
+bearing,轴承,工程,支承旋转轴并减小摩擦损失的关键机械元件,
+cam,凸轮,工程,具有特定轮廓曲线并驱动从动件按预定规律运动的机构元件,
+crankshaft,曲轴,工程,将活塞往复直线运动转换为旋转运动的动力输出轴,
+coupling,联轴器,工程,连接两根轴并传递转矩的机械部件,shaft coupling
+clutch,离合器,工程,可按需接合或切断动力传递的传动装置,
+flywheel,飞轮,工程,利用较大转动惯量储存动能并平抑转速波动的轮子,
+spindle,主轴,工程,机床上带动刀具或工件旋转并实现切削运动的核心轴,
+lead screw,丝杠,工程,将旋转运动转换为精确直线进给运动的螺旋传动元件,feed screw
+worm gear,蜗轮,工程,与蜗杆啮合实现大传动比减速的齿轮,
+linkage,连杆机构,工程,由若干刚性杆件经低副连接组成的运动传递机构,linkage mechanism
+tolerance,公差,工程,零件尺寸形状与位置等几何参数允许变动的范围,
+interference fit,过盈配合,工程,轴的尺寸大于孔而需压入装配的紧固配合方式,press fit
+stamping,冲压,工程,利用冲模对板料施加压力使其分离或成形的加工方法,pressing
+machining,机械加工,工程,通过切除材料获得所需形状尺寸与表面质量的制造方法,
+milling,铣削,工程,用旋转多刃刀具切削工件以加工平面或曲面的方法,
+turning,车削,工程,工件旋转而刀具作进给运动以加工回转表面的切削方法,
+grinding,磨削,工程,用高速旋转砂轮对工件表面进行精密切削的加工方法,abrasive machining
+welding,焊接,工程,通过加热加压或二者并用使材料形成原子间结合的连接工艺,
+casting,铸造,工程,将熔融金属浇入铸型凝固后获得零件毛坯的成形方法,
+forging,锻造,工程,利用冲击力或压力使金属塑性变形以获得毛坯的成形方法,
+numerical control,数字控制,工程,用数字化程序指令控制机床运动与加工的自动化技术,NC
+resistor,电阻器,工程,阻碍电流流动并产生电压降的无源电路元件,
+capacitor,电容器,工程,储存电荷并阻隔直流通过交流的储能元件,
+inductor,电感器,工程,利用电磁感应储存磁场能量的电路元件,coil
+transistor,晶体管,工程,具有电流放大与开关功能的三端半导体器件,
+diode,二极管,工程,只允许电流单向导通的两端半导体器件,
+operational amplifier,运算放大器,工程,高增益差分输入集成电路常用于信号放大与运算,op-amp
+transformer,变压器,工程,利用电磁感应原理改变交流电压等级的静止电气设备,
+rectifier,整流器,工程,将交流电转换为直流电的电力电子装置,
+inverter,逆变器,工程,将直流电转换为交流电的电力电子装置,DC-AC converter
+circuit breaker,断路器,工程,在过载或短路故障时自动切断电路的保护电器,breaker
+relay,继电器,工程,用小电流控制大电流回路通断的电磁或电子开关,
+servo motor,伺服电机,工程,能精确控制转角位置与转速的闭环执行电机,servomotor
+induction motor,感应电动机,工程,转子靠旋转磁场感应电流产生转矩的交流电机,asynchronous motor
+impedance,阻抗,工程,交流电路中电压相量与电流相量之比,
+printed circuit board,印制电路板,工程,在绝缘基板上形成导电图形以安装连接元器件的板件,PCB
+microcontroller,微控制器,工程,将处理器存储器与外围接口集成于单芯片的微型计算机,MCU
+analog-to-digital converter,模数转换器,工程,将连续模拟信号转换为离散数字量的器件,ADC
+beam,梁,工程,结构中主要承受弯矩与剪力的横向承重构件,
+column,柱,工程,结构中主要承受轴向压力的竖向承重构件,pillar
+truss,桁架,工程,由直杆铰接组成且杆件主要承受轴向力的格构结构,
+reinforced concrete,钢筋混凝土,工程,混凝土内配置受力钢筋共同工作的复合结构材料,RC
+prestressed concrete,预应力混凝土,工程,预先对受拉区施加压应力以改善抗裂性能的混凝土,
+shear wall,剪力墙,工程,主要承受水平荷载并提高结构抗侧刚度的钢筋混凝土墙,structural wall
+pile foundation,桩基础,工程,借助桩将上部荷载传递至深部坚实土层的深基础形式,
+retaining wall,挡土墙,工程,支挡填土或边坡土体以保持其稳定的构筑物,
+bearing capacity,地基承载力,工程,地基承受荷载而不发生剪切破坏或过大变形的能力,
+suspension bridge,悬索桥,工程,以主缆为主要承重构件并悬吊加劲梁的大跨度桥梁,
+dead load,恒载,工程,结构自重等大小与位置长期不发生变化的荷载,permanent load
+settlement,沉降,工程,地基在荷载作用下产生的竖向下沉变形,
+distillation,蒸馏,工程,利用各组分挥发度差异实现液体混合物分离的单元操作,
+absorption,吸收,工程,用液体吸收剂溶解混合气体中某些组分的传质操作,gas absorption
+extraction,萃取,工程,利用溶质在两互不相溶溶剂中分配差异进行分离的操作,solvent extraction
+crystallization,结晶,工程,使溶质自溶液中析出晶体以实现分离提纯的单元操作,
+filtration,过滤,工程,借助多孔介质截留悬浮液中固体颗粒的分离操作,
+heat exchanger,换热器,工程,使热量在两种温度不同的流体间传递的工艺设备,
+packed column,填料塔,工程,塔内装填填料以增大气液接触面积的传质设备,packed tower
+fluidized bed,流化床,工程,利用流体使固体颗粒呈悬浮流化状态以强化过程的装置,
+mass transfer,传质,工程,组分因浓度梯度而在体系内迁移的过程,
+batch reactor,间歇反应器,工程,物料一次加入反应完毕后再卸出产品的反应设备,
+feedback,反馈,工程,将系统输出量送回输入端以修正控制作用的机制,
+closed-loop control,闭环控制,工程,根据输出反馈信息自动纠正偏差的控制方式,feedback control
+PID controller,PID控制器,工程,按偏差的比例积分微分运算生成控制量的调节器,proportional-integral-derivative controller
+transfer function,传递函数,工程,零初始条件下线性系统输出与输入拉氏变换之比,
+stability,稳定性,工程,系统受扰后偏离平衡又能恢复到原状态的性能,
+step response,阶跃响应,工程,系统在阶跃输入信号作用下的输出时间响应,
+setpoint,设定值,工程,控制系统中被控变量要求达到的目标值,set point
+overshoot,超调量,工程,阶跃响应中输出超过稳态值的最大偏差量,
+actuator,执行器,工程,将控制信号转换为位移或力等机械动作的装置,
+state space,状态空间,工程,以状态变量为一组基描述系统动态行为的数学框架,state-space representation
+sensor,传感器,工程,能感受被测量并按一定规律转换为可用信号的器件,detector
+transducer,换能器,工程,将能量从一种形式转换为另一种形式的器件,
+strain gauge,应变片,工程,利用电阻随变形变化原理测量表面应变的元件,strain gage
+thermocouple,热电偶,工程,基于热电效应将温差转换为电动势的温度传感器,
+calibration,校准,工程,用标准器具确定测量仪器示值误差的操作过程,
+accuracy,准确度,工程,测量结果与被测量真值之间的一致程度,
+resolution,分辨力,工程,测量装置能有效区分的被测量最小变化量,
+piezoelectric sensor,压电传感器,工程,利用压电效应将机械量转换为电荷输出的传感器,
+orthographic projection,正投影,工程,投射线垂直于投影面以绘制多面视图的图示方法,
+section view,剖视图,工程,假想用剖切面剖开机件并移去前部后所绘的视图,sectional view
+assembly drawing,装配图,工程,表达机器或部件各零件装配关系的工程图样,
+dimensioning,尺寸标注,工程,在图样上完整清晰注出形体大小与位置尺寸的工作,
+mean time between failures,平均故障间隔时间,工程,可修复产品相邻两次故障之间的平均工作时间,MTBF
+failure rate,失效率,工程,产品工作到某时刻后单位时间内发生故障的概率度量,
+redundancy,冗余,工程,为完成同一功能设置备份单元以提高可靠性的设计措施,
+fault tree analysis,故障树分析,工程,自顶向下演绎寻找系统故障原因组合的可靠性分析方法,FTA
+bathtub curve,浴盆曲线,工程,描述产品失效率随时间呈早中晚三阶段变化的曲线,
+turbine,涡轮机,工程,将流体蕴含的能量转换为旋转机械功的动力机械,
+centrifugal pump,离心泵,工程,靠叶轮旋转产生离心力来输送并增压液体的泵,
+cavitation,空化,工程,液体局部低压处生成气泡继而溃灭并损伤壁面的现象,
+pressure drop,压降,工程,流体流经管路或设备时因阻力造成的压力降低,pressure loss
+Reynolds number,雷诺数,工程,表征流体流动中惯性力与黏性力之比的无量纲准则数,Re
+stress,应力,工程,构件截面上分布内力的集度即单位面积上的内力,
+strain,应变,工程,构件受力后局部变形量与其原始尺寸的比值,
+torque,转矩,工程,使物体产生转动效应的力对转轴之矩,
+bending moment,弯矩,工程,使构件产生弯曲变形的截面上的内力偶矩,
+moment of inertia,转动惯量,工程,度量刚体绕定轴转动惯性大小的物理量,rotational inertia
+natural frequency,固有频率,工程,系统作自由振动时由其本身参数决定的特征频率,
+damping,阻尼,工程,使振动系统能量耗散从而振幅逐渐衰减的效应,

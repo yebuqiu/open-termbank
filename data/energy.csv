@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+power grid,电网,能源,由输配电线路与变电设施组成的电能输送分配网络,electric grid
+power system,电力系统,能源,由发电输电变电配电及用电环节组成的电能生产消费系统,electric power system
+smart grid,智能电网,能源,融合信息与通信技术实现双向互动与智能管理的现代电网,
+microgrid,微电网,能源,由分布式电源储能负荷构成并可独立运行的小型电力系统,micro-grid
+substation,变电站,能源,实现电压变换电能分配与潮流控制的电力枢纽设施,
+switchgear,开关设备,能源,用于接通断开及保护电路的成套电气装置,
+busbar,母线,能源,变电站内用于汇集分配与传送电能的金属导体,bus bar
+reactive power,无功功率,能源,交流电路中用于建立磁场并进行能量交换而不做功的功率,
+active power,有功功率,能源,交流电路中实际转换为其他形式能量并做功的功率,real power
+power factor,功率因数,能源,交流电路中有功功率与视在功率的比值,
+peak load,尖峰负荷,能源,电力系统在一天或一段时期内出现的最大负荷,peak demand
+black start,黑启动,能源,电力系统大面积停电后不依赖外部电源自行恢复供电的过程,
+boiler,锅炉,能源,利用燃料燃烧或余热将水加热为蒸汽的热能设备,
+steam turbine,汽轮机,能源,以蒸汽为工质将热能转换为旋转机械功的原动机,
+gas turbine,燃气轮机,能源,以高温燃气为工质推动叶轮旋转作功的热力发动机,combustion turbine
+condenser,凝汽器,能源,将汽轮机排汽凝结为水并维持真空的热交换设备,surface condenser
+combined cycle,联合循环,能源,燃气轮机与蒸汽轮机循环组合以提高效率的发电方式,combined cycle power plant
+cogeneration,热电联产,能源,在同一过程中同时生产电能与可利用热能的能源利用方式,CHP
+hydroelectric power,水力发电,能源,利用水流的势能与动能驱动水轮发电机发电的技术,hydropower
+water turbine,水轮机,能源,将水能转换为旋转机械功并驱动发电机的水力原动机,hydraulic turbine
+pumped storage,抽水蓄能,能源,用电低谷抽水储能高峰放水发电的储能发电方式,pumped hydro storage
+nuclear reactor,核反应堆,能源,维持可控链式裂变反应并释放核能的装置,reactor
+pressurized water reactor,压水堆,能源,以加压轻水作慢化剂与冷却剂的核反应堆,PWR
+nuclear fuel,核燃料,能源,能在反应堆中维持链式反应并释放能量的可裂变物质,
+control rod,控制棒,能源,由中子吸收材料制成用于调节反应性与停堆的部件,
+solar photovoltaic,太阳能光伏,能源,利用光生伏特效应将太阳辐射直接转换为电能的技术,PV
+photovoltaic cell,光伏电池,能源,基于半导体PN结将光能直接转换为电能的器件,solar cell
+solar thermal power,太阳能热发电,能源,聚焦太阳辐射加热工质再驱动热力循环发电的技术,CSP
+wind turbine,风力发电机,能源,将风能转换为机械能再驱动发电机的装置,wind generator
+wind farm,风电场,能源,由多台风力发电机组成并集中并网的发电设施,wind park
+offshore wind power,海上风电,能源,在海洋环境中建设并利用海上风能资源发电的技术,offshore wind
+capacity factor,容量因子,能源,发电设备实际发电量与额定满发电量的比值,
+hydrogen energy,氢能,能源,以氢为能源载体通过燃烧或电化学反应释放能量的二次能源,
+fuel cell,燃料电池,能源,将燃料与氧化剂的化学能直接转换为电能的电化学装置,
+electrolysis,电解,能源,利用直流电使电解质发生氧化还原反应以制备物质的过程,water electrolysis
+green hydrogen,绿氢,能源,利用可再生能源电力电解水制取的低碳氢气,
+biomass energy,生物质能,能源,蕴藏在生物质中并可转化为燃料或电力热力的能源,bioenergy
+biogas,沼气,能源,有机废弃物经厌氧发酵产生的以甲烷为主的可燃气体,
+geothermal energy,地热能,能源,蕴藏于地球内部可被开发利用的热能资源,geothermal power
+maximum power point tracking,最大功率点跟踪,能源,使光伏阵列始终工作在最大功率输出点的控制技术,MPPT
+energy storage,储能,能源,将能量以某种形式储存并在需要时释放的技术,
+lithium-ion battery,锂离子电池,能源,依靠锂离子在正负极间嵌入脱嵌实现充放电的二次电池,LIB
+lead-acid battery,铅酸电池,能源,以铅及其氧化物为电极硫酸为电解液的可充电电池,lead acid battery
+solid-state battery,固态电池,能源,采用固态电解质替代液态电解质的电池,all-solid-state battery
+flow battery,液流电池,能源,正负极电解液分储于外部罐体并通过电堆反应储能的电池,redox flow battery
+sodium-ion battery,钠离子电池,能源,依靠钠离子在正负极间迁移实现充放电的二次电池,Na-ion battery
+cathode material,正极材料,能源,电池中发生还原反应并决定电压与容量的电极活性物质,
+anode material,负极材料,能源,电池放电时发生氧化反应并释放电子的电极活性物质,
+electrolyte,电解质,能源,在电池中传导离子并隔绝电子的导电介质,
+separator,隔膜,能源,置于电池正负极之间防止短路并允许离子通过的多孔膜,battery separator
+state of charge,荷电状态,能源,电池当前剩余可用电量与其额定容量的比值,SOC
+cycle life,循环寿命,能源,电池容量衰减到规定值之前所能经历的充放电次数,
+energy density,能量密度,能源,单位质量或单位体积储能器件所能储存的能量,
+supercapacitor,超级电容器,能源,基于双电层或赝电容原理储能的大功率密度储能器件,ultracapacitor
+flywheel energy storage,飞轮储能,能源,以高速旋转飞轮储存动能并实现电能与机械能转换的储能方式,
+battery management system,电池管理系统,能源,监测电池状态并实现均衡保护与热管理的电子系统,BMS
+petroleum,石油,能源,由古代有机物演化形成的主要含烃类的可燃矿产,oil
+natural gas,天然气,能源,以甲烷为主要成分的可燃气体矿产资源,
+crude oil,原油,能源,从地下油藏采出且未经炼制加工的石油,
+oil reservoir,油藏,能源,地下具有统一压力系统的油气聚集单元,petroleum reservoir
+drilling,钻井,能源,用钻具破碎岩石形成井筒以勘探开发油气的工程,
+hydraulic fracturing,水力压裂,能源,向地层高压注入流体压开裂缝以提高油气产量的技术,fracking
+enhanced oil recovery,提高采收率,能源,采用注水注气或化学剂等提高原油采收程度的技术,EOR
+liquefied natural gas,液化天然气,能源,天然气经净化深冷液化后便于储运的液态产品,LNG
+refining,炼油,能源,将原油经蒸馏裂化等过程加工为油品与化工原料的产业,petroleum refining
+shale gas,页岩气,能源,赋存于页岩层中需经压裂开采的非常规天然气,
+thermodynamic cycle,热力循环,能源,工质经历一系列状态变化回到初态并对外做功的过程,
+Rankine cycle,朗肯循环,能源,以水蒸气为工质的蒸汽动力装置基本热力循环,
+Carnot cycle,卡诺循环,能源,由两个等温与两个绝热过程组成的理想可逆热力循环,
+Brayton cycle,布雷顿循环,能源,燃气轮机装置所依据的定压加热理想热力循环,gas turbine cycle
+thermal efficiency,热效率,能源,热力设备输出有效能量与输入热量之比,
+entropy,熵,能源,表征系统无序程度与能量不可用程度的状态参数,
+enthalpy,焓,能源,热力学中表示工质内能与推动功之和的状态参数,
+heat rate,热耗率,能源,发电设备每发单位电能所消耗的热量,
+transmission line,输电线路,能源,将电能从发电厂或变电站远距离输送的架空线路或电缆,power transmission line
+high voltage direct current,高压直流输电,能源,以高电压直流方式输送电能的输电技术,HVDC
+distribution network,配电网,能源,直接向用户分配电能的中低压电力网络,distribution grid
+insulator,绝缘子,能源,用于支撑导线并实现带电体对地绝缘的器件,
+overhead line,架空线路,能源,将导线架设于杆塔之上的输电配电线路,overhead power line
+cable,电缆,能源,由导体绝缘层与护套构成的电能传输线,power cable
+line loss,线损,能源,电能在输配电线路传输过程中产生的损耗,line losses
+extra high voltage,超高压,能源,交流330千伏及以上或直流相应等级的电压等级,EHV
+energy efficiency,能源效率,能源,产出有用能量与投入能源量的比值,
+waste heat recovery,余热回收,能源,回收生产过程中排放的余热并加以利用的节能技术,waste heat utilization
+energy audit,能源审计,能源,对用能单位能源利用状况进行检查与评价的活动,
+demand side management,需求侧管理,能源,通过技术与经济手段引导用户优化用电方式的管理措施,DSM
+energy conservation,节能,能源,通过技术与管理措施减少能源消耗的活动,energy saving
+building energy efficiency,建筑节能,能源,在建筑设计建造与运行中降低能耗的综合性技术措施,
+life cycle assessment,生命周期评价,能源,评价产品从原料获取到废弃全过程环境影响的方法,LCA
+energy intensity,能源强度,能源,单位国内生产总值所对应的能源消耗量,
+carbon emission,碳排放,能源,人类活动向大气中释放二氧化碳等温室气体的过程,CO2 emission
+carbon peak,碳达峰,能源,二氧化碳排放量达到历史最高值后转入下降的阶段,carbon emissions peak
+carbon neutrality,碳中和,能源,通过减排与吸收抵消使净碳排放为零的状态,carbon neutral
+carbon trading,碳交易,能源,将碳排放权作为商品在市场上买卖的机制,carbon market
+carbon capture and storage,碳捕集与封存,能源,捕集工业排放的二氧化碳并运输至地下封存的技术,CCS
+carbon footprint,碳足迹,能源,产品或个人活动在全生命周期中直接或间接产生的碳排放总量,
+emission factor,排放因子,能源,单位活动水平数据所对应的温室气体排放量系数,
+energy policy,能源政策,能源,政府为保障能源安全促进可持续发展而制定的方针措施,
+feed-in tariff,上网电价,能源,政府规定的发电企业向电网售电的结算价格机制,FIT
+carbon tax,碳税,能源,按化石燃料含碳量或碳排放量征收的税种,

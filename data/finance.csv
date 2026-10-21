@@ -1,21 +1,101 @@
-source,target,domain
-return on investment,投资回报率,金融
-earnings per share,每股收益,金融
-price-to-earnings ratio,市盈率,金融
-volatility,波动率,金融
-hedging,套期保值,金融
-arbitrage,套利,金融
-derivative,衍生品,金融
-liquidity,流动性,金融
-asset allocation,资产配置,金融
-fiscal policy,财政政策,金融
-monetary policy,货币政策,金融
-quantitative easing,量化宽松,金融
-gross domestic product,国内生产总值,金融
-inflation,通货膨胀,金融
-default risk,违约风险,金融
-portfolio diversification,投资组合分散化,金融
-bear market,熊市,金融
-initial public offering,首次公开募股,金融
-securitization,资产证券化,金融
-opportunity cost,机会成本,金融
+source,target,domain,definition,synonyms
+return on investment,投资回报率,金融,投资收益与投入成本之比，用于衡量盈利效率,ROI
+earnings per share,每股收益,金融,公司净利润除以流通普通股股数所得的每股盈利水平,EPS
+price-to-earnings ratio,市盈率,金融,股票市价与每股收益的比率，常用于评估股票估值高低,P/E ratio; PE
+volatility,波动率,金融,资产价格变动的剧烈程度，通常以收益率的标准差衡量,
+hedging,套期保值,金融,通过建立反向头寸抵消现货价格波动风险的管理操作,hedge
+arbitrage,套利,金融,利用同一资产在不同市场的价差进行低买高卖获利的交易行为,
+derivative,衍生品,金融,价值取决于标的资产价格变动的金融合约,derivatives
+liquidity,流动性,金融,资产在不显著影响其价格的情况下迅速变现的能力,
+asset allocation,资产配置,金融,按风险收益目标将资金分配到不同资产类别的决策过程,
+fiscal policy,财政政策,金融,政府通过税收与支出安排调节总需求和经济运行的政策,
+monetary policy,货币政策,金融,中央银行通过调节货币供应量与利率影响经济运行的政策,
+quantitative easing,量化宽松,金融,央行大规模购买资产向市场注入流动性的非常规货币政策,QE
+gross domestic product,国内生产总值,金融,一国境内一定时期内生产的全部最终产品和服务的市场价值,GDP
+inflation,通货膨胀,金融,物价总水平持续上涨并导致货币购买力下降的现象,
+default risk,违约风险,金融,借款人未能按约定还本付息而给债权人造成损失的可能性,credit risk
+portfolio diversification,投资组合分散化,金融,通过持有多种资产以降低组合整体风险的投资策略,diversification
+bear market,熊市,金融,证券价格持续大幅下跌且市场情绪普遍悲观的一段时期,
+initial public offering,首次公开募股,金融,公司第一次向公众发行股票并上市融资的行为,IPO
+securitization,资产证券化,金融,将缺乏流动性的资产打包转化为可交易证券的融资过程,
+opportunity cost,机会成本,金融,为选择某一方案而放弃的其他方案所能带来的最大收益,
+balance sheet,资产负债表,金融,反映企业某一时点资产、负债与所有者权益状况的会计报表,statement of financial position
+income statement,利润表,金融,反映企业一定会计期间收入、费用与利润形成情况的报表,statement of profit or loss; P&L
+cash flow statement,现金流量表,金融,反映企业一定期间现金流入流出及净变动情况的报表,
+accounts receivable,应收账款,金融,企业因赊销商品或提供服务而应向客户收取的款项,
+accounts payable,应付账款,金融,企业因赊购商品或接受服务而应支付给供应商的款项,
+depreciation,折旧,金融,将固定资产成本在其使用年限内系统分摊计入费用的会计处理,
+amortization,摊销,金融,将无形资产成本或长期债务金额在受益期间内分期分摊的会计处理,
+goodwill,商誉,金融,并购支付对价超过被收购方可辨认净资产公允价值的部分,
+current ratio,流动比率,金融,流动资产除以流动负债所得的比率，衡量短期偿债能力,working capital ratio
+retained earnings,留存收益,金融,企业历年累积未分配给股东的净利润,
+cost of capital,资本成本,金融,企业为筹集和使用资金所付出的代价或要求的最低回报率,
+weighted average cost of capital,加权平均资本成本,金融,按各类资本在资本结构中的权重计算的平均资本成本,WACC
+net present value,净现值,金融,未来现金流按折现率折现后的总额减去初始投资的差额,NPV
+internal rate of return,内部收益率,金融,使项目净现值等于零的折现率，用于评价项目盈利能力,IRR
+capital structure,资本结构,金融,企业债务资本与权益资本的构成及其比例关系,
+dividend policy,股利政策,金融,公司关于利润分配比例与分配方式的决策方针,
+leverage,财务杠杆,金融,企业利用债务融资放大股东收益与风险的程度,financial leverage
+working capital,营运资本,金融,流动资产减去流动负债的差额，反映日常运营资金余裕,net working capital
+free cash flow,自由现金流,金融,经营活动现金流扣除资本支出后可自由支配的现金,FCF
+mergers and acquisitions,并购重组,金融,企业之间通过合并与收购实现资源整合与扩张的交易活动,M&A
+capital asset pricing model,资本资产定价模型,金融,描述资产预期收益率与系统性风险之间线性关系的定价模型,CAPM
+beta coefficient,贝塔系数,金融,衡量单个资产收益率相对市场整体波动敏感程度的指标,beta
+efficient market hypothesis,有效市场假说,金融,认为证券价格已充分反映所有可得信息的理论假说,EMH
+risk premium,风险溢价,金融,投资者因承担风险而要求的高于无风险利率的额外收益,
+bull market,牛市,金融,证券价格持续上涨且投资者情绪普遍乐观的一段时期,
+dividend yield,股息率,金融,每股股息与股票市价之比，衡量现金分红的回报水平,
+market capitalization,市值,金融,公司流通股总数乘以每股股价所得的公司总价值,market cap
+systematic risk,系统性风险,金融,影响整个市场且无法通过分散投资消除的风险,market risk
+reserve requirement,存款准备金要求,金融,中央银行规定商业银行必须留存的存款准备金比例,required reserve ratio
+money supply,货币供应量,金融,一国在某一时点流通中的现金与各类存款的总量,
+central bank,中央银行,金融,负责发行货币、制定货币政策并监管金融体系的国家机构,
+interest rate,利率,金融,借贷资金的价格，通常以本金的一定百分比表示,
+credit creation,信用创造,金融,商业银行体系通过存贷款循环派生存款从而扩大货币供应的过程,
+non-performing loan,不良贷款,金融,借款人逾期未还或很可能无法足额偿还的贷款,NPL
+deposit insurance,存款保险,金融,由专门机构对银行存款提供保障以防范银行倒闭损失的制度,
+commercial bank,商业银行,金融,以吸收存款、发放贷款和办理结算为主要业务的金融机构,
+stock exchange,证券交易所,金融,为证券集中竞价交易提供场所与设施的有组织市场,
+over-the-counter market,场外交易市场,金融,在交易所之外由交易双方直接协商成交的证券市场,OTC market
+market maker,做市商,金融,持续报出买卖双边价格以提供市场流动性的交易商,
+bid-ask spread,买卖价差,金融,同一证券最低卖价与最高买价之间的差额,
+margin trading,保证金交易,金融,投资者以部分自有资金加借入资金进行证券买卖的交易方式,
+short selling,卖空,金融,借入证券卖出、待价格下跌后买回归还以赚取差价的交易行为,short sale
+circuit breaker,熔断机制,金融,市场价格波动超过规定阈值时自动暂停交易以稳定市场的制度,
+clearing house,清算所,金融,负责交易确认、资金结算与履约担保的中介机构,clearinghouse
+futures contract,期货合约,金融,约定在未来特定时间以特定价格买卖标的物的标准化合约,futures
+options contract,期权合约,金融,赋予持有者在约定期限内以约定价格买卖标的物权利的合约,option
+swap,互换合约,金融,交易双方约定在未来交换一系列现金流的衍生品合约,swap contract
+call option,看涨期权,金融,赋予持有者按约定价格买入标的资产权利的期权,
+put option,看跌期权,金融,赋予持有者按约定价格卖出标的资产权利的期权,
+strike price,行权价格,金融,期权合约中约定的买入或卖出标的资产的价格,exercise price
+margin call,追加保证金通知,金融,保证金账户余额不足时要求投资者补足资金的通知,
+forward contract,远期合约,金融,约定在未来以特定价格交易标的物的非标准化合约,forward
+consumer price index,居民消费价格指数,金融,反映居民购买的消费品与服务价格水平变动情况的指数,CPI
+unemployment rate,失业率,金融,失业人口占劳动人口的比例，反映劳动力市场状况,
+business cycle,经济周期,金融,经济活动围绕长期趋势出现的扩张与收缩交替波动,trade cycle
+deflation,通货紧缩,金融,物价总水平持续下降并伴随货币购买力上升的现象,
+exchange rate,汇率,金融,一种货币兑换另一种货币的比率，即外汇的相对价格,
+balance of payments,国际收支,金融,一国一定时期内对外全部经济交易的系统记录,BOP
+aggregate demand,总需求,金融,经济中各部门对最终产品和服务的支出总量,AD
+phillips curve,菲利普斯曲线,金融,描述通货膨胀率与失业率之间短期替代关系的曲线,
+marginal cost,边际成本,金融,每增加一单位产量所引起的总成本增量,MC
+marginal utility,边际效用,金融,每增加一单位消费所带来的效用增量,MU
+elasticity of demand,需求弹性,金融,需求量对价格等因素变动的敏感程度,price elasticity of demand
+market equilibrium,市场均衡,金融,供给与需求相等从而使价格与交易量趋于稳定的状态,
+externality,外部性,金融,经济活动对未参与交易的第三方造成的未经市场定价的影响,
+monopoly,垄断,金融,市场上只有一个卖者并能够控制价格与产量的市场结构,
+economies of scale,规模经济,金融,产量扩大使单位产品平均成本下降的经济现象,
+sunk cost,沉没成本,金融,已经发生且无法收回、因而不应影响当前决策的成本,
+regression analysis,回归分析,金融,用统计方法估计变量之间数量关系并检验其显著性的分析方法,
+heteroskedasticity,异方差性,金融,回归模型中误差项方差随观测值不同而变化的情形,
+time series,时间序列,金融,按时间先后顺序排列的一系列统计观测数据,
+endogeneity,内生性,金融,解释变量与误差项相关从而导致估计结果出现偏误的问题,
+instrumental variable,工具变量,金融,与内生解释变量相关但与误差项无关、用于获得一致估计的变量,IV
+autocorrelation,自相关,金融,时间序列中不同时期观测值之间存在的相关关系,serial correlation
+moral hazard,道德风险,金融,交易一方在签约后因行为难以被观察而采取损人利己行为的倾向,
+adverse selection,逆向选择,金融,信息不对称使高风险者更易成交而低风险者退出市场的现象,
+actuarial science,精算学,金融,运用数学与统计方法评估保险与金融风险的学科,actuarial studies
+underwriting,承保,金融,保险人评估投保风险并决定是否接受承保及确定费率的过程,
+reinsurance,再保险,金融,保险公司将已承保的部分风险转移给其他保险人的风险分散方式,
+basel accord,巴塞尔协议,金融,巴塞尔委员会制定的关于银行资本充足率监管的国际标准,Basel Accord; Basel III

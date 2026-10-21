@@ -1,21 +1,101 @@
-source,target,domain
-jurisdiction,管辖权,法律
-precedent,判例,法律
-tort,侵权,法律
-consideration,对价,法律
-force majeure,不可抗力,法律
-arbitration clause,仲裁条款,法律
-intellectual property,知识产权,法律
-due diligence,尽职调查,法律
-burden of proof,举证责任,法律
-strict liability,严格责任,法律
-breach of contract,违约,法律
-injunctive relief,禁令救济,法律
-statute of limitations,诉讼时效,法律
-class action,集体诉讼,法律
-confidentiality clause,保密条款,法律
-indemnification,补偿条款,法律
-legal person,法人,法律
-applicable law,适用法律,法律
-waiver,权利放弃,法律
-hearsay evidence,传闻证据,法律
+source,target,domain,definition,synonyms
+jurisdiction,管辖权,法律,法院或国家机关受理和处理案件的权力范围,
+precedent,判例,法律,先前判决中确立的对同类案件具有约束力或说服力的法律规则,judicial precedent
+tort,侵权,法律,侵害他人民事权益依法应承担损害赔偿等责任的违法行为,
+consideration,对价,法律,合同一方为换取对方承诺而给付的利益或承担的不利益,quid pro quo
+force majeure,不可抗力,法律,不能预见、不能避免且不能克服、可据以部分或全部免责的客观情况,
+arbitration clause,仲裁条款,法律,合同中约定将争议提交仲裁机构裁决的条款,
+intellectual property,知识产权,法律,对智力创造成果依法享有的专有权利,IP
+due diligence,尽职调查,法律,交易前对目标对象的法律、财务与业务状况进行的全面核查,
+burden of proof,举证责任,法律,当事人对自己主张的事实提供证据加以证明的责任,onus of proof
+strict liability,严格责任,法律,不问行为人有无过错、只要造成损害即应承担的责任,no-fault liability
+breach of contract,违约,法律,合同当事人不履行或不适当履行合同义务的行为,
+injunctive relief,禁令救济,法律,法院责令当事人为一定行为或不为一定行为的救济方式,injunction
+statute of limitations,诉讼时效,法律,权利人于法定期间内不行使权利即丧失胜诉权的制度,limitation period
+class action,集体诉讼,法律,众多具有共同利益的当事人由代表人统一提起的诉讼,
+confidentiality clause,保密条款,法律,合同中要求一方或双方对特定信息承担保密义务的条款,non-disclosure clause
+indemnification,补偿条款,法律,约定一方对另一方因特定事由遭受的损失予以赔偿的条款,indemnity clause
+legal person,法人,法律,依法独立享有民事权利和承担民事义务的组织,juridical person
+applicable law,适用法律,法律,依冲突规范或当事人选择用以确定争议权利义务的法律,governing law
+waiver,权利放弃,法律,权利人明示或默示放弃其合法权利的意思表示,
+hearsay evidence,传闻证据,法律,证人就其亲身感知以外、转述他人陈述所提供的证据,hearsay
+civil capacity,民事行为能力,法律,自然人以自己的行为取得民事权利、承担民事义务的资格,capacity for civil conduct
+property right,物权,法律,权利人依法对特定的物享有直接支配和排他的权利,real right
+usufruct,用益物权,法律,对他人所有的不动产或动产依法占有、使用和收益的权利,
+mortgage,抵押权,法律,不转移财产占有、以财产价值担保债权实现的担保物权,mortgage right
+pledge,质权,法律,以转移占有的动产或权利担保债权实现的担保物权,pledge right
+unjust enrichment,不当得利,法律,没有合法根据取得利益而使他人受损、依法应予返还的事实,
+good faith,诚实信用,法律,民事主体从事民事活动应秉持诚实、恪守诺言的基本原则,bona fide
+inheritance,继承,法律,自然人死亡后其合法财产依法转移给继承人的制度,succession
+guardianship,监护,法律,对无民事行为能力人或限制民事行为能力人的人身财产权益进行监督保护的制度,
+personality right,人格权,法律,民事主体享有的生命、健康、姓名、名誉等与人身不可分离的权利,
+agency,代理,法律,代理人以被代理人名义实施民事法律行为、效果归属于被代理人的制度,
+criminal intent,犯罪故意,法律,行为人明知自己的行为会发生危害结果并且希望或放任其发生的心理态度,mens rea
+criminal negligence,过失犯罪,法律,应当预见自己的行为可能发生危害结果，因疏忽大意或过于自信而未避免所构成的犯罪,
+justifiable defense,正当防卫,法律,为使国家公共利益或本人他人权利免受正在进行的不法侵害而采取的防卫行为,self-defense
+criminal attempt,犯罪未遂,法律,已经着手实行犯罪、由于意志以外的原因而未得逞的犯罪形态,attempt
+recidivism,累犯,法律,因犯罪受过刑罚处罚、在法定期限内又犯应判刑罚之罪的从重处罚情节,
+probation,缓刑,法律,对判处一定刑罚的罪犯附条件地暂不执行原判刑罚的制度,suspended sentence
+death penalty,死刑,法律,剥夺犯罪分子生命的最严厉刑罚方法,capital punishment
+joint crime,共同犯罪,法律,二人以上基于共同故意而共同实施的犯罪行为,complicity
+limited liability company,有限责任公司,法律,股东以其认缴出资额为限对公司承担责任的公司形式,LLC
+joint stock company,股份有限公司,法律,全部资本分为等额股份、股东以所持股份为限承担责任的公司,company limited by shares
+board of directors,董事会,法律,由董事组成、负责公司重大经营决策的公司机关,
+shareholder,股东,法律,向公司出资并依法享有资产收益、参与重大决策等权利的主体,stockholder
+articles of association,公司章程,法律,规定公司组织与行为基本规则、对公司及股东董事均有约束力的文件,corporate charter
+bankruptcy,破产,法律,债务人不能清偿到期债务时依法进行财产清理与公平清偿的程序,insolvency
+liquidation,清算,法律,公司解散时清理财产、了结业务并分配剩余财产的程序,winding-up
+piercing the corporate veil,揭开公司面纱,法律,否认公司独立人格、令滥用权利的股东对公司债务承担连带责任的制度,disregard of corporate personality
+negotiable instrument,票据,法律,出票人签发的、约定由自己或委托付款人无条件支付一定金额的有价证券,
+letter of credit,信用证,法律,银行依买方申请开立、承诺凭符合要求的单据向卖方付款的书面凭证,L/C
+plaintiff,原告,法律,以自己的名义向法院提起诉讼、请求保护其民事权益的一方当事人,claimant
+defendant,被告,法律,被原告诉称侵犯其民事权益而由法院通知应诉的一方当事人,
+default judgment,缺席判决,法律,一方当事人无正当理由拒不到庭时法院依法作出的判决,judgment by default
+res judicata,既判力,法律,生效判决对案件实体争议产生的不得再行争执的确定力,claim preclusion
+service of process,送达,法律,法院依照法定方式将诉讼文书送交当事人及其他诉讼参与人的行为,
+bail,取保候审,法律,责令犯罪嫌疑人、被告人提供保证人或保证金以保证其随传随到的强制措施,obtaining a guarantor pending trial
+exclusionary rule,非法证据排除规则,法律,以非法手段取得的证据不得在诉讼中作为定案根据的规则,
+public prosecution,公诉,法律,由检察机关代表国家向法院提起的刑事诉讼,
+criminal detention,刑事拘留,法律,公安机关、检察机关在紧急情况下对现行犯或重大嫌疑分子临时剥夺人身自由的强制措施,detention
+administrative reconsideration,行政复议,法律,公民、法人认为行政行为侵犯其合法权益时请求行政机关复查的制度,
+administrative litigation,行政诉讼,法律,法院审理公民、法人对行政行为不服所提起诉讼案件的程序,administrative lawsuit
+sovereignty,主权,法律,国家独立自主地处理其对内对外事务的最高权力,
+treaty,条约,法律,国家等国际法主体之间缔结的确定相互权利义务的书面协议,convention
+diplomatic immunity,外交豁免,法律,外交代表在接受国享有的司法管辖与行政措施方面的豁免,
+extradition,引渡,法律,一国应请求将在其境内的被追诉或被判刑人员移交他国的制度,
+conflict of laws,法律冲突,法律,涉外民事关系中不同国家法律竞相适用所产生的抵触现象,private international law
+choice of law,法律选择,法律,依冲突规范或当事人意思确定涉外民事关系应适用何国法律的过程,
+most-favored-nation treatment,最惠国待遇,法律,一国给予另一国的待遇不低于其给予任何第三国的待遇,MFN treatment
+judicial review,司法审查,法律,法院审查立法行为或行政行为是否符合宪法或法律的制度,
+constitutional review,合宪性审查,法律,有权机关对法律法规及有关行为是否符合宪法进行的审查,
+separation of powers,三权分立,法律,将国家权力分为立法、行政、司法并使其相互制衡的宪法原则,
+administrative penalty,行政处罚,法律,行政机关对违反行政管理秩序者给予警告、罚款等制裁的行为,
+administrative license,行政许可,法律,行政机关依申请准予公民、法人从事特定活动的行政行为,administrative licensing
+rule of law,法治,法律,依照体现民意且内容良善的法律治理国家的治国方略,
+habeas corpus,人身保护令,法律,要求拘禁机关将被拘禁人带到法院以审查拘禁合法性的令状,
+expropriation,征收,法律,国家基于公共利益依法强制取得私有财产并给予补偿的行为,eminent domain
+patent,专利,法律,对发明创造依法授予的在一定期限内独占实施的权利,
+trademark,商标,法律,用以区别商品或服务来源并可依法注册受保护的标志,trade mark
+copyright,著作权,法律,作者及其他主体对文学、艺术和科学作品依法享有的权利,author's right
+trade secret,商业秘密,法律,不为公众所知悉、具有商业价值并经保密措施保护的技术信息和经营信息,
+fair use,合理使用,法律,在法定情形下不经著作权人许可、无偿使用其作品的行为,
+patent infringement,专利侵权,法律,未经许可实施他人有效专利、依法应承担责任的行为,
+prior art,现有技术,法律,专利申请日以前在国内外已为公众所知的技术,state of the art
+compulsory license,强制许可,法律,国家主管机关不经权利人同意依法授权他人实施专利或作品的制度,
+offer,要约,法律,希望与他人订立合同、内容具体确定并表明经受要约人承诺即受约束的意思表示,
+acceptance,承诺,法律,受要约人同意要约内容从而使合同成立的意思表示,
+liquidated damages,违约金,法律,当事人约定一方违约时应向对方支付的一定数额的金钱,penalty clause
+rescission,合同解除,法律,合同有效成立后依约定或法定事由使合同关系归于消灭的行为,termination of contract
+specific performance,实际履行,法律,法院责令违约方按照合同约定实际履行义务的救济方式,specific enforcement
+frustration of contract,合同落空,法律,合同订立后因不可归责于双方的事由致履行不能或目的不达而解除的规则,doctrine of frustration
+negligence,过失,法律,行为人未尽合理注意义务致他人损害而应承担责任的主观状态或行为,
+product liability,产品责任,法律,因产品存在缺陷造成他人损害而由生产者、销售者承担的责任,
+damages,损害赔偿,法律,以金钱填补受害人因侵权或违约行为所受损失的救济方式,
+defamation,诽谤,法律,捏造并散布虚假事实损害他人名誉的侵权行为,libel; slander
+duty of care,注意义务,法律,行为人在特定情形下应尽合理谨慎以避免损害他人的义务,
+legal norm,法律规范,法律,由国家制定或认可并以国家强制力保证实施的行为规则,
+legal interpretation,法律解释,法律,有权主体对法律文本的含义、内容及其适用所作的说明,statutory interpretation
+equity,衡平法,法律,历史上为弥补普通法僵化不足而发展起来的公平救济规则体系,
+common law,普通法,法律,以判例为主要渊源、由法官在审判中逐渐形成的法律体系,case law
+statutory law,成文法,法律,由立法机关依照法定程序制定并以条文形式表现的法律,statute law; written law
+natural law,自然法,法律,认为存在高于实在法并作为其正当性依据的普遍理性法则的理论,

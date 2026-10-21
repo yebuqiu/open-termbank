@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+phonetics,语音学,语言学,研究人类语言语音的产生、物理属性与感知规律的学科,
+vowel,元音,语言学,发音时气流在口腔中不受阻碍而发出的音,
+consonant,辅音,语言学,发音时气流在口腔或咽腔受到某种阻碍而发出的音,
+diphthong,双元音,语言学,发音过程中舌位从一个元音滑向另一个元音的复合元音,
+place of articulation,发音部位,语言学,辅音发音时气流受到阻碍的具体口腔位置,
+manner of articulation,发音方式,语言学,辅音发音时气流受阻与释放的具体方式,
+voicing,清浊,语言学,发音时声带是否振动、用以区别清音与浊音的语音特征,
+plosive,塞音,语言学,发音时声道完全闭塞后突然放开爆破而出的辅音,stop
+fricative,擦音,语言学,发音时气流通过狭窄通道产生摩擦噪声的辅音,
+international phonetic alphabet,国际音标,语言学,由国际语音学会制定的标注人类语音的标准符号系统,IPA
+phoneme,音位,语言学,一种语言中能够区别意义的最小语音单位,
+allophone,音位变体,语言学,同一音位在不同语音环境中的具体发音变体,
+minimal pair,最小对立对,语言学,仅在一个音位上不同而能区别词义的两个词构成的配对,
+phonological rule,音系规则,语言学,描述音位在特定环境中如何实现为具体语音的规则,
+assimilation,同化,语言学,一个音受邻近音影响而变得更相似的音系过程,
+dissimilation,异化,语言学,相邻或相近的音为了避免重复而变得互不相同的音系过程,
+elision,脱落,语言学,语流中某些音被省略不发的音系现象,deletion
+distinctive feature,区别性特征,语言学,音系学中用以区分音位的最小语音特征单位,
+syllable,音节,语言学,由一个或多个音位构成、以响音为中心的语音结构单位,
+tone sandhi,连读变调,语言学,声调语言中声调在连读时发生规律性变化的现象,
+morpheme,语素,语言学,语言中音与义相结合的最小语言单位,morph
+allomorph,语素变体,语言学,同一语素在不同环境中的不同语音表现形式,
+free morpheme,自由语素,语言学,能够独立成词、不需要依附其他语素的语素,
+bound morpheme,黏着语素,语言学,不能独立成词、必须依附于其他语素使用的语素,
+root,词根,语言学,承载词汇基本意义、不能再分解的语素部分,
+affix,词缀,语言学,附着于词根或词干、用以构词或构形的黏着语素,
+derivation,派生,语言学,通过添加词缀等方式构成新词的构词过程,
+inflection,屈折,语言学,通过词形变化表达语法关系而不改变词类的构形过程,
+compound word,复合词,语言学,由两个或多个词根语素组合而成的新词,compound
+word formation,构词法,语言学,语言中创造新词的各种方式与规律的总称,
+syntax,句法学,语言学,研究词如何组合成短语与句子的语言学分支,
+phrase structure,短语结构,语言学,句子内部成分按层级组织的方式及其规则,constituent structure
+noun phrase,名词短语,语言学,以名词为核心、可含限定与修饰成分的短语,NP
+verb phrase,动词短语,语言学,以动词为核心、包含宾语及其他补足成分的短语,VP
+subject,主语,语言学,句子中陈述的对象、通常与谓语对应的句法成分,
+predicate,谓语,语言学,句子中对主语进行陈述说明的句法成分,
+object,宾语,语言学,动词所支配、表示动作涉及对象的句法成分,
+deep structure,深层结构,语言学,生成语法中反映句子抽象句法语义关系的底层表达,
+surface structure,表层结构,语言学,生成语法中句子经过转换后实际呈现的表达层面,
+generative grammar,生成语法,语言学,乔姆斯基开创的以规则系统生成所有合法句子的语法理论,transformational grammar
+semantics,语义学,语言学,研究语言形式与意义之间关系的语言学分支,
+sense,涵义,语言学,词语在语言系统内部与其他词的意义关系总和,
+reference,指称,语言学,语言表达与外部世界对象之间的对应关系,denotation
+hyponymy,上下义关系,语言学,词义之间存在类属包含的语义关系,
+synonymy,同义关系,语言学,词与词之间意义相同或相近的语义关系,
+antonymy,反义关系,语言学,词与词之间意义相反或相对的语义关系,
+polysemy,多义现象,语言学,一个词具有多个相互关联意义的语义现象,
+homonymy,同音异义,语言学,语音或书写形式相同而意义互不相关的语义现象,
+metaphor,隐喻,语言学,基于相似性将一个概念域映射到另一概念域的语言与思维现象,
+prototype theory,原型理论,语言学,认为范畴以最具代表性的典型成员为中心组织的语义理论,
+pragmatics,语用学,语言学,研究语言在具体语境中的使用与理解的语言学分支,
+speech act,言语行为,语言学,说话者通过话语完成请求、承诺等行为的交际单位,speech act theory
+conversational implicature,会话含义,语言学,依据合作原则从话语中推导出的言外之意,implicature
+cooperative principle,合作原则,语言学,格赖斯提出的会话双方应共同遵循的交际合作准则,CP
+deixis,指示,语言学,依赖语境确定所指的人称、时间与地点等语言成分,
+politeness theory,礼貌理论,语言学,解释交际中维护双方面子的策略选择规律的理论,
+face,面子,语言学,交际者希望在公众面前维护的积极社会自我形象,
+context,语境,语言学,影响语言理解与使用的语言内外环境因素的总和,
+presupposition,预设,语言学,说话者在使用某语句时默认为真的背景信息,
+adjacency pair,相邻语对,语言学,会话中由两个相互关联话轮构成的基本序列单位,
+sociolinguistics,社会语言学,语言学,研究语言与社会因素相互关系的语言学分支,
+dialect,方言,语言学,语言在地域或社会层面形成的有系统性差异的变体,
+register,语域,语言学,因使用场合与交际功能不同而形成的语言变体,
+code-switching,语码转换,语言学,交际中说话者在两种或多种语言或变体之间交替使用的现象,code mixing
+diglossia,双言现象,语言学,同一社区中两种语言变体分别承担高低功能的社会语言格局,
+pidgin,皮钦语,语言学,不同语言群体接触中形成的结构简化的临时交际语言,pidgin language
+creole,克里奥尔语,语言学,皮钦语经一代人习得为母语后发展成的稳定混合语言,
+language planning,语言规划,语言学,社会为改善语言的地位与功能而进行的有意识干预活动,
+bilingualism,双语现象,语言学,个人或社会群体掌握并使用两种语言的状态,
+lingua franca,通用语,语言学,不同母语群体之间用于相互交际的共同语言,
+psycholinguistics,心理语言学,语言学,研究语言习得、理解与产出的心理机制的语言学分支,
+first language acquisition,第一语言习得,语言学,儿童在自然环境中自然掌握母语的过程,L1 acquisition
+second language acquisition,第二语言习得,语言学,学习者在母语之外习得其他语言的过程与规律,SLA
+critical period hypothesis,关键期假说,语言学,认为语言习得存在生理决定的最佳年龄窗口的假说,CPH
+lexical access,词汇通达,语言学,语言加工中从心理词典检索词项信息的过程,
+parsing,句法分析,语言学,理解句子时对句法结构进行实时建构的心理过程,syntactic parsing
+garden path sentence,花园路径句,语言学,引导读者先做出错误句法分析再被迫重新解读的句子,
+language comprehension,语言理解,语言学,听者或读者对语言信息进行解码与意义建构的过程,
+mental lexicon,心理词典,语言学,存储于头脑中的词汇知识系统及其组织方式,
+aphasia,失语症,语言学,因脑损伤导致的语言理解或产出能力的获得性障碍,
+computational linguistics,计算语言学,语言学,运用计算方法研究与处理自然语言的交叉学科,CL
+natural language processing,自然语言处理,语言学,让计算机理解、生成与处理人类语言的技术领域,NLP
+machine translation,机器翻译,语言学,利用计算机自动将一种语言文本转换为另一种语言的技术,MT
+corpus,语料库,语言学,按一定原则收集的大规模真实语言材料的电子集合,text corpus
+tokenization,分词,语言学,将连续文本切分为独立词元的基础处理步骤,word segmentation
+part-of-speech tagging,词性标注,语言学,自动为文本中每个词赋予词类标签的技术,POS tagging
+language model,语言模型,语言学,计算词序列出现概率、用于预测与生成文本的统计或神经模型,LM
+word sense disambiguation,词义消歧,语言学,自动确定多义词在特定语境中具体义项的技术,WSD
+speech recognition,语音识别,语言学,将语音信号自动识别并转换为文字的技术,automatic speech recognition; ASR
+n-gram,n元模型,语言学,由连续n个词组成的序列及其概率构成的统计语言模型,n-gram model
+historical linguistics,历史语言学,语言学,研究语言随时间演变的规律与机制的语言学分支,
+comparative method,历史比较法,语言学,通过比较有亲属关系的语言来重构原始母语的方法,
+proto-language,原始语,语言学,依据历史比较法重构的、某语系共同祖先的假设语言,protolanguage
+cognate,同源词,语言学,源于共同祖语、在不同语言中保留对应关系的词,cognate word
+sound change,语音演变,语言学,语言的语音系统随时间发生的有规律变化,
+language family,语系,语言学,由共同祖语分化而来的、具有谱系关系的语言集团,
+etymology,词源学,语言学,研究词的来源及其形式与意义历史演变的学问,
+borrowing,借词,语言学,一种语言从另一种语言吸收词汇成分的现象或由此借入的词,loanword
+grammaticalization,语法化,语言学,实词或结构在历史发展中逐渐演变为语法成分的过程,
+semantic change,语义演变,语言学,词义在历史发展中发生扩大、缩小或转移的变化,

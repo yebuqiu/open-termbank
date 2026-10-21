@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+oxidation state,氧化态,化学,表示原子在化合物中氧化程度的标称电荷数,oxidation number
+coordination compound,配合物,化学,由中心原子或离子与配体通过配位键结合形成的化合物,complex
+ligand,配体,化学,配合物中能提供孤对电子并与中心原子配位的离子或分子,
+crystal field theory,晶体场理论,化学,将配体视为点电荷静电场来解释配合物结构与性质的理论,CFT
+transition metal,过渡金属,化学,具有未充满d或f电子层的d区和f区金属元素,transition element
+lanthanide,镧系元素,化学,周期表中原子序数57至71的十五种元素的总称,lanthanoid
+redox reaction,氧化还原反应,化学,反应过程中有元素氧化态发生变化的化学反应,oxidation-reduction reaction
+allotrope,同素异形体,化学,由同种元素组成而结构性质不同的单质,
+hydrate,水合物,化学,含有一定数目结晶水分子的化合物,
+complex ion,配离子,化学,由中心离子与若干配体结合形成的带电配位单元,coordination ion
+chelate,螯合物,化学,多齿配体与中心原子配位形成环状结构的配合物,chelate complex
+halogen,卤素,化学,周期表第ⅦA族氟氯溴碘砹等非金属元素的总称,halogens
+functional group,官能团,化学,决定有机化合物主要化学性质的原子或原子团,
+isomer,同分异构体,化学,分子式相同但结构或空间排列不同的化合物,
+chirality,手性,化学,物体与其镜像不能完全重合的空间结构特性,
+enantiomer,对映体,化学,互为实物与镜像关系且不能重合的一对立体异构体,optical isomer
+aromaticity,芳香性,化学,环状共轭体系因电子离域而表现出的特殊稳定性,
+nucleophile,亲核试剂,化学,能提供电子对进攻反应物缺电子部位的试剂,
+electrophile,亲电试剂,化学,能接受电子对进攻反应物富电子部位的试剂,
+substitution reaction,取代反应,化学,化合物中的原子或基团被其他原子或基团替换的反应,
+addition reaction,加成反应,化学,不饱和键打开并加上其他原子或基团的反应,
+elimination reaction,消除反应,化学,从一个分子中脱去小分子从而形成不饱和键的反应,
+esterification,酯化反应,化学,羧酸与醇在酸催化下作用生成酯和水的反应,
+hydrolysis,水解,化学,化合物与水反应而发生分解的一类反应,
+carboxylic acid,羧酸,化学,分子中含有羧基的一类有机酸性化合物,
+grignard reagent,格氏试剂,化学,由卤代烃与金属镁在醚中反应制得的有机镁试剂,RMgX
+titration,滴定,化学,将标准溶液逐滴加入待测液直至反应完全的定量分析方法,volumetric analysis
+end point,滴定终点,化学,滴定过程中由指示剂变色等信号指示停止滴定的点,endpoint
+standard solution,标准溶液,化学,浓度准确已知并用于滴定分析的溶液,
+gravimetric analysis,重量分析,化学,通过称量反应产物质量确定待测组分含量的分析方法,gravimetry
+calibration curve,校准曲线,化学,表示仪器响应值与待测物浓度之间定量关系的曲线,standard curve
+detection limit,检出限,化学,分析方法能够可靠检出待测物的最低浓度或最小量,LOD; limit of detection
+blank test,空白试验,化学,不加试样而以完全相同步骤进行的对照试验,blank determination
+buffer solution,缓冲溶液,化学,能抵抗外加少量强酸强碱而保持pH基本不变的溶液,buffer
+indicator,指示剂,化学,能在特定条件下改变颜色以指示反应进程或终点的物质,
+precision,精密度,化学,多次平行测定结果之间相互接近的程度,
+accuracy,准确度,化学,测定结果与被测量真值之间相接近的程度,
+enthalpy,焓,化学,描述体系在恒压条件下热量变化的热力学状态函数,H
+entropy,熵,化学,量度体系混乱程度的热力学状态函数,S
+gibbs free energy,吉布斯自由能,化学,恒温恒压下判断过程自发进行方向的热力学函数,G; free energy
+chemical equilibrium,化学平衡,化学,可逆反应中正逆反应速率相等且各组分浓度不再改变的状态,
+equilibrium constant,平衡常数,化学,化学平衡时生成物与反应物浓度幂乘积的比值,K
+le chatelier principle,勒夏特列原理,化学,平衡体系受外界条件改变时向削弱该改变的方向移动的规律,Le Chatelier's principle
+activation energy,活化能,化学,反应物分子转变为活化状态所需跨越的最低能量,Ea
+reaction rate,反应速率,化学,单位时间内反应物或生成物浓度的变化量,rate of reaction
+rate constant,速率常数,化学,速率方程中与浓度无关的比例系数,rate coefficient
+half-life,半衰期,化学,反应物浓度降低到初始值一半所需要的时间,t1/2
+phase diagram,相图,化学,表示体系相态随温度压力等条件变化关系的图形,
+ideal gas,理想气体,化学,分子本身不占体积且分子间无相互作用力的假想气体,perfect gas
+chemical kinetics,化学动力学,化学,研究化学反应速率及反应机理的分支学科,reaction kinetics
+polymer,聚合物,化学,由大量重复结构单元通过共价键连接而成的高分子化合物,macromolecule
+monomer,单体,化学,能通过聚合反应形成聚合物的小分子化合物,
+polymerization,聚合反应,化学,单体分子相互结合形成聚合物大分子的化学反应,polymerisation
+copolymer,共聚物,化学,由两种或多种单体共同聚合而成的聚合物,
+glass transition temperature,玻璃化转变温度,化学,非晶态聚合物从玻璃态转变为高弹态的特征温度,Tg
+crosslinking,交联,化学,线型聚合物分子链之间形成化学键并连成网状结构的过程,cross-linking
+thermoplastic,热塑性塑料,化学,受热软化冷却硬化且可反复塑化加工的一类塑料,
+spectroscopy,光谱学,化学,研究物质与电磁辐射相互作用所产生的光谱及其应用的学科,
+infrared spectroscopy,红外光谱,化学,利用物质对红外光的吸收研究分子振动与结构的分析方法,IR spectroscopy
+ultraviolet-visible spectroscopy,紫外可见光谱,化学,利用物质对紫外可见光的吸收进行定性定量分析的方法,UV-Vis spectroscopy
+nuclear magnetic resonance,核磁共振,化学,磁性原子核在磁场中吸收射频辐射产生共振信号的分析技术,NMR
+mass spectrometry,质谱,化学,将样品离子化后按质荷比分离检测以确定分子量和结构的技术,MS
+chromatography,色谱法,化学,利用组分在固定相和流动相之间分配差异进行分离分析的方法,
+gas chromatography,气相色谱,化学,以气体为流动相的色谱分离分析技术,GC
+high-performance liquid chromatography,高效液相色谱,化学,以高压输送流动相实现快速高效分离的液相色谱技术,HPLC
+atomic absorption spectroscopy,原子吸收光谱,化学,基于基态原子对特征辐射的吸收进行元素定量分析的方法,AAS
+fluorescence,荧光,化学,物质吸收光能后几乎立即发射出较长波长光的现象,
+x-ray diffraction,X射线衍射,化学,利用X射线在晶体中的衍射现象研究晶体结构的方法,XRD
+electron microscopy,电子显微镜,化学,以电子束代替可见光成像从而获得高分辨图像的显微技术,EM
+electrode,电极,化学,电化学体系中发生电子转移反应的导体,
+anode,阳极,化学,电化学体系中发生氧化反应的电极,
+cathode,阴极,化学,电化学体系中发生还原反应的电极,
+electrolyte,电解质,化学,在水溶液中或熔融状态下能够导电的化合物,
+galvanic cell,原电池,化学,利用自发氧化还原反应将化学能转化为电能的装置,voltaic cell
+electrolysis,电解,化学,在外加直流电作用下使非自发氧化还原反应得以发生的过程,
+standard electrode potential,标准电极电位,化学,标准状态下电极与标准氢电极组成原电池所测得的电位,standard reduction potential
+corrosion,腐蚀,化学,材料与环境发生化学或电化学作用而遭受破坏的现象,
+colloid,胶体,化学,分散相粒子直径在1至100纳米之间的分散体系,colloidal system
+surface tension,表面张力,化学,作用于液面并使液体表面趋于收缩的力,
+surfactant,表面活性剂,化学,具有两亲结构并能显著降低液体表面张力的物质,surface active agent
+emulsion,乳状液,化学,一种液体以小液滴形式分散在互不相溶的另一种液体中形成的体系,
+micelle,胶束,化学,表面活性剂分子在溶液中达到临界浓度后聚集形成的胶团,micella
+gel,凝胶,化学,胶体粒子或高分子相互连接形成的包含液体的半固体体系,
+adsorption,吸附,化学,气体或溶质分子在固体或液体表面上富集的现象,
+zeta potential,电动电位,化学,胶体粒子滑动面与溶液本体之间的电位差,electrokinetic potential
+catalyst,催化剂,化学,能改变化学反应速率而本身在反应前后不被消耗的物质,
+catalysis,催化作用,化学,催化剂改变化学反应速率的作用及过程,
+heterogeneous catalysis,多相催化,化学,催化剂与反应物处于不同相的催化作用,
+homogeneous catalysis,均相催化,化学,催化剂与反应物处于同一相中的催化作用,
+photocatalysis,光催化,化学,在光照条件下由催化剂促进进行的化学反应,
+catalyst poisoning,催化剂中毒,化学,少量杂质使催化剂活性显著下降甚至丧失的现象,
+mole,摩尔,化学,表示物质的量的基本单位，1摩尔约含6.02×10^23个基本单元,mol
+molar mass,摩尔质量,化学,单位物质的量的物质所具有的质量,M
+avogadro constant,阿伏伽德罗常数,化学,1摩尔任何粒子集合体中所含的基本单元数,NA
+stoichiometry,化学计量学,化学,研究化学反应中反应物与生成物之间量的关系的学科,
+empirical formula,实验式,化学,仅表示化合物中各元素原子最简单整数比的化学式,simplest formula
+molecular formula,分子式,化学,表示分子中各元素原子实际数目的化学式,
+IUPAC nomenclature,IUPAC命名法,化学,国际纯粹与应用化学联合会制定的化学物质系统命名规则,systematic nomenclature
+amount of substance,物质的量,化学,以阿伏伽德罗常数为基准表示粒子数目多少的基本物理量,n
+molarity,物质的量浓度,化学,单位体积溶液中所含溶质的物质的量,molar concentration
