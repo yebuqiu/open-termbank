@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*-
 """IATE 导入器：解析 IATE 导出的 TBX（ISO 30042），抽取 en + zh-CN 双语条目。
 
+⚠️ 2026-10-21 实测：IATE 全量 dump 无中文（仅欧盟 24 官方语言 + 拉丁语），
+en+zh 方向不可用；本脚本仅在未来 IATE 收录中文或处理其它语言对时有用。
+
 背景（为什么值得收）：
   IATE 的下载条款明确允许再分发与演绎，只需署名 "Download IATE, European Union, [年份]"。
   这是本库唯一建议**成规模收录**的外部官方源（微软术语集/搜狗衍生/UMLS 派生数据均禁止直收，
@@ -31,7 +34,7 @@ import xml.etree.ElementTree as ET
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
-HEADER = ["source", "target", "domain"]
+HEADER = ["source", "target", "domain", "definition", "synonyms"]
 
 # IATE 语言码 → 本库语言
 LANG_ALIAS = {
@@ -118,14 +121,15 @@ def main():
         with io.open(target, encoding="utf-8") as f:
             for r in csv.reader(f):
                 if r and r[0] != "source":
-                    existing[r[0].lower()] = (r[0], r[1], r[2])
+                    r += [""] * (5 - len(r))
+                    existing[r[0].lower()] = (r[0], r[1], r[2], r[3], r[4])
     added = skipped = 0
     for e in entries:
         key = e["en"].lower()
         if key in existing:
             skipped += 1
             continue
-        existing[key] = (e["en"], e["zh"], args.domain)
+        existing[key] = (e["en"], e["zh"], args.domain, "", "")
         added += 1
 
     with io.open(target, "w", encoding="utf-8", newline="\n") as f:
@@ -139,7 +143,8 @@ def main():
         fields[e["field"] or "(无)"] = fields.get(e["field"] or "(无)", 0) + 1
     for k, v in sorted(fields.items(), key=lambda x: -x[1])[:10]:
         print("   %-40s %d" % (k[:40], v))
-    print("→ ⚠ 署名义务：在 data/SOURCES.md 记一行 "Download IATE, European Union, <年份>"")
+    print('→ ⚠ 署名义务：在 data/SOURCES.md 记一行 "Download IATE, European Union, <年份>"')
+    print("→ ⚠ 五列模式：新增条目 definition 为空，build_index.py 会拦——补写定义后再过门禁")
     return 0
 
 

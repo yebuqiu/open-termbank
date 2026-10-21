@@ -1,5 +1,9 @@
 # open-termbank · 多学科中英术语对照数据库
 
+[![check](https://github.com/yebuqiu/open-termbank/actions/workflows/check.yml/badge.svg)](https://github.com/yebuqiu/open-termbank/actions/workflows/check.yml)
+[![数据许可 CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-blue.svg)](data/LICENSE)
+<!-- Zenodo DOI 徽标：开启 Zenodo 集成后替换（见 PUBLISHING.md） -->
+
 > 一个**按学科领域组织、可自由选择与下载**的英中术语对照（termbase）开放数据库。
 > 供翻译工具、CAT 插件、词典应用、NLP 术语一致性评测等直接消费。
 
@@ -79,18 +83,29 @@ https://raw.githubusercontent.com/yebuqiu/open-termbank/main/data/medicine.csv
 ## 构建 / 校验 / 导入
 
 ```bash
-python scripts/build_index.py --version 1.0.0   # 校验所有数据 + 生成 index.json
+python scripts/build_index.py --version 2.0.0   # 校验所有数据 + 生成 index.json
 python scripts/build_index.py --check           # 只校验（CI / 提交前）
 python scripts/export_tbx.py                    # 重新生成 TBX
 python scripts/import_csv.py 输入.csv --domain 计算机          # 通用导入（CSV/TSV/JSON/行式）
-python scripts/import_iate.py iate导出.tbx --domain 医学 --reliability 3   # IATE TBX 导入
+python scripts/import_iate.py iate导出.tbx --domain 医学 --reliability 3   # IATE 按域导出 TBX 导入
+python scripts/extract_iate_full.py dump.tbx --out en-zh.tsv   # IATE 全量 dump 流式抽取
+python scripts/select_iate.py en-zh.tsv --reliability 3        # 候选遴选（域映射+去重+限额）
 python scripts/sync_remote.py             # 同步到 GitHub（REST 通道，见下）
 ```
 
-全部 Python 3 标准库、零依赖。**为什么发布走 REST 而不是 git push**：本机的
+全部 Python 3 标准库、零依赖（仅 HF 镜像推送脚本需要 `huggingface_hub`）。
+**为什么发布走 REST 而不是 git push**：本机的
 github.com git 协议被网络阻断（api.github.com 通畅）——`sync_remote.py` 沿用
 PaperPilot 项目 sync-github.py 的「blob 内容寻址增量」打法；令牌从
 `PP_GITHUB_TOKEN` 环境变量或密钥库文件读取，不进命令行。
+
+## 社区贡献与镜像
+
+- **贡献**：见 [CONTRIBUTING.md](CONTRIBUTING.md)（数据契约 / 质量门槛 / PR 流程）；
+  CI 门禁自动校验每个 PR；
+- **镜像与 DOI**：Zenodo（`.zenodo.json` 已备，开启集成即发 Release 自动铸 DOI）与
+  HuggingFace Datasets（`hf/` 数据集卡 + 推送脚本）——操作步骤见
+  [PUBLISHING.md](PUBLISHING.md)；引用格式见 [CITATION.cff](CITATION.cff)。
 
 ## 贡献纪律（重要）
 
@@ -111,6 +126,9 @@ PaperPilot 项目 sync-github.py 的「blob 内容寻址增量」打法；令牌
 **可以收**：自编/原创条目（附来源说明）、你自有版权的词表、
 **IATE 导出**（其条款允许再分发，只需署名 `Download IATE, European Union, [年份]`——
 用 `scripts/import_iate.py` 并在 SOURCES.md 登记署名行）。
+⚠️ **2026-10-21 实测：IATE 官方全量 dump 仅含欧盟 24 种官方语言，没有中文**；
+`import_iate.py` / `extract_iate_full.py` 仅在 IATE 未来收录中文或处理其它语言对时有用，
+en+zh 方向本库靠**自编扩充**。
 
 ## 许可
 
@@ -121,8 +139,12 @@ PaperPilot 项目 sync-github.py 的「blob 内容寻址增量」打法；令牌
 ## 现状与路线
 
 - v1.0.0（2026-10-18，已发布）：4 域 80 条自编种子，数据规范与同步协议定型；
-- **v2.0.0（2026-10-21，已发布）**：**20 域 × 100 条 = 2000 条**，全部带自编中文定义，
-  45% 条目附英文同义词/缩写；模式升级为五列（`+definition,synonyms`），
-  TBX 导出含 `<descrip type="definition">` 与同义词 tig；向后兼容三列消费方；
-- 下一步：用 IATE 导入器成规模扩充（en+zh 全域）；社区 PR 补域与补条；
-  可选 Zenodo/HuggingFace 镜像发布 DOI。
+- v2.0.0（2026-10-21，已发布）：20 域 × 100 条 = 2000 条，五列模式定型；
+- **v2.1.0（2026-10-21，已发布）**：**20 域 3998 条**（第二批每域 +100 条进阶级术语，
+  覆盖更细子领域）；社区基础设施上线——CONTRIBUTING.md / 数据门禁 CI（Actions）/
+  issue 与 PR 模板；Zenodo（.zenodo.json + CITATION.cff）与 HuggingFace（hf/ 数据集卡
+  + 推送脚本）镜像就绪（步骤见 PUBLISHING.md）；
+- **IATE 路径证伪**：2026-10-21 实测官方全量 dump（93.5 万条目）无任何中文——
+  en+zh 成规模扩充不能走 IATE，本库坚持自编为主、社区 PR 为辅；
+- 下一步：社区 PR 补域与补条；Zenodo DOI 与 HF 镜像启用（一次性人工步骤）；
+  视需求继续第三批扩充或补新域（如心理学分支、地质、海洋科学）。

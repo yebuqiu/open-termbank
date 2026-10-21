@@ -99,3 +99,103 @@ actuarial science,精算学,金融,运用数学与统计方法评估保险与金
 underwriting,承保,金融,保险人评估投保风险并决定是否接受承保及确定费率的过程,
 reinsurance,再保险,金融,保险公司将已承保的部分风险转移给其他保险人的风险分散方式,
 basel accord,巴塞尔协议,金融,巴塞尔委员会制定的关于银行资本充足率监管的国际标准,Basel Accord; Basel III
+loss aversion,损失厌恶,金融,行为金融学术语指投资者对损失的心理痛苦显著大于等额收益带来的满足感从而偏离理性决策,
+anchoring effect,锚定效应,金融,投资者过度依赖最初获得的信息作为参照点而低估后续信息价值的心理偏差,anchoring bias
+herding behavior,羊群行为,金融,投资者忽视私有信息而模仿他人决策导致市场交易趋同的现象,herd instinct
+overconfidence bias,过度自信偏差,金融,投资者高估自身判断能力与信息精度从而过度交易的认知偏差,overconfidence
+mental accounting,心理账户,金融,人们在头脑中将资金按来源与用途划入不同账户并区别对待的非理性倾向,
+prospect theory,前景理论,金融,描述人们在收益与损失区间风险偏好不对称的决策理论是行为金融学的基石,
+disposition effect,处置效应,金融,投资者倾向于过早卖出盈利资产而过久持有亏损资产的行为模式,
+representativeness heuristic,代表性启发式,金融,依据事物与典型模式的相似程度判断概率而忽视基础比率的认知捷径,representativeness
+availability heuristic,可得性启发式,金融,依据记忆中事例的易得程度估计事件发生概率从而产生偏差的认知方式,availability bias
+framing effect,框架效应,金融,同一问题的不同表述方式导致人们做出不同决策的心理现象,
+confirmation bias,确认偏差,金融,人们倾向于搜寻与解释支持既有观点的信息而忽略反面证据,
+endowment effect,禀赋效应,金融,人们对已拥有物品的估价显著高于未拥有时的现象反映所有权对偏好的影响,
+regret aversion,后悔厌恶,金融,投资者为避免未来后悔而回避决策或随大流的心理倾向,
+noise trader,噪声交易者,金融,依据非基本面信息或情绪进行交易的投资者其集中行动可使价格偏离价值,noise trading
+behavioral portfolio theory,行为投资组合理论,金融,认为投资者按心理账户分层构建金字塔式资产组合而非追求整体均值方差最优,BPT
+blockchain,区块链,金融,通过密码学与共识机制维护的分布式账本技术可实现去中心化的价值转移与存证,distributed ledger technology
+smart contract,智能合约,金融,部署在区块链上按预设条件自动执行的程序化协议无需中介即可履约,self-executing contract
+cryptocurrency,加密货币,金融,基于密码学与分布式账本发行与流通的数字化价值载体典型代表为比特币,digital currency
+stablecoin,稳定币,金融,通过锚定法币商品或依靠算法机制维持币值相对稳定的加密货币,pegged coin
+central bank digital currency,央行数字货币,金融,由中央银行发行的法定货币数字形式兼具现金属性并与支付体系直接联通,CBDC
+peer-to-peer lending,网络借贷,金融,借助互联网平台实现借款人与出借人直接对接的借贷模式绕过传统金融中介,P2P lending
+crowdfunding,众筹,金融,通过互联网平台向众多小额出资人募集资金支持项目或企业发展的融资方式,crowd financing
+robo-advisor,智能投顾,金融,基于算法与大数据分析为客户提供自动化资产配置建议的数字化财富管理服务,automated investment advisor
+digital wallet,数字钱包,金融,存储支付凭证与数字资产并支持线上线下交易的电子化支付工具,e-wallet
+open banking,开放银行,金融,银行通过应用程序接口向第三方服务商共享客户授权数据的金融服务模式,
+regtech,监管科技,金融,运用大数据与人工智能等技术帮助金融机构满足合规要求并降低监管成本,regulatory technology
+insurtech,保险科技,金融,将数字技术应用于保险产品设计定价核保与理赔全流程的创新模式,insurance technology
+payment gateway,支付网关,金融,在商户与收单机构之间加密传输支付信息并完成交易授权的接口服务,
+tokenization,通证化,金融,将现实资产权益转化为区块链上可流通数字凭证的过程有助于提升资产流动性,asset tokenization
+decentralized finance,去中心化金融,金融,基于区块链智能合约构建的无需传统中介的借贷交易与资产管理金融体系,DeFi
+ESG integration,ESG整合,金融,在投资分析与决策中系统性纳入环境社会与公司治理因素的方法,ESG investing
+green bond,绿色债券,金融,募集资金专项用于环保与低碳项目的债券须遵循绿色债券原则并披露资金用途,climate bond
+sustainable finance,可持续金融,金融,将环境与社会可持续性纳入金融体系资金配置的框架涵盖绿色信贷与投资,
+impact investing,影响力投资,金融,在获取财务回报的同时主动追求可衡量的社会与环境正面效应的投资,
+socially responsible investing,社会责任投资,金融,依据伦理与环境社会标准筛选投资标的的投资策略常采用排除法,SRI
+carbon credit,碳信用,金融,代表一定量温室气体减排量的可交易凭证可在碳市场买卖以抵消排放,carbon offset
+greenwashing,漂绿,金融,企业或金融产品夸大环保表现以误导投资者与消费者的虚假绿色宣传行为,
+negative screening,负面筛选,金融,在投资组合构建中排除烟草武器等不符合伦理标准行业或公司的方法,exclusionary screening
+shareholder engagement,股东积极主义,金融,投资者通过对话与投票等方式推动被投资公司改善治理与可持续表现,active ownership
+stranded asset,搁浅资产,金融,因气候政策或技术变革而提前贬值或无法产生预期收益的资产,
+yield curve,收益率曲线,金融,描述同一信用等级债券在不同期限下收益率关系的曲线常用于预判经济周期,term structure curve
+duration,久期,金融,衡量债券价格对利率变动敏感度的指标等于各期现金流时间的加权平均值,Macaulay duration
+convexity,凸性,金融,衡量债券价格与收益率关系弯曲程度的指标用于修正久期估计的误差,bond convexity
+credit spread,信用利差,金融,风险债券与无风险债券收益率之差反映市场对违约风险的补偿要求,yield spread
+yield to maturity,到期收益率,金融,使债券未来现金流现值等于当前价格的贴现率是债券投资的内含收益率,YTM
+coupon rate,票面利率,金融,债券发行人按票面金额支付利息的年化比率决定每期票息金额,nominal yield
+treasury bond,国债,金融,由中央政府发行以国家信用为担保的债券通常被视为无风险利率基准,government bond
+corporate bond,公司债券,金融,企业为筹措资金发行并承诺按期还本付息的债务凭证信用风险高于国债,
+convertible bond,可转换债券,金融,持有人有权按约定条件将债券转换为发行公司股票的混合型证券,CB
+junk bond,垃圾债券,金融,信用评级低于投资级的高收益债券其违约风险与票息补偿均较高,high-yield bond
+zero-coupon bond,零息债券,金融,不支付期间票息而以低于面值折价发行到期按面值偿还的债券,discount bond
+callable bond,可赎回债券,金融,发行人有权在到期日前按约定价格提前赎回的债券利于利率下行时再融资,redeemable bond
+sinking fund,偿债基金,金融,发行人为按期偿还债务而定期提存的专项资金可降低到期违约风险,
+credit rating,信用评级,金融,评级机构对债务主体偿债能力与意愿作出的综合评定并以等级符号表示,
+term structure of interest rates,利率期限结构,金融,同一时点不同期限利率之间的关系是收益率曲线的理论基础,
+value at risk,风险价值,金融,在给定置信水平与持有期内投资组合可能遭受的最大损失估计值,VaR
+stress testing,压力测试,金融,模拟极端但可能发生的市场情景评估金融机构或组合承受冲击能力的方法,stress test
+credit risk,信用风险,金融,因交易对手或债务人未能履行合约义务而造成损失的风险,credit exposure
+market risk,市场风险,金融,因利率汇率股价等市场因子不利变动导致资产价值损失的风险,
+operational risk,操作风险,金融,因内部流程失误人员过错系统故障或外部事件造成损失的风险,
+liquidity risk,流动性风险,金融,资产无法在不显著压低价格的情况下迅速变现或无法及时获得融资的风险,funding liquidity risk
+counterparty risk,交易对手风险,金融,衍生品或借贷交易中对手方在合约期内违约而造成损失的风险,
+risk appetite,风险偏好,金融,机构为实现战略目标愿意承担的风险总量与类型的书面表述,risk appetite statement
+risk exposure,风险敞口,金融,未对冲的易受风险因子影响的资产或负债头寸规模,exposure
+expected shortfall,预期损失,金融,损失超过风险价值阈值时的条件平均值是比风险价值更稳健的尾部风险度量,conditional VaR; CVaR
+backtesting,回测,金融,用历史数据检验风险模型预测准确性的程序是模型验证的核心环节,
+sharpe ratio,夏普比率,金融,投资组合超额收益与总波动之比用于衡量单位风险所获得的补偿,reward-to-variability ratio
+foreign exchange reserve,外汇储备,金融,一国货币当局持有的可随时用于国际支付与干预汇市的外币资产,FX reserves
+currency swap,货币互换,金融,交易双方按约定汇率交换两种货币的本金与利息流的衍生合约,cross-currency swap
+purchasing power parity,购买力平价,金融,认为长期汇率取决于两国物价水平之比的汇率决定理论,PPP
+interest rate parity,利率平价,金融,认为两国利差应等于远期与即期汇率差异从而消除套利空间的理论,IRP
+capital account,资本账户,金融,国际收支中记录资本转移与跨境金融资产交易的账户,
+current account,经常账户,金融,国际收支中记录货物服务贸易与初次及二次收入往来的账户,
+foreign direct investment,外国直接投资,金融,投资者为获取持久经营权而在境外设立或参股企业的跨境投资,FDI
+sovereign wealth fund,主权财富基金,金融,由政府设立并管理以财政盈余或外汇储备进行全球投资的投资基金,SWF
+currency depreciation,货币贬值,金融,一国货币以外币计价的汇率下降会改变出口品外币价格并影响贸易收支,
+fixed exchange rate,固定汇率制,金融,货币当局将本币汇率钉住某种外币或货币篮子并加以维持的汇率制度,pegged exchange rate
+floating exchange rate,浮动汇率制,金融,汇率主要由外汇市场供求决定货币当局不承诺维持特定水平的制度,flexible exchange rate
+capital control,资本管制,金融,政府对跨境资本流动实施的限额审批或征税等限制性管理措施,capital restriction
+hot money,热钱,金融,为追逐短期利差与汇率收益而在国际间快速进出的大规模投机性资金,speculative capital flow
+currency crisis,货币危机,金融,投机冲击下固定汇率崩溃或货币急剧贬值并引发金融动荡的事件,
+impossible trinity,不可能三角,金融,开放经济中固定汇率资本自由流动与独立货币政策三者不可兼得,trilemma
+special drawing rights,特别提款权,金融,国际货币基金组织创设的按一篮子货币定值并分配给成员国的储备资产,SDR
+open market operations,公开市场操作,金融,中央银行在金融市场上买卖有价证券以调节基础货币与利率的政策工具,OMO
+discount rate,再贴现率,金融,中央银行向商业银行提供再贴现或常备借贷便利时收取的利率,bank rate
+lender of last resort,最后贷款人,金融,中央银行在金融机构陷入流动性危机时提供紧急融资以维护金融稳定的职能,LOLR
+forward guidance,前瞻性指引,金融,中央银行就未来政策利率路径向公众沟通以影响市场预期的政策工具,
+inflation targeting,通货膨胀目标制,金融,中央银行公开承诺并实现特定通胀目标以锚定预期的货币政策框架,
+macroprudential policy,宏观审慎政策,金融,以防范系统性金融风险为目标针对金融体系整体实施的监管政策框架,
+sterilization,冲销操作,金融,央行为对冲外汇干预对基础货币的影响而进行的反向公开市场操作,sterilized intervention
+monetary transmission mechanism,货币政策传导机制,金融,货币政策通过利率信贷汇率与资产价格渠道影响实体经济的途径,
+negative interest rate,负利率,金融,政策利率或存款利率降至零以下以刺激信贷与消费的非常规货币政策,NIRP
+central bank independence,中央银行独立性,金融,中央银行在制定货币政策时免受政府短期政治干预的制度保障程度,CBI
+index fund,指数基金,金融,以复制特定指数成分与权重为目标进行被动投资的共同基金,passive fund
+exchange-traded fund,交易型开放式指数基金,金融,在交易所上市交易并跟踪标的指数的可申购赎回开放式基金,ETF
+hedge fund,对冲基金,金融,面向合格投资者募集资金并灵活运用杠杆与衍生品策略的私募基金,
+mutual fund,共同基金,金融,向众多投资者募集资金并由专业机构进行组合投资的集合投资工具,open-end fund
+asset-backed security,资产支持证券,金融,以贷款应收款等基础资产现金流为偿付支持而发行的证券化产品,ABS
+collateralized debt obligation,担保债务凭证,金融,将债券贷款等债务资产打包并分级发行的结构化信用产品,CDO
+credit default swap,信用违约互换,金融,买方向卖方定期付费以在参考实体违约时获得赔偿的信用衍生品,CDS

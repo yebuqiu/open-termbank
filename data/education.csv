@@ -99,3 +99,103 @@ learning disability,学习障碍,教育,个体在听、说、读、写、算等�
 developmentally appropriate practice,发展适宜性实践,教育,依据儿童年龄特点与个体差异设计教育活动的学前教育原则,DAP
 play-based learning,游戏化学习,教育,以游戏为主要载体促进幼儿身心全面发展的教育方式,learning through play
 school readiness,入学准备,教育,儿童在认知、语言与社会性等方面做好适应小学学习的准备状态,
+learning analytics,学习分析,教育,对学习者及其学习环境产生的数据进行测量、收集、分析与报告以理解和优化学习过程的研究领域,LA
+educational data mining,教育数据挖掘,教育,运用数据挖掘方法分析教育系统产生的大规模数据以发现学习规律并支持教学决策的交叉领域,EDM
+academic analytics,学术分析,教育,面向教育机构管理层利用业务数据评估办学绩效并支持宏观决策的分析实践,
+learning dashboard,学习仪表盘,教育,将学习过程数据以可视化图表呈现给师生以支持监控与反思的界面工具,
+early warning system,学业预警系统,教育,基于学习行为与成绩数据识别学业失败风险学生并及时触发干预的信息系统,EWS
+clickstream data,点击流数据,教育,学习者在在线平台上依次点击操作所产生的时间序列行为记录数据,
+learner modeling,学习者建模,教育,依据学习行为数据构建学习者知识状态、认知特征与偏好的计算表征,
+knowledge tracing,知识追踪,教育,根据学生作答序列动态估计其对各知识点掌握程度的建模技术,
+dropout prediction,辍学预测,教育,利用机器学习分析学生背景与学习行为数据以预测其辍学风险的方法,
+microcredential,微证书,教育,对特定技能进行短期学习后经认证颁发的颗粒度小于学位的资质凭证,
+digital badge,数字徽章,教育,以数字图像形式承载元数据用以证明学习者获得某项技能或成就的在线凭证,open badge
+competency-based education,能力本位教育,教育,以学习者实际掌握预定能力为标准而非以修读年限推进学习的教育模式,CBE
+educational neuroscience,教育神经科学,教育,整合神经科学、认知心理学与教育学以探究学习脑机制并改进教学的新兴交叉学科,
+neuroeducation,神经教育学,教育,将脑科学研究成果应用于课程设计与课堂教学实践的教育学分支,
+mind brain and education,心智脑与教育,教育,联结心智科学、脑科学与教育实践以建立循证教学研究的学术领域,MBE
+brain-based learning,基于脑的学习,教育,依据大脑结构与功能规律设计教学环境与学习活动的教学取向,
+executive function,执行功能,教育,个体对认知过程进行计划、监控与调节的高级心理机能是学业成功的重要基础,EF
+inhibitory control,抑制控制,教育,个体抑制优势反应或无关干扰以维持目标导向行为的执行功能成分,
+cognitive flexibility,认知灵活性,教育,个体根据情境变化在不同任务规则或视角之间灵活切换的认知能力,
+number sense,数感,教育,个体对数量关系与运算意义直觉性理解的早期数学能力,
+phonological awareness,语音意识,教育,个体觉察与操弄口语中语音结构的能力是儿童识字与阅读发展的关键预测因子,
+embodied learning,具身学习,教育,强调身体动作与感知经验参与认知过程并主张以身体活动促进概念理解的学习取向,
+design-based learning,设计本位学习,教育,学习者通过完成设计任务并迭代改进作品来建构知识与培养高阶能力的教学模式,DBL
+challenge-based learning,挑战本位学习,教育,以真实世界重大挑战为起点引导学生协作探究并提出解决方案的教学框架,
+place-based education,地方本位教育,教育,以本地社区与自然环境为课程资源将学习根植于真实场所的教育理念,
+service learning,服务学习,教育,将社区服务与课程学习结合使学生在服务实践中达成学术目标的教学策略,
+maker education,创客教育,教育,以动手造物与数字化制造为载体重在培养创新精神与实践能力的教育形态,
+STEAM education,STEAM教育,教育,在科学技术工程与数学基础上融入艺术教育的跨学科整合育人模式,
+phenomenon-based learning,现象式学习,教育,以真实整体现象为学习主题跨越学科界限进行整体探究的教学组织方式,
+interdisciplinary learning,跨学科学习,教育,整合两个以上学科的概念与方法以解决复杂问题的学习形态,
+hyflex learning,混合弹性学习,教育,同一课程同时提供面授、在线同步与异步路径供学生自由选择的混合教学模式,HyFlex
+synchronous learning,同步学习,教育,师生在同一时间通过线下或在线实时互动开展的学习形态,
+asynchronous learning,异步学习,教育,学习者按自己的时间节奏访问学习资源并延迟互动的学习形态,
+mobile learning,移动学习,教育,借助移动设备突破时空限制随时随地开展的学习形态,m-learning
+ubiquitous learning,泛在学习,教育,依托泛在计算技术使学习无缝嵌入日常生活任何时空的学习理念,u-learning
+seamless learning,无缝学习,教育,打通课堂内外与线上线下情境使学习经验连续流动的学习形态,
+smart learning environment,智慧学习环境,教育,利用感知与智能技术为学习者提供个性化适切支持的技术增强学习环境,SLE
+personal learning environment,个人学习环境,教育,由学习者自主组合工具、服务与人际网络以管理自身学习的环境系统,PLE
+virtual classroom,虚拟课堂,教育,依托网络会议技术模拟课堂互动实现远程实时教学的在线教学空间,
+microlearning,微学习,教育,将学习内容切分为短小单元并利用碎片时间进行的轻量化学习形态,
+educational equity,教育公平,教育,保障每个学习者不论背景都能获得适切教育资源并取得发展的价值追求与政策目标,
+achievement gap,成就差距,教育,不同群体学生之间在学业成就指标上呈现的系统性差异,
+opportunity gap,机会差距,教育,不同群体学生在获得优质教育资源与发展机会上的结构性不平等,
+disadvantaged students,处境不利学生,教育,因家庭经济、地域或文化背景等因素处于教育不利地位的学生群体,
+digital divide,数字鸿沟,教育,不同群体在数字设备接入与信息素养上的差距所导致的教育机会不平等,
+school segregation,学校隔离,教育,学生按种族、阶层或能力被分配至不同学校而形成的群体隔离现象,
+tracking,分轨,教育,学校按学业能力将学生分流至不同课程轨道进行教学的制度安排,
+ability grouping,能力分组,教育,依据学生能力水平进行分班或组内分组以实施差异化教学的组织方式,
+first-generation college student,第一代大学生,教育,家庭中父母均未受过高等教育而本人进入大学就读的学生,
+universal design for learning,通用学习设计,教育,通过提供多元表征、多元参与与多元表达方式使课程适用于所有学习者的设计框架,UDL
+teacher professional development,教师专业发展,教育,教师通过培训、研究与实践反思持续提升专业知识与教学能力的过程,TPD
+professional learning community,专业学习共同体,教育,教师围绕学生学习证据进行持续协作探究以改进教学的校内专业组织形态,PLC
+lesson study,课例研究,教育,教师团队围绕一节课共同设计、观课与修订以改进教学的合作研究方式,
+action research,行动研究,教育,教育实践者为改进自身实践而在真实情境中开展的循环式探究活动,
+reflective practice,反思性实践,教育,教师对自身教学行为及其背后假设进行系统审视以促成专业成长的实践方式,
+pedagogical content knowledge,学科教学知识,教育,教师将学科内容转化为学生可理解的教学形式所特有的融合性知识,PCK
+TPACK,整合技术的学科教学知识,教育,教师有效开展技术整合教学所需的技术、教学法与学科内容三者融合的知识框架,technological pedagogical content knowledge
+teacher self-efficacy,教师自我效能感,教育,教师对自身能够有效组织教学并促进学生学习的信念,
+teacher induction,新教师入职教育,教育,为入职初期教师提供系统指导与支持以帮助其胜任岗位的专业发展安排,
+teacher burnout,教师职业倦怠,教育,教师因长期工作压力产生的情绪衰竭、去人格化与成就感降低的心理状态,
+communities of practice,实践共同体,教育,成员围绕共同事业通过持续互动分享经验并建构共同知识的学习共同体形态,CoP
+instructional coaching,教学教练,教育,由专业人员通过听课反馈与目标对话帮助教师改进教学实践的支持方式,
+peer observation,同伴观课,教育,教师相互进入课堂观察教学并给予反馈以促进共同成长的教研活动,
+teacher leadership,教师领导力,教育,教师在课堂之外通过协作、示范与引领对学校改进施加影响的能力,
+adult education,成人教育,教育,面向成年人开展的有组织学习活动涵盖文化补习、职业培训与兴趣发展等领域,
+continuing education,继续教育,教育,为已离校社会成员提供的旨在更新知识与提升技能的后续教育形式,
+community education,社区教育,教育,依托社区资源面向全体居民开展的促进社区发展与个人成长的教育活动,
+learning society,学习社会,教育,人人皆学、处处可学、时时能学的以全民终身学习为基础的社会形态,
+lifewide learning,全生涯学习,教育,个体在一生中不同生活场景与角色中同时发生的多维学习形态,
+informal learning,非正式学习,教育,在日常工作与生活情境中无意识或无系统组织地发生的学习形态,
+non-formal education,非正规教育,教育,在正规学制之外有组织但通常不授予学历资格的系统性教育活动,
+recognition of prior learning,先前学习认可,教育,对学习者以往通过非正式途径获得的知识与技能进行评估并给予学分认定的制度,RPL
+learning city,学习型城市,教育,将终身学习理念融入城市发展并动员各部门资源支持全民学习的城市建设模式,
+distance education,远程教育,教育,师生在时空分离状态下借助通信技术开展教学的教育形态,
+online learning community,在线学习共同体,教育,学习者通过网络平台围绕共同目标持续互动并形成归属感的学习群体,
+vocational education and training,职业教育与培训,教育,为学习者进入职业领域提供知识技能与资格培养的教育与培训体系,VET
+work-based learning,工作本位学习,教育,以真实工作任务与职场情境为载体开展的职业能力培养方式,WBL
+apprenticeship,学徒制,教育,学习者在工作场所跟随师傅边工作边学习以掌握职业技艺的培养制度,
+dual system,双元制,教育,职业学校与企业共同承担教学职责使学习在校企两地交替进行的职教模式,
+occupational qualification,职业资格,教育,从事特定职业所需具备并由国家或行业认证的知识技能水平凭证,
+career and technical education,生涯与技术教育,教育,将学术学习与职业技能训练结合以支持学生生涯发展的中等与后中等教育,CTE
+school-to-work transition,学校到职场过渡,教育,青年完成学业后进入劳动力市场并实现角色转换的过程,
+employability,就业能力,教育,个体获得、维持与转换工作所需的综合素质与可迁移能力,
+industry-education integration,产教融合,教育,产业部门与教育系统深度合作共同培养人才并促进供需对接的办学机制,
+vocational pedagogy,职业教育教学法,教育,针对职业能力形成规律而设计的情境化实践导向教学方法体系,
+assessment for learning,促进学习的评估,教育,将评估信息用于诊断学习进程并调整教学以促进学习的评估取向,AfL
+learning progression,学习进阶,教育,刻画学生对核心概念理解由浅入深逐级发展的假设性路径,
+threshold concept,阈值概念,教育,学科中具有变革性、整合性且一旦掌握便改变认知方式的关键概念,
+conceptual change,概念转变,教育,学习者修正或重构原有错误概念以建立科学概念的学习过程,
+productive failure,有效失败,教育,让学生先在未讲授指导下尝试解决难题以失败经验促进后续深度学习的教学设计,
+desirable difficulty,合意困难,教育,在学习中适当引入挑战以延缓即时表现但增强长期保持的学习条件,
+retrieval practice,提取练习,教育,通过主动回忆所学内容而非重复阅读来巩固记忆的学习策略,
+spaced repetition,间隔重复,教育,将复习分散安排在不同时间点以对抗遗忘并增强长期记忆的学习方法,
+interleaving,交错学习,教育,将不同类型问题或主题混合编排练习以促进辨别与迁移的学习安排,
+self-regulated learning,自我调节学习,教育,学习者主动设定目标、监控进程并调节策略以管理自身学习的过程,SRL
+academic integrity,学术诚信,教育,在学习与研究中诚实守信、杜绝抄袭与舞弊的伦理规范,
+peer instruction,同伴教学,教育,学生在课堂中就概念问题相互讨论并说服对方以深化理解的互动教学策略,
+think-pair-share,思考结对分享,教育,学生先独立思考再两两讨论最后全班分享的三段式课堂参与结构,
+concept mapping,概念地图,教育,用节点与连线外化知识结构的图形化学习工具与教学策略,
+elaborative interrogation,精细提问,教育,引导学习者对学习内容追问原因并联系已有知识以促进深度加工的策略,

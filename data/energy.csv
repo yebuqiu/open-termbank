@@ -99,3 +99,103 @@ emission factor,排放因子,能源,单位活动水平数据所对应的温室�
 energy policy,能源政策,能源,政府为保障能源安全促进可持续发展而制定的方针措施,
 feed-in tariff,上网电价,能源,政府规定的发电企业向电网售电的结算价格机制,FIT
 carbon tax,碳税,能源,按化石燃料含碳量或碳排放量征收的税种,
+advanced metering infrastructure,高级量测体系,能源,由智能电表、通信网络与数据管理系统组成，实现用电信息自动采集与双向互动。,AMI
+smart meter,智能电表,能源,具备双向通信与分时计量功能的数字化电能表，是需求侧数据的主要采集终端。,
+phasor measurement unit,相量测量单元,能源,基于同步时钟高速测量电压电流相量的装置，为广域动态监测提供数据。,PMU
+wide area measurement system,广域测量系统,能源,利用同步相量数据对跨区电网动态过程实施实时监测与分析的系统。,WAMS
+supervisory control and data acquisition,数据采集与监视控制系统,能源,对电网设备进行远程数据采集、监视与控制的自动化系统。,SCADA
+distribution automation,配电自动化,能源,利用通信与控制技术实现配电网故障定位、隔离与供电恢复的技术体系。,DA
+feeder automation,馈线自动化,能源,通过开关设备联动实现配电网馈线故障快速隔离与负荷转供的技术。,
+distributed energy resource,分布式能源资源,能源,分散接入配电网的小规模发电、储能与可调节负荷资源的统称。,DER
+distributed generation,分布式发电,能源,在用户侧或靠近负荷处建设的小容量发电方式，所发电力可就地消纳。,DG
+home energy management system,家庭能源管理系统,能源,对家庭用电设备、屋顶光伏与储能进行监测和优化控制的系统。,HEMS
+virtual power plant,虚拟电厂,能源,通过信息通信技术聚合分布式电源、储能与可调负荷并参与电网调度的实体。,VPP
+load aggregator,负荷聚合商,能源,汇集众多中小用户的可调节负荷并统一参与电力市场与电网调度的中介机构。,
+demand response,需求响应,能源,电力用户根据价格或激励信号主动调整用电行为以保障电网平衡的机制。,DR
+peak shaving,削峰,能源,通过调度、储能或负荷控制手段降低电网高峰时段负荷的技术措施。,
+valley filling,填谷,能源,引导用户在低谷时段增加用电以改善负荷曲线形态的措施。,
+load shifting,负荷转移,能源,将用电需求从高峰时段转移至低谷时段的需求侧管理手段。,
+interruptible load,可中断负荷,能源,用户在电网需要时按协议接受停电并获得相应补偿的负荷类型。,
+time-of-use pricing,分时电价,能源,按不同时段制定不同电价以引导用户调整用电时间的定价机制。,TOU pricing
+real-time pricing,实时电价,能源,电价随电力批发市场供需状况实时变动的动态定价机制。,RTP
+critical peak pricing,尖峰电价,能源,在电网极端高峰时段实施大幅加价以削减尖峰负荷的电价机制。,CPP
+direct load control,直接负荷控制,能源,电网企业在紧急情况下远程直接控制用户特定用电设备的调节方式。,DLC
+ancillary service,辅助服务,能源,保障电网安全稳定运行所需的调频、备用与无功支撑等服务。,
+frequency regulation,调频,能源,通过调整发电或负荷出力维持电网频率在额定值附近的控制过程。,
+spinning reserve,旋转备用,能源,已并网运行机组预留的可快速调用以应对功率缺额的备用容量。,
+capacity market,容量市场,能源,为发电容量充裕性付费、保障系统长期供电能力的市场机制。,
+vehicle-to-grid,车网互动,能源,电动汽车通过充放电设施与电网双向交换能量的技术模式。,V2G
+vehicle-to-home,车辆到户供电,能源,利用电动汽车动力电池为家庭负荷反向供电的技术。,V2H
+islanding,孤岛效应,能源,电网停电时分布式电源继续向局部线路供电形成非计划供电孤岛的现象。,
+anti-islanding protection,防孤岛保护,能源,检测电网失压并迅速切断分布式电源以保障检修安全的保护措施。,
+power quality,电能质量,能源,衡量电压、频率与波形偏离理想状态程度的供电品质指标总称。,
+harmonic distortion,谐波畸变,能源,非线性负载使电压电流波形偏离正弦而产生谐波分量的现象。,
+voltage sag,电压暂降,能源,电压有效值短时下降至额定值一定比例的电能质量扰动。,voltage dip
+static synchronous compensator,静止同步补偿器,能源,基于电力电子器件快速调节无功功率以稳定电网电压的装置。,STATCOM
+flexible AC transmission system,柔性交流输电系统,能源,利用电力电子设备提升交流输电线路可控性与输送能力的技术总称。,FACTS
+unified power flow controller,统一潮流控制器,能源,可同时控制线路电压、阻抗与相角的综合型柔性交流输电装置。,UPFC
+virtual synchronous generator,虚拟同步发电机,能源,使逆变电源模拟同步发电机惯性与阻尼特性的控制技术。,VSG
+grid-forming inverter,构网型变流器,能源,能自主建立电压与频率参考、主动支撑电网稳定运行的并网变流器。,grid-forming converter
+grid-following inverter,跟网型变流器,能源,依靠锁相环跟随电网电压相位进行并网运行的变流器。,grid-following converter
+proton exchange membrane fuel cell,质子交换膜燃料电池,能源,以质子交换膜为电解质、工作温度较低的车用主流燃料电池。,PEMFC
+solid oxide fuel cell,固体氧化物燃料电池,能源,采用陶瓷电解质、高温运行且燃料适应性强的燃料电池。,SOFC
+alkaline fuel cell,碱性燃料电池,能源,以氢氧化钾溶液为电解质、早期用于航天电源的燃料电池。,AFC
+molten carbonate fuel cell,熔融碳酸盐燃料电池,能源,以熔融碳酸盐为电解质、可直接利用天然气的中高温燃料电池。,MCFC
+phosphoric acid fuel cell,磷酸燃料电池,能源,以磷酸为电解质、技术成熟度较高的中温燃料电池。,PAFC
+direct methanol fuel cell,直接甲醇燃料电池,能源,直接使用甲醇溶液作燃料而无需重整装置的小型燃料电池。,DMFC
+fuel cell electric vehicle,燃料电池电动汽车,能源,以车载燃料电池发电驱动电机行驶的新能源汽车。,FCEV
+proton exchange membrane electrolyzer,质子交换膜电解槽,能源,采用质子交换膜、响应快且适配波动性电源的电解水制氢设备。,PEM electrolyzer
+alkaline electrolyzer,碱性电解槽,能源,以碱性溶液为电解质、技术成熟且成本较低的电解水制氢设备。,
+solid oxide electrolysis cell,固体氧化物电解池,能源,在高温下电解水蒸气制氢、理论效率较高的电解装置。,SOEC
+blue hydrogen,蓝氢,能源,由化石燃料制取并配套碳捕集封存设施生产的氢气。,
+grey hydrogen,灰氢,能源,由化石燃料制取且未配套碳减排措施生产的氢气。,gray hydrogen
+turquoise hydrogen,青氢,能源,通过甲烷热解制氢并副产固体碳的制氢路线所产氢气。,
+liquid hydrogen,液氢,能源,将氢气冷却至极低温液化后储存运输的高密度氢形态。,
+compressed hydrogen storage,高压气态储氢,能源,将氢气压缩至高压容器中储存的常用车载储氢方式。,
+metal hydride hydrogen storage,金属氢化物储氢,能源,利用金属合金与氢的可逆反应实现固态安全储氢的技术。,
+hydrogen refueling station,加氢站,能源,为燃料电池汽车加注高压氢气的基础设施。,HRS
+hydrogen embrittlement,氢脆,能源,氢原子渗入金属材料内部导致其塑性与韧性下降而脆化的现象。,
+hydrogen pipeline,输氢管道,能源,用于长距离输送气态氢气的专用管道设施。,
+carbon capture utilization and storage,碳捕集利用与封存,能源,捕集二氧化碳并加以资源化利用或注入地层封存的技术组合。,CCUS
+post-combustion capture,燃烧后捕集,能源,从燃烧后烟气中分离捕集二氧化碳的技术路线。,
+pre-combustion capture,燃烧前捕集,能源,在燃料燃烧前将其转化并分离出高浓度二氧化碳的捕集路线。,
+oxy-fuel combustion,富氧燃烧,能源,用纯氧替代空气助燃以获得高浓度二氧化碳烟气的燃烧技术。,
+chemical looping combustion,化学链燃烧,能源,借助载氧体传递氧实现燃料燃烧并内分离二氧化碳的技术。,CLC
+amine scrubbing,胺法吸收脱碳,能源,利用胺类溶液化学吸收烟气中二氧化碳的成熟捕集工艺。,
+calcium looping,钙循环捕集,能源,利用氧化钙碳酸化与煅烧可逆循环捕集二氧化碳的技术。,
+direct air capture,直接空气碳捕集,能源,从环境空气中直接分离捕集低浓度二氧化碳的负排放技术。,DAC
+carbon mineralization,碳矿化,能源,二氧化碳与含钙镁矿物反应生成稳定碳酸盐以实现永久固存的过程。,
+geological storage of carbon dioxide,二氧化碳地质封存,能源,将二氧化碳注入深部咸水层等地质构造中长期隔离的技术。,
+supercritical carbon dioxide,超临界二氧化碳,能源,温度与压力超过临界点、兼具气体扩散性与液体密度的二氧化碳状态。,
+integrated energy system,综合能源系统,能源,统筹电、热、冷、气等多种能源生产转换与消费的区域能源系统。,IES
+multi-energy complementarity,多能互补,能源,发挥不同能源品种时空互补特性以提高系统整体效率的运行模式。,
+energy hub,能源枢纽,能源,对多种能源输入输出进行转换、存储与分配的系统集成单元。,
+combined cooling heating and power,冷热电三联供,能源,在一次能源发电的同时回收利用余热供冷供热的梯级利用系统。,CCHP
+district heating,区域供热,能源,由集中热源通过管网向区域内建筑统一供应热能的供热方式。,
+district cooling,区域供冷,能源,由集中冷站通过管网向建筑群统一供应冷量的供冷方式。,
+power-to-gas,电转气,能源,利用电力电解制氢并进一步合成甲烷等可储存气体的技术。,P2G
+power-to-heat,电转热,能源,利用电热转换设备将电力转化为热能进行消纳与储存的技术。,
+sector coupling,部门耦合,能源,通过能源转换技术实现电力、供热与交通等部门互联互通的模式。,
+cascade utilization of energy,能量梯级利用,能源,按能量品位高低逐级利用以提高能源综合利用率的方式。,
+perovskite solar cell,钙钛矿太阳能电池,能源,以钙钛矿结构材料为吸光层的新型高效薄膜太阳能电池。,PSC
+heterojunction solar cell,异质结太阳能电池,能源,在晶硅表面沉积非晶硅薄膜形成异质结的高效太阳电池。,HJT cell
+passivated emitter and rear cell,钝化发射极及背面电池,能源,背面采用介质膜钝化以提升光电转换效率的主流晶硅电池。,PERC cell
+tunnel oxide passivated contact,隧穿氧化层钝化接触,能源,利用超薄氧化层与掺杂多晶硅层实现背面高效钝化的电池技术。,TOPCon
+building-integrated photovoltaics,光伏建筑一体化,能源,将光伏组件作为建筑材料直接集成于建筑外围护结构的技术。,BIPV
+floating photovoltaic,漂浮式光伏,能源,将光伏系统布置于水库、湖泊等水面上的发电形式。,FPV
+agrivoltaics,农光互补,能源,在同一块土地上兼顾农作物种植与光伏发电的复合利用模式。,
+bifacial module,双面光伏组件,能源,正面与背面均可吸收光线发电的光伏组件。,
+levelized cost of energy,平准化度电成本,能源,将项目全生命周期成本折算为单位发电量的平均成本指标。,LCOE
+renewable portfolio standard,可再生能源配额制,能源,强制要求电力供应商一定比例电量来自可再生能源的制度。,RPS
+green electricity certificate,绿色电力证书,能源,证明电量来自可再生能源并可交易的环境权益凭证。,GEC
+power purchase agreement,购电协议,能源,发电方与购电方约定电量与价格的长期电力买卖合同。,PPA
+net metering,净计量,能源,分布式电源用户按净用电量结算、富余电量可抵扣电费的计量方式。,
+duck curve,鸭子曲线,能源,高比例光伏接入后电网净负荷曲线呈现鸭腹形态的现象。,
+ramp rate,爬坡速率,能源,发电设备单位时间内可上调或下调出力的速率指标。,
+synthetic inertia,虚拟惯量,能源,通过控制策略使电力电子电源模拟同步机惯量响应的技术。,virtual inertia
+coal power flexibility retrofit,煤电灵活性改造,能源,提升煤电机组调峰幅度与爬坡能力以适应新能源消纳的技术改造。,
+energy internet,能源互联网,能源,融合信息通信与能源技术、实现能源双向流动与共享配置的网络形态。,
+source-grid-load-storage integration,源网荷储一体化,能源,统筹电源、电网、负荷与储能协同规划运行的系统发展模式。,
+shared energy storage,共享储能,能源,储能设施以容量租赁方式服务多个新能源项目的商业模式。,
+thermal energy storage,储热,能源,利用显热、潜热或热化学方式储存热能并在需要时释放的技术。,TES
+compressed air energy storage,压缩空气储能,能源,用电低谷时压缩空气存于洞穴、高峰时释放发电的大规模储能技术。,CAES

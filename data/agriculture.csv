@@ -99,3 +99,102 @@ food preservation,食品保藏,农业,抑制腐败变质以延长食品贮藏期
 pasteurization,巴氏杀菌,农业,低温加热杀灭致病菌的食品处理方法,
 cold chain,冷链,农业,生鲜产品全程低温流通的贮运体系,
 food fermentation,食品发酵,农业,利用微生物转化原料制成食品的技术,
+smart agriculture,智慧农业,农业,将物联网、大数据与人工智能应用于农业生产全过程的新型农业形态；实现精准感知、智能决策与自动控制。,intelligent agriculture
+digital agriculture,数字农业,农业,以数字化技术重构农业生产、经营与管理体系的农业发展模式；是智慧农业的基础阶段。,
+agricultural internet of things,农业物联网,农业,通过传感器、射频识别与无线通信将农业设施与作物接入网络的技术体系；支撑远程监测与智能调控。,agricultural IoT
+plant protection drone,植保无人机,农业,用于低空喷洒农药与肥料的无人驾驶航空器；具有作业效率高、受地形限制小的优势。,agricultural drone; crop spraying UAV
+variable rate technology,变量作业技术,农业,依据田间空间差异实时调节种子、化肥与农药投入量的技术；可提高投入品利用效率。,VRT; variable rate application
+agricultural robot,农业机器人,农业,面向农业场景执行采摘、嫁接、除草等任务的自动化装备；融合机器视觉与导航控制技术。,agrobot; farm robot
+farm management information system,农场管理信息系统,农业,集成生产记录、投入品使用与财务数据的农场数字化管理平台；支撑经营决策与质量追溯。,FMIS
+agricultural big data,农业大数据,农业,农业生产、流通与消费环节产生的海量多源数据集合；经挖掘分析后用于预测与决策支持。,
+blockchain traceability,区块链溯源,农业,利用区块链不可篡改特性记录农产品生产与流通信息的技术；增强质量追溯的可信度。,
+soil moisture sensor,土壤水分传感器,农业,实时测定土壤含水量的传感装置；为精准灌溉提供数据依据。,soil moisture probe
+crop growth model,作物生长模型,农业,基于生理生态过程模拟作物生长发育与产量形成的数学模型；用于预测产量与优化栽培方案。,crop model; crop simulation model
+yield mapping,产量空间分布制图,农业,利用收获机测产装置与定位系统绘制田块内产量分布图的技术；揭示产量空间变异。,yield monitor mapping
+NDVI,归一化植被指数,农业,利用红光与近红外波段反射率计算的植被指数；广泛用于遥感监测作物长势与生物量。,normalized difference vegetation index
+plant factory,植物工厂,农业,在密闭设施内对光、温、水、气、肥进行精确控制以实现周年连续生产的高效农业系统。,closed plant production system
+vertical farming,垂直农业,农业,在多层立体架或高层建筑中堆叠种植层的农业模式；大幅提高单位土地面积的产出。,vertical agriculture
+hydroponics,水培,农业,不用土壤而以营养液直接供应作物养分的无土栽培方式；根系浸于或间歇接触营养液。,water culture; soilless culture
+aeroponics,气雾培,农业,将营养液雾化后直接喷洒到悬空根系的栽培方式；氧气供应充足、作物生长速度快。,aeroponic culture; mist culture
+nutrient film technique,营养液膜技术,农业,使浅层营养液沿栽培槽底部连续流动供液的水培技术；液膜保证根系养分与氧气供应。,NFT
+deep flow technique,深液流栽培,农业,将作物根系悬挂于较深营养液层中的水培方式；液层缓冲能力强、管理相对稳定。,DFT; deep water culture
+substrate culture,基质栽培,农业,以椰糠、岩棉或草炭等惰性基质固定根系并滴灌营养液的无土栽培方式。,substrate cultivation; solid substrate culture
+nutrient solution,营养液,农业,按作物需求将多种矿质元素溶解于水配制的供液；是无土栽培中养分与水分的来源。,hydroponic solution
+LED grow light,植物补光灯,农业,以发光二极管为光源、按光合需求配置光谱的人工补光设备；广泛用于植物工厂与温室。,plant grow light; horticultural LED
+photoperiod,光周期,农业,昼夜中光照与黑暗时长的相对关系；是调控植物开花与休眠等发育过程的重要环境信号。,day length
+tissue culture,组织培养,农业,在无菌条件下利用植物细胞全能性培养离体组织或器官以快速繁殖种苗的技术。,in vitro culture; micropropagation
+plug seedling,穴盘育苗,农业,以多孔穴盘为容器进行集约化播种育苗的技术；便于机械化移栽与商品苗运输。,plug transplant production; tray seedling
+animal breeding,动物育种,农业,运用遗传学原理有计划地改良畜禽群体遗传素质的科学；目标是提高生产性能与适应性。,livestock breeding
+quantitative genetics,数量遗传学,农业,研究数量性状遗传规律的学科；以统计方法分析多基因控制性状的变异与遗传力。,biometrical genetics
+estimated breeding value,估计育种值,农业,利用个体与亲属表型信息经统计模型预测的个体遗传价值；是种畜选择的核心依据。,EBV
+genomic selection,基因组选择,农业,利用覆盖全基因组的分子标记信息预测育种值的育种方法；可缩短世代间隔并提高选择准确性。,GS; genome-wide selection
+marker-assisted selection,标记辅助选择,农业,借助与目标基因紧密连锁的分子标记进行个体选择的育种方法；可提高对低遗传力性状的选择效率。,MAS
+heritability,遗传力,农业,表型变异中由遗传因素所占比重的度量；是估计选择反应与制定育种方案的重要参数。,heritability estimate
+inbreeding coefficient,近交系数,农业,度量个体两个等位基因来自同一祖先相同等位基因概率的指标；用于监控群体的近交程度。,coefficient of inbreeding
+crossbreeding,杂交繁育,农业,将不同品种或品系的畜禽交配以利用杂种优势与互补性的繁育方式；广泛用于商品生产。,cross breeding
+grading-up,级进杂交,农业,用优良品种公畜连续多代与本地母畜杂交以逐步提高后代生产性能的改良方式。,upgrading
+progeny testing,后裔测定,农业,依据后代生产性能表现评价种畜遗传价值的方法；是奶牛等畜种育种的传统核心手段。,progeny test
+embryo transfer,胚胎移植,农业,将供体母畜的早期胚胎取出并移植到受体母畜子宫内继续发育的繁殖技术；可扩大优良母畜的繁殖效率。,ET; embryo transplantation
+animal cloning,动物克隆,农业,通过体细胞核移植等手段产生与供体遗传组成相同个体的技术；用于保种与转基因动物生产。,somatic cell nuclear transfer
+animal genetic resources,畜禽遗传资源,农业,用于畜牧生产的各畜种、品种与品系的遗传材料总称；是育种与生物多样性保护的基础。,AnGR; livestock genetic resources
+frozen semen,冷冻精液,农业,经稀释、平衡与液氮超低温保存的种公畜精液；便于长期保存与远距离推广优良基因。,cryopreserved semen
+aquaculture,水产养殖,农业,在人工控制的水体中繁育、养成水生经济动植物的生产活动；是渔业产量增长的主要来源。,aquafarming; fish farming
+mariculture,海水养殖,农业,在海洋环境中利用网箱、筏式等设施养殖鱼类、贝类与藻类的生产活动。,marine aquaculture; marine farming
+pond culture,池塘养殖,农业,在人工开挖或改造的池塘中进行鱼类等水产动物饲养的方式；是我国淡水养殖的主体形式。,pond aquaculture; pond farming
+cage culture,网箱养殖,农业,利用框架与网衣在天然水体中围隔空间进行高密度养鱼的方式；依赖水体交换维持水质。,cage aquaculture; net cage culture
+recirculating aquaculture system,循环水养殖系统,农业,养殖用水经固液分离、生物净化与增氧后循环使用的封闭养殖系统；节水且可控性强。,RAS
+integrated multi-trophic aquaculture,多营养层次综合养殖,农业,将鱼类、贝类与藻类等不同营养级生物搭配养殖的模式；利用生物间互补关系净化水质。,IMTA
+hatchery,育苗场,农业,进行水产动物人工繁殖、孵化与苗种培育的专门场所与设施。,fish hatchery
+aquafeed,水产配合饲料,农业,依据水产动物营养需求配制的全价饲料；常见形态有沉性颗粒、浮性颗粒与微胶囊饲料。,aquatic feed; formulated feed
+stocking density,放养密度,农业,单位水体或水面中放养的养殖动物数量或重量；直接影响生长速度、成活率与水质负荷。,culture density
+dissolved oxygen,溶解氧,农业,溶解于水体中的分子态氧；是养殖动物呼吸与水质状况评价的关键指标。,DO
+ammonia nitrogen,氨氮,农业,水体中以离子铵与非离子氨形式存在的氮素；其积累对养殖动物具有毒性。,total ammonia nitrogen
+polyculture,混养,农业,在同一水体中搭配放养食性与栖息水层不同的多种养殖对象；以充分利用水体生产力。,mixed culture
+sea ranching,海洋牧场,农业,通过人工鱼礁、增殖放流等手段在近海构建的资源增殖与生态系统化管理海域。,marine ranching
+shellfish culture,贝类养殖,农业,利用筏式、滩涂与底播等方式养殖牡蛎、扇贝等贝类的生产活动；贝类兼具滤食净水功能。,shellfish farming; mollusk culture
+silviculture,森林培育学,农业,研究从种苗培育到森林成熟的整个营林过程的学科与技术体系。,silvics
+afforestation,植树造林,农业,在无林地或退耕地上人工营造森林的活动；是增加森林覆盖与改善生态的重要途径。,tree planting; forestation
+reforestation,重新造林,农业,在采伐迹地、火烧迹地等原有林地上重新恢复森林的活动。,forest restoration
+selective logging,择伐,农业,按计划有选择地采伐林分中部分成熟林木并保留其余林木的采伐方式；有利于林分持续更新。,selective cutting; selection felling
+clearcutting,皆伐,农业,在规定面积上一次性采伐全部林木的采伐方式；作业简单但生态冲击较大。,clear felling
+thinning,间伐,农业,在未成熟林分中有选择地伐除部分林木以改善保留木生长条件的抚育措施。,intermediate felling
+rotation,轮伐期,农业,同龄林从造林或更新到主伐采伐所经历的整个经营周期；是森林经营规划的时间基准。,felling cycle
+canopy density,郁闭度,农业,林冠垂直投影面积与林地面积之比；是反映林分郁闭程度的重要测树指标。,crown closure; canopy closure
+forest inventory,森林资源清查,农业,通过抽样调查与遥感手段定期查清森林面积、蓄积及其变化的监测体系。,forest resource inventory
+dendrochronology,树木年轮学,农业,通过分析树木年轮的宽窄与密度重建过去气候与环境变化的学科。,tree-ring dating
+agroforestry,农林复合经营,农业,在同一土地单元上结合木本植物与农作物或畜禽的经营方式；兼顾经济与生态效益。,agro-sylviculture; tree-crop intercropping
+shelterbelt,防护林带,农业,为防御风沙、减缓风速而在农田、牧场周边营造的带状林分。,windbreak; shelter forest belt
+rice milling,稻谷加工,农业,通过清理、砻谷、碾米等工序将稻谷加工为成品米的加工过程。,rice processing
+flour milling,小麦制粉,农业,经清理、润麦与研磨筛理等工序将小麦加工成不同等级面粉的工艺过程。,wheat milling
+cold pressing,冷榨,农业,在较低温度下直接压榨油料取油的加工方法；能较好保留油脂的营养成分与风味。,cold press extraction
+oil refining,油脂精炼,农业,通过脱胶、脱酸、脱色与脱臭等工序去除毛油中杂质与不良成分的加工过程。,edible oil refining
+spray drying,喷雾干燥,农业,将液态物料雾化成细小液滴并在热风中瞬间干燥成粉末的技术；广泛用于乳粉与果蔬粉加工。,atomization drying
+freeze drying,冷冻干燥,农业,将物料冻结后在真空条件下使水分直接升华脱水的干燥技术；能较好保持产品色泽、风味与形态。,lyophilization; vacuum freeze drying
+blanching,烫漂,农业,将果蔬原料短时置于热水或蒸汽中钝化酶活性的预处理工序；可稳定色泽并减少微生物。,scalding; hot water blanching
+canning,罐藏,农业,将食品装入密封容器并经杀菌处理以实现长期保藏的加工方法。,canning processing
+modified atmosphere packaging,气调包装,农业,通过置换包装内气体组成抑制食品呼吸与微生物活动的包装技术；可延长生鲜食品货架期。,MAP
+controlled atmosphere storage,气调贮藏,农业,在密封库房内调节氧气与二氧化碳浓度以抑制果蔬呼吸与衰老的贮藏方式。,CA storage
+homogenization,均质,农业,利用高压使乳脂肪球破碎并均匀分散的处理工艺；可防止脂肪上浮并改善乳制品口感。,milk homogenization
+UHT sterilization,超高温瞬时灭菌,农业,将液态食品在135摄氏度以上保持数秒后迅速冷却的灭菌工艺；使产品可在常温下长期保存。,ultra-high temperature processing
+agroecology,农业生态学,农业,运用生态学原理研究农业生态系统结构、功能与调控的学科；为可持续农业提供理论基础。,
+agroecosystem,农业生态系统,农业,由农作物、土壤、生物因子与人为管理共同构成的受人类干预的生态系统。,agricultural ecosystem
+ecological intensification,生态集约化,农业,通过强化生态过程与生物多样性功能来提高产量并减少外部投入的农业发展路径。,eco-functional intensification
+ecosystem services,生态系统服务,农业,生态系统为人类提供的供给、调节、支持与文化等各类惠益的总称。,
+biological nitrogen fixation,生物固氮,农业,固氮微生物将空气中分子态氮转化为氨并被植物利用的过程；是农业氮素的重要来源。,BNF; nitrogen fixation
+denitrification,反硝化作用,农业,微生物在缺氧条件下将硝酸盐逐步还原为气态氮的过程；是农田氮素损失的重要途径。,
+carbon sequestration,碳固存,农业,通过植被生长与土壤管理将大气中的二氧化碳固定于植物体与土壤中的过程。,carbon fixation
+conservation tillage,保护性耕作,农业,以少免耕与地表秸秆覆盖为核心的耕作制度；可减少土壤侵蚀并改善土壤结构。,conservation farming
+no-till farming,免耕农业,农业,除播种外不翻动土壤并保留地表覆盖物的耕作方式；有利于蓄水保土与降低能耗。,zero tillage; no-tillage
+cover crop,覆盖作物,农业,在主要作物生长间隙种植以覆盖地面、培肥地力并抑制杂草的作物。,cover cropping; catch crop
+green manure,绿肥,农业,将鲜嫩绿色植物体翻压入土用作肥料的肥源作物；可增加土壤有机质与氮素供应。,green manure crop
+straw returning,秸秆还田,农业,将作物秸秆直接或经处理后归还田间的培肥措施；可改善土壤结构并减少焚烧污染。,straw incorporation; crop residue return
+rural revitalization,乡村振兴,农业,围绕产业、人才、文化、生态与组织全面振兴乡村的国家战略；旨在缩小城乡差距。,rural rejuvenation
+urban-rural integration,城乡融合,农业,促进城乡要素双向流动与公共服务均等化的发展理念与政策取向。,urban-rural coordinated development
+land transfer,农村土地流转,农业,在坚持集体所有权前提下农户将土地经营权转让给其他经营主体的行为；有利于发展适度规模经营。,land circulation; farmland transfer
+collective economy,集体经济,农业,生产资料归农村集体经济组织成员共同所有的经济形式；是乡村公共积累与公共服务的重要来源。,collective economic organization
+family farm,家庭农场,农业,以家庭成员为主要劳动力、以农业收入为主要来源并达到一定规模的经营主体。,family farming
+leisure agriculture,休闲农业,农业,利用田园景观与农事活动发展观光、体验与度假的新兴业态；促进一二三产业融合。,agri-tourism; agritourism
+rural e-commerce,农村电子商务,农业,借助互联网平台实现农产品上行与工业品下行的商贸模式；拓宽农民增收渠道。,rural online commerce
+contract farming,订单农业,农业,农户或合作社按与龙头企业签订的合同组织生产并按约定交售农产品的经营方式。,contract agriculture
+smallholder,小农户,农业,经营规模小、以家庭劳动为主的农户；是发展中国家农业生产的基本单元。,smallholder farmer; small-scale farmer
+new-type professional farmer,新型职业农民,农业,接受过系统培训、以农业为稳定职业并具有较高经营管理与专业技能水平的现代农业经营者。,professional farmer

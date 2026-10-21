@@ -99,3 +99,103 @@ anesthesia,麻醉,医学,用药物或其他方法使机体或局部暂时丧失�
 hemostasis,止血,医学,血液从受损血管流出后自行停止的生理过程或促使出血停止的措施,haemostasis
 transplantation,移植,医学,将自体或异体的细胞组织器官移入受者体内以替代受损结构的技术,grafting
 debridement,清创术,医学,清除创口内异物和失活污染组织以促进愈合的外科处理方法,
+neonatal jaundice,新生儿黄疸,医学,新生儿期胆红素代谢异常所致皮肤及巩膜黄染；分生理性与病理性两类,neonatal hyperbilirubinemia
+neonatal asphyxia,新生儿窒息,医学,新生儿出生时不能建立有效自主呼吸所致的低氧血症与酸中毒状态,
+neonatal respiratory distress syndrome,新生儿呼吸窘迫综合征,医学,早产儿肺表面活性物质缺乏引起的进行性呼吸困难与低氧血症,NRDS; hyaline membrane disease
+bronchiolitis,毛细支气管炎,医学,婴幼儿常见的下呼吸道感染；以喘憋与细支气管阻塞为特征,
+febrile seizure,热性惊厥,医学,婴幼儿在发热状态下出现的惊厥发作；多呈良性经过,febrile convulsion
+kawasaki disease,川崎病,医学,儿童急性自限性血管炎；以持续发热、皮疹及冠状动脉损害为特征,mucocutaneous lymph node syndrome
+hand foot and mouth disease,手足口病,医学,肠道病毒引起的儿童常见传染病；表现为手、足、口腔等部位的疱疹,HFMD
+growth retardation,生长迟缓,医学,儿童身高或体重低于同年龄同性别参考值两个标准差以上的状态,growth failure; stunting
+preeclampsia,子痫前期,医学,妊娠二十周后新发高血压伴蛋白尿或靶器官损害的妊娠特有疾病,pre-eclampsia
+gestational diabetes mellitus,妊娠期糖尿病,医学,妊娠期首次发现的不同程度糖代谢异常；增加母儿不良结局风险,GDM
+ectopic pregnancy,异位妊娠,医学,受精卵在子宫腔以外部位着床发育；以输卵管妊娠最为常见,extrauterine pregnancy
+placenta previa,前置胎盘,医学,胎盘附着于子宫下段并覆盖宫颈内口；可致妊娠晚期无痛性出血,
+postpartum hemorrhage,产后出血,医学,胎儿娩出后二十四小时内失血量超过五百毫升的产科危急并发症,PPH
+preterm birth,早产,医学,妊娠满二十八周但不足三十七周发生的分娩,premature birth
+endometriosis,子宫内膜异位症,医学,子宫内膜样组织生长于宫腔以外部位；常引起痛经与不孕,
+polycystic ovary syndrome,多囊卵巢综合征,医学,以排卵障碍、高雄激素血症及卵巢多囊样改变为特征的内分泌疾病,PCOS
+amniocentesis,羊膜腔穿刺术,医学,经腹壁穿刺抽取羊水进行胎儿染色体或生化检测的产前诊断技术,
+hysteroscopy,宫腔镜检查,医学,经宫颈置入内镜直接观察宫腔形态及子宫内膜病变的诊疗技术,
+cardiopulmonary resuscitation,心肺复苏,医学,对心搏骤停者实施胸外按压与人工通气以恢复自主循环的急救技术,CPR
+defibrillation,电除颤,医学,以直流电击终止心室颤动等恶性心律失常并恢复有效心律的治疗,electrical defibrillation
+shock,休克,医学,有效循环血量锐减致组织灌注不足与细胞代谢紊乱的危重综合征,
+anaphylaxis,严重过敏反应,医学,速发型全身性过敏反应；可迅速进展为喉头水肿与循环衰竭,anaphylactic reaction
+acute respiratory distress syndrome,急性呼吸窘迫综合征,医学,弥漫性肺泡损伤所致的顽固性低氧血症与肺顺应性显著下降,ARDS
+multiple organ dysfunction syndrome,多器官功能障碍综合征,医学,严重感染或创伤后两个及以上器官序贯发生功能障碍的综合征,MODS
+endotracheal intubation,气管插管,医学,将导管经声门置入气管内以建立人工气道的急救与麻醉操作,tracheal intubation
+mechanical ventilation,机械通气,医学,借助呼吸机维持或改善患者通气与氧合的生命支持手段,
+central venous catheterization,中心静脉置管,医学,经深静脉置入导管用于快速输液、测压及肠外营养支持的操作,CVC
+continuous renal replacement therapy,连续性肾脏替代治疗,医学,对重症患者连续缓慢清除溶质与多余水分的体外血液净化治疗,CRRT
+general anesthesia,全身麻醉,医学,麻醉药物可逆性抑制中枢神经系统；产生意识消失与无痛的状态,
+epidural anesthesia,硬膜外麻醉,医学,将局麻药注入硬膜外腔阻滞脊神经传导的椎管内麻醉方法,
+spinal anesthesia,蛛网膜下腔麻醉,医学,将局麻药注入蛛网膜下腔产生下半身阻滞的椎管内麻醉方法,subarachnoid block
+sedation,镇静,医学,应用药物降低意识水平以减轻焦虑与不适；通常保留自主呼吸,
+neuromuscular blockade,神经肌肉阻滞,医学,肌松药阻断神经肌肉接头传导所致的可逆性骨骼肌松弛状态,muscle relaxation
+postoperative analgesia,术后镇痛,医学,围术期应用药物或神经阻滞技术缓解手术后疼痛的措施,
+bispectral index,脑电双频指数,医学,由脑电图计算得出的麻醉深度监测指标；数值范围为零至一百,BIS
+physical therapy,物理治疗,医学,运用运动疗法、手法及物理因子改善躯体功能障碍的康复治疗,physiotherapy; PT
+occupational therapy,作业治疗,医学,通过有目的的作业活动恢复患者日常生活与工作能力的康复疗法,OT
+speech therapy,言语治疗,医学,针对言语、语言及吞咽障碍进行评估与训练干预的康复手段,speech-language therapy
+spasticity,痉挛状态,医学,上运动神经元损伤后肌张力持续性增高并伴腱反射亢进的表现,
+hemiplegia,偏瘫,医学,一侧上下肢随意运动功能丧失；最常见于脑卒中之后,
+dysphagia,吞咽障碍,医学,食物经口至胃的运送过程受损；易导致误吸、营养不良及吸入性肺炎,swallowing disorder
+activities of daily living,日常生活活动能力,医学,个体完成衣、食、住、行及个人卫生的基本生活自理能力,ADL
+orthosis,矫形器,医学,用于矫正畸形、稳定关节或辅助肢体运动的体外穿戴装置,orthotic device; brace
+malnutrition,营养不良,医学,能量或营养素摄入不足、过剩或比例失衡所致的营养状态异常,undernutrition
+enteral nutrition,肠内营养,医学,经口服或管饲途径由胃肠道供给营养制剂的营养支持方式,EN
+parenteral nutrition,肠外营养,医学,经静脉途径供给全部或部分营养素以维持代谢需要的营养支持方式,PN
+obesity,肥胖症,医学,体内脂肪过度蓄积达到损害健康程度的慢性代谢性疾病,
+metabolic syndrome,代谢综合征,医学,中心性肥胖合并高血压、高血糖及血脂异常聚集出现的症候群,
+sarcopenia,肌少症,医学,随增龄出现的骨骼肌量减少伴肌力下降或躯体功能减退的综合征,muscle wasting
+nutritional screening,营养风险筛查,医学,应用简易工具快速识别存在营养不良风险患者的临床过程,nutrition risk screening
+dementia,痴呆,医学,获得性持续性认知功能减退并明显影响日常生活能力的综合征,
+delirium,谵妄,医学,急性起病的注意力与意识水平障碍；症状波动且大多可逆,acute confusional state
+frailty,衰弱,医学,老年人多系统生理储备下降导致应激耐受能力减弱的状态,
+geriatric syndrome,老年综合征,医学,老年人由多种因素共同导致的跌倒、失禁、谵妄等常见临床症候群,
+polypharmacy,多重用药,医学,患者同时使用五种及以上药物的用药状态；增加不良反应风险,
+pressure ulcer,压疮,医学,局部组织长期受压致缺血缺氧而发生的皮肤及深部组织损伤,pressure injury; bedsore
+urinary incontinence,尿失禁,医学,尿液不自主流出的排尿障碍；为老年人群常见病症,UI
+precision medicine,精准医疗,医学,依据个体基因、环境与生活方式差异制定诊疗方案的医学模式,personalized medicine
+pharmacogenomics,药物基因组学,医学,研究基因变异如何影响药物反应以指导个体化用药的学科,
+companion diagnostic,伴随诊断,医学,用于筛选可能从特定靶向药物获益患者的体外诊断检测,
+targeted therapy,靶向治疗,医学,针对肿瘤发生发展相关特定分子靶点设计药物的抗肿瘤治疗,
+immunotherapy,免疫治疗,医学,通过激活、增强或重建机体免疫功能以治疗疾病的方法,
+immune checkpoint inhibitor,免疫检查点抑制剂,医学,阻断免疫抑制性信号通路以恢复抗肿瘤免疫应答的药物,checkpoint inhibitor
+monoclonal antibody,单克隆抗体,医学,由单一B细胞克隆产生、特异性识别单一抗原表位的抗体,mAb
+CAR-T cell therapy,嵌合抗原受体T细胞疗法,医学,将T细胞基因改造表达嵌合抗原受体以识别并杀伤肿瘤的细胞治疗,chimeric antigen receptor T-cell therapy
+liquid biopsy,液体活检,医学,通过检测血液等体液中的肿瘤来源物质实现无创诊断与监测的技术,
+circulating tumor DNA,循环肿瘤DNA,医学,肿瘤细胞凋亡或分泌释放至外周血中的游离DNA片段,ctDNA
+genetic counseling,遗传咨询,医学,评估个体遗传病风险并向咨询者提供信息与决策支持的专业过程,
+whole exome sequencing,全外显子组测序,医学,对基因组全部蛋白质编码区进行捕获与高通量测序的检测技术,WES
+tumor mutational burden,肿瘤突变负荷,医学,肿瘤基因组每兆碱基中体细胞突变总数；可预测免疫治疗疗效,TMB
+driver mutation,驱动突变,医学,赋予细胞克隆生长优势并推动肿瘤发生发展的关键基因变异,
+percutaneous coronary intervention,经皮冠状动脉介入治疗,医学,经导管球囊扩张并置入支架实现冠状动脉血运重建的介入技术,PCI
+coronary angiography,冠状动脉造影,医学,经导管注入造影剂显示冠状动脉解剖结构及狭窄病变的影像检查,
+cardiac catheterization,心导管检查,医学,将导管送入心腔及大血管进行压力测定、血氧分析与造影的检查,
+transcatheter aortic valve replacement,经导管主动脉瓣置换术,医学,经外周血管或心尖途径置入人工瓣膜治疗主动脉瓣狭窄的介入技术,TAVR; TAVI
+radiofrequency ablation,射频消融,医学,利用射频电流的热效应毁损异常传导组织或病灶的介入治疗方法,RFA
+transarterial chemoembolization,经动脉化疗栓塞,医学,经肝动脉注入化疗药物与栓塞剂治疗肝细胞癌的介入方法,TACE
+thrombolytic therapy,溶栓治疗,医学,应用药物激活纤溶系统溶解血栓以恢复血管再通的治疗方法,fibrinolytic therapy
+interventional radiology,介入放射学,医学,在影像设备引导下经皮穿刺进行诊断与微创治疗的临床学科,
+laparoscopy,腹腔镜手术,医学,经腹壁小孔置入腹腔镜与操作器械完成的微创外科手术,
+stent,支架,医学,植入血管或其他管腔内以维持管腔通畅的网状支撑装置,
+telemedicine,远程医疗,医学,借助信息与通信技术跨越空间距离提供诊疗与健康服务的医疗模式,telehealth
+electronic health record,电子健康档案,医学,以电子化方式记录个人全生命周期健康与医疗信息的系统,EHR
+antimicrobial resistance,抗微生物药物耐药性,医学,微生物对药物敏感性下降导致抗感染治疗失败的现象,AMR; antibiotic resistance
+nosocomial infection,医院感染,医学,患者在住院期间获得的感染；也包括住院期间获得出院后发病者,hospital-acquired infection
+palliative care,姑息照护,医学,以缓解症状与改善生活质量为目标的多学科整体照护模式,
+hospice care,安宁疗护,医学,为疾病终末期患者提供舒适照护与身心社会支持的照护模式,end-of-life care
+intensive care unit,重症监护病房,医学,集中监护与救治危及生命的重症患者的专门医疗单元,ICU
+blood transfusion,输血,医学,将血液或血液成分经静脉输入患者体内以补充血容量或改善携氧能力,
+hemodialysis,血液透析,医学,经体外循环清除代谢废物与多余水分的肾脏替代治疗方式,HD
+peritoneal dialysis,腹膜透析,医学,利用腹膜作为半透膜清除毒素与水分的肾脏替代治疗方式,PD
+hematopoietic stem cell transplantation,造血干细胞移植,医学,经静脉输注造血干细胞以重建患者造血与免疫功能的治疗方法,HSCT
+minimally invasive surgery,微创外科,医学,通过小切口或腔镜技术减少组织创伤与应激的外科手术方式,MIS
+robotic surgery,机器人手术,医学,术者操控机器人手术系统完成精细解剖与重建的外科手术方式,robot-assisted surgery
+primary health care,初级卫生保健,医学,社区可及的、覆盖基本医疗与公共卫生服务的第一级卫生服务,PHC
+evidence-based medicine,循证医学,医学,慎重、准确且明智地应用当前最佳研究证据进行临床决策的医学实践,EBM
+clinical pathway,临床路径,医学,针对特定疾病制定的标准化诊疗流程与时间安排方案,
+multidisciplinary team,多学科诊疗团队,医学,由多个相关专科人员共同协作制定诊疗方案的团队合作模式,MDT
+quality-adjusted life year,质量调整生命年,医学,综合生存时间与生命质量权重计算的健康产出评价指标,QALY
+number needed to treat,需治人数,医学,与对照相比为获得一例额外良好结局所需治疗的患者人数,NNT

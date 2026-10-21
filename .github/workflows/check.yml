@@ -1,0 +1,21 @@
+# open-termbank 数据门禁：push / PR 全量校验
+# 红灯即不可合入——数据仓的第一原则是「任何时刻 main 都是可消费的」。
+name: check
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: 校验数据 + 核对 index.json
+        run: python scripts/build_index.py --check
+      - name: TBX 导出可重放（不提交产物，只验证不炸）
+        run: python scripts/export_tbx.py

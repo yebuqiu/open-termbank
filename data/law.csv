@@ -99,3 +99,103 @@ equity,衡平法,法律,历史上为弥补普通法僵化不足而发展起来�
 common law,普通法,法律,以判例为主要渊源、由法官在审判中逐渐形成的法律体系,case law
 statutory law,成文法,法律,由立法机关依照法定程序制定并以条文形式表现的法律,statute law; written law
 natural law,自然法,法律,认为存在高于实在法并作为其正当性依据的普遍理性法则的理论,
+admissibility of evidence,证据能力,法律,证据被法庭采纳作为定案根据所应具备的资格与条件,evidence admissibility
+chain of custody,证据保管链条,法律,实物证据从收集到庭审期间经手与保管全过程的连续记录用以证明其未被篡改,
+corroborating evidence,补强证据,法律,用以印证或加强主要证据证明力的辅助性证据,corroboration
+direct evidence,直接证据,法律,无需推理即可直接证明案件主要事实的证据如目击证言,
+circumstantial evidence,间接证据,法律,需结合推理才能证明案件事实的证据如现场遗留物,indirect evidence
+documentary evidence,书证,法律,以文字符号所记载的内容证明案件事实的证据形式,
+witness testimony,证人证言,法律,证人就其感知的案件事实向法庭所作的陈述,testimony
+expert witness,专家证人,法律,凭借专业知识与技能就案件专门性问题向法庭提供意见的人,
+cross-examination,交叉询问,法律,庭审中一方对对方证人进行的质问以检验证言可信度,
+evidence authentication,证据鉴真,法律,举证方证明实物证据确为其所声称之物且未被替换的程序,authentication
+presumption,推定,法律,法律允许从已证实的基础事实直接认定另一事实存在的规则,legal presumption
+standard of proof,证明标准,法律,认定案件事实所需达到的证明程度如刑事中的排除合理怀疑,degree of proof
+beyond a reasonable doubt,排除合理怀疑,法律,刑事诉讼中定罪所要求的最高证明标准要求不存在合乎理性的疑问,
+preponderance of evidence,优势证据,法律,民事诉讼中一方证据证明力明显超过对方即可胜诉的证明标准,balance of probabilities
+spoliation of evidence,毁弃证据,法律,当事人故意毁灭或篡改证据的行为可招致不利推定与制裁,spoliation
+best evidence rule,最佳证据规则,法律,证明文书内容时原则上应当提交原件的英美证据法规则,original document rule
+prenuptial agreement,婚前协议,法律,男女双方在结婚前就财产归属与债务承担等事项订立的书面协议,premarital agreement
+community property,夫妻共同财产,法律,婚姻关系存续期间所得并归夫妻双方共同所有的财产,marital community property
+divorce,离婚,法律,夫妻双方通过协议或诉讼解除婚姻关系的法律行为,dissolution of marriage
+child custody,子女抚养权,法律,离婚或分居后确定子女由何方直接抚养与监护的权利义务安排,custody
+child support,子女抚养费,法律,不直接抚养子女一方依法定期支付的用于子女生活教育的费用,
+alimony,配偶赡养费,法律,离婚时经济优势一方向弱势一方支付的生活补助费用,spousal support; maintenance
+visitation right,探望权,法律,离婚后不直接抚养子女一方依法定期探望子女的权利,access right
+adoption,收养,法律,依照法定程序在收养人与被收养人之间建立拟制亲子关系的制度,
+domestic violence,家庭暴力,法律,家庭成员之间实施的身体或精神侵害行为受害人可申请人身安全保护令,DV
+paternity,亲子关系确认,法律,通过诉讼或鉴定确认子女与父亲之间血缘法律关系的程序,paternity establishment
+legal separation,分居制度,法律,夫妻不解除婚姻关系而依法分开生活并确定财产与子女安排的制度,judicial separation
+marital property regime,夫妻财产制,法律,规范夫妻婚前婚后财产归属与管理的法律制度分法定与约定两种,matrimonial regime
+bankruptcy petition,破产申请,法律,债权人或债务人向法院提出的启动破产程序的正式请求,insolvency petition
+debtor in possession,占有中的债务人,法律,重整程序中继续占有并经营自身财产的债务人,DIP
+automatic stay,自动中止,法律,破产申请受理后债权人个别追偿与执行行为自动暂停的制度,stay of proceedings
+bankruptcy trustee,破产管理人,法律,在破产程序中接管债务人财产并负责清理与分配的中立机构或个人,trustee in bankruptcy
+reorganization,重整,法律,对困境企业通过调整债务与经营结构使其恢复生机的破产程序,corporate reorganization
+bankruptcy estate,破产财团,法律,破产程序开始时属于债务人并用于清偿债权的全部财产,estate in bankruptcy
+preferential transfer,偏颇清偿,法律,债务人在破产前对个别债权人作出的可被撤销的优惠性清偿,voidable preference
+fraudulent conveyance,欺诈性转让,法律,债务人为逃废债务而无偿或以明显低价转移财产的可撤销行为,fraudulent transfer
+creditors' committee,债权人委员会,法律,由债权人代表组成监督管理人工作并表达债权人意愿的机构,
+cramdown,强制批准,法律,法院在部分表决组反对时仍裁定批准重整计划的制度,cram-down
+discharge of debts,债务免责,法律,破产程序终结后诚实债务人对未清偿债务免于继续清偿的制度,discharge in bankruptcy
+insolvency,资不抵债,法律,债务人资产不足以清偿全部到期债务的状态是破产原因之一,
+priority of claims,债权受偿顺序,法律,破产分配中各类债权按法定先后顺位获得清偿的规则,order of priority
+debt restructuring,债务重组,法律,债权人与债务人协商或经法定程序调整债务期限利率或本金的安排,restructuring
+insider trading,内幕交易,法律,知悉内幕信息的人员利用该信息买卖证券的违法行为,insider dealing
+prospectus,招股说明书,法律,发行人公开发行证券时向投资者披露发行条件与风险的法定文件,offering prospectus
+securities fraud,证券欺诈,法律,在证券发行与交易中虚假陈述操纵或欺诈客户等违法行为,
+market manipulation,操纵市场,法律,通过连续交易对倒或散布虚假信息等手段人为影响证券价格的行为,
+tender offer,要约收购,法律,收购人向目标公司全体股东发出公开要约购买其股份的收购方式,takeover offer
+information disclosure,信息披露,法律,证券发行人依法真实准确完整及时地公开重大信息的义务,disclosure
+material fact,重大事实,法律,足以影响理性投资者决策或证券价格的信息事项,material information
+short swing profit,短线交易收益,法律,公司大股东等在六个月内反向买卖本公司股票所获收益应归公司所有,
+accredited investor,合格投资者,法律,符合法定资产或收入标准而被允许参与私募发行的投资者,qualified investor
+public offering,公开发行,法律,发行人向不特定对象或累计超过法定人数发行证券的行为,public issuance
+private placement,非公开发行,法律,发行人向特定合格投资者发行证券且不得公开劝诱的方式,private offering
+registration statement,注册申报文件,法律,发行人依注册制向监管机构提交的包含发行全部信息的申报文件,
+proxy solicitation,代理权征集,法律,股东为在股东大会投票而向其他股东征集表决权代理的行为,proxy fight
+personal information protection,个人信息保护,法律,对自然人可识别信息的收集存储使用与共享设定规则的法律制度,personal data protection
+data breach,数据泄露,法律,个人信息或重要数据未经授权被访问窃取或公开的安全事件,data leak
+data controller,个人信息处理者,法律,自主决定个人信息处理目的与方式的组织或个人,
+data processor,受托处理方,法律,受处理者委托按照约定处理个人信息的组织或个人,
+right to be forgotten,被遗忘权,法律,个人在特定情形下要求删除其网络公开个人信息的权利,right to erasure
+informed consent,知情同意,法律,个人信息处理须以充分告知为前提并取得个人自愿明确同意的规则,consent requirement
+cybercrime,网络犯罪,法律,以计算机或网络为对象或工具实施的诈骗侵入等犯罪行为,computer crime
+electronic evidence,电子数据证据,法律,以数字化形式存储与传输并可证明案件事实的数据信息,digital evidence
+cybersecurity,网络安全,法律,通过技术与管理措施保障网络系统与数据安全的法律义务体系,
+data localization,数据本地化,法律,要求特定数据在境内存储处理并限制其跨境传输的制度,data residency
+cross-border data transfer,数据跨境传输,法律,个人信息或重要数据向境外提供须满足评估认证等法定条件的活动,
+privacy policy,隐私政策,法律,网络运营者向用户公开个人信息处理规则与权利保障措施的声明,privacy notice
+anonymization,匿名化,法律,对个人信息加工处理使其无法识别特定自然人且不能复原的过程,de-identification
+arbitral tribunal,仲裁庭,法律,由仲裁员组成负责审理争议并作出裁决的裁判组织,tribunal
+arbitrator,仲裁员,法律,由当事人选定或仲裁机构指定独立公正地裁决争议的个人,
+arbitral award,仲裁裁决,法律,仲裁庭就争议实体问题作出的对当事人具有终局拘束力的决定,award
+seat of arbitration,仲裁地,法律,仲裁程序在法律意义上所属的法域决定程序法适用与裁决国籍,arbitral seat
+ad hoc arbitration,临时仲裁,法律,当事人不依赖常设机构而自行组织仲裁庭进行的仲裁,
+institutional arbitration,机构仲裁,法律,在常设仲裁机构管理下依其仲裁规则进行的仲裁,administered arbitration
+recognition and enforcement of arbitral award,仲裁裁决承认与执行,法律,一国法院依公约或互惠原则使外国仲裁裁决在本国生效并强制执行的程序,enforcement of award
+New York Convention,纽约公约,法律,关于承认及执行外国仲裁裁决的国际条约是仲裁执行体系的基石,1958 Convention
+UNCITRAL Model Law,联合国国际贸易法委员会仲裁示范法,法律,联合国为统一各国仲裁立法而制定的示范文本被众多法域采纳,Model Law
+lex arbitri,仲裁程序法,法律,仲裁程序所适用的法律通常为仲裁地国家的仲裁法,
+interim measure,临时措施,法律,仲裁庭或法院在终局裁决前为保全证据或财产作出的临时性命令,interim relief
+challenge of arbitrator,仲裁员回避,法律,当事人因仲裁员存在偏袒或利害关系而申请其退出审理的制度,disqualification of arbitrator
+literal interpretation,文义解释,法律,按照法律条文通常的文字含义确定规范内容的解释方法,grammatical interpretation
+systematic interpretation,体系解释,法律,将条文置于整个法律体系的关联中确定其含义的解释方法,contextual interpretation
+purposive interpretation,目的解释,法律,依据立法目的与社会效果确定条文含义的解释方法,teleological interpretation
+historical interpretation,历史解释,法律,借助立法史料与制定过程探究立法者原意的解释方法,
+extensive interpretation,扩大解释,法律,将条文含义扩张至超出其字面通常范围的解释方法,extensive construction
+restrictive interpretation,限缩解释,法律,将条文含义限制在小于其字面通常范围的解释方法,narrow construction
+analogical interpretation,类推解释,法律,对法律未明文规定的事项比照最相类似条文处理的适用方法,analogy
+ejusdem generis,同类规则,法律,列举事项后的概括用语应解释为与列举事项同类的解释规则,of the same kind rule
+expressio unius,明示其一排除其他,法律,法律明示列举特定事项即表示排除未列举事项的拉丁解释准则,expressio unius est exclusio alterius
+legislative intent,立法意图,法律,立法机关在制定法律时所欲实现的目的与意思是法律解释的重要依据,legislative purpose
+originalism,原旨主义,法律,主张按宪法文本在制定时的原初含义进行解释的宪法解释理论,
+textualism,文本主义,法律,主张依法律文本的客观普通含义解释而不探求主观立法意图的理论,
+forum non conveniens,不方便法院原则,法律,法院认为由他国法院审理更为适当时可拒绝行使管辖权的普通法原则,
+long-arm jurisdiction,长臂管辖,法律,法院基于被告与本地存在最低联系而对域外被告行使管辖权的制度,
+summary judgment,即决判决,法律,案件无实质性事实争议时法院不经完整庭审径行作出的判决,
+discovery,证据开示,法律,诉讼双方在庭审前依法相互交换证据与信息的程序,disclosure of evidence
+subpoena,传票,法律,法院签发责令证人到庭作证或提交证据的强制性命令,witness summons
+voir dire,预先审核,法律,庭审前对陪审员候选人或证人资格进行审查询问的程序,
+punitive damages,惩罚性赔偿,法律,在补偿实际损失之外为惩罚与威慑恶意侵权而判令的额外赔偿,exemplary damages
+stare decisis,遵循先例,法律,法院应受在先判决拘束对同类案件作相同裁判的普通法原则,doctrine of precedent

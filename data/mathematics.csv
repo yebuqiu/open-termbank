@@ -99,3 +99,103 @@ Gödel's incompleteness theorem,哥德尔不完备定理,数学,足够强的形�
 model theory,模型论,数学,研究形式语言与其数学结构解释之间关系的逻辑分支,
 recursion theory,递归论,数学,研究可计算函数与算法可解性边界的数理逻辑分支,computability theory
 formal system,形式系统,数学,由符号、公式、公理和推理规则构成的严格演算体系,
+Banach space,巴拿赫空间,数学,完备的赋范线性空间即每个柯西列均按范数收敛的空间是泛函分析的基本对象,complete normed space
+Hilbert space,希尔伯特空间,数学,由内积诱导范数且在该范数下完备的内积空间广泛应用于量子力学与信号处理,
+normed space,赋范空间,数学,定义了范数从而可度量向量长度并诱导距离拓扑结构的线性空间,normed linear space
+inner product space,内积空间,数学,定义了满足共轭对称线性与正定性的内积从而可引入长度与角度概念的线性空间,pre-Hilbert space
+linear operator,线性算子,数学,线性空间之间保持加法与数乘运算的映射是算子理论与应用分析的核心概念,linear map
+bounded operator,有界算子,数学,将有界集映为有界集的线性算子等价于处处连续的线性算子是算子理论的基本研究对象,
+dual space,对偶空间,数学,由赋范空间上全体有界线性泛函按算子范数构成的空间反映原空间的几何性质,
+weak convergence,弱收敛,数学,序列在所有有界线性泛函作用下逐点收敛的收敛方式其蕴含条件弱于按范数收敛,
+Hahn-Banach theorem,哈恩-巴拿赫定理,数学,保证子空间上的有界线性泛函可控范数地延拓到全空间的泛函分析基本定理,
+Riesz representation theorem,里斯表示定理,数学,刻画希尔伯特空间上有界线性泛函必可表示为与唯一向量作内积形式的定理,
+compact operator,紧算子,数学,将有界集映为相对紧集的线性算子是有限秩算子的极限并具有离散的谱结构,
+spectral theorem,谱定理,数学,断言希尔伯特空间上的正规算子可分解为关于谱测度之积分的算子理论核心定理,
+complete graph,完全图,数学,任意两个不同顶点之间均有边相连的简单图其n阶情形记作Kn,
+bipartite graph,二分图,数学,顶点集可划分为两部分使每条边的两端分属不同部分的图等价于不含奇圈的图,bigraph
+planar graph,平面图,数学,可嵌入平面使边仅在公共端点处相交的图满足欧拉公式等拓扑约束,
+spanning tree,生成树,数学,包含图全部顶点的极小连通无圈子图是网络设计与图算法中的重要结构,
+shortest path,最短路径,数学,图中连接两顶点且边权之和最小的路径可由Dijkstra算法等经典方法求解,
+Eulerian circuit,欧拉回路,数学,经过图中每条边恰好一次并回到起点的闭合路径存在于满足度条件的连通图中,Euler tour
+Hamiltonian cycle,哈密顿圈,数学,经过图中每个顶点恰好一次的圈其判定问题是经典的NP完全问题,Hamiltonian circuit
+graph coloring,图着色,数学,为顶点或边赋予颜色使相邻对象颜色不同的指派方案与调度问题密切相关,vertex coloring
+matching,匹配,数学,图中两两无公共端点的边所构成的集合最大匹配是组合优化的经典问题,
+chromatic number,色数,数学,使图得到正常着色所需的最少颜色数是刻画图结构复杂性的重要不变量,
+adjacency matrix,邻接矩阵,数学,以矩阵元素表示各顶点间邻接关系的图表示方法便于用代数手段研究图性质,
+clique,团,数学,图中两两相邻的顶点子集即其诱导子图为完全图的顶点集合,
+vertex cover,顶点覆盖,数学,与图中每条边至少关联一个端点的顶点子集其最小化问题属于NP困难,
+binomial coefficient,二项式系数,数学,二项展开式中各项的系数即从n个元素中选取k个的组合数满足帕斯卡恒等式,
+Catalan number,卡特兰数,数学,出现在括号匹配格路计数与二叉树计数等众多问题中的经典计数序列,
+Stirling number,斯特林数,数学,分别计数置换的轮换分解与集合划分数的两类重要组合数分为第一类与第二类,
+integer partition,整数分拆,数学,将正整数表示为若干正整数之和且不计次序的方式其总数由分拆函数刻画,partition
+Ramsey number,拉姆齐数,数学,保证任意二染色完全图必含单色团的临界阶数体现无序中必有结构的原理,
+permutation,排列,数学,集合元素的有序安排n元集合共有n阶乘种不同排列是组合计数的基础概念,
+derangement,错位排列,数学,每个元素均不在原来位置上的排列其计数可由容斥原理导出并与e的倒数相关,
+Latin square,拉丁方,数学,每行每列中每个符号均恰好出现一次的n阶方阵在实验设计与编码中应用广泛,
+block design,区组设计,数学,将元素安排为满足特定相遇与平衡条件的区组族是组合设计理论的核心对象,BIBD; balanced incomplete block design
+Fibonacci number,斐波那契数,数学,满足每项等于前两项之和递推关系的数列与黄金分割及众多自然结构密切相关,
+Bell number,贝尔数,数学,计数n元集合所有划分方式总数的组合数其指数生成函数具有简洁形式,
+stochastic process,随机过程,数学,以时间为指标的一族随机变量用于刻画随时间演化的随机现象的概率模型,random process
+Markov chain,马尔可夫链,数学,状态离散且未来仅依赖当前状态的无记忆随机过程广泛用于建模与随机算法,
+Markov property,马尔可夫性,数学,在给定当前状态的条件下过去与未来相互独立的无后效性质是马尔可夫过程的本质特征,memoryless property
+stationary distribution,平稳分布,数学,在马尔可夫链转移下保持不变的概率分布刻画链长期运行的极限行为,invariant distribution
+Poisson process,泊松过程,数学,具有独立平稳增量的随机点计数过程是描述稀有事件到达规律的基本模型,
+Brownian motion,布朗运动,数学,轨道连续且增量独立并服从正态分布的随机过程是随机分析与现代金融数学的基石,Wiener process
+martingale,鞅,数学,未来期望在给定历史信息下等于当前值的公平博弈型随机过程是随机分析的核心工具,
+stopping time,停时,数学,是否停止仅依赖当前及既往观测信息的随机时间是鞅论与最优停止问题的基本概念,optional time
+random walk,随机游动,数学,每步按固定分布独立增量前进的随机过程是众多复杂随机模型的原型,
+Gaussian process,高斯过程,数学,任意有限维分布均为多元正态分布的随机过程在机器学习与地统计中广泛应用,GP
+birth-death process,生灭过程,数学,状态仅向相邻整数转移的连续时间马尔可夫链是排队模型与种群模型的基础,
+queueing theory,排队论,数学,研究服务系统中等待队长与等待时间等性能指标的随机运筹学分支,queuing theory
+numerical integration,数值积分,数学,用被积函数在采样点的值加权求和近似定积分的方法如梯形公式与辛普森公式,quadrature
+finite difference method,有限差分法,数学,用差商代替导数将微分方程离散为代数方程组求解的数值方法,FDM
+finite element method,有限元法,数学,将求解区域剖分为单元并在分片多项式空间中求变分问题近似解的数值方法,FEM
+Gaussian elimination,高斯消元法,数学,通过行初等变换将线性方程组化为上三角形再回代求解的直接方法,Gauss elimination
+LU decomposition,LU分解,数学,将矩阵分解为下三角矩阵与上三角矩阵之积以高效求解线性方程组的矩阵分解,LU factorization
+condition number,条件数,数学,度量问题解对输入扰动敏感程度的量其大小决定数值计算中精度的损失,
+truncation error,截断误差,数学,用有限步近似无限过程或以离散格式代替连续问题所产生的理论误差,
+Runge-Kutta method,龙格-库塔法,数学,通过级内多点斜率加权平均来提高精度的一类单步常微分方程数值方法,RK method
+fixed-point iteration,不动点迭代,数学,反复将当前值代入映射以逼近其不动点的迭代格式其收敛性由压缩映射原理保证,
+interpolation,插值,数学,构造恰好通过给定数据点的函数以估计中间取值的逼近方法是数值分析的基本工具,
+spline,样条,数学,分段低次多项式在结点处保持一定光滑性的函数广泛用于数据插值与曲线造型,spline function
+QR decomposition,QR分解,数学,将矩阵分解为正交矩阵与上三角矩阵之积是特征值计算与最小二乘问题的核心工具,QR factorization
+iterative method,迭代法,数学,从初始近似出发反复改进直至收敛的求解方法适用于大规模稀疏方程组,
+Monte Carlo method,蒙特卡洛方法,数学,以随机抽样的统计量估计积分与期望等数值的随机模拟方法其误差随样本量平方根下降,
+game theory,博弈论,数学,研究理性决策者之间策略互动与均衡结构的数学理论广泛用于经济学与社会科学,
+Nash equilibrium,纳什均衡,数学,任何参与者单方面偏离均不能改善自身收益的策略组合是非合作博弈的核心解概念,NE
+dominant strategy,占优策略,数学,无论对手如何选择都为自身最优选择的策略其存在使博弈结果易于预测,
+zero-sum game,零和博弈,数学,参与者收益之和恒为零即一方所得恰为他方所失的严格竞争博弈,
+prisoner's dilemma,囚徒困境,数学,个体理性选择导致集体非最优结果的经典博弈模型深刻揭示合作与背叛的张力,PD
+mixed strategy,混合策略,数学,参与者以概率分布随机选择纯策略的策略形式保证有限博弈均衡的存在性,
+payoff matrix,收益矩阵,数学,以矩阵形式列出各策略组合下参与者收益用于刻画正则式博弈的结构,
+extensive form game,扩展式博弈,数学,以博弈树显式描述行动次序信息结构与收益的博弈表示方法便于研究动态行为,extensive game
+repeated game,重复博弈,数学,同一阶段博弈反复进行使长期激励与声誉机制得以体现的动态博弈模型,
+cooperative game,合作博弈,数学,参与者可缔结有约束力协议并以联盟收益分配为研究核心的博弈类型,coalitional game
+Pareto optimality,帕累托最优,数学,无法在不损害任何参与者前提下使某人状况更好的资源配置状态是效率的基准,Pareto efficiency
+backward induction,逆向归纳法,数学,从博弈末端向前递推求解子博弈精炼均衡的动态博弈分析方法,
+evolutionarily stable strategy,演化稳定策略,数学,在演化博弈中能抵抗少量变异策略入侵的策略刻画种群的演化稳定性,ESS
+information theory,信息论,数学,定量研究信息的度量传输与压缩的数学理论由香农奠基是现代通信的理论基础,
+information entropy,信息熵,数学,度量随机变量不确定性的平均信息量以比特为单位刻画信源压缩的理论极限,Shannon entropy
+mutual information,互信息,数学,度量两个随机变量之间依赖程度的信息量等于边际熵与条件熵之差,MI
+channel capacity,信道容量,数学,信道能够以任意小差错概率传输信息的最大速率由信道编码定理刻画其可达性,
+source coding theorem,信源编码定理,数学,指出无损压缩平均码长的下界为信源熵且存在逼近该下界编码方案的定理,Shannon's source coding theorem
+Kullback-Leibler divergence,KL散度,数学,度量两个概率分布差异的非对称信息量广泛用于统计推断与机器学习,relative entropy; KL divergence
+cross-entropy,交叉熵,数学,用分布Q的编码方案编码分布P样本所需的平均编码长度常用作分类模型的损失函数,
+Huffman coding,哈夫曼编码,数学,按符号概率构造最优前缀码的无损压缩编码方法其平均码长逼近信源熵,Huffman code
+error-correcting code,纠错码,数学,通过引入冗余使接收端能够自动检测并纠正传输差错的编码技术,ECC
+Hamming distance,汉明距离,数学,两个等长字符串对应位置不同字符的个数是编码理论中度量差异的基本距离,
+Shannon's theorem,香农定理,数学,给出带噪信道容量公式并证明码率低于容量时可任意可靠通信的信道编码定理,Shannon-Hartley theorem
+analytic continuation,解析延拓,数学,将解析函数沿路径唯一地扩展其定义域的方法可揭示函数的整体结构,
+residue theorem,留数定理,数学,将围道积分化为内部孤立奇点处留数之和的复变函数积分计算基本定理,Cauchy residue theorem
+Cauchy integral formula,柯西积分公式,数学,用解析函数在围道上的值表示其内部函数值与各阶导数值的复分析核心公式,
+conformal mapping,共形映射,数学,保持曲线间夹角大小与定向不变的解析映射在流体力学与电磁场问题中应用广泛,conformal map
+Riemann zeta function,黎曼ζ函数,数学,由无穷级数定义并经解析延拓得到的函数其零点分布与素数分布有着深刻联系,zeta function
+elliptic curve,椭圆曲线,数学,由三次方程定义并带有加法群结构的光滑代数曲线是数论与密码学的重要工具,
+ideal,理想,数学,环中对加法封闭且吸收环乘法运算的子集是构造商环与研究环结构的基本工具,
+Galois group,伽罗瓦群,数学,域扩张上保持基域元素不动的自同构构成的群其结构刻画代数方程的可解性,
+normal subgroup,正规子群,数学,在群的共轭作用下保持不变的子群等价于同态的核可用来构造商群,
+quotient group,商群,数学,由群关于正规子群的全体陪集并继承原群乘法运算所构成的群反映群的商结构,factor group
+tensor product,张量积,数学,将双线性映射转化为线性映射的泛性质构造是多重线性代数的基本运算,
+covering space,覆叠空间,数学,局部同胚且均匀覆盖底空间的拓扑空间用于研究基本群与映射提升性质,cover
+CW complex,CW复形,数学,由胞腔逐层粘合构建的拓扑空间类具有良好的同伦性质便于代数拓扑研究,
+exact sequence,正合列,数学,相邻同态的像等于下一同态的核的同态序列是同调代数描述结构的基本语言,

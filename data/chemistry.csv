@@ -99,3 +99,103 @@ molecular formula,分子式,化学,表示分子中各元素原子实际数目的
 IUPAC nomenclature,IUPAC命名法,化学,国际纯粹与应用化学联合会制定的化学物质系统命名规则,systematic nomenclature
 amount of substance,物质的量,化学,以阿伏伽德罗常数为基准表示粒子数目多少的基本物理量,n
 molarity,物质的量浓度,化学,单位体积溶液中所含溶质的物质的量,molar concentration
+green chemistry,绿色化学,化学,从源头减少或消除有害物质使用与产生的化学理念；以十二条原则指导可持续化学实践。,
+atom economy,原子经济性,化学,反应中原料原子被利用进入目标产物的百分比；是绿色化学评价反应效率的核心指标。,
+E factor,E因子,化学,化工生产中每千克产品所产生的废弃物千克数；用于量化工艺的环境负担。,environmental factor
+solvent-free reaction,无溶剂反应,化学,不使用外加溶剂进行的化学反应；可减少挥发性有机物排放并简化后处理。,solventless reaction
+supercritical carbon dioxide,超临界二氧化碳,化学,温度与压力均高于临界点、兼具气体与液体性质的二氧化碳；是环境友好的萃取与反应介质。,scCO2
+ionic liquid,离子液体,化学,熔点低于一百摄氏度、完全由离子组成的液体；蒸气压极低；被广泛用作绿色溶剂与电解质。,IL
+deep eutectic solvent,低共熔溶剂,化学,由氢键给体与受体按特定比例混合形成的低熔点溶剂；廉价低毒；可替代传统有机溶剂。,DES
+biocatalysis,生物催化,化学,利用酶或全细胞催化化学反应的方法；条件温和且选择性高；符合绿色化学要求。,enzyme catalysis
+flow chemistry,流动化学,化学,在连续流动的微通道或管式反应器中进行合成的技术；传热传质高效且易于放大与自动化。,continuous flow chemistry
+microwave-assisted synthesis,微波辅助合成,化学,利用微波选择性加热快速促进化学反应的合成方法；可显著缩短反应时间并提高产率。,microwave synthesis
+sonochemistry,声化学,化学,利用超声空化产生的局部高温高压微环境加速化学反应的学科；可用于材料制备与污染物降解。,
+mechanochemistry,机械化学,化学,通过研磨等机械力引发与驱动化学反应的分支；可减少溶剂使用并生成独特产物。,
+organocatalysis,有机催化,化学,用小分子有机物而非金属或酶催化反应的策略；条件温和；是不对称合成的重要方法。,
+click chemistry,点击化学,化学,以叠氮-炔环加成等高效模块化反应快速拼接分子的合成理念；广泛用于生物偶联与材料。,azide-alkyne cycloaddition
+C-H activation,碳氢键活化,化学,将惰性碳氢键直接转化为碳碳或碳杂键的催化方法；可简化合成路线并减少副产物。,C-H functionalization
+CO2 fixation,二氧化碳固定,化学,将二氧化碳作为碳一原料转化为化学品与燃料的化学过程；兼具资源利用与减排意义。,carbon dioxide fixation
+supramolecular chemistry,超分子化学,化学,研究分子间非共价相互作用及其构筑的有序聚集体的化学；被誉为超越分子层次的化学。,
+host-guest chemistry,主客体化学,化学,研究主体分子通过形状互补与弱相互作用识别结合客体分子的化学分支。,host-guest complexation
+molecular recognition,分子识别,化学,分子间通过非共价作用实现选择性结合与信息读取的过程；是生命体系识别事件的基础。,
+self-assembly,自组装,化学,分子或纳米基元在非共价作用下自发形成有序结构的过程；广泛存在于生物与合成体系。,
+crown ether,冠醚,化学,环状聚醚类化合物；空腔可选择性络合碱金属离子；开创主客体化学研究先河。,
+cyclodextrin,环糊精,化学,由葡萄糖单元构成的环状寡糖；疏水空腔可包结客体分子；广泛用于药物增溶与食品工业。,CD
+calixarene,杯芳烃,化学,由苯酚单元经亚甲基桥连形成的杯状大环；易于修饰；被称为第三代超分子主体。,
+cucurbituril,葫芦脲,化学,由甘脲单元构成的南瓜形大环主体；与客体结合力强且选择性高；用于分子识别与组装。,CB[n]
+rotaxane,轮烷,化学,环状分子穿在线状分子上并由封端基团防止脱出的机械互锁结构；是分子机器的基本构件。,
+catenane,索烃,化学,两个或多个环状分子相互套联形成的机械互锁结构；环与环之间无共价键连接。,
+molecular machine,分子机器,化学,可在外界刺激下执行类机械运动的人工分子体系；相关研究获2016年诺贝尔化学奖。,
+metal-organic framework,金属有机框架,化学,金属离子与有机配体配位形成的多孔晶态材料；比表面积巨大；用于气体存储与催化。,MOF
+covalent organic framework,共价有机框架,化学,由轻元素经共价键构筑的晶态多孔聚合物；结构可设计；应用于吸附分离与光电。,COF
+halogen bond,卤键,化学,卤素原子作为亲电体与路易斯碱之间形成的方向性非共价作用；在晶体工程与药物设计中受重视。,
+π-π stacking,π-π堆积,化学,芳香环之间因π电子云相互作用产生的面对面堆积；可稳定超分子组装体与DNA双螺旋。,pi-pi stacking
+supramolecular polymer,超分子聚合物,化学,单体经非共价作用连接形成的聚合体系；具有可逆性与刺激响应性。,
+dendrimer,树枝状大分子,化学,由中心核逐代分支生长的单分散大分子；表面官能团密集；用于载药与催化。,
+molecular cage,分子笼,化学,具有内部空腔的离散三维分子结构；可包结客体分子并用于分离与限域反应。,
+computational chemistry,计算化学,化学,运用量子力学与统计力学方法借助计算机研究化学体系的学科；涵盖结构预测与反应模拟。,
+ab initio calculation,从头算,化学,仅基于物理常数与量子力学原理、不依赖经验参数的电子结构计算方法。,ab initio method
+density functional theory,密度泛函理论,化学,以电子密度为基本变量处理多电子体系的量子化学方法；兼顾精度与效率；应用最广泛。,DFT
+Hartree-Fock method,哈特里-福克方法,化学,用单行列式波函数与平均场近似求解多电子体系的自洽场方法；是从头算的基础。,HF method
+basis set,基组,化学,量子化学计算中展开分子轨道的数学函数集合；其规模与完备性直接影响计算精度。,
+molecular mechanics,分子力学,化学,将分子视为由弹簧连接的经典粒子、用力场计算能量与结构的方法；适于大分子体系。,MM
+force field,力场,化学,分子力学中描述键伸缩、键角弯曲等势能项及其参数的函数体系；如AMBER与CHARMM。,
+molecular dynamics simulation,分子动力学模拟,化学,数值积分牛顿方程模拟原子运动轨迹的计算方法；可研究构象演化与动力学过程。,MD simulation
+Monte Carlo simulation,蒙特卡罗模拟,化学,利用随机抽样统计系综性质与构象空间的计算方法；广泛用于化学体系平衡性质研究。,MC simulation
+potential energy surface,势能面,化学,体系能量随核坐标变化形成的高维超曲面；其驻点对应稳定构型与过渡态。,PES
+transition state theory,过渡态理论,化学,假定反应物经活化络合物过渡态生成产物并据此推导速率常数的理论。,TST; activated complex theory
+frontier molecular orbital,前线分子轨道,化学,最高占据与最低未占分子轨道的统称；其能量与对称性主导化学反应活性。,FMO
+HOMO-LUMO gap,HOMO-LUMO能隙,化学,最高占据轨道与最低未占轨道之间的能量差；与分子光吸收及反应活性密切相关。,HOMO-LUMO energy gap
+Mulliken population analysis,马利肯布居分析,化学,将电子布居按基函数分配到各原子的电荷分析方法；可定量讨论分子中的原子电荷。,
+solvation model,溶剂化模型,化学,描述溶剂对溶质结构与能量影响的理论模型；分显式溶剂与连续介质两类。,
+coupled cluster theory,耦合簇理论,化学,以指数形式引入电子相关的高精度从头算方法；其CCSD(T)级别被称为量子化学金标准。,CC theory
+medicinal chemistry,药物化学,化学,研究药物分子设计、合成与构效关系的交叉学科；是新药创制的核心基础。,pharmaceutical chemistry
+lead compound,先导化合物,化学,具有初步生物活性、可经结构优化发展为候选药物的化合物；是新药研发的起点。,
+pharmacophore,药效团,化学,药物分子中负责与靶标结合的关键结构特征集合；是虚拟筛选与分子设计的重要依据。,
+quantitative structure-activity relationship,定量构效关系,化学,用数学模型关联化合物结构参数与生物活性以指导药物设计的方法。,QSAR
+molecular docking,分子对接,化学,预测配体与靶标蛋白结合模式及亲和力的计算方法；是结构药物设计的基本工具。,docking
+bioisostere,生物电子等排体,化学,具有相似电子与立体性质、替换后保持生物活性的基团；用于优化药代性质。,
+prodrug,前药,化学,本身无活性或低活性、在体内经代谢转化为活性药物的化合物；用于改善吸收或靶向性。,
+drug-likeness,类药性,化学,化合物在溶解度、渗透性等方面类似已上市药物的属性；常用经验规则评估。,
+Lipinski's rule of five,里宾斯基五规则,化学,判断化合物口服生物利用度的经验规则；以分子量、油水分配系数、氢键供受体数等为阈值。,rule of five
+ADME,吸收分布代谢排泄,化学,描述药物在体内吸收、分布、代谢与排泄过程的性质总称；是成药性评价的核心。,ADME properties
+blood-brain barrier,血脑屏障,化学,由脑毛细血管内皮紧密连接形成的选择性通透屏障；限制多数药物进入中枢神经。,BBB
+combinatorial chemistry,组合化学,化学,通过平行合成快速构建大量化合物库并结合高通量筛选寻找活性分子的方法。,
+high-throughput screening,高通量筛选,化学,利用自动化技术对大规模化合物库进行快速生物活性测试的筛选模式。,HTS
+fragment-based drug design,基于片段的药物设计,化学,从小分子片段出发经生长或连接策略构建高亲和力配体的药物设计方法。,FBDD
+PROTAC,蛋白降解靶向嵌合体,化学,由靶蛋白配体、连接链与E3连接酶配体构成的双功能分子；可诱导靶蛋白泛素化降解。,proteolysis targeting chimera
+natural product,天然产物,化学,生物体产生的次级代谢产物；结构多样；是新药发现的重要先导来源。,
+alkaloid,生物碱,化学,主要来源于植物的含氮碱性天然产物；多具显著生理活性；如吗啡与奎宁。,
+total synthesis,全合成,化学,从简单原料出发经多步反应合成复杂天然产物的化学；推动了有机合成方法与策略的发展。,
+radiochemistry,放射化学,化学,研究放射性核素的化学性质、制备与应用的分支；涉及核医学与核燃料循环。,
+radionuclide,放射性核素,化学,具有放射性、能自发衰变放出射线的核素；包括天然存在与人工生产两类。,radioactive nuclide
+radiotracer,放射性示踪剂,化学,以放射性核素标记、用于追踪物质迁移与代谢过程的化合物；用于显像与机理研究。,radioactive tracer
+isotopic labeling,同位素标记,化学,用同位素替换分子中特定原子以追踪其去向的实验技术；放射性或稳定同位素均可使用。,
+decay chain,衰变链,化学,母核素经多次连续衰变直至形成稳定核素的序列；天然铀系与钍系是典型实例。,radioactive series
+alpha decay,α衰变,化学,重核自发放出氦核的放射性衰变；使原子序数减少二、质量数减少四。,alpha disintegration
+beta decay,β衰变,化学,核内中子与质子相互转化并放出电子或正电子的衰变类型；使原子序数改变一。,beta disintegration
+neutron activation analysis,中子活化分析,化学,用中子辐照使样品核素活化并测量特征射线以定量元素的高灵敏度分析方法。,NAA
+hot atom chemistry,热原子化学,化学,研究核反应产生的高能反冲原子所引发化学反应的分支；涉及标记化合物合成。,
+radiopharmaceutical,放射性药物,化学,含放射性核素、用于疾病诊断或治疗的药物；如PET显像剂氟代脱氧葡萄糖。,
+positron emission,正电子发射,化学,富质子核素放出正电子的衰变；正电子湮灭产生511keV光子对；是PET成像的物理基础。,beta plus decay
+liquid scintillation counting,液体闪烁计数,化学,将放射性样品溶于闪烁液、探测衰变引发荧光以测量活度的技术；适于低能β核素。,LSC
+spent fuel reprocessing,乏燃料后处理,化学,从反应堆卸出的乏燃料中化学分离回收铀钚并处理裂变产物的过程；代表流程为PUREX。,nuclear fuel reprocessing
+transuranic element,超铀元素,化学,原子序数大于92的人工合成元素；均具放射性；通过核反应制备。,transuranium element
+food chemistry,食品化学,化学,研究食品成分在加工与贮藏中化学变化的学科；涉及色香味形成与安全控制。,
+Maillard reaction,美拉德反应,化学,还原糖羰基与氨基化合物之间的非酶褐变反应；产生烘烤食品的特征香气与色泽。,amino-carbonyl reaction
+caramelization,焦糖化,化学,糖类在高温下脱水降解产生褐色物质与焦香风味的过程；不涉及氨基化合物参与。,
+lipid oxidation,脂质氧化,化学,油脂与氧发生自由基链式反应生成氢过氧化物并进一步分解的过程；导致食品酸败。,lipid autoxidation
+antioxidant,抗氧化剂,化学,能延缓或抑制氧化反应的物质；通过清除自由基或螯合金属离子保护食品品质。,
+food additive,食品添加剂,化学,为改善食品品质或加工性能而加入的人工合成或天然物质；其使用受法规严格限定。,
+emulsifier,乳化剂,化学,具有亲水亲油双亲结构、能降低界面张力并稳定乳状液的食品添加剂；如单甘酯。,
+water activity,水分活度,化学,食品中水分可被微生物与化学反应利用程度的度量；决定食品的贮藏稳定性。,aw
+non-enzymatic browning,非酶褐变,化学,不依赖酶催化、由美拉德反应或焦糖化引起的食品褐变；影响产品色泽与风味。,
+enzymatic browning,酶促褐变,化学,多酚氧化酶催化酚类物质氧化聚合形成褐色色素的过程；常见于果蔬切面。,
+flavor compound,风味化合物,化学,赋予食品特征气味与滋味的挥发性或非挥发性化学物质；其组成决定食品风味轮廓。,
+polyphenol,多酚,化学,含多个酚羟基的植物次生代谢产物；具抗氧化活性；广泛存在于果蔬与茶中。,
+flavonoid,黄酮类化合物,化学,具有C6-C3-C6骨架的多酚类物质；具抗氧化与血管保护等生理活性。,
+carotenoid,类胡萝卜素,化学,由异戊二烯单元构成的脂溶性色素；部分可转化为维生素A；呈橙黄色。,
+dietary fiber,膳食纤维,化学,不能被人体消化酶水解的碳水化合物聚合物；有益肠道健康；分为可溶与不可溶两类。,
+starch gelatinization,淀粉糊化,化学,淀粉粒在加热吸水后结晶结构破坏、粘度升高的不可逆过程；是食品加工的关键步骤。,gelatinization of starch
+retrogradation,淀粉老化,化学,糊化淀粉在贮藏中分子链重排重结晶的过程；导致米饭回生与面包硬化。,starch retrogradation
+rancidity,酸败,化学,油脂氧化或水解产生哈喇味与游离脂肪酸的变质现象；是含脂食品主要的品质劣变形式。,

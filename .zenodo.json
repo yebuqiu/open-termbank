@@ -1,0 +1,25 @@
+{
+  "title": "open-termbank: A Multi-domain English-Chinese Termbase",
+  "description": "多学科领域中英术语对照数据库（按域取用 / CSV+TBX / CC BY 4.0）。20 个学科领域，每条含英文术语、规范中文译名、领域标签、简明中文定义与英文同义词。A multi-domain English-Chinese terminology database with per-domain CSV files, TBX-Min export, brief Chinese definitions and English synonyms, synchronizable via index.json (per-domain sha256).",
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "open-termbank contributors",
+      "affiliation": ""
+    }
+  ],
+  "keywords": [
+    "terminology",
+    "termbase",
+    "English-Chinese",
+    "translation",
+    "TBX",
+    "IATE",
+    "术语库",
+    "中英对照"
+  ],
+  "communities": [],
+  "grants": [],
+  "notes": "Data: CC BY 4.0; code: Apache-2.0. Attribution: open-termbank contributors, CC BY 4.0. IATE-derived entries additionally carry: Download IATE, European Union, 2026."
+}

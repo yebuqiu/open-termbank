@@ -99,3 +99,103 @@ passivation,钝化,材料,金属表面形成致密氧化膜而显著降低腐蚀
 corrosion inhibitor,缓蚀剂,材料,少量添加即可显著减缓金属腐蚀速率的化学物质,inhibitor
 electroplating,电镀,材料,利用电解在工件表面沉积金属镀层的表面处理方法,electrodeposition
 anodizing,阳极氧化,材料,以工件为阳极通过电解在其表面生成氧化膜的处理方法,anodic oxidation
+piezoelectric material,压电材料,材料,在机械应力与电场之间实现相互转换的功能材料，用于传感器与换能器。,piezoelectrics
+ferroelectric material,铁电材料,材料,具有自发极化且极化方向可随外场翻转的介电材料。,
+pyroelectric material,热释电材料,材料,温度变化引起表面电荷释放的极性材料，可用于红外探测。,
+magnetostrictive material,磁致伸缩材料,材料,磁化状态改变时发生尺寸变化的功能材料，用于换能与精密驱动。,
+soft magnetic material,软磁材料,材料,矫顽力低、易于磁化与退磁的磁性材料，常用于铁芯。,
+hard magnetic material,硬磁材料,材料,矫顽力高、经磁化后能长期保持强磁性的永磁材料。,permanent magnetic material
+giant magnetoresistance,巨磁电阻,材料,磁性多层膜电阻随外磁场显著变化的效应，是磁存储读出头的基础。,GMR
+thermoelectric material,热电材料,材料,基于塞贝克效应与珀尔帖效应实现热能与电能直接转换的材料。,
+superconducting material,超导材料,材料,临界温度以下电阻消失并表现完全抗磁性的材料。,superconductor
+photoelectric material,光电材料,材料,吸收光子后产生电信号或载流子的功能材料，用于探测器。,
+photovoltaic material,光伏材料,材料,利用光生伏特效应将太阳能直接转换为电能的半导体材料。,
+luminescent material,发光材料,材料,吸收能量后以光辐射形式释放能量的材料，包括荧光与磷光材料。,phosphor material
+phosphor,荧光粉,材料,受紫外光或电子束激发发出可见光的粉末状发光材料。,
+dielectric material,介电材料,材料,以感应极化方式储存电能的绝缘材料，广泛用于电容器。,
+piezoresistive material,压阻材料,材料,电阻率随机械应变显著变化的材料，用于压力与应变传感。,
+hydrogen storage material,储氢材料,材料,能可逆吸放氢气或氢化物的材料，用于氢能储运。,
+nonlinear optical material,非线性光学材料,材料,光学性质随光强非线性变化、可实现变频与调制的材料。,NLO material
+electrochromic material,电致变色材料,材料,在外加电压作用下发生可逆颜色变化的智能调光材料。,
+smart material,智能材料,材料,能感知环境刺激并作出可控响应的新一代功能材料。,intelligent material
+shape memory alloy,形状记忆合金,材料,经变形后可通过加热回复原始形状的合金，典型代表为镍钛合金。,SMA
+shape memory polymer,形状记忆聚合物,材料,在温度等刺激下从临时形状回复初始形状的智能高分子。,SMP
+self-healing material,自修复材料,材料,受损后能通过内在或外在机制自动修复裂纹与性能的材料。,self-repairing material
+magnetorheological fluid,磁流变液,材料,粘度随外加磁场毫秒级可逆变化的悬浮液，用于可控阻尼器。,MR fluid; MRF
+electrorheological fluid,电流变液,材料,粘度随外加电场快速可逆变化的智能流体。,ER fluid; ERF
+electroactive polymer,电活性聚合物,材料,在电场激励下产生显著形变或力输出的高分子材料。,EAP
+thermochromic material,热致变色材料,材料,颜色随温度变化发生可逆改变的感温功能材料。,
+photochromic material,光致变色材料,材料,受光照激发发生可逆颜色变化的材料，用于变色镜片。,
+stimuli-responsive material,刺激响应材料,材料,对温度、pH、光或电等外界刺激产生理化性质突变的材料。,stimulus-responsive material
+auxetic material,负泊松比材料,材料,受拉伸时横向反而膨胀的特异力学材料。,auxetics
+metamaterial,超材料,材料,由人工设计微结构获得天然材料不具备的超常物理性质的复合材料。,
+biomaterial,生物材料,材料,用于与生物系统接触以诊断、治疗或替换组织器官的工程材料。,biomedical material
+biocompatibility,生物相容性,材料,材料在特定应用中与机体相互作用而不引起不良反应的能力。,
+hydroxyapatite,羟基磷灰石,材料,成分与骨组织无机质相近的钙磷陶瓷，常用作骨修复材料。,HA; HAp
+bioactive glass,生物活性玻璃,材料,植入体内能与骨组织形成化学键合的硅酸盐基玻璃材料。,
+biodegradable polymer,可降解聚合物,材料,在生理环境中可逐步降解并被吸收代谢的高分子材料。,
+polylactic acid,聚乳酸,材料,由乳酸聚合制成的可降解热塑性聚酯，用于缝合线与包装。,PLA
+medical titanium alloy,医用钛合金,材料,生物相容性优异、用于骨植入物与人工关节的钛基合金。,biomedical titanium alloy
+tissue scaffold,组织工程支架,材料,为细胞黏附增殖与组织再生提供三维支撑的临时结构材料。,scaffold
+hydrogel,水凝胶,材料,含大量水分的三维交联聚合物网络，与软组织性能相近。,
+chitosan,壳聚糖,材料,由甲壳素脱乙酰得到的天然碱性多糖，具良好生物相容性。,
+collagen,胶原,材料,动物结缔组织主要结构蛋白，是常用的天然生物材料。,
+drug delivery carrier,药物递送载体,材料,负载药物并控制其释放速率与靶向部位的功能材料。,drug carrier
+bioceramic,生物陶瓷,材料,用于修复或替换人体硬组织等用途的陶瓷材料。,biomedical ceramic
+degradable metal,可降解金属,材料,在体内环境中逐渐腐蚀降解并被吸收的金属植入材料，如镁合金。,biodegradable metal
+surface modification,表面改性,材料,通过物理化学方法改变材料表面成分与结构以改善性能的处理。,
+thin film,薄膜,材料,厚度从纳米到微米级、附着于基体表面并具有特殊功能的材料层。,
+physical vapor deposition,物理气相沉积,材料,在真空中以蒸发或溅射等物理过程制备薄膜的技术。,PVD
+chemical vapor deposition,化学气相沉积,材料,利用气相化学反应在基体表面沉积固态薄膜的技术。,CVD
+sputtering,溅射,材料,用等离子体离子轰击靶材使原子逸出并沉积成膜的镀膜工艺。,sputter deposition
+evaporation deposition,真空蒸镀,材料,在真空中加热使材料蒸发并在基体表面凝结成膜的工艺。,vacuum evaporation
+atomic layer deposition,原子层沉积,材料,以前驱体交替自限制反应逐层生长的精密薄膜制备技术。,ALD
+sol-gel method,溶胶-凝胶法,材料,由溶液经溶胶凝胶转变制备氧化物薄膜与粉体的湿化学方法。,sol-gel process
+plasma spraying,等离子喷涂,材料,用高温等离子焰流熔化粉末并喷射沉积成涂层的技术。,plasma spray
+hard coating,硬质涂层,材料,沉积于工具或零件表面以提高耐磨性的高硬度薄膜层。,
+diamond-like carbon,类金刚石碳膜,材料,兼具高硬度与低摩擦系数的非晶碳薄膜。,DLC
+anti-reflection coating,增透膜,材料,利用干涉相消减少表面反射、提高透过率的光学薄膜。,AR coating; antireflection coating
+protective coating,防护涂层,材料,覆盖于基体表面以隔绝腐蚀介质或磨损环境的覆盖层。,
+conversion coating,转化膜,材料,基体金属经化学或电化学处理原位生成的保护性表面膜层。,
+electroless plating,化学镀,材料,无需外加电流、依靠自催化氧化还原反应沉积金属镀层的工艺。,electroless deposition
+film thickness,膜厚,材料,薄膜或涂层在垂直基面方向上的尺寸，是控制性能的关键参数。,
+computational materials science,计算材料科学,材料,利用计算模拟与数据方法研究材料结构、性能与制备的学科。,
+first-principles calculation,第一性原理计算,材料,不依赖经验参数、基于量子力学基本原理求解材料性质的计算方法。,ab initio calculation
+density functional theory,密度泛函理论,材料,以电子密度为基本变量计算多电子体系基态性质的量子理论。,DFT
+molecular dynamics,分子动力学,材料,通过数值求解原子运动方程研究体系随时间演化行为的模拟方法。,MD
+Monte Carlo simulation,蒙特卡罗模拟,材料,利用随机抽样统计求解体系平衡性质与演化过程的数值方法。,
+finite element method,有限元法,材料,将连续体离散为有限单元求解场问题的数值分析方法。,FEM
+phase-field method,相场法,材料,以弥散界面描述微结构演化、模拟凝固与相变过程的计算方法。,
+crystal plasticity,晶体塑性,材料,基于滑移系与位错机制描述单晶或多晶塑性变形的理论。,
+CALPHAD,相图计算,材料,基于热力学模型耦合计算多元体系相图与热力学性质的方法。,calculation of phase diagrams
+materials genome initiative,材料基因组计划,材料,通过高通量计算与实验加速新材料研发的战略计划。,MGI
+machine learning potential,机器学习势,材料,用机器学习拟合第一性原理数据获得的高精度原子间相互作用势。,ML potential
+ab initio molecular dynamics,从头算分子动力学,材料,在分子动力学演化中实时由第一性原理计算原子受力的模拟方法。,AIMD
+microstructure simulation,微观组织模拟,材料,对晶粒生长、析出与织构等组织演化进行数值再现的模拟。,
+multiscale modeling,多尺度模拟,材料,耦合不同时间与空间尺度方法研究材料行为贯序关联的模拟策略。,
+interatomic potential,原子间势,材料,描述原子间相互作用能的经验或半经验函数，是分子模拟基础。,empirical potential
+additive manufacturing,增材制造,材料,依据三维模型逐层堆积材料直接成形零件的制造技术。,AM; 3D printing
+selective laser melting,选区激光熔化,材料,用高能激光选择性熔化金属粉末逐层成形致密零件的工艺。,SLM
+selective laser sintering,选区激光烧结,材料,激光扫描使粉末颗粒局部烧结粘结逐层成形的增材工艺。,SLS
+fused deposition modeling,熔融沉积成型,材料,加热挤出热塑性丝材并逐层堆积成形零件的增材工艺。,FDM
+stereolithography,立体光刻,材料,用紫外光逐层固化光敏树脂成形高精度零件的工艺。,SLA
+electron beam melting,电子束熔化,材料,真空中以电子束熔化金属粉末逐层堆积成形零件的工艺。,EBM
+metal powder,金属粉末,材料,粒度与球形度受控的金属颗粒原料，是增材制造的关键耗材。,
+powder bed fusion,粉末床熔融,材料,在粉床上逐层选择性熔融粉末实现成形的增材工艺类别。,PBF
+directed energy deposition,定向能量沉积,材料,同步输送粉末或丝材并以聚焦能量熔覆堆积的增材工艺。,DED
+binder jetting,粘结剂喷射,材料,向粉末层选择性喷射粘结剂固化成形再烧结致密的工艺。,BJ
+3D printing filament,3D打印丝材,材料,用于熔融沉积成型的线状热塑性原料，通常为卷盘包装。,printing filament
+photosensitive resin,光敏树脂,材料,在特定波长光照下快速聚合固化的液态树脂，用于立体光刻。,photopolymer resin; UV resin
+build direction,成形方向,材料,增材制造中零件逐层堆积的方向，影响力学性能各向异性。,building direction
+support structure,支撑结构,材料,增材制造中为悬垂特征提供支撑并在成形后去除的辅助结构。,
+hot isostatic pressing,热等静压,材料,在高温高压惰性气体中消除内部孔隙、致密化制件的处理工艺。,HIP
+failure analysis,失效分析,材料,查明构件失效模式、原因与机理并提出改进对策的系统分析。,
+fatigue fracture,疲劳断裂,材料,构件在循环应力下经裂纹萌生扩展而发生的断裂失效。,
+brittle fracture,脆性断裂,材料,断裂前几乎不发生宏观塑性变形的低能断裂，断口平齐。,
+ductile fracture,韧性断裂,材料,断裂前发生显著塑性变形的高能断裂，断口呈纤维状。,
+intergranular fracture,沿晶断裂,材料,裂纹沿晶界扩展的断裂方式，常与晶界弱化有关。,
+transgranular fracture,穿晶断裂,材料,裂纹穿过晶粒内部扩展的断裂方式。,
+hydrogen embrittlement,氢脆,材料,氢进入金属内部导致塑性韧性下降而发生脆断的现象。,HE
+fatigue striation,疲劳辉纹,材料,疲劳断口上与裂纹逐次扩展相对应的微观条带形貌。,striation
+fracture mechanics,断裂力学,材料,研究含裂纹构件裂纹扩展规律与断裂判据的力学分支。,
+creep rupture,蠕变断裂,材料,材料在高温恒应力下经长时间蠕变变形后发生的断裂。,stress rupture

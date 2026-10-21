@@ -99,3 +99,103 @@ photoelectric effect,光电效应,物理,光照射金属表面时使电子逸出
 laser cooling,激光冷却,物理,利用激光与原子相互作用减小其热运动速率的技术,
 Rydberg atom,里德伯原子,物理,外层电子被激发到很高主量子数轨道的激发态原子,
 hyperfine structure,超精细结构,物理,由电子与原子核磁矩相互作用引起的能级微小分裂,
+qubit,量子比特,物理,量子信息的基本单元；可处于0与1的叠加态；是量子计算与量子信息处理的物理载体。,quantum bit
+quantum gate,量子门,物理,对量子比特施加幺正变换的基本操作；是构建量子线路与实现量子算法的基本单元。,quantum logic gate
+quantum circuit,量子线路,物理,由一系列量子门按序作用于一组量子比特构成的计算模型；用于描述量子算法的执行过程。,
+quantum register,量子寄存器,物理,由多个量子比特组成的集合；其整体态为各比特态的张量积；用于存储量子信息。,
+quantum algorithm,量子算法,物理,利用量子叠加与纠缠等特性设计的算法；在特定问题上可相对经典算法实现显著加速。,
+Shor's algorithm,秀尔算法,物理,1994年提出的量子因数分解算法；可在多项式时间内分解大整数；对公钥密码构成理论威胁。,Shor algorithm; quantum factoring algorithm
+Grover's algorithm,格罗弗算法,物理,量子无序数据库搜索算法；将搜索复杂度降为经典情形的平方根量级；实现平方级加速。,Grover algorithm; quantum search algorithm
+quantum Fourier transform,量子傅里叶变换,物理,对量子态振幅施加的离散傅里叶变换；是秀尔算法与相位估计等算法的核心子程序。,QFT
+quantum supremacy,量子优越性,物理,量子计算设备在特定任务上超越最强经典计算机能力的里程碑；亦称量子霸权。,quantum advantage
+quantum error correction,量子纠错,物理,通过冗余编码与综合征测量保护量子信息免受退相干与噪声影响的技术体系。,QEC
+quantum teleportation,量子隐形传态,物理,利用纠缠对与经典通信将未知量子态从一地传送至另一地的协议；不传递物质本身。,
+quantum key distribution,量子密钥分发,物理,利用量子态不可克隆原理在通信双方间建立无条件安全密钥的技术；典型协议为BB84。,QKD
+Bell inequality,贝尔不等式,物理,定域隐变量理论必须满足的不等式；量子力学预言其被违反；实验证实量子非定域性。,Bell's inequality
+Bell state,贝尔态,物理,两量子比特的最大纠缠态；共四种形式；是量子隐形传态与纠缠交换等协议的基本资源。,EPR pair
+decoherence,退相干,物理,量子系统与环境耦合导致相位信息丧失、叠加态退化为经典混合态的过程；是量子计算的主要障碍。,
+density matrix,密度矩阵,物理,描述量子系统纯态与混合态的统计算符；其对角元给出测量概率；迹恒等于一。,density operator
+quantum fidelity,量子保真度,物理,衡量两个量子态接近程度的度量；取值0到1；常用于评估量子门与量子信道的质量。,
+quantum channel,量子信道,物理,量子信息传输的物理通道；数学上由完全正定保迹映射描述；可携带噪声与损耗。,
+superconducting qubit,超导量子比特,物理,基于约瑟夫森结超导电路实现的量子比特；易于集成与调控；是主流量子计算硬件路线之一。,transmon
+trapped ion,囚禁离子,物理,利用电磁场势阱囚禁单个离子并以其内态编码量子比特的技术；具有长相干时间与高保真门。,ion trap qubit
+photonic qubit,光子量子比特,物理,以光子的偏振或路径等自由度编码的量子比特；适于远程量子通信与光量子计算。,
+topological qubit,拓扑量子比特,物理,利用拓扑态任意子编织操作编码的量子比特；对局域噪声天然免疫；尚处实验探索阶段。,
+quantum annealing,量子退火,物理,利用量子隧穿效应寻找组合优化问题基态的专用量子计算模式；代表设备为D-Wave系统。,
+entanglement entropy,纠缠熵,物理,对纠缠体系约化密度矩阵计算的冯诺依曼熵；定量刻画子系统之间的纠缠程度。,von Neumann entanglement entropy
+no-cloning theorem,不可克隆定理,物理,量子力学基本定理；任意未知量子态无法被精确复制；是量子密码安全性的物理基础。,quantum no-cloning theorem
+quantum state tomography,量子态层析,物理,通过对多份拷贝进行多基矢测量重构未知量子态密度矩阵的实验技术。,
+liquid crystal,液晶,物理,介于晶态与各向同性液体之间的中间相；分子具长程取向有序而位置部分有序；广泛用于显示。,mesophase
+nematic phase,向列相,物理,液晶分子长轴沿共同方向取向但质心无序分布的相态；是向列型液晶显示的工作基础。,nematic liquid crystal
+smectic phase,近晶相,物理,液晶分子除取向有序外还分层排列的相态；层内分子可移动而层间不易滑移。,smectic liquid crystal
+cholesteric phase,胆甾相,物理,分子取向沿法线方向螺旋旋转的液晶相；具有选择性反射圆偏振光的特性。,chiral nematic phase
+lyotropic liquid crystal,溶致液晶,物理,由两亲分子在溶剂中因浓度变化形成的液晶；典型例子为肥皂水与生物膜体系。,
+thermotropic liquid crystal,热致液晶,物理,随温度变化而出现液晶中间相的纯物质体系；广泛用于液晶显示器件。,
+amphiphile,两亲分子,物理,同一分子中同时含有亲水基团与疏水基团的化合物；在水中可自组装成胶束或双层膜。,amphiphilic molecule
+vesicle,囊泡,物理,由两亲分子双层膜闭合形成的中空球形结构；可作为药物载体与原始细胞模型。,
+liposome,脂质体,物理,由磷脂双分子层构成的人工囊泡；生物相容性好；广泛用于药物递送与化妆品。,
+rheology,流变学,物理,研究物质在外力作用下变形与流动规律的学科；描述软物质粘弹性与非牛顿流体行为。,
+shear thinning,剪切变稀,物理,流体粘度随剪切速率增大而降低的非牛顿行为；常见于聚合物熔体与涂料。,pseudoplasticity
+shear thickening,剪切增稠,物理,流体粘度随剪切速率增大而升高的非牛顿行为；典型例子为浓淀粉悬浊液。,dilatancy
+thixotropy,触变性,物理,流体在持续剪切下粘度随时间降低、静置后逐渐恢复的时变性流变特性。,
+yield stress,屈服应力,物理,使糊状软物质开始流动所需的最小剪切应力；低于该应力时物质表现为类固体。,
+jamming transition,阻塞转变,物理,颗粒体系随密度或应力变化在类流体与类固体间发生的非平衡转变；阻塞相图刻画其边界。,
+percolation,逾渗,物理,描述无序体系中连通团簇随占据概率跨越阈值而突现的几何相变理论；用于凝胶化与导电网络研究。,
+Brownian motion,布朗运动,物理,悬浮微粒受周围分子热涨落撞击而产生的不规则运动；是扩散现象的微观基础。,
+osmotic pressure,渗透压,物理,半透膜两侧因溶质浓度差产生的额外压强；是胶体稳定性与生物膜运输的关键物理量。,
+foam,泡沫,物理,气体分散于液体或固体中形成的软物质体系；其结构演化受排水与粗化过程支配。,
+liquid crystal elastomer,液晶弹性体,物理,将液晶基元键接到橡胶弹性网络中的软材料；可在外界刺激下产生大幅可逆形变。,LCE
+chaos,混沌,物理,确定性非线性系统对初值极端敏感而产生的貌似随机的长期行为；广泛存在于自然系统。,
+deterministic chaos,确定性混沌,物理,由确定性演化方程产生却因初值敏感性而不可长期预测的混沌现象；区别于随机噪声。,
+butterfly effect,蝴蝶效应,物理,混沌系统对初始条件的敏感依赖性；微小扰动随时间指数放大；由洛伦兹形象提出。,sensitive dependence on initial conditions
+strange attractor,奇异吸引子,物理,耗散混沌系统相空间中的吸引集；具有分形结构与非整数维数；轨道永不相交。,
+Lorenz attractor,洛伦兹吸引子,物理,洛伦兹大气对流方程的奇异吸引子；呈双翼蝴蝶状；是混沌理论的经典标志。,
+bifurcation,分岔,物理,动力系统定性行为随控制参数跨越临界值而突变的现象；是通向混沌的主要途径。,
+period-doubling bifurcation,倍周期分岔,物理,周期轨道随参数变化失稳并产生两倍周期新轨道的分岔；其级联通向混沌；具有费根鲍姆普适常数。,period doubling
+Lyapunov exponent,李雅普诺夫指数,物理,刻画相空间相邻轨道分离平均速率的指数；正值标志混沌；是混沌判据的核心量。,
+logistic map,逻辑斯蒂映射,物理,一维二次迭代映射；随参数增大经倍周期分岔通向混沌；是研究混沌的简约模型。,
+Poincaré map,庞加莱映射,物理,用低维截面相交记录连续流轨道的离散映射；可将连续动力系统化为迭代映射研究。,Poincaré section
+fixed point,不动点,物理,动力系统相空间中被演化映射映到自身的点；其稳定性决定系统的局部行为。,equilibrium point
+limit cycle,极限环,物理,相空间中孤立的闭合周期轨道；邻近轨道向其趋近或远离；对应自持振荡。,
+fractal,分形,物理,在不同尺度上呈现自相似结构的几何对象；通常具有非整数分形维数；广泛见于自然界。,
+fractal dimension,分形维数,物理,定量描述分形复杂程度与填充空间能力的维数；一般为非整数；可用盒计数法估计。,Hausdorff dimension
+self-similarity,自相似性,物理,对象的局部与其整体在不同尺度上统计或严格相似的性质；是分形结构的基本特征。,
+soliton,孤子,物理,非线性与色散平衡下形状与速度保持不变的局域波；碰撞后波形恢复；存在于流体与光纤中。,solitary wave
+KAM theorem,KAM定理,物理,关于近可积哈密顿系统在弱扰动下多数不变环面得以保持的定理；由三位学者姓氏首字母命名。,Kolmogorov-Arnold-Moser theorem
+turbulence,湍流,物理,流体高雷诺数下出现的多尺度无规则流动状态；存在能量级串；至今仍是经典物理难题。,
+plasma,等离子体,物理,由自由电子与离子组成并呈准中性的电离气体；被称为物质第四态；占可见宇宙物质绝大部分。,ionized gas
+Debye length,德拜长度,物理,等离子体中电荷扰动被屏蔽的特征长度；尺度大于该长度时体系呈准中性。,Debye shielding length
+plasma frequency,等离子体频率,物理,等离子体中电子相对离子振荡的固有频率；决定电磁波能否在等离子体中传播。,electron plasma frequency
+magnetohydrodynamics,磁流体力学,物理,将导电流体与电磁场耦合描述的宏观理论；广泛用于等离子体与天体物理问题。,MHD
+Alfvén wave,阿尔芬波,物理,磁化等离子体中沿磁场传播的低频磁流体波；磁力线张力提供恢复力。,Alfven wave
+tokamak,托卡马克,物理,利用环形磁场约束高温等离子体以实现受控核聚变的装置；由苏联科学家提出。,
+stellarator,仿星器,物理,依靠复杂三维磁场位形约束等离子体的聚变装置；无需大环向电流；具有固有稳态运行优势。,
+magnetic confinement,磁约束,物理,利用强磁场将高温等离子体约束在有限区域内以维持聚变反应的技术途径。,magnetic confinement fusion
+inertial confinement,惯性约束,物理,用强激光或粒子束瞬时压缩聚变靶丸、靠燃料惯性实现高密度聚变的技术途径。,inertial confinement fusion; ICF
+magnetic reconnection,磁重联,物理,等离子体中磁力线断裂重接并将磁能快速转化为粒子动能与热能的过程；驱动耀斑与磁暴。,
+Langmuir probe,朗缪尔探针,物理,插入等离子体测量伏安特性以诊断电子密度与温度的金属电极。,
+cyclotron resonance,回旋共振,物理,带电粒子在磁场中回旋频率与外场频率匹配时发生的共振吸收；用于等离子体加热。,
+plasma instability,等离子体不稳定性,物理,等离子体偏离平衡时微扰自发增长的现象；磁流体与微观尺度均有多种模态。,
+Debye shielding,德拜屏蔽,物理,等离子体中电荷周围异性电荷聚集形成屏蔽云、使库仑势在德拜长度外快速衰减的效应。,
+ion acoustic wave,离子声波,物理,等离子体中由离子惯性提供恢复力的低频纵波；类似中性气体中的声波。,
+bremsstrahlung,轫致辐射,物理,带电粒子受其他电荷库仑场减速时发出的电磁辐射；是高温等离子体的重要辐射损失机制。,braking radiation
+chirp mass,啁啾质量,物理,由双星两分量质量组合而成的参数；决定引力波啁啾信号的演化速率；可由波形直接测量。,
+inspiral,旋近,物理,致密双星因引力波辐射损失能量而相互旋近的阶段；波形频率与振幅持续升高。,
+ringdown,铃宕,物理,双黑洞并合后新黑洞以准正则模振荡衰减、辐射引力波的末段波形；可检验黑洞无毛定理。,
+matched filtering,匹配滤波,物理,将观测数据与理论波形模板相关以在噪声中提取引力波信号的最优滤波技术。,
+pulsar timing array,脉冲星计时阵列,物理,利用多颗毫秒脉冲星到达时间涨落探测纳赫兹引力波的观测网络；相当于银河系尺度探测器。,PTA
+compact binary coalescence,致密双星并合,物理,双中子星或双黑洞等致密双星旋近并合的过程；是引力波与多信使辐射的重要源。,
+numerical relativity,数值相对论,物理,用超级计算机数值求解爱因斯坦场方程以模拟强场引力过程的领域；支撑引力波波形建模。,
+post-Newtonian approximation,后牛顿近似,物理,在弱场低速极限下对广义相对论按速度幂次展开逐级修正的近似方法；用于旋近波形计算。,
+quadrupole radiation,四极辐射,物理,由质量四极矩二阶时间变化率产生的引力波辐射；是广义相对论最低阶引力辐射。,
+gravitational-wave strain,引力波应变,物理,引力波引起的时空度规相对变化量；是干涉仪直接测量的无量纲物理量。,strain amplitude
+ion channel,离子通道,物理,跨膜蛋白形成的离子选择性孔道；其开关与通透性可用电生理与统计物理方法定量研究。,
+membrane potential,膜电位,物理,细胞膜两侧因离子分布不均形成的电势差；能斯特方程描述其平衡值；是神经信号的基础。,transmembrane potential
+molecular motor,分子马达,物理,将化学能转化为机械功的生物大分子机器；如驱动蛋白与肌球蛋白；可用单分子技术研究。,motor protein
+optical tweezers,光镊,物理,利用高度聚焦激光的辐射压力捕获并操纵微米纳米颗粒的装置；可测量皮牛级微小力。,optical trap
+Förster resonance energy transfer,荧光共振能量转移,物理,供体荧光团与受体间距离依赖的非辐射能量转移；可用作纳米尺度分子标尺。,FRET; fluorescence resonance energy transfer
+patch clamp,膜片钳,物理,用玻璃微电极封接细胞膜片记录单个或多个离子通道电流的电生理技术；分辨率达皮安级。,
+single-molecule spectroscopy,单分子光谱,物理,对单个分子荧光等信号进行测量的光谱技术；可揭示系综平均掩盖的异质性与动力学。,single-molecule fluorescence
+DNA supercoiling,DNA超螺旋,物理,DNA双螺旋轴进一步缠绕形成的高级结构；其拓扑状态由连接数与缠绕数刻画；影响基因表达。,DNA superhelix
+mechanosensitive channel,机械敏感通道,物理,感受膜张力或机械力刺激而开闭的离子通道；将机械信号转化为电化学信号。,mechanosensitive ion channel
+magnetic tweezers,磁镊,物理,用磁场梯度操控磁性微球对单分子施加力与扭矩的单分子技术；适于研究DNA拓扑。,

@@ -99,3 +99,103 @@ ecological corridor,生态廊道,环境,连接破碎化生境便于物种迁移�
 germplasm bank,种质资源库,环境,保存生物遗传材料以备利用的设施,gene bank
 species diversity,物种多样性,环境,一定区域内物种的丰富度与均匀度水平,
 poaching,偷猎,环境,非法猎捕受保护野生动物的行为,illegal hunting
+in situ remediation,原位修复,环境,不移动污染土壤或地下水而在原地实施处理的修复方式。,
+ex situ remediation,异位修复,环境,将污染土壤挖掘或污染地下水抽出后在异地处理的修复方式。,
+soil vapor extraction,土壤气相抽提,环境,通过抽气井促使土壤中挥发性污染物随气流移出的原位修复技术。,SVE
+pump-and-treat,抽出处理,环境,抽出受污染地下水经地面处理达标后回灌或排放的修复技术。,
+soil washing,土壤淋洗,环境,利用水或化学洗脱液分离土壤中污染物的异位修复技术。,
+thermal desorption,热脱附,环境,通过加热使污染物从土壤中挥发分离再集中处理的技术。,
+in situ chemical oxidation,原位化学氧化,环境,向污染介质注入氧化剂使污染物原地降解转化的修复技术。,ISCO
+in situ chemical reduction,原位化学还原,环境,注入还原剂使污染物在原地还原脱毒或固定化的修复技术。,ISCR
+electrokinetic remediation,电动修复,环境,施加直流电场驱动土壤中污染物定向迁移并富集去除的技术。,
+biopile,生物堆,环境,将污染土壤堆置并强制供风以强化微生物降解的修复技术。,
+landfarming,土地耕作法修复,环境,将污染土壤摊铺翻耕以促进微生物自然降解的修复方法。,
+bioventing,生物通风,环境,向不饱和带土壤低速送风以促进土著微生物降解污染物的技术。,
+biosparging,生物注气,环境,向饱和带注入空气以强化地下水污染物好氧生物降解的技术。,
+monitored natural attenuation,监控自然衰减,环境,依靠自然过程削减污染物并辅以长期监测验证的修复策略。,MNA
+permeable reactive barrier,可渗透反应墙,环境,在地下水流路径上设置反应材料墙体以拦截降解污染物的被动修复技术。,PRB
+solidification and stabilization,固化稳定化,环境,通过胶结或化学固定降低污染物迁移性与浸出毒性的处理技术。,S/S
+containment,阻隔控制,环境,采用垂直隔离墙或覆盖层阻断污染物迁移扩散的风险管控措施。,
+brownfield,棕地,环境,因既往工业利用而存在污染、再开发前需调查修复的城市土地。,
+contaminated site,污染场地,环境,污染物浓度超过可接受水平、需开展风险管控或修复的地块。,
+conceptual site model,场地概念模型,环境,综合污染源、迁移途径与受体信息构建的场地风险分析框架。,CSM
+risk screening value,风险筛选值,环境,用于初步判定场地土壤污染物是否需进一步调查的浓度阈值。,
+groundwater contamination,地下水污染,环境,污染物进入含水层导致地下水水质恶化的现象。,groundwater pollution
+contaminant plume,污染羽,环境,污染物随地下水流动扩散形成的羽状浓度分布区域。,
+dense non-aqueous phase liquid,重质非水相液体,环境,密度大于水、易向含水层底部迁移的有机液体污染物。,DNAPL
+light non-aqueous phase liquid,轻质非水相液体,环境,密度小于水、易漂浮于地下水面之上的有机液体污染物。,LNAPL
+aquifer,含水层,环境,能够储存并传输地下水的透水岩土层。,
+vadose zone,包气带,环境,地表与潜水面之间土壤孔隙未被水饱和的层带。,unsaturated zone
+hydraulic conductivity,渗透系数,环境,表征多孔介质透水能力强弱的水文地质参数。,
+groundwater vulnerability,地下水脆弱性,环境,反映含水层受地表污染物入渗污染难易程度的固有属性。,
+air sparging,空气注入,环境,向饱和带注入空气促使挥发性污染物汽化逸出的原位修复技术。,AS
+funnel-and-gate system,漏斗-导门系统,环境,利用隔水墙汇集污染羽并导流通过反应门处理的修复布置。,
+capture zone,捕获区,环境,抽水井作用下污染物能够被截获抽出的地下水流动区域。,
+emerging contaminants,新污染物,环境,新近识别、缺乏管控标准且具潜在风险的一类化学污染物。,contaminants of emerging concern
+per- and polyfluoroalkyl substances,全氟和多氟烷基化合物,环境,含碳氟键、难以降解的一类人工合成化合物总称。,PFAS
+perfluorooctanoic acid,全氟辛酸,环境,曾广泛用作含氟聚合物加工助剂的持久性有机污染物。,PFOA
+perfluorooctane sulfonate,全氟辛烷磺酸,环境,具有极强环境持久性并被国际公约限制的含氟化合物。,PFOS
+endocrine disrupting chemicals,内分泌干扰物,环境,可干扰生物体内分泌系统功能的一类环境化学物质。,EDCs
+pharmaceuticals and personal care products,药品及个人护理品,环境,经使用进入环境、痕量检出但具生态风险的化学品类。,PPCPs
+antibiotic resistance genes,抗生素抗性基因,环境,在环境微生物间传播、使细菌获得耐药性的功能基因。,ARGs
+bisphenol A,双酚A,环境,用于聚碳酸酯与环氧树脂生产、具内分泌干扰活性的化工原料。,BPA
+phthalates,邻苯二甲酸酯,环境,常用作塑料增塑剂、具有生殖与内分泌毒性的一类化合物。,PAEs
+short-chain chlorinated paraffins,短链氯化石蜡,环境,具持久性与生物累积性并被国际公约管控的氯代烃类物质。,SCCPs
+hexabromocyclododecane,六溴环十二烷,环境,曾广泛用作阻燃剂的持久性溴代有机污染物。,HBCD
+persistent toxic substances,持久性有毒物质,环境,环境中难降解、可长期残留并具毒性的污染物总称。,PTS
+microplastics,微塑料,环境,粒径小于五毫米的塑料颗粒、碎片或纤维的统称。,
+nanoplastics,纳米塑料,环境,粒径小于一微米、更易穿透生物屏障的塑料微粒。,
+primary microplastics,初生微塑料,环境,生产时即为微小粒径而直接排入环境的塑料颗粒。,
+secondary microplastics,次生微塑料,环境,大块塑料在环境中破碎老化形成的微小颗粒。,
+microbeads,塑料微珠,环境,添加入洗护用品中的微小塑料颗粒。,
+marine litter,海洋垃圾,环境,进入海洋及海岸环境的人为固体废弃物总称。,marine debris
+plastic debris,塑料碎屑,环境,塑料制品在环境中破碎形成的各类碎片残留物。,
+goal and scope definition,目标与范围定义,环境,生命周期评价中明确研究目的、功能单位与系统边界的阶段。,
+life cycle inventory,生命周期清单,环境,量化产品系统各阶段资源投入与排放数据的过程。,LCI
+life cycle impact assessment,生命周期影响评价,环境,基于清单结果评估产品系统潜在环境影响类型与程度的阶段。,LCIA
+functional unit,功能单位,环境,生命周期评价中量化产品功能并作为比较基准的计量单位。,
+system boundary,系统边界,环境,界定生命周期评价纳入与排除哪些单元过程的划分准则。,
+allocation,分配,环境,多产品系统中将环境与资源负荷分摊至各产品的清单处理规则。,
+cradle to grave,从摇篮到坟墓,环境,涵盖原料获取至废弃处置全过程的生命周期评价范围。,
+cradle to gate,从摇篮到大门,环境,仅涵盖原料获取至产品出厂阶段的生命周期评价范围。,
+characterization factor,特征化因子,环境,将清单数据换算为统一影响类别当量的换算系数。,
+normalization,归一化,环境,将影响评价结果与区域基准总量比较以凸显相对贡献的步骤。,
+weighting,加权,环境,按价值判断为不同影响类别赋权以合成单一指标的可选步骤。,
+midpoint indicator,中点指标,环境,在环境机理链条中间环节刻画影响类别的评价指标。,
+endpoint indicator,终点指标,环境,在资源、生态与健康损害终点层面汇总的评价指标。,
+product carbon footprint,产品碳足迹,环境,产品全生命周期各环节直接与间接排放的温室气体总量。,PCF
+organizational carbon footprint,组织碳足迹,环境,组织运营边界内各类活动产生的温室气体排放总量。,
+scope 1 emissions,范围一排放,环境,组织拥有或控制的排放源产生的直接温室气体排放。,direct emissions
+scope 2 emissions,范围二排放,环境,外购电力与热力等能源隐含的间接温室气体排放。,
+scope 3 emissions,范围三排放,环境,价值链上下游活动中除范围二以外的其他间接排放。,
+carbon accounting,碳核算,环境,按照规范方法对温室气体排放进行量化与报告的过程。,
+greenhouse gas inventory,温室气体清单,环境,系统汇编一定边界内温室气体排放与清除数据的清单。,GHG inventory
+embodied carbon,隐含碳,环境,产品材料生产、运输与建造过程中隐含的全部温室气体排放。,
+carbon label,碳标签,环境,在产品上标示其碳足迹信息以引导低碳消费的标识。,
+environmental product declaration,环境产品声明,环境,依据生命周期评价结果编制的标准化产品环境信息声明。,EPD
+ecological compensation,生态补偿,环境,通过财政转移支付或市场交易调节生态保护相关方利益的制度安排。,eco-compensation
+payment for ecosystem services,生态系统服务付费,环境,服务受益方向供给方支付费用以激励生态保护的市场化机制。,PES
+ecosystem services,生态系统服务,环境,人类从生态系统获得的产品供给、调节与文化等惠益。,
+provisioning services,供给服务,环境,生态系统提供食物、淡水与原材料等物质产品的服务功能。,
+regulating services,调节服务,环境,生态系统对气候、水文与病虫害等过程的调节功能。,
+cultural services,文化服务,环境,生态系统提供的精神、审美、教育与游憩方面的惠益。,
+supporting services,支持服务,环境,养分循环与初级生产等支撑其他生态系统服务的基础过程。,
+natural capital,自然资本,环境,能持续提供生态系统服务的自然资源与环境存量。,
+gross ecosystem product,生态系统生产总值,环境,核算生态系统为人类提供的产品与服务总价值的指标。,GEP
+watershed ecological compensation,流域生态补偿,环境,流域上下游之间就水资源保护与利用建立的补偿机制。,
+ecological restoration,生态修复,环境,协助受损退化生态系统恢复结构与功能的过程。,
+wetland restoration,湿地恢复,环境,通过水文与植被措施使退化湿地重新恢复生态功能的工程。,
+rewilding,再野化,环境,减少人为干预并恢复关键物种以重建自然过程的修复理念。,
+ecological product value realization,生态产品价值实现,环境,将生态系统服务价值转化为经济收益的制度与市场路径。,
+environmental epidemiology,环境流行病学,环境,研究环境因素暴露与人群健康效应关系的流行病学分支。,
+exposure assessment,暴露评估,环境,定量描述人群接触环境有害因素的途径、浓度与时长。,
+exposure-response relationship,暴露-反应关系,环境,环境暴露水平与人群健康效应发生率之间的定量关系。,
+dose-response relationship,剂量-反应关系,环境,有害物质剂量与生物体效应强度之间的定量关系。,
+biomonitoring,生物监测,环境,测定人体组织或体液中污染物及其代谢物以评估内暴露的方法。,human biomonitoring
+burden of disease,疾病负担,环境,衡量疾病与伤害造成的人群健康损失的综合性指标。,
+disability-adjusted life year,伤残调整生命年,环境,综合早逝与伤残所致健康生命年损失的度量指标。,DALY
+environmental justice,环境正义,环境,主张环境风险与惠益在不同群体间公平分配的理念与运动。,
+one health,同一健康,环境,强调人类、动物与环境健康相互关联的整体健康理念。,
+exposome,暴露组,环境,个体一生中全部环境暴露及其体内响应的总和。,
+vulnerable population,易感人群,环境,对环境危害更为敏感或防护能力较弱的人群。,
+health risk assessment,健康风险评估,环境,估计有害因素暴露对人群产生健康危害概率的过程。,

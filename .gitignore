@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 .DS_Store
+# IATE 全量 dump 工作区（版权上可再分发但体积巨大，不入库）
+.work-iate/

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "open-termbank: A Multi-domain English-Chinese Termbase"
+message: "If you use this termbase, please cite it as below."
+type: dataset
+authors:
+  - name: "open-termbank contributors"
+repository-code: "https://github.com/yebuqiu/open-termbank"
+url: "https://github.com/yebuqiu/open-termbank"
+license: CC-BY-4.0
+keywords:
+  - terminology
+  - termbase
+  - English-Chinese
+  - translation
+  - TBX
+version: "2.1.0"
+date-released: "2026-10-21"

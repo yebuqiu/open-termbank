@@ -99,3 +99,103 @@ bending moment,弯矩,工程,使构件产生弯曲变形的截面上的内力偶
 moment of inertia,转动惯量,工程,度量刚体绕定轴转动惯性大小的物理量,rotational inertia
 natural frequency,固有频率,工程,系统作自由振动时由其本身参数决定的特征频率,
 damping,阻尼,工程,使振动系统能量耗散从而振幅逐渐衰减的效应,
+airfoil,翼型,工程,机翼或叶片等部件的横截面形状，其几何特征决定绕流时的升阻特性。,aerofoil
+angle of attack,迎角,工程,翼型弦线与相对来流方向之间的夹角，是控制升力的关键飞行参数。,AOA; attack angle
+Mach number,马赫数,工程,气流速度与当地声速之比，用于划分亚声速、跨声速与超声速流动。,Ma; Mach
+lift-to-drag ratio,升阻比,工程,升力系数与阻力系数之比，衡量飞行器气动效率的重要指标。,L/D ratio
+stall,失速,工程,迎角超过临界值后翼面气流分离导致升力骤降的现象，危及飞行安全。,
+wind tunnel,风洞,工程,以人工可控气流模拟飞行器绕流并测量气动载荷的地面实验设备。,
+flight envelope,飞行包线,工程,由速度、高度与过载等边界限定的飞行器安全运行范围。,
+thrust,推力,工程,发动机喷流反作用产生的推动飞行器前进的力，单位通常为牛顿。,
+specific impulse,比冲,工程,单位质量推进剂每秒产生的推力，是衡量火箭发动机效率的指标。,Isp
+turbofan engine,涡轮风扇发动机,工程,由内涵涡喷与外涵风扇共同产生推力的航空发动机，民用客机广泛采用。,turbofan
+bypass ratio,涵道比,工程,涡扇发动机外涵道与内涵道空气质量流量之比，影响耗油率与噪声。,BPR
+rocket propellant,火箭推进剂,工程,火箭发动机中燃烧或分解产生高温燃气以形成推力的燃料与氧化剂总称。,propellant
+payload,有效载荷,工程,飞行器或运载火箭所载运的执行任务的人员、仪器或货物部分。,
+apogee,远地点,工程,绕地球运行轨道上离地心最远的一点，常用于描述椭圆轨道参数。,
+perigee,近地点,工程,绕地球运行轨道上离地心最近的一点，与远地点共同确定轨道形状。,
+attitude control,姿态控制,工程,通过控制力矩陀螺或推力器等执行机构调节航天器指向的技术。,attitude control system; ACS
+re-entry,再入,工程,航天器完成任务后重新进入大气层并经受气动加热减速的过程。,reentry; atmospheric re-entry
+thermal protection system,热防护系统,工程,保护航天器再入时免受气动高热烧蚀的隔热结构与材料体系。,TPS
+fly-by-wire,电传操纵,工程,以电信号取代机械连杆传递驾驶员操纵指令的飞行控制系统。,FBW
+airworthiness,适航性,工程,航空器在规定使用环境下安全飞行的固有品质，须通过审定确认。,
+hull,船体,工程,船舶的主承载结构，由外板、骨架与甲板等组成并提供浮力。,ship hull
+keel,龙骨,工程,位于船体底部中线处的纵向主要构件，是全船结构的基准。,
+propeller,螺旋桨,工程,将主机旋转功率转化为推水推力使船舶前进的推进装置。,screw propeller
+rudder,舵,工程,装于船尾利用绕流产生转船力矩以控制航向的操纵装置。,
+displacement,排水量,工程,船舶排开水的质量，等于船体所受浮力，是衡量船舶大小的基本指标。,
+deadweight,载重吨位,工程,船舶允许装载的货物、燃油与淡水等重量总和，反映载货能力。,DWT; deadweight tonnage
+draft,吃水,工程,船底龙骨至水线的垂直距离，决定船舶可通过的水深。,draught
+freeboard,干舷,工程,水线至主甲板上缘的垂直距离，关系船舶储备浮力与安全。,
+ballast,压载,工程,为调整船舶稳性与吃水差而装入舱内的压载水或固体重物。,
+seakeeping,耐波性,工程,船舶在风浪中保持航行性能并限制摇荡与甲板上浪的能力。,seakeeping performance
+ship stability,船舶稳性,工程,船舶受外力倾斜后回复到原平衡位置的能力，分初稳性与大倾角稳性。,stability of ship
+bulbous bow,球鼻艏,工程,船首水线以下的球形突出体，通过干扰波系降低兴波阻力。,
+mooring,系泊,工程,用缆绳或锚链将船舶固定于码头、浮筒或海底的作业方式。,
+offshore platform,海洋平台,工程,为海上油气勘探开发或风电等作业提供作业场地的大型结构物。,offshore structure
+dynamic positioning,动力定位,工程,利用推进器自动抵抗风浪流扰动使船舶保持设定位置的技术。,DP
+medical imaging,医学影像,工程,利用X射线、磁共振或超声等物理手段获取人体内部结构图像的技术。,
+electroencephalography,脑电图,工程,通过头皮电极记录大脑神经元电活动波形的检测技术。,EEG
+pacemaker,心脏起搏器,工程,植入体内发放电脉冲以维持心律失常患者正常心率的电子装置。,cardiac pacemaker
+artificial organ,人工器官,工程,用工程材料制造并替代天然器官部分或全部功能的医用装置。,
+prosthesis,假体,工程,替代缺失肢体或器官的人工装置，包括义肢与植入假体等。,prosthetic
+stent,支架,工程,植入血管或管腔狭窄部位起支撑扩张作用的网状管形器械。,vascular stent
+hemodialysis,血液透析,工程,利用半透膜清除肾衰竭患者血液中代谢废物与多余水分的治疗技术。,
+biosensor,生物传感器,工程,将生物识别元件与换能器结合以检测特定生物或化学物质的器件。,
+tissue engineering,组织工程,工程,综合细胞、支架材料与生长因子在体外构建组织替代物的交叉技术。,
+biomechanics,生物力学,工程,应用力学原理研究人体运动、组织受力与器械相互作用的学科。,
+rehabilitation engineering,康复工程,工程,运用工程技术手段补偿或重建功能障碍者活动能力的学科分支。,
+medical device,医疗器械,工程,用于疾病诊断、监护、治疗或缓解的仪器、设备与植入物的总称。,
+ultrasonic transducer,超声换能器,工程,利用压电效应实现电能与超声能量相互转换的器件，是超声探头核心。,ultrasound transducer
+telemedicine,远程医疗,工程,借助通信与信息技术实现异地诊断、会诊与监护的医疗服务模式。,
+medical robotics,医疗机器人,工程,辅助或替代医生完成手术、康复与护理等任务的机器人技术。,surgical robot
+industrial engineering,工业工程,工程,对人员、物料与设备等组成的集成系统进行设计优化的工程学科。,IE
+work study,工作研究,工程,通过方法研究与作业测定消除浪费、提高劳动效率的系统方法。,
+time study,时间研究,工程,用秒表或采样等方法测定作业标准时间的作业测定技术。,
+takt time,节拍时间,工程,按客户需求速率计算的单件产品容许生产时间，用于拉动式排产。,
+line balancing,生产线平衡,工程,将作业要素合理分配到各工位使各工位时间接近节拍的优化方法。,production line balancing
+facility layout,设施布置,工程,对车间设备、工位与物流通道进行空间规划以缩短搬运的设计方法。,
+human factors engineering,人因工程,工程,研究人、机器与环境相互作用并使系统适应人的能力与局限的学科。,human factors; ergonomics engineering
+kanban,看板,工程,以卡片或容器信号传递生产与搬运指令的拉动式管理工具。,
+poka-yoke,防错法,工程,通过装置或程序设计防止操作差错转化为缺陷的质量保证方法。,error-proofing; mistake-proofing
+value stream mapping,价值流图,工程,用图示描绘产品从原材料到交付全过程物流与信息流以识别浪费的工具。,VSM
+overall equipment effectiveness,设备综合效率,工程,由时间开动率、性能开动率与合格率相乘得到的设备效率指标。,OEE
+cellular manufacturing,单元制造,工程,将加工相似零件族的设备布置成单元以缩短流程的成组生产方式。,manufacturing cell
+flexible manufacturing system,柔性制造系统,工程,由数控设备、自动物流与中央控制组成、可快速切换产品的制造系统。,FMS
+production scheduling,生产调度,工程,对生产任务在时间与资源上的排序分配，以优化交货期与利用率。,
+assembly line,装配线,工程,按工艺顺序布置工位、工件依次流动完成装配的生产组织形式。,
+safety engineering,安全工程,工程,运用工程原理辨识与控制危险、预防事故以保障人员与系统安全的学科。,
+hazard identification,危险源辨识,工程,系统识别生产过程中可能导致伤害或损失的能量与有害物质的过程。,
+risk assessment,风险评估,工程,对危险发生的可能性与后果严重程度进行定性定量评价的过程。,risk evaluation
+factor of safety,安全系数,工程,结构或构件极限强度与实际工作应力之比，反映设计裕度。,safety factor
+intrinsic safety,本质安全,工程,通过设计使设备在故障或误操作下仍不引发危险的固有安全特性。,
+explosion protection,防爆,工程,防止爆炸性混合物被点燃或限制爆炸传播的技术措施总称。,explosion-proof
+occupational health,职业健康,工程,研究并控制作业场所职业病危害因素以保护劳动者健康的工作领域。,occupational hygiene
+accident investigation,事故调查,工程,查明事故经过、原因与责任并提出防范措施的系统分析过程。,
+emergency response,应急响应,工程,事故或灾害发生后按预案开展的报警、疏散与救援等行动。,
+HAZOP,危险与可操作性分析,工程,以引导词对工艺参数偏差进行系统审查以发现危险与操作问题的方法。,hazard and operability study
+safety integrity level,安全完整性等级,工程,衡量安全仪表系统在规定条件下实现安全功能能力的离散等级。,SIL
+personal protective equipment,个人防护装备,工程,为保护劳动者免受伤害而配备的防护服、呼吸器与安全帽等装备。,PPE
+confined space,受限空间,工程,进出口受限、通风不良且可能存在缺氧或有毒气体的作业场所。,
+lockout-tagout,上锁挂牌,工程,检维修作业时对能量隔离装置上锁并挂警示牌以防意外启动的制度。,LOTO
+major hazard installation,重大危险源,工程,危险物质数量超过临界量、可能造成群死群伤的场所或设施。,
+green manufacturing,绿色制造,工程,综合考虑环境影响与资源效率、贯穿产品全生命周期的现代制造模式。,environmentally conscious manufacturing
+remanufacturing,再制造,工程,对废旧产品进行专业化修复或改造使其性能达到或超过新品的过程。,
+dry machining,干式切削,工程,不使用切削液的切削加工方式，可减少污染并降低处理成本。,dry cutting
+minimum quantity lubrication,微量润滑,工程,将极少量润滑油雾化喷入切削区以替代浇注冷却的绿色润滑技术。,MQL
+near-net-shape forming,近净成形,工程,使制件形状尺寸接近成品、仅需少量后续加工的成形工艺。,near-net-shape manufacturing
+design for disassembly,面向拆卸的设计,工程,在产品设计阶段考虑便于拆解回收的结构与连接设计方法。,DfD
+design for environment,面向环境的设计,工程,在产品全生命周期各阶段系统考虑环境影响的设计理念与方法。,DfE; eco-design
+eco-design,生态设计,工程,将环境要求与功能成本要求并行纳入产品开发过程的设计方法。,ecological design
+sustainable manufacturing,可持续制造,工程,以资源节约与环境友好方式创造产品并兼顾经济社会效益的制造模式。,
+industrial ecology,工业生态学,工程,把工业系统视作生态系统研究物质能量流动与循环优化的学科。,
+green supply chain,绿色供应链,工程,将环境管理融入采购、生产、物流与回收各环节的供应链模式。,GSCM
+energy management system,能源管理体系,工程,为持续改进能源绩效而建立的方针、目标与过程管理体系。,EnMS
+waste minimization,废物减量化,工程,从源头减少废物产生量与危害性的工艺改进与管理措施。,
+extended producer responsibility,生产者责任延伸,工程,要求生产者对产品废弃后回收处置承担责任的制度安排。,EPR
+green factory,绿色工厂,工程,在用地集约化、生产洁净化与废物资源化等方面达标的制造企业。,
+intelligent manufacturing,智能制造,工程,融合新一代信息技术与先进制造技术、具有自感知自决策能力的制造模式。,smart manufacturing
+digital twin,数字孪生,工程,物理实体在虚拟空间的高保真动态映射，用于仿真、监测与优化。,
+cloud manufacturing,云制造,工程,以云平台汇聚制造资源并按需提供服务的网络化制造新模式。,
+agile manufacturing,敏捷制造,工程,通过快速重组资源响应市场变化、以速度赢得竞争的制造模式。,
+virtual manufacturing,虚拟制造,工程,在计算机上对产品设计、工艺与生产过程进行建模仿真的技术。,

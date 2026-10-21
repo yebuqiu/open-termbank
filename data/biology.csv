@@ -99,3 +99,103 @@ basic local alignment search tool,基本局部比对搜索工具,生物,在序�
 phylogenetic tree,系统发育树,生物,用树状分支图形表示物种或基因间进化亲缘关系的图,evolutionary tree
 next-generation sequencing,下一代测序,生物,可一次性对海量DNA分子进行并行测序的高通量技术,NGS; high-throughput sequencing
 open reading frame,开放阅读框,生物,从起始密码子到终止密码子之间可连续编码蛋白质的核苷酸序列,ORF
+DNA methylation,DNA甲基化,生物,在DNA碱基上共价添加甲基的表观遗传修饰；通常抑制基因转录,5-methylcytosine
+histone modification,组蛋白修饰,生物,组蛋白尾部发生的乙酰化、甲基化等共价修饰；调控染色质结构与基因表达,
+histone acetylation,组蛋白乙酰化,生物,组蛋白赖氨酸残基添加乙酰基的修饰；疏松染色质并促进转录,
+histone deacetylase,组蛋白去乙酰化酶,生物,催化去除组蛋白乙酰基的酶类；通常介导转录抑制,HDAC
+chromatin remodeling,染色质重塑,生物,依赖ATP的核小体位置与结构改变；调节DNA的可及性,
+genomic imprinting,基因组印记,生物,因亲本来源不同而导致等位基因表达差异的表观遗传现象,
+CpG island,CpG岛,生物,基因组中CpG二核苷酸高度富集的区段；多与基因启动子相关联,
+X-chromosome inactivation,X染色体失活,生物,雌性哺乳动物一条X染色体大范围转录沉默的剂量补偿机制,lyonization
+epigenome,表观基因组,生物,一个细胞或个体全部表观遗传修饰的总和,
+epigenetic inheritance,表观遗传传递,生物,不改变DNA序列而经细胞分裂或世代传递的基因表达调控状态,
+synthetic biology,合成生物学,生物,按照工程化理念设计、构建并测试新生物元件与系统的交叉学科,
+gene circuit,基因线路,生物,由调控元件组装而成、执行特定逻辑或动力学功能的人工基因网络,genetic circuit
+biobrick,生物砖,生物,具有标准接口的DNA功能元件；可通过模块化组装构建复杂系统,BioBrick
+metabolic engineering,代谢工程,生物,定向改造细胞代谢网络以提高目标产物产量或赋予新功能的策略,
+cell-free protein synthesis,无细胞蛋白质合成,生物,利用细胞裂解液在体外环境中直接合成蛋白质的技术体系,CFPS
+minimal genome,最小基因组,生物,在特定条件下维持细胞独立生活所需的最少基因集合,
+gene drive,基因驱动,生物,使特定等位基因以高于孟德尔比例在种群中快速扩散的遗传技术,
+genome synthesis,基因组合成,生物,通过化学合成与组装获得整条染色体乃至完整基因组的技术,
+directed evolution,定向进化,生物,通过突变与人工选择的循环迭代快速获得目标性状生物大分子的技术,
+biosensor,生物传感器,生物,利用生物识别元件将生物化学信号转换为可测量信号的检测装置,
+single-cell RNA sequencing,单细胞RNA测序,生物,在单细胞分辨率上测定转录组特征的高通量测序技术,scRNA-seq
+spatial transcriptomics,空间转录组学,生物,在保留组织空间位置信息的同时测定基因表达谱的技术,
+transcriptomics,转录组学,生物,全面研究细胞或组织在特定条件下全部转录本的学科,
+proteomics,蛋白质组学,生物,大规模研究细胞或组织全部蛋白质的组成、修饰与功能的学科,
+metabolomics,代谢组学,生物,系统分析生物样本中全部小分子代谢物组成与变化的学科,
+multi-omics,多组学,生物,整合基因组、转录组、蛋白质组等多层次数据的联合分析策略,multiomics
+cell atlas,细胞图谱,生物,系统性绘制组织或机体全部细胞类型及其分子特征的参考图谱,
+pseudotime analysis,拟时序分析,生物,由单细胞组学数据推断细胞状态连续转变轨迹的计算方法,pseudotime trajectory analysis
+neuron,神经元,生物,接受、整合并传导神经冲动的神经系统基本结构与功能单位,nerve cell
+axon,轴突,生物,神经元伸出的细长突起；负责将神经冲动传向靶细胞,
+dendrite,树突,生物,神经元接受并整合传入信号的短而分支状突起,
+myelin sheath,髓鞘,生物,由胶质细胞形成并包裹轴突的脂质绝缘结构；可加快神经冲动传导,myelin
+glial cell,神经胶质细胞,生物,神经系统中支持、营养与保护神经元的非神经元细胞,glia; neuroglia
+synaptic plasticity,突触可塑性,生物,突触传递强度随神经活动而发生持久改变的能力；是学习记忆的细胞基础,
+long-term potentiation,长时程增强,生物,高频刺激后突触传递效率持久增强的现象；与记忆形成相关,LTP
+blood-brain barrier,血脑屏障,生物,由脑毛细血管内皮等构成的选择性通透屏障；限制物质进入脑组织,BBB
+neurogenesis,神经发生,生物,神经干细胞增殖并分化产生新神经元的过程,
+optogenetics,光遗传学,生物,利用光敏蛋白以光照精确控制特定细胞活动的技术,
+X-ray crystallography,X射线晶体学,生物,通过分析晶体对X射线的衍射图样解析生物大分子三维结构的方法,
+cryo-electron microscopy,冷冻电子显微镜技术,生物,对快速冷冻的生物样品成像以解析近原子分辨率结构的电镜方法,cryo-EM
+protein crystallization,蛋白质结晶,生物,使蛋白质分子形成规则有序晶体以供结构解析的过程,
+alpha helix,α螺旋,生物,蛋白质中由链内氢键稳定的右手螺旋状二级结构,α-helix
+beta sheet,β折叠,生物,肽链充分伸展并由链间氢键连接形成的片层状二级结构,β-sheet; β-pleated sheet
+protein domain,蛋白质结构域,生物,蛋白质中可独立折叠并执行特定功能的紧凑结构单元,domain
+quaternary structure,四级结构,生物,多条多肽链通过非共价相互作用组装形成的蛋白质空间结构,
+molecular dynamics simulation,分子动力学模拟,生物,依据经典力学方程逐步模拟分子运动轨迹的计算方法,MD simulation
+homology modeling,同源建模,生物,依据已知同源蛋白的三维结构预测目标蛋白结构的计算方法,comparative modeling
+protein structure prediction,蛋白质结构预测,生物,由氨基酸序列出发计算推断蛋白质三维空间结构的方法,
+conservation biology,保护生物学,生物,研究生物多样性丧失机制及其保护原理与实践的综合性学科,
+species richness,物种丰富度,生物,群落或生境内所含物种数目的度量；是多样性评估的基础指标,
+alpha diversity,α多样性,生物,单个群落或生境内部物种多样性的度量,
+beta diversity,β多样性,生物,不同群落或生境之间物种组成差异程度的度量,
+habitat fragmentation,生境破碎化,生物,连续生境被分割为彼此孤立的小斑块的过程；威胁种群存续,
+metapopulation,集合种群,生物,由局部灭绝与重建殖动态联系起来的若干地方种群的集合,
+minimum viable population,最小可存活种群,生物,保证种群在给定年限内以高概率存续所需的最小个体数量,MVP
+population viability analysis,种群生存力分析,生物,定量评估种群灭绝风险与长期存续概率的分析方法,PVA
+flagship species,旗舰种,生物,能唤起公众保护关注并带动整个栖息地保护的标志性物种,
+IUCN red list,世界自然保护联盟濒危物种红色名录,生物,系统评估全球物种受威胁等级的权威名录,Red List
+CRISPR-Cas9,CRISPR-Cas9系统,生物,由向导RNA引导Cas9核酸酶定点切割DNA的基因编辑系统,CRISPR-associated protein 9
+base editing,碱基编辑,生物,不切断DNA双链即可实现单碱基精准替换的基因编辑技术,
+prime editing,引导编辑,生物,利用逆转录酶与Cas9切口酶实现任意小片段精准改写的基因编辑技术,
+RNA interference,RNA干扰,生物,双链RNA诱导同源信使RNA降解或翻译抑制的基因沉默机制,RNAi
+gene knockout,基因敲除,生物,通过遗传操作使特定基因功能完全失活的实验技术,
+transgene,转基因,生物,经人工操作导入并整合到受体生物基因组中的外源基因,
+single nucleotide polymorphism,单核苷酸多态性,生物,基因组中单个核苷酸变异形成的、在群体中存在的多态性位点,SNP
+copy number variation,拷贝数变异,生物,基因组大片段重复或缺失导致基因剂量差异的结构变异,CNV
+genome-wide association study,全基因组关联研究,生物,在全基因组范围筛查与表型性状相关联的遗传变异的研究策略,GWAS
+quantitative trait locus,数量性状基因座,生物,控制数量性状变异的染色体区段；可通过连锁分析定位,QTL
+haplotype,单倍型,生物,位于同一条染色体上、倾向于共同遗传的等位基因组合,
+transposable element,转座元件,生物,能在基因组内改变自身位置的可移动DNA序列,transposon; jumping gene
+autophagy,自噬,生物,细胞通过溶酶体途径降解并回收利用自身组分以维持稳态的过程,
+cellular senescence,细胞衰老,生物,细胞周期永久性停滞并伴随炎症性分泌表型的细胞状态,
+signal transduction,信号转导,生物,细胞将胞外信号转换并逐级传递为胞内应答的分子过程,
+G protein-coupled receptor,G蛋白偶联受体,生物,具有七次跨膜结构并通过G蛋白向下游传递信号的膜受体超家族,GPCR
+ubiquitin,泛素,生物,高度保守的小分子蛋白质；通过共价标记介导蛋白质降解等调控,
+proteasome,蛋白酶体,生物,负责降解泛素标记蛋白质的大型多亚基蛋白水解复合体,
+endocytosis,胞吞作用,生物,细胞膜内陷包裹胞外物质并形成囊泡将其摄入细胞的过程,
+exocytosis,胞吐作用,生物,细胞内囊泡与细胞膜融合并将内容物释放到胞外的过程,
+microbiome,微生物组,生物,特定环境中全部微生物群落及其遗传物质的总和,
+gut microbiota,肠道菌群,生物,定植于消化道内的微生物群落；参与营养代谢与免疫调节,intestinal flora
+metagenomics,宏基因组学,生物,不依赖分离培养直接分析环境样本全部遗传物质的研究方法,
+horizontal gene transfer,水平基因转移,生物,遗传物质在非亲代与子代关系的个体之间发生转移的现象,lateral gene transfer; HGT
+quorum sensing,群体感应,生物,细菌依据群体密度变化调控基因表达的细胞间通讯机制,
+lysogeny,溶原状态,生物,温和噬菌体基因组整合于宿主染色体并随之复制的潜伏状态,
+lytic cycle,裂解周期,生物,噬菌体在宿主细胞内复制装配并最终裂解细胞释放子代的增殖方式,
+virome,病毒组,生物,特定环境样本或宿主体内全部病毒及其遗传物质的总和,
+photoperiodism,光周期现象,生物,生物对昼夜相对长短变化产生的规律性生理反应,
+vernalization,春化作用,生物,一定时期低温处理促进植物由营养生长转向开花的现象,
+abscisic acid,脱落酸,生物,促进休眠与气孔关闭并增强逆境抗性的植物激素,ABA
+gibberellin,赤霉素,生物,促进茎秆伸长、种子萌发与开花结实的植物激素,GA
+double fertilization,双受精,生物,被子植物中两个精细胞分别与卵细胞和中央细胞融合的特有受精方式,
+circadian rhythm,昼夜节律,生物,周期约为二十四小时的内源性生理与行为节律,biological clock
+molecular clock,分子钟,生物,依据分子进化速率相对恒定推算物种分歧时间的方法,
+adaptive radiation,适应性辐射,生物,共同祖先在较短地质时期内分化出适应不同生态位的多个物种的过程,
+sexual selection,性选择,生物,由配偶竞争与择偶偏好所驱动的一类自然选择,
+punctuated equilibrium,间断平衡论,生物,物种长期形态稳定与短期快速成种事件交替出现的进化模式,
+stem cell,干细胞,生物,具有自我更新能力并可分化为多种细胞类型的未分化细胞,
+induced pluripotent stem cell,诱导多能干细胞,生物,体细胞经重编程诱导而获得的具有多向分化潜能的干细胞,iPSC; iPS cell
+gastrulation,原肠胚形成,生物,胚胎细胞大规模重排形成三个胚层的关键早期发育过程,
+homeobox,同源框,生物,编码同源异型结构域的高度保守DNA序列；广泛参与发育调控,

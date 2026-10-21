@@ -99,3 +99,103 @@ syntax analysis,语法分析,计算机,依据文法规则把记号序列组织�
 code generation,代码生成,计算机,编译过程中把中间表示转换为目标机器代码的阶段,
 abstract syntax tree,抽象语法树,计算机,以树形结构表示源程序语法成分并略去细节符号的中间表示,AST
 regular expression,正则表达式,计算机,用特定符号规则描述字符串模式的形式化表达式,regex
+loop unrolling,循环展开,计算机,将循环体复制多份以减少迭代次数与控制开销并提升指令级并行性的编译优化技术,
+constant folding,常量折叠,计算机,编译期对常量表达式直接求值并以其结果替换原表达式以减少运行时计算的优化,
+dead code elimination,死代码消除,计算机,移除不会被使用或不影响程序结果的代码以缩减体积并提升效率的优化,DCE
+register allocation,寄存器分配,计算机,将程序变量映射到有限物理寄存器并在寄存器不足时溢出到内存的编译器后端任务,
+instruction scheduling,指令调度,计算机,重排指令执行顺序以填充流水线空槽并避免数据相关引起停顿的编译优化技术,
+common subexpression elimination,公共子表达式消除,计算机,识别被重复计算的表达式并复用其已有结果以避免冗余运算的编译优化,CSE
+inlining,内联展开,计算机,将函数调用处替换为被调函数体以消除调用开销并促进后续优化的编译技术,inline expansion
+peephole optimization,窥孔优化,计算机,在小的指令窗口内匹配低效模式并替换为等价高效指令序列的局部优化方法,
+escape analysis,逃逸分析,计算机,判定对象引用是否逸出方法或线程作用域以指导栈分配与锁消除的静态分析,
+intermediate representation,中间表示,计算机,编译器在源语言与目标代码之间使用的抽象层次适中的程序表示形式,IR
+model checking,模型检测,计算机,对系统的有限状态模型穷举搜索以自动验证时序逻辑性质的形式化验证方法,
+theorem proving,定理证明,计算机,借助逻辑公理与推理规则机械地构造或检验数学命题与程序性质证明的方法,automated theorem proving
+static analysis,静态分析,计算机,不执行程序而基于代码结构推断潜在缺陷与语义性质的自动化分析技术,
+symbolic execution,符号执行,计算机,以符号值代替具体输入执行程序并收集路径约束以系统探索程序行为的技术,
+abstract interpretation,抽象解释,计算机,在抽象域上近似程序语义从而可判定地推导程序不变量等性质的静态分析框架,
+type inference,类型推断,计算机,编译器依据表达式上下文自动推导未显式标注的变量或表达式类型的机制,type reconstruction
+satisfiability modulo theories,可满足性模理论,计算机,在算术数组与位向量等背景理论下判定一阶公式可满足性的自动推理问题,SMT
+formal specification,形式规约,计算机,以数学化语言精确刻画系统预期行为并作为开发与验证依据的规范描述,
+runtime verification,运行时验证,计算机,在系统执行过程中监测运行轨迹是否满足规约并即时报告违规行为的验证技术,
+program slicing,程序切片,计算机,依据数据与控制依赖提取影响指定语句的相关代码子集以辅助调试与分析的技术,
+internet of things,物联网,计算机,将传感与通信能力嵌入物理对象并经网络实现泛在感知互联与智能应用的技术体系,IoT
+sensor network,传感器网络,计算机,由大量传感节点自组织构成用于协作感知采集与传输物理环境信息的网络,wireless sensor network; WSN
+RFID,射频识别,计算机,利用射频信号非接触读取电子标签以自动识别目标对象并获取相关数据的技术,radio-frequency identification
+embedded system,嵌入式系统,计算机,嵌入设备内部针对特定功能设计并在资源受限条件下运行的专用计算机系统,
+MQTT,MQTT协议,计算机,基于发布订阅模式的轻量级消息传输协议广泛用于资源受限物联网设备的通信,message queuing telemetry transport
+gateway,网关,计算机,部署在网络边界连接异构网络并完成协议转换数据转发与安全控制的设备或系统,
+smart meter,智能电表,计算机,具备远程抄表双向通信与用电监测功能并支撑需求侧管理的数字化电能计量装置,
+digital twin,数字孪生,计算机,在信息空间构建与物理实体实时映射的虚拟模型以支持仿真监测与优化决策,
+firmware,固件,计算机,固化在硬件存储器中直接控制设备底层功能并与硬件紧密结合的软件程序,
+low-power wide-area network,低功耗广域网,计算机,以低功耗低速率实现广覆盖长距离连接的物联网无线接入网络技术,LPWAN
+edge computing,边缘计算,计算机,将计算与存储资源下沉至靠近数据源的网络边缘以降低时延并缓解云端压力的范式,
+fog computing,雾计算,计算机,在终端与云之间的多层边缘节点上分布式提供计算存储与网络服务的体系结构,
+content delivery network,内容分发网络,计算机,通过遍布各地的缓存节点就近响应用户请求以加速内容分发并减轻源站负载的网络,CDN
+edge node,边缘节点,计算机,部署于网络边缘具备计算存储能力并就近为终端提供服务的分布式基础设施单元,
+computation offloading,计算卸载,计算机,将资源受限设备的计算任务迁移到边缘或云端执行以节省能耗并提升性能的技术,task offloading
+serverless computing,无服务器计算,计算机,开发者无需管理服务器由平台按需自动分配与弹性伸缩资源的云计算执行模式,serverless
+function as a service,函数即服务,计算机,以事件驱动的细粒度函数为单位部署运行并按实际调用计费的无服务器云服务,FaaS
+cold start,冷启动,计算机,函数实例首次创建或长期闲置后重新初始化而引起的额外响应时延现象,
+cloud native,云原生,计算机,面向云环境设计并以容器微服务与持续交付为核心构建弹性应用的架构理念,cloud-native computing
+container,容器,计算机,依托操作系统级虚拟化将应用及其依赖打包隔离运行的轻量级可移植运行单元,
+quantum computing,量子计算,计算机,利用量子叠加与纠缠等力学特性处理信息并在特定问题上超越经典计算的新型计算模式,quantum computation
+qubit,量子比特,计算机,可处于两个基态任意叠加态的量子信息基本单位是量子计算的信息载体,quantum bit
+quantum gate,量子门,计算机,对量子比特施加酉变换以改变其状态的基本操作是构建量子线路的基本单元,
+quantum circuit,量子线路,计算机,由量子门按序作用于量子比特构成用以描述量子算法执行过程的计算模型,
+quantum supremacy,量子优越性,计算机,量子计算机在特定任务上以经典计算不可企及的效率完成求解的里程碑式能力,quantum advantage
+quantum error correction,量子纠错,计算机,通过冗余编码与综合征测量保护量子信息免受退相干与噪声影响的关键技术,QEC
+quantum decoherence,量子退相干,计算机,量子系统与环境相互作用导致叠加态相位信息丧失而趋于经典行为的物理过程,decoherence
+quantum measurement,量子测量,计算机,使叠加态以一定概率塌缩到本征态并读出经典结果的量子信息提取过程,
+quantum algorithm,量子算法,计算机,利用量子叠加干涉与纠缠加速求解问题的算法典型代表有Shor算法与Grover算法,
+quantum annealing,量子退火,计算机,利用量子涨落引导系统演化至目标哈密顿量基态以求解组合优化问题的量子方法,
+differential privacy,差分隐私,计算机,通过注入可控随机噪声使统计查询结果不泄露个体记录的严格数学化隐私框架,DP
+homomorphic encryption,同态加密,计算机,允许在密文上直接进行特定代数运算且解密后与明文运算结果一致的加密体制,HE
+secure multi-party computation,安全多方计算,计算机,使互不信任的各方在不泄露私有输入的前提下协同计算约定函数的密码学协议,MPC; SMC
+federated learning,联邦学习,计算机,数据保留在本地多方仅交换模型参数以协同训练共享模型的分布式机器学习范式,FL
+trusted execution environment,可信执行环境,计算机,依托硬件隔离机制为敏感代码与数据提供机密性与完整性保护的安全执行区域,TEE
+zero-knowledge proof,零知识证明,计算机,证明者使验证者确信命题为真而不泄露任何额外知识的密码学交互协议,ZKP
+data anonymization,数据匿名化,计算机,通过泛化抑制与扰动等手段消除数据中可识别个人信息以兼顾可用性与隐私的处理,
+private set intersection,隐私集合求交,计算机,使参与双方在不泄露各自集合其余元素的前提下计算交集的密码学协议,PSI
+k-anonymity,k匿名,计算机,要求发布数据中每条记录在准标识符上至少与另外k减1条记录不可区分的隐私模型,
+secure enclave,安全飞地,计算机,处理器内经硬件隔离并支持远程验证用于保护敏感计算免受特权软件攻击的区域,
+object detection,目标检测,计算机,在图像中同时定位目标位置并识别其类别的计算机视觉核心任务,
+image segmentation,图像分割,计算机,将图像划分为若干语义一致区域以提取感兴趣目标的像素级处理技术,
+optical flow,光流,计算机,由场景目标或相机运动引起的图像亮度模式表观运动的二维矢量场,
+feature extraction,特征提取,计算机,从原始数据中计算具有区分性与不变性的紧凑表示以支撑后续识别任务的过程,
+image registration,图像配准,计算机,对不同时间视角或传感器获取的图像进行几何对齐以消除空间差异的处理技术,
+pose estimation,姿态估计,计算机,从图像或视频中推断人体关节位置或物体空间方位的计算机视觉技术,
+style transfer,风格迁移,计算机,在保留内容结构的前提下将参考图像的艺术风格合成到目标图像上的生成技术,neural style transfer
+generative adversarial network,生成对抗网络,计算机,由生成器与判别器相互博弈训练以学习数据分布并生成逼真样本的深度模型,GAN
+diffusion model,扩散模型,计算机,通过逐步加噪与学习的逆向去噪过程生成高质量样本的深度生成模型,denoising diffusion probabilistic model; DDPM
+point cloud,点云,计算机,由三维坐标及可选属性构成的离散点集合用于刻画物体或场景的几何结构,
+named entity recognition,命名实体识别,计算机,从文本中识别并分类人名地名机构名等具有特定意义实体的自然语言处理任务,NER
+sentiment analysis,情感分析,计算机,自动判别文本所表达情感极性与观点态度的自然语言处理任务,opinion mining
+question answering,问答系统,计算机,根据自然语言提问从知识库或文本中自动检索或生成准确答案的系统,QA
+text summarization,文本摘要,计算机,自动提炼原文关键信息并生成简洁连贯短文本的自然语言生成任务,automatic summarization
+coreference resolution,共指消解,计算机,判定文本中不同表述是否指向同一实体以恢复篇章指代关系的语言分析任务,
+dependency parsing,依存句法分析,计算机,识别句中词语间依存关系并构建依存句法树以刻画语法结构的自动分析技术,
+word embedding,词嵌入,计算机,将词语映射为稠密低维实数向量以编码语义与句法相似性的分布式表示,word vector
+sequence-to-sequence model,序列到序列模型,计算机,由编码器与解码器构成将变长输入序列映射为变长输出序列的神经网络框架,seq2seq
+beam search,束搜索,计算机,每步保留若干最优候选序列以在解码质量与计算代价间折中的启发式搜索策略,
+subword tokenization,子词切分,计算机,将词拆分为高频子词单元以兼顾词表规模与未登录词覆盖的文本预处理方法,BPE; WordPiece
+distributed ledger,分布式账本,计算机,由网络多节点共同维护并通过共识保持一致且难以篡改的共享数据记录系统,DLT
+blockchain,区块链,计算机,以密码哈希链接成链并通过共识机制在去中心化网络中维护的不可篡改账本结构,
+byzantine fault tolerance,拜占庭容错,计算机,系统在部分节点任意作恶或失效情形下仍能正确达成共识并正常运行的能力,BFT
+consistent hashing,一致性哈希,计算机,节点增删时仅迁移少量键值映射以平滑负载变化的分布式哈希定位算法,
+vector clock,向量时钟,计算机,为分布式事件赋予向量时间戳以刻画事件间因果偏序关系的逻辑时钟机制,
+columnar storage,列式存储,计算机,按列连续存放数据以提升分析型查询压缩率与扫描效率的数据库存储方式,column store
+log-structured merge tree,日志结构合并树,计算机,将随机写转为顺序写并分层合并以优化写吞吐量的索引数据结构,LSM tree; LSM-tree
+materialized view,物化视图,计算机,将查询结果预先计算并物理存储以加速后续查询的数据库对象,
+sharding,分片,计算机,将数据按规则水平拆分至多个节点以提升系统容量与并行处理能力的技术,data sharding
+write-ahead logging,预写式日志,计算机,修改数据页面前先将变更记录持久化到日志以保证故障可恢复的机制,WAL
+speculative execution,推测执行,计算机,处理器预测分支方向提前执行后续指令并在预测错误时回滚以提高流水线利用率的技术,
+out-of-order execution,乱序执行,计算机,处理器按操作数就绪情况动态调整指令执行次序以挖掘指令级并行的技术,OoOE
+non-uniform memory access,非一致性内存访问,计算机,访问本地与远端内存时延不一致而需软件感知的多处理器共享内存体系结构,NUMA
+direct memory access,直接内存访问,计算机,外设与内存之间不经过处理器直接批量传输数据以降低处理器开销的机制,DMA
+translation lookaside buffer,转址旁路缓存,计算机,缓存近期虚拟页到物理页映射以加速地址转换的处理器内部高速缓存,TLB
+knowledge distillation,知识蒸馏,计算机,用大型教师模型的软输出监督小型学生模型训练以压缩规模并保留性能的技术,KD
+gradient checkpointing,梯度检查点,计算机,反向传播时重算部分中间激活以牺牲计算换取显存节省的大模型训练技术,activation checkpointing
+model quantization,模型量化,计算机,将模型权重与激活由高精度浮点转换为低比特表示以降低存储与计算开销的技术,weight quantization
+model pruning,模型剪枝,计算机,移除对输出影响较小的权重或结构以稀疏化网络并加速推理的模型压缩技术,network pruning
+contrastive learning,对比学习,计算机,通过拉近正样本对并推远负样本对来学习判别性表示的自监督学习方法,

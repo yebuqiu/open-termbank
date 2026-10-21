@@ -99,3 +99,103 @@ lander,着陆器,天文,降落到天体表面开展探测的航天器,
 rover,巡视器,天文,能够在天体表面移动考察的轮式探测车,
 orbital insertion,轨道进入,天文,探测器减速制动进入目标天体轨道的过程,
 launch window,发射窗口,天文,满足任务条件适合航天器发射的时间段,
+hot Jupiter,热木星,天文,轨道极靠近宿主恒星的气态巨行星；表面温度高；是首批被发现的系外行星类型。,
+super-Earth,超级地球,天文,质量大于地球而小于海王星的岩质系外行星；太阳系中不存在对应天体。,
+mini-Neptune,迷你海王星,天文,半径小于海王星、拥有厚氢氦包层的系外行星；是银河系中常见的行星类型。,sub-Neptune
+ocean planet,海洋行星,天文,表面被全球性液态水海洋覆盖的假想行星类型；其宜居性备受关注。,water world
+rogue planet,流浪行星,天文,不围绕任何恒星运行、在星际空间漂流的行星质量天体；可由引力微透镜发现。,free-floating planet
+circumbinary planet,环双星行星,天文,围绕双星系统整体公转的行星；其轨道稳定性受双星引力约束。,
+transit photometry,凌星测光,天文,通过测量行星凌星引起的恒星亮度周期性减光来探测与研究系外行星的测光方法。,transit method
+radial velocity method,径向速度法,天文,通过恒星光谱多普勒位移测量行星引力引起的恒星视向速度摆动以发现行星的方法。,Doppler spectroscopy
+transit timing variation,凌星时刻变化,天文,多行星系统中凌星时刻相对均匀预报的偏离现象；可用于探测未凌星的伴星行星。,TTV
+direct imaging,直接成像,天文,利用星冕仪抑制恒星光后直接拍摄系外行星像的探测技术；适于远轨道年轻巨行星。,
+gravitational microlensing,引力微透镜,天文,前景天体引力短暂放大背景恒星光度的现象；对低质量与流浪行星探测灵敏。,microlensing
+transmission spectroscopy,透射光谱,天文,凌星时恒星光穿过行星大气的透射光光谱；可反演行星大气成分与结构。,
+atmospheric escape,大气逃逸,天文,行星大气在恒星辐射与星风作用下损失到行星际空间的过程；塑造系外行星大气演化。,
+tidal locking,潮汐锁定,天文,潮汐力作用下天体自转周期与公转周期同步化的状态；近距系外行星多处于该状态。,synchronous rotation
+planetary migration,行星迁移,天文,行星与原行星盘或伴星相互作用导致轨道半径改变的过程；解释热木星等轨道分布。,
+protoplanetary disk,原行星盘,天文,年轻恒星周围由气体与尘埃组成的盘状结构；是行星形成的场所。,proplyd
+debris disk,碎屑盘,天文,主序星周围由星子碰撞碎屑组成的尘埃盘；指示行星系统演化晚期的残余。,
+lava planet,熔岩行星,天文,轨道极近恒星、表面覆盖熔岩海洋的岩质系外行星；昼夜面温差极端。,
+multi-messenger astronomy,多信使天文学,天文,联合引力波、电磁波、中微子与宇宙线等多种信号研究天体物理事件的新兴领域。,multimessenger astronomy
+LIGO,激光干涉引力波天文台,天文,基于激光干涉测量引力波应变的地面探测装置；2015年首次直接探测到引力波。,Laser Interferometer Gravitational-Wave Observatory
+Virgo interferometer,室女座干涉仪,天文,位于意大利的地面引力波干涉探测器；与LIGO组网实现引力波源定位。,Virgo
+LISA,激光干涉空间天线,天文,计划中的空间引力波探测器；由三颗卫星组成百万公里臂长星座；探测毫赫兹频段引力波。,Laser Interferometer Space Antenna
+neutron star merger,中子星并合,天文,双中子星旋近并合的灾变事件；同时辐射引力波与电磁波；是重元素合成场所。,
+kilonova,千新星,天文,中子星并合后由r过程元素放射性衰变供能的千倍新星亮度暂现源；GW170817首次观测证实。,macronova
+electromagnetic counterpart,电磁对应体,天文,引力波或中微子事件在电磁波段对应的辐射源；其证认对多信使研究至关重要。,
+short gamma-ray burst,短伽马射线暴,天文,持续时间短于两秒的伽马射线暴；起源于致密双星并合；常与千新星成协。,short GRB
+high-energy neutrino,高能中微子,天文,能量达TeV至PeV量级的天体物理中微子；携带来自宇宙线加速源的信息。,
+IceCube,冰立方中微子天文台,天文,埋于南极冰层下的立方公里级中微子探测器；2013年发现天体高能中微子。,IceCube Neutrino Observatory
+very-high-energy gamma ray,甚高能伽马射线,天文,能量高于百GeV的伽马射线；由地面切连科夫望远镜阵列探测；示踪极端宇宙加速过程。,VHE gamma ray
+Cherenkov telescope,切连科夫望远镜,天文,探测大气簇射粒子切连科夫光以重建甚高能伽马射线方向与能量的地面望远镜。,IACT
+air shower,大气簇射,天文,高能宇宙线或伽马射线与大气相互作用产生的次级粒子级联现象；是地面探测的基础。,extensive air shower
+binary neutron star,双中子星,天文,由两颗中子星组成的双星系统；其旋近并合产生引力波与短伽马射线暴。,BNS
+galaxy formation,星系形成,天文,暗物质晕内气体冷却坍缩并点燃恒星形成从而构建星系的过程；是宇宙学研究核心。,
+galaxy evolution,星系演化,天文,星系经恒星形成、并合与反馈等过程随宇宙时间演化的规律；涵盖形态与颜色变化。,
+hierarchical merging,等级并合,天文,冷暗物质宇宙中小尺度结构先形成、再逐级并合成大结构的增长模式。,hierarchical clustering
+galaxy merger,星系并合,天文,两个或多个星系在引力作用下碰撞融合的过程；可触发星暴并增长中心黑洞。,
+starburst galaxy,星暴星系,天文,恒星形成率远高于正常水平的星系；多由并合触发；红外辐射强烈。,
+star formation rate,恒星形成率,天文,星系单位时间形成恒星的质量；常用氢α线或紫外红外光度估算。,SFR
+initial mass function,初始质量函数,天文,描述新生恒星质量分布的统计函数；决定星族的光度与化学演化。,IMF
+stellar population,星族,天文,按年龄、金属丰度与运动学特征划分的恒星群体；分为星族Ⅰ、Ⅱ、Ⅲ。,
+Population III star,第三星族星,天文,由原始无金属气体形成的第一代恒星；主导宇宙早期再电离与增丰过程。,Pop III star
+metallicity,金属丰度,天文,天体中重于氦元素的含量；是恒星与星系年龄及演化状态的重要示踪量。,
+galactic halo,星系晕,天文,包裹星系的近似球状恒星与暗物质分布区；包含球状星团与晕星。,
+galactic bulge,星系核球,天文,旋涡星系中央由年老恒星组成的椭球状结构；其形成与并合及盘演化相关。,
+AGN feedback,活动星系核反馈,天文,活动星系核释放的能量与外流加热或驱散星系气体的过程；被认为抑制恒星形成。,AGN feedback mechanism
+cosmic web,宇宙网,天文,大尺度结构中星系与暗物质呈纤维状与墙状分布、其间为空洞的网状结构。,
+large-scale structure,大尺度结构,天文,宇宙中星系与暗物质在百万秒差距尺度上的分布形态；反映初始扰动增长历史。,
+void,宇宙空洞,天文,大尺度结构中星系稀少的近似球状低密区；直径可达数千万秒差距。,cosmic void
+submillimeter galaxy,亚毫米星系,天文,在亚毫米波段明亮的极亮红外星系；处于剧烈星暴阶段；多位于高红移。,SMG
+Lyman-alpha emitter,莱曼α发射体,天文,具有强莱曼α发射线的高红移星系；是研究早期宇宙星系形成的重要样本。,LAE
+high-redshift galaxy,高红移星系,天文,红移大于约2的遥远星系；其观测帮助重建宇宙早期星系组装历史。,
+reionization,再电离,天文,宇宙黎明后第一代光源将中性氢重新电离的宇宙相变过程；约完成于红移6左右。,cosmic reionization
+cosmic dawn,宇宙黎明,天文,第一代恒星与星系点燃并照亮宇宙的时期；是当代射电与红外观测前沿。,
+damped Lyman-alpha system,阻尼莱曼α系统,天文,中性氢柱密度高至产生阻尼翼吸收线的类星体吸收系统；示踪高红移气体储库。,DLA
+cold dark matter,冷暗物质,天文,速度弥散小的非重子暗物质候选；解释大尺度结构形成的主流模型基础。,CDM
+warm dark matter,温暗物质,天文,速度弥散介于冷热之间的暗物质候选；可能缓解小尺度结构疑难。,WDM
+WIMP,大质量弱相互作用粒子,天文,只参与弱相互作用与引力的暗物质候选粒子；是地下直接探测实验的主要目标。,weakly interacting massive particle
+axion,轴子,天文,为解决强CP问题预言的极轻赝标量粒子；也是冷暗物质候选；可由微波腔实验搜寻。,
+sterile neutrino,惰性中微子,天文,不参与弱相互作用的假想中微子；作为温暗物质候选可解释部分观测异常。,
+MACHO,大质量致密晕天体,天文,由普通重子物质组成的晕族致密天体暗物质候选；微透镜观测已排除其为主成分。,massive compact halo object
+dark matter halo,暗物质晕,天文,包裹星系与星系团的近球状暗物质分布区；为星系形成提供引力势阱。,
+rotation curve,旋转曲线,天文,星系旋转速度随半径变化的曲线；其平坦形态是暗物质存在的关键证据。,galaxy rotation curve
+bullet cluster,子弹星系团,天文,两个星系团碰撞形成的系统；其质量分布与气体分布分离；为暗物质提供直接证据。,1E 0657-56
+weak gravitational lensing,弱引力透镜,天文,前景物质引起背景星系像微小系统性形变的效应；是测量宇宙物质分布的探针。,weak lensing
+cosmic shear,宇宙剪切,天文,弱引力透镜造成的背景星系形状相关性统计；用于限制暗能量与结构增长参数。,
+dark energy equation of state,暗能量状态方程,天文,暗能量压强与密度之比；等于-1对应宇宙学常数；其演化受观测约束。,equation of state of dark energy
+cosmological constant,宇宙学常数,天文,爱因斯坦场方程中的常数项；等效于密度恒定的真空能；是暗能量最简单候选。,
+quintessence,精质,天文,一种随时间演化的标量场暗能量模型；其状态方程参数可偏离-1。,
+phantom energy,幻影能量,天文,状态方程参数小于-1的假想暗能量形式；可导致宇宙大撕裂结局。,phantom dark energy
+modified gravity,修正引力,天文,在不引入暗物质或暗能量前提下修改引力理论以解释观测加速现象的理论途径。,alternative gravity
+baryon acoustic oscillation,重子声学振荡,天文,早期宇宙声波在原初等离子体中留下的特征尺度印记；是测量宇宙学距离的标准尺。,BAO
+Sunyaev-Zel'dovich effect,苏尼亚耶夫-泽尔多维奇效应,天文,宇宙微波背景光子被星系团热电子逆康普顿散射产生的谱畸变；用于搜寻星系团。,SZ effect
+space weather,空间天气,天文,太阳活动引起的日地空间环境变化及其对技术系统与航天活动影响的总称。,
+solar wind,太阳风,天文,从日冕持续流出的高温磁化等离子体流；塑造行星际空间环境。,
+coronal mass ejection,日冕物质抛射,天文,日冕大规模磁化等离子体与磁通量抛向行星际空间的爆发现象；是强地磁暴的主因。,CME
+solar flare,太阳耀斑,天文,太阳大气中磁场重联导致的剧烈能量爆发；电磁辐射全波段增强。,
+sunspot,太阳黑子,天文,光球层上因强磁场抑制对流而温度较低的暗斑；其数目标志太阳活动强弱。,
+solar cycle,太阳活动周,天文,太阳黑子数与磁活动约11年周期性变化的现象；与太阳磁极倒转相关。,sunspot cycle
+magnetosphere,磁层,天文,行星磁场控制带电粒子运动的空间区域；地球磁层屏蔽太阳风。,planetary magnetosphere
+Van Allen radiation belt,范艾伦辐射带,天文,地球磁层中捕获高能带电粒子的两个环状区域；对航天器构成辐射危害。,Van Allen belt
+aurora,极光,天文,高能粒子沿磁力线沉降激发高层大气发光的现象；常见于高纬度夜空。,
+geomagnetic storm,地磁暴,天文,太阳风扰动驱动地球磁场全球性强扰动的现象；可干扰电网与卫星运行。,magnetic storm
+coronal hole,冕洞,天文,日冕中磁场开放、密度与温度较低的区域；是高速太阳风的源区。,
+heliosphere,日光层,天文,太阳风在星际介质中撑出的磁化空腔；其边界由旅行者探测器实地穿越。,
+interplanetary magnetic field,行星际磁场,天文,太阳风携带至行星际空间的磁场；其南向分量是触发地磁暴的关键。,heliospheric magnetic field
+geomagnetic substorm,地磁亚暴,天文,磁尾能量突然释放引起的极光增强与磁扰现象；持续时间约一至三小时。,magnetospheric substorm
+aperture photometry,孔径测光,天文,在目标周围设定圆形孔径累积流量并扣除天空背景的测光方法；操作简便应用广泛。,
+point spread function,点扩散函数,天文,成像系统对点源的响应分布；决定图像分辨本领并用于精确测光。,PSF
+full width at half maximum,半高全宽,天文,轮廓峰值一半处的全宽度；用于量化图像清晰度与谱线宽度。,FWHM
+signal-to-noise ratio,信噪比,天文,有效信号强度与噪声标准差之比；衡量天文数据质量的核心指标。,SNR; S/N
+dark frame,暗帧,天文,遮挡光路在与科学曝光相同条件下拍摄的本底图像；用于扣除探测器暗电流。,dark
+flat field,平场,天文,对均匀光源拍摄以校正像素响应不均匀性与光学渐晕的定标图像。,flat
+bias frame,偏置帧,天文,零曝光时间读取的图像；用于扣除探测器读出偏置电平。,bias
+photometric calibration,测光定标,天文,将仪器测得的仪器星等转换到标准星等系统的过程；依赖标准星观测。,
+data cube,数据立方体,天文,二维空间加一维光谱或时间构成的三维天文数据结构；积分视场光谱仪的典型输出。,
+spectral energy distribution,光谱能量分布,天文,天体流量随波长或频率的分布；用于研究天体辐射机制与物理参数。,SED
+color-magnitude diagram,颜色-星等图,天文,以恒星颜色为横轴、星等为纵轴的图；是研究星团年龄与演化的基本工具。,CMD
+sky survey,巡天,天文,对大范围天区进行系统成像或光谱观测的项目；如SDSS与LSST；产出海量数据。,astronomical survey
+virtual observatory,虚拟天文台,天文,通过网络标准整合全球天文数据资源并提供统一访问的数据密集型研究平台。,VO
+light curve,光变曲线,天文,天体亮度随时间变化的曲线；用于研究变星、凌星行星与暂现源。,
