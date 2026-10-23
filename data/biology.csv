@@ -199,3 +199,53 @@ stem cell,干细胞,生物,具有自我更新能力并可分化为多种细胞�
 induced pluripotent stem cell,诱导多能干细胞,生物,体细胞经重编程诱导而获得的具有多向分化潜能的干细胞,iPSC; iPS cell
 gastrulation,原肠胚形成,生物,胚胎细胞大规模重排形成三个胚层的关键早期发育过程,
 homeobox,同源框,生物,编码同源异型结构域的高度保守DNA序列；广泛参与发育调控,
+gene therapy,基因治疗,生物,通过导入或修饰遗传物质来治疗疾病的治疗策略。,
+adeno-associated virus,腺相关病毒,生物,基因治疗中常用的低免疫原性病毒载体。,AAV
+lentiviral vector,慢病毒载体,生物,能将外源基因整合进宿主基因组的基因递送工具。,
+TCR-T cell therapy,TCR-T 细胞疗法,生物,将患者 T 细胞导入特异性 T 细胞受体基因以识别肿瘤抗原的免疫疗法。,T-cell receptor engineered T-cell therapy
+in vivo gene editing,体内基因编辑,生物,直接在活体组织内对基因组进行编辑的治疗策略。,
+antisense oligonucleotide,反义寡核苷酸,生物,与靶 RNA 互补结合以调控其表达或剪接的短核酸药物。,ASO
+mRNA vaccine,mRNA 疫苗,生物,将编码抗原的信使 RNA 递送入体内以诱导免疫应答的疫苗。,
+lipid nanoparticle,脂质纳米颗粒,生物,用于包载与递送核酸药物的脂质载体颗粒。,LNP
+organoid,类器官,生物,干细胞在体外自组织形成的三维微型器官模型。,
+brain organoid,脑类器官,生物,模拟人脑发育与结构特征的体外三维培养模型。,cerebral organoid
+assembloid,组装体,生物,由多个类器官或细胞类型融合组装形成的复合体外模型。,
+organ-on-a-chip,器官芯片,生物,在微流控芯片上模拟器官结构与生理功能的技术平台。,microphysiological system
+gastruloid,类原肠胚,生物,干细胞聚集体模拟早期胚胎原肠运动的体外模型。,
+spatial proteomics,空间蛋白质组学,生物,保留组织空间位置信息的高通量蛋白质分析技术。,
+spatial metabolomics,空间代谢组学,生物,在组织原位定位代谢物分布的组学技术。,
+in situ sequencing,原位测序,生物,在完整组织与细胞内直接读取核酸序列的技术。,
+single-molecule fluorescence in situ hybridization,单分子荧光原位杂交,生物,以单分子灵敏度定位组织内特定 RNA 的成像技术。,smFISH
+metatranscriptomics,宏转录组学,生物,研究微生物群落整体基因表达活性的组学方法。,
+metaproteomics,宏蛋白质组学,生物,在蛋白质层面解析微生物群落组成与功能的组学方法。,
+amplicon sequencing,扩增子测序,生物,对标记基因扩增产物进行测序以解析群落结构的方法。,
+pangenome,泛基因组,生物,一个物种全部菌株基因集合的总和。,pan-genome
+microbial dark matter,微生物暗物质,生物,尚未培养鉴定而仅由序列信息推测存在的微生物类群。,
+culturomics,培养组学,生物,结合多种培养条件与高通量鉴定大规模分离微生物的方法学。,
+protein design,蛋白质设计,生物,根据目标结构与功能计算设计全新氨基酸序列的方法。,computational protein design
+de novo protein design,从头蛋白质设计,生物,不依赖天然模板而设计全新折叠蛋白质的方法。,
+protein language model,蛋白质语言模型,生物,在蛋白质序列上预训练并用于功能与结构预测的模型。,
+binder design,结合蛋白设计,生物,设计可特异性结合靶标的蛋白质分子的计算方法。,
+senescence-associated secretory phenotype,衰老相关分泌表型,生物,衰老细胞分泌炎症因子并影响周围组织的功能特征。,SASP
+senolytics,衰老细胞清除剂,生物,能选择性清除衰老细胞的药物类别。,
+hallmarks of aging,衰老标志,生物,概括衰老过程共性分子机制的特征框架。,
+telomere attrition,端粒缩短,生物,染色体末端端粒随细胞分裂逐渐损耗的衰老机制。,
+inflammaging,炎性衰老,生物,随年龄增长出现的慢性低度无菌性炎症状态。,
+epigenetic clock,表观遗传时钟,生物,基于 DNA 甲基化位点预测生物学年龄的工具。,
+partial reprogramming,部分重编程,生物,短时表达重编程因子使细胞年轻化而不丧失身份的干预手段。,
+rapamycin,雷帕霉素,生物,抑制 mTOR 通路并在多种生物中延长寿命的化合物。,
+proteostasis,蛋白质稳态,生物,细胞维持蛋白质合成折叠与降解动态平衡的状态。,protein homeostasis
+stem cell niche,干细胞生态位,生物,维持干细胞自我更新与静息状态的局部微环境。,
+lineage tracing,谱系追踪,生物,标记细胞及其后代以重建发育分化路径的技术。,
+clonal hematopoiesis,克隆性造血,生物,造血干细胞突变克隆随年龄增长而扩张的现象。,CHIP
+CRISPR screen,CRISPR 筛选,生物,利用向导 RNA 文库在全基因组规模系统扰动基因的功能筛选。,
+prime editor,先导编辑器,生物,以逆转录方式实现精确小片段替换与插入缺失的编辑器。,
+epigenome editing,表观基因组编辑,生物,定点改变染色质修饰状态以调控基因表达而不改变序列的技术。,
+xenotransplantation,异种移植,生物,将动物器官或组织移植入人体的移植策略。,
+patient-derived organoid,患者来源类器官,生物,由患者组织培养并保留个体特征的三维类器官模型。,PDO
+live biotherapeutic product,活体生物治疗产品,生物,以活微生物为有效成分的预防或治疗用生物制品。,LBP
+phage therapy,噬菌体疗法,生物,利用噬菌体特异性裂解细菌以治疗耐药感染的方法。,
+human cell atlas,人类细胞图谱,生物,系统绘制人体所有细胞类型分子特征的国际合作项目。,HCA
+synthetic embryo model,合成胚胎模型,生物,由干细胞体外构建并模拟胚胎发育关键事件的模型体系。,stem cell-based embryo model
+base editor,碱基编辑器,生物,不切断 DNA 双链即可实现单碱基转换的基因编辑工具。,
+enzyme design,酶设计,生物,计算设计具有目标催化活性的新型酶的方法。,de novo enzyme design

@@ -199,3 +199,53 @@ digital twin,数字孪生,工程,物理实体在虚拟空间的高保真动态�
 cloud manufacturing,云制造,工程,以云平台汇聚制造资源并按需提供服务的网络化制造新模式。,
 agile manufacturing,敏捷制造,工程,通过快速重组资源响应市场变化、以速度赢得竞争的制造模式。,
 virtual manufacturing,虚拟制造,工程,在计算机上对产品设计、工艺与生产过程进行建模仿真的技术。,
+model-based systems engineering,基于模型的系统工程,工程,以模型为核心贯穿系统全生命周期设计与验证的系统工程方法,MBSE
+virtual commissioning,虚拟调试,工程,在物理设备建成前利用仿真模型对控制系统进行测试与调试的技术,
+digital thread,数字主线,工程,贯穿产品全生命周期各环节的可追溯数据流与信息链,
+requirements engineering,需求工程,工程,系统化获取分析规格化与验证系统需求的工程学科,
+system architecture,系统架构,工程,对系统组成要素及其相互关系与接口的总体设计描述,
+system of systems,体系系统,工程,由多个独立运行的系统协同集成以完成共同使命的复杂系统,SoS
+verification and validation,验证与确认,工程,分别检查系统是否被正确构建以及是否满足用户实际需求的活动,V&V
+wire arc additive manufacturing,电弧增材制造,工程,以电弧为热源熔化金属丝材逐层沉积成形大型构件的增材工艺,WAAM
+cold spray additive manufacturing,冷喷涂增材制造,工程,利用高速固态颗粒撞击沉积实现低温成形与修复的增材工艺,cold spray
+ultrasonic additive manufacturing,超声增材制造,工程,利用超声振动使金属箔材在固态下逐层键合成形的增材工艺,UAM
+hybrid manufacturing,增减材混合制造,工程,在同一装备上结合增材成形与切削精加工以兼顾效率与精度的制造方式,
+human-robot interaction,人机交互,工程,研究人与机器人在共享环境中安全高效协作的感知决策与交互技术,HRI
+visual servoing,视觉伺服,工程,利用视觉传感器反馈实时调整机器人位姿以完成定位抓取等任务的控制方法,
+legged robot,腿足机器人,工程,以腿式机构实现复杂地形行走与越障的移动机器人,legged locomotion robot
+lattice structure,点阵结构,工程,由周期性杆件或胞元构成兼具轻质与承载特性的工程结构,
+exoskeleton robot,外骨骼机器人,工程,穿戴于人体以增强肢体力量或辅助康复训练的可穿戴机器人,wearable exoskeleton
+urban air mobility,城市空中交通,工程,利用电动垂直起降飞行器在城市空域提供载人载货运输的新型交通体系,UAM
+robotics,机器人学,工程,研究机器人设计制造控制与应用的交叉工程学科,
+industrial robot,工业机器人,工程,在工业生产中自动执行搬运装配焊接等作业的可编程机械装置,
+collaborative robot,协作机器人,工程,无需安全围栏即可与人在共享空间协同作业的机器人,cobot
+mobile robot,移动机器人,工程,具备移动能力可在环境中自主或遥控执行任务的机器人,
+simultaneous localization and mapping,即时定位与地图构建,工程,机器人在未知环境中同时估计自身位置并构建环境地图的技术,SLAM
+motion planning,运动规划,工程,为机器人寻找从起点到目标无碰撞可行路径的算法过程,
+end effector,末端执行器,工程,安装在机器人末端直接完成作业任务的夹爪或工具装置,
+forward kinematics,正运动学,工程,由关节变量计算机器人末端位姿的运动学分析方法,
+inverse kinematics,逆运动学,工程,由期望末端位姿反求各关节变量的运动学分析方法,
+robot operating system,机器人操作系统,工程,为机器人软件开发提供通信框架与工具的开源中间件,ROS
+swarm robotics,群体机器人学,工程,研究大量简单机器人通过局部交互涌现群体智能的领域,
+soft robotics,软体机器人学,工程,研究由柔性材料构成可顺应变形的机器人的新兴领域,
+unmanned aerial vehicle,无人机,工程,不搭载驾驶员依靠遥控或自主飞行完成任务的航空器,UAV
+unmanned ground vehicle,无人地面车辆,工程,无驾驶员通过遥控或自主方式在地面行驶的机动平台,UGV
+unmanned surface vessel,无人水面艇,工程,无船员在水面自主或遥控航行执行任务的船舶,USV
+autonomous navigation,自主导航,工程,无人系统不依赖人工干预自主感知环境并规划路径航行的能力,
+drone swarming,无人机集群,工程,多架无人机通过协同控制共同完成侦察作业等任务的技术,drone swarm
+beyond visual line of sight,超视距运行,工程,无人机飞出操控员目视范围依靠感知与数据链运行的方式,BVLOS
+sense and avoid,感知与避让,工程,无人系统探测周围障碍物与航空器并自主规避碰撞的技术,
+resilient infrastructure,韧性基础设施,工程,能够抵御灾害冲击并快速恢复功能的基础设施系统,
+critical infrastructure protection,关键基础设施保护,工程,保障能源交通通信等关键基础设施免受破坏的防护体系,CIP
+structural health monitoring,结构健康监测,工程,利用传感器网络长期监测结构状态并评估损伤与安全的技术,SHM
+smart infrastructure,智能基础设施,工程,集成感知通信与控制技术实现自适应运行的基础设施,
+green infrastructure,绿色基础设施,工程,利用自然或半自然系统提供雨洪调蓄等生态服务的工程设施,
+engineering ethics,工程伦理,工程,规范工程师职业行为并处理工程中价值冲突的伦理规范体系,
+cascading failure,级联失效,工程,系统中局部故障通过网络耦合关系逐级传播导致大范围瘫痪的失效模式,
+fail-safe design,失效安全设计,工程,使系统在发生故障时自动进入安全状态的设计原则,
+seismic resilience,抗震韧性,工程,结构或城市在地震冲击下维持功能并快速恢复的能力,seismic resiliency
+system safety,系统安全,工程,从系统全生命周期角度识别控制风险以实现整体安全的工程方法,
+reliability-centered maintenance,以可靠性为中心的维修,工程,依据故障后果与规律制定最优维修策略的管理方法,RCM
+prognostics and health management,故障预测与健康管理,工程,监测装备状态并预测剩余寿命以优化维修保障的技术,PHM
+digital engineering,数字工程,工程,以数字模型与数据为核心组织工程全生命周期活动的范式,
+model-based definition,基于模型的定义,工程,以三维模型为载体直接标注制造检验信息的数字化定义方法,MBD

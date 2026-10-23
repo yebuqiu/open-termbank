@@ -199,3 +199,53 @@ dietary fiber,膳食纤维,化学,不能被人体消化酶水解的碳水化合�
 starch gelatinization,淀粉糊化,化学,淀粉粒在加热吸水后结晶结构破坏、粘度升高的不可逆过程；是食品加工的关键步骤。,gelatinization of starch
 retrogradation,淀粉老化,化学,糊化淀粉在贮藏中分子链重排重结晶的过程；导致米饭回生与面包硬化。,starch retrogradation
 rancidity,酸败,化学,油脂氧化或水解产生哈喇味与游离脂肪酸的变质现象；是含脂食品主要的品质劣变形式。,
+machine-learned interatomic potential,机器学习原子间势,化学,用机器学习拟合高精度势能面以加速大尺度原子模拟的方法。,MLIP
+retrosynthesis prediction,逆合成预测,化学,由目标分子自动推断可行合成路线的计算方法。,
+molecular generative model,分子生成模型,化学,自动生成具有目标性质的新分子结构的生成式模型。,
+chemical language model,化学语言模型,化学,在分子字符串表示上预训练并用于性质预测的语言模型。,
+self-driving laboratory,自动驾驶实验室,化学,将人工智能规划与机器人实验闭环联动的自动化研究平台。,autonomous laboratory
+high-throughput experimentation,高通量实验,化学,以并行化与自动化方式快速完成大量实验筛选的技术。,HTE
+single-molecule fluorescence,单分子荧光,化学,探测单个分子荧光信号以揭示系综平均所掩盖动态信息的技术。,
+single-molecule force spectroscopy,单分子力谱,化学,测量单个分子受力与形变关系的单分子操纵技术。,
+super-resolution microscopy,超分辨显微技术,化学,突破光学衍射极限实现纳米尺度成像的荧光显微技术。,nanoscopy
+single-molecule junction,单分子结,化学,将单个分子桥接于两电极间以研究其电荷输运的实验体系。,
+molecular electronics,分子电子学,化学,以单个或少数分子作为功能单元构筑电子器件的领域。,
+continuous-flow synthesis,连续流合成,化学,反应物在连续流动的微通道中持续进行反应的合成方式。,
+flow microreactor,流动微反应器,化学,特征尺度为微米级且强化传热传质的连续反应装置。,
+electrosynthesis,电合成,化学,利用电能驱动氧化还原反应制备化学品的合成方法。,organic electrosynthesis
+paired electrolysis,成对电解,化学,阴阳两极同时发生有价值反应以提高原子与电能利用率的电解策略。,
+electrocatalytic hydrogen evolution,电催化析氢,化学,在电极表面催化水还原生成氢气的反应过程。,HER
+photoelectrochemistry,光电化学,化学,研究光激发电极界面电荷转移过程的交叉学科。,
+photoredox catalysis,光氧化还原催化,化学,利用光激发催化剂进行单电子转移以驱动有机反应的方法。,
+biomass valorization,生物质高值化利用,化学,将生物质资源转化为高附加值化学品与燃料的技术路线。,
+lignin depolymerization,木质素解聚,化学,将木质素大分子降解为芳香单体的催化转化过程。,
+cellulose hydrolysis,纤维素水解,化学,将纤维素水解为葡萄糖等可发酵糖的过程。,
+bio-oil upgrading,生物油提质,化学,通过加氢脱氧等手段提升生物油热值与稳定性的过程。,
+catalytic fast pyrolysis,催化快速热解,化学,在催化剂作用下快速热解生物质以定向制备芳烃等产物的过程。,CFP
+hydrothermal liquefaction,水热液化,化学,在高温高压水环境中将湿生物质转化为生物原油的过程。,HTL
+atmospheric aerosol,大气气溶胶,化学,悬浮于大气中的固态或液态微粒体系。,
+secondary organic aerosol,二次有机气溶胶,化学,挥发性有机物经大气氧化而生成的颗粒有机物。,SOA
+ozone depletion,臭氧损耗,化学,平流层臭氧因卤素自由基催化循环而减少的过程。,
+hydroxyl radical chemistry,羟基自由基化学,化学,研究大气中羟基自由基驱动氧化过程的大气化学分支。,
+heterogeneous atmospheric reaction,大气非均相反应,化学,发生在气溶胶表面或内部的多相大气化学反应。,
+molecular beam,分子束,化学,在真空中定向运动并用于研究基元反应的分子流。,
+femtochemistry,飞秒化学,化学,用飞秒激光研究化学反应过渡态与超快过程的领域。,
+ultrafast spectroscopy,超快光谱,化学,以飞秒至皮秒时间分辨率追踪化学动态过程的光谱技术。,
+two-dimensional infrared spectroscopy,二维红外光谱,化学,通过频率关联揭示分子结构与动力学的多维光谱技术。,2D IR
+dynamic covalent chemistry,动态共价化学,化学,利用可逆共价键构筑可纠错与自愈合分子体系的合成策略。,DCvC
+systems chemistry,系统化学,化学,研究分子网络涌现行为与自组织现象的化学分支。,
+prebiotic chemistry,前生命化学,化学,研究生命起源前简单分子合成生物大分子的化学过程。,
+chemoinformatics,化学信息学,化学,用计算方法存储检索与分析化学结构与性质的学科。,cheminformatics
+reaction network,反应网络,化学,由大量相互关联的基元反应构成的反应体系图结构。,
+microfluidic synthesis,微流控合成,化学,在微流控芯片内精确操控微升级流体进行化学合成的方法。,
+droplet microfluidics,液滴微流控,化学,以不互溶流体生成微液滴作为独立反应器的高通量技术。,
+enzyme engineering,酶工程,化学,通过理性设计或定向进化改造酶催化性能的技术体系。,
+plastic-degrading enzyme,塑料降解酶,化学,能催化聚酯类塑料解聚为小分子的生物催化剂。,
+carbon dioxide electroreduction,二氧化碳电还原,化学,以电能将二氧化碳转化为燃料与化学品的催化过程。,CO2RR
+electrocatalytic nitrogen fixation,电催化固氮,化学,在常温常压下电催化氮气还原合成氨的过程。,
+brown carbon,棕碳,化学,大气气溶胶中在近紫外与可见光波段吸收辐射的有机组分。,light-absorbing organic aerosol
+microplastic analysis,微塑料分析,化学,对环境样品中微塑料进行定性与定量分析的方法体系。,
+isotope ratio mass spectrometry,同位素比质谱,化学,高精度测定元素同位素比值的质谱技术。,IRMS
+operando spectroscopy,工况原位光谱,化学,在真实反应条件下同步监测催化剂结构与性能的光谱方法。,
+covalent adaptable network,共价自适应网络,化学,依靠动态共价键实现可重加工与自修复的聚合物网络。,vitrimer
+artificial photosynthesis,人工光合作用,化学,模拟自然光合作用将太阳能转化为化学能储存的技术体系。,

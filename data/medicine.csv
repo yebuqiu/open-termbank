@@ -199,3 +199,53 @@ clinical pathway,临床路径,医学,针对特定疾病制定的标准化诊疗�
 multidisciplinary team,多学科诊疗团队,医学,由多个相关专科人员共同协作制定诊疗方案的团队合作模式,MDT
 quality-adjusted life year,质量调整生命年,医学,综合生存时间与生命质量权重计算的健康产出评价指标,QALY
 number needed to treat,需治人数,医学,与对照相比为获得一例额外良好结局所需治疗的患者人数,NNT
+digital therapeutics,数字疗法,医学,基于软件程序对疾病进行干预和治疗的循证医疗手段,digital therapeutic; DTx
+remote patient monitoring,远程患者监护,医学,利用可穿戴和家用设备在院外持续采集患者生理数据并传输给医疗机构,RPM
+wearable biosensor,可穿戴生物传感器,医学,集成于体表可穿戴设备中实时检测生理生化信号的传感器,
+artificial intelligence-assisted diagnosis,人工智能辅助诊断,医学,利用机器学习模型分析医学影像和临床数据以辅助医师作出诊断的技术,AI-assisted diagnosis
+computer-aided detection,计算机辅助检测,医学,自动标记影像中可疑病灶供医师复核的算法系统,CAD
+radiomics,影像组学,医学,从医学影像高通量提取定量特征并构建诊断与预后模型的方法,
+deep learning diagnosis,深度学习诊断,医学,基于深度神经网络对医学数据进行自动分类判读的疾病诊断方式,
+real-world evidence,真实世界证据,医学,由真实诊疗环境中产生的数据经分析得到的关于医疗产品有效性和安全性的证据,RWE
+real-world data,真实世界数据,医学,常规诊疗过程中收集的病历登记和医保理赔等反映实际临床实践的数据,RWD
+pragmatic clinical trial,实效性临床试验,医学,在接近真实临床环境下评估干预措施实际效果与适用性的试验,
+decentralized clinical trial,去中心化临床试验,医学,借助远程技术使受试者在家中参与的新型临床试验模式,DCT
+adaptive clinical trial,适应性临床试验,医学,依据期中分析结果按预设方案修改样本量或分组等参数的试验,
+platform trial,平台试验,医学,在同一总体框架下持续评估多种干预措施并可动态增减研究组的试验,
+basket trial,篮式试验,医学,按特定分子标志物将不同癌种患者纳入同一靶向治疗方案评估的试验,
+umbrella trial,伞式试验,医学,在同一疾病类型内按分子分型并行测试多种靶向治疗方案的试验,
+cell therapy,细胞治疗,医学,将活体细胞输入患者体内以修复组织或杀伤病变细胞的治疗方法,
+adoptive cell therapy,过继细胞治疗,医学,将体外扩增或改造的活体免疫细胞回输患者以杀伤肿瘤的治疗方法,ACT
+CAR-NK cell therapy,CAR-NK细胞治疗,医学,利用嵌合抗原受体修饰的自然杀伤细胞进行抗肿瘤免疫治疗的方法,
+tumor-infiltrating lymphocyte therapy,肿瘤浸润淋巴细胞治疗,医学,扩增患者肿瘤组织中浸润淋巴细胞并回输以攻击肿瘤的过继细胞治疗,TIL therapy
+stem cell therapy,干细胞治疗,医学,利用干细胞的自我更新与分化潜能修复或替代受损组织的治疗方式,
+mesenchymal stem cell,间充质干细胞,医学,可从骨髓脂肪等组织分离并具有多向分化与免疫调节功能的成体干细胞,MSC
+gene therapy,基因治疗,医学,将外源基因导入患者细胞以纠正或补偿缺陷基因功能的治疗方法,
+oncolytic virus therapy,溶瘤病毒治疗,医学,利用选择性在肿瘤细胞内复制并裂解细胞的病毒进行的抗肿瘤治疗,
+checkpoint blockade,免疫检查点阻断,医学,以抗体阻断免疫检查点信号从而恢复T细胞抗肿瘤功能的免疫治疗策略,immune checkpoint blockade
+infectious disease modeling,传染病建模,医学,用数学模型描述传染病传播过程并预测流行趋势的方法,epidemic modeling
+SIR model,SIR模型,医学,将人群划分为易感感染和恢复三类并描述其转化的经典传染病模型,
+SEIR model,SEIR模型,医学,在SIR模型基础上增加潜伏期人群以描述具有潜伏期传染病的传播模型,
+basic reproduction number,基本再生数,医学,在完全易感人群中一个感染者平均传染的人数是衡量传播力的核心指标,R0
+effective reproduction number,有效再生数,医学,在存在免疫人群和干预措施情况下一个感染者平均传染的人数,Rt
+serial interval,系列间隔,医学,一代病例发病与由其传染的二代病例发病之间的平均时间间隔,
+generation time,代际时间,医学,感染者被感染与其传染下一代感染者之间的平均时间间隔,
+superspreading event,超级传播事件,医学,少数感染者造成异常大量二代病例的传播事件,
+contact tracing,接触者追踪,医学,查明传染病病例密切接触者并进行医学观察的防控措施,
+genomic surveillance,基因组监测,医学,对病原体基因组进行测序分析以追踪变异株与传播链的监测方式,
+wastewater surveillance,污水监测,医学,检测污水样本中病原体核酸以评估社区流行水平的方法,wastewater-based epidemiology
+mobile health,移动医疗,医学,依托智能手机与可穿戴等移动终端提供健康监测与诊疗支持的服务模式,mHealth
+telepathology,远程病理学,医学,通过数字化切片与网络传输实现异地病理诊断的技术,
+digital biomarker,数字生物标志物,医学,由数字设备采集的反映生理或疾病状态的客观可量化指标,
+electronic patient-reported outcome,电子化患者报告结局,医学,以电子化方式直接采集患者自报症状与生活质量信息的结局指标,ePRO
+federated learning in healthcare,医疗联邦学习,医学,在数据不出院前提下多家医疗机构协同训练模型的隐私保护机器学习,medical federated learning
+clinical decision support system,临床决策支持系统,医学,整合患者数据与医学知识为医师提供诊疗建议的信息系统,CDSS
+natural language processing in medicine,医学自然语言处理,医学,自动解析电子病历等非结构化文本以提取临床信息的技术,clinical NLP
+hospital at home,居家医院,医学,将急性期住院治疗服务通过远程监护与上门医护延伸至患者家中的模式,HaH
+theranostics,诊疗一体化,医学,利用同一分子靶点将诊断显像与靶向治疗相结合的医学模式,theragnostics
+circulating tumor cell,循环肿瘤细胞,医学,从原发灶脱落进入外周血并可用于肿瘤诊断与预后评估的细胞,CTC
+bispecific antibody,双特异性抗体,医学,能同时结合两种不同抗原或表位以桥接效应细胞与肿瘤细胞的工程化抗体,BsAb
+single-cell sequencing,单细胞测序,医学,在单个细胞水平测定基因组或转录组以解析细胞异质性的测序技术,
+organoid,类器官,医学,由干细胞三维培养形成的模拟真实器官结构与功能的微型组织,
+organ-on-a-chip,器官芯片,医学,在微流控芯片上构建模拟器官生理微环境的体外模型,OOC
+mRNA vaccine,mRNA疫苗,医学,将编码抗原的信使RNA递送体内诱导免疫应答的新型疫苗,messenger RNA vaccine

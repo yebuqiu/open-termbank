@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+thermohaline circulation,温盐环流,海洋,由海水温度和盐度差异引起的密度梯度所驱动的大尺度深层环流，是调节全球气候的重要机制。,density-driven circulation
+western boundary current,西边界流,海洋,大洋环流中沿洋盆西边界流动的强而窄的海流，流速快、流量大，如黑潮与湾流。,
+geostrophic current,地转流,海洋,水平压强梯度力与科里奥利力达到平衡时形成的稳定海流，流向与等压线平行。,
+ekman transport,埃克曼输运,海洋,风应力作用下表层海水因科里奥利效应产生的与风向垂直的净水体输运。,Ekman transport
+ekman spiral,埃克曼螺旋,海洋,风生海流随深度增加流速递减、方向逐渐偏转而形成的螺旋状流速分布。,
+coriolis force,科里奥利力,海洋,地球自转使运动水体在北半球向右偏、南半球向左偏的惯性力。,Coriolis force
+rossby wave,罗斯贝波,海洋,由行星涡度梯度维持的向西传播的大尺度低频波动，影响大洋环流的调整。,planetary wave
+kelvin wave,开尔文波,海洋,沿海岸或赤道传播的重力波，科里奥利力使其能量集中于边界一侧。,
+mesoscale eddy,中尺度涡,海洋,水平尺度数十至数百公里的海洋涡旋，携带能量并输运热量与盐分。,
+subtropical gyre,副热带环流圈,海洋,副热带海域由风应力驱动的大型风生环流系统，北半球呈顺时针方向。,
+internal wave,内波,海洋,在密度分层的海水内部传播的波动，振幅通常远大于表面波。,
+spring tide,大潮,海洋,朔望时刻日月引潮力叠加而形成的潮差最大的潮汐。,
+neap tide,小潮,海洋,上弦与下弦时刻日月引潮力相互削弱而形成的潮差最小的潮汐。,
+tidal bore,涌潮,海洋,涨潮波传入河口浅水区时波前变陡、向上游推进的涌水现象。,
+amphidromic point,无潮点,海洋,潮差为零、等潮时线绕其旋转的潮汐系统中心点。,
+significant wave height,有效波高,海洋,观测波列中波高最高的三分之一波浪的平均波高，是海况预报的常用参数。,
+wave shoaling,波浪浅化,海洋,波浪传入浅水区后因水深变浅而波高增大、波长缩短的现象。,
+rip current,离岸流,海洋,近岸破碎波水体沿海沟快速流向外海的狭窄强流，常危及游泳者安全。,rip tide
+seawater salinity,海水盐度,海洋,一千克海水中溶解盐类的总克数，现代海洋学以实用盐度标度表示。,salinity
+chlorinity,氯度,海洋,一千克海水中卤素离子全部换算为氯的总克数，曾用于推算海水盐度。,
+alkalinity,碱度,海洋,海水中能接受氢离子的弱酸根离子的总浓度，反映海水对酸碱变化的缓冲能力。,total alkalinity
+seawater carbonate system,海水碳酸盐体系,海洋,海水中溶解二氧化碳、碳酸、碳酸氢根与碳酸根之间相互转化的化学平衡体系。,carbonate system
+dissolved inorganic carbon,溶解无机碳,海洋,海水中溶解态无机碳的总量，包括二氧化碳、碳酸氢根和碳酸根。,DIC
+redfield ratio,雷德菲尔德比值,海洋,海洋浮游生物及其生长水体中碳氮磷元素的平均摩尔比，约为一百零六比十六比一。,Redfield ratio
+trace metal,痕量金属,海洋,海水中浓度极低但对生物地球化学过程有重要作用的金属元素，如铁、锌、铜。,trace element
+remineralization,再矿化,海洋,有机碎屑被微生物分解、重新转化为无机营养盐和二氧化碳的过程。,
+oxygen minimum zone,最小含氧带,海洋,中层海水中溶解氧含量极低的水层，多由有机物分解耗氧与弱通风共同形成。,OMZ
+marine biogeochemistry,海洋生物地球化学,海洋,研究海洋中化学元素的分布、循环及其与生物过程相互作用的学科。,
+phytoplankton,浮游植物,海洋,在水体中营浮游生活的光合自养微生物，是海洋初级生产的主要贡献者。,
+zooplankton,浮游动物,海洋,水体中缺乏游泳能力、随波逐流的小型动物类群，是海洋食物网的重要环节。,
+harmful algal bloom,有害藻华,海洋,某些藻类暴发性增殖并产生毒素或造成水体缺氧的海洋生态灾害。,HAB
+microbial loop,微生物环,海洋,溶解有机物经异养细菌利用后被原生动物捕食而回归经典食物网的物质循环途径。,
+biological pump,生物泵,海洋,浮游生物固定碳并借助颗粒下沉将碳从表层输送至深海的生物地球化学过程。,
+marine snow,海雪,海洋,由有机碎屑、微生物和无机颗粒聚集而成并缓慢下沉的絮状物，是深海生物的重要食物来源。,
+benthos,底栖生物,海洋,生活在海底底质之上或底质之内的生物类群，包括固着、爬行和底埋生活类型。,benthic organisms
+nekton,游泳生物,海洋,能克服水流自主游动的水生动物类群，如鱼类、鲸类和头足类。,
+copepod,桡足类,海洋,小型浮游甲壳动物，是海洋浮游动物中数量和种类最丰富的类群之一。,copepoda
+krill,磷虾,海洋,高度群聚的浮游甲壳动物，是南大洋等海域食物网中的关键物种。,euphausiid
+coral bleaching,珊瑚白化,海洋,珊瑚因高温等环境胁迫排出共生虫黄藻而变白、失去主要营养来源的现象。,
+mid-ocean ridge,洋中脊,海洋,贯穿大洋盆地的海底山脉系统，是新洋壳生成与海底扩张的中心地带。,oceanic ridge
+seafloor spreading,海底扩张,海洋,新洋壳在洋中脊轴部生成并向两侧移动、推动板块运动的过程。,
+hydrothermal vent,热液喷口,海洋,海底喷出高温且富含化学物质流体的孔口，周围常发育不依赖阳光的独特生物群落。,
+black smoker,黑烟囱,海洋,喷出富含金属硫化物的黑色高温流体、形如烟囱的海底热液构造。,
+seamount,海山,海洋,高出周围海底一千米以上但未露出海面的海底火山山体。,
+guyot,海底平顶山,海洋,顶部曾被波浪侵蚀削平、后因海底沉降没入水下的平顶海山。,tablemount
+abyssal plain,深海平原,海洋,水深四千至六千米、被厚层沉积物覆盖而地势极为平坦的深海海底。,
+continental shelf,大陆架,海洋,大陆向海洋自然延伸、坡度平缓的浅海地带，平均水深约一百三十米。,
+continental slope,大陆坡,海洋,大陆架外缘向深海急剧倾斜、坡度较陡的海底过渡地带。,
+submarine canyon,海底峡谷,海洋,切割大陆架与大陆坡的陡峭谷地，是陆源沉积物向深海输移的重要通道。,
+turbidity current,浊流,海洋,富含悬浮沉积物的高密度水流，可沿海底斜坡高速向下流动并侵蚀海底。,
+gas hydrate,天然气水合物,海洋,低温高压条件下甲烷等气体分子被水分子晶格包裹形成的冰状固体物质。,methane hydrate; clathrate
+CTD,温盐深剖面仪,海洋,同步测量海水电导率、温度和压力并推算盐度与深度的基础海洋观测仪器。,conductivity-temperature-depth profiler
+ADCP,声学多普勒流速剖面仪,海洋,利用声波在散射体上的多普勒频移测量各水层海流速度与方向的仪器。,acoustic doppler current profiler
+argo float,Argo浮标,海洋,可自动沉浮并剖面测量温盐度的漂流浮标，组网构成全球海洋实时观测系统。,
+moored buoy,锚泊浮标,海洋,锚系于固定站位、长期连续观测海洋与气象要素的浮标平台。,
+drifting buoy,漂流浮标,海洋,随海流漂移并通过卫星回传位置与海表温度等数据的浮标。,drifter
+tide gauge,验潮仪,海洋,长期连续记录潮位变化的仪器，是潮汐分析和海平面变化监测的基础设备。,
+satellite altimetry,卫星测高,海洋,利用星载雷达测量海面高度以研究海流、涡旋与海平面变化的遥感技术。,radar altimetry
+sea surface temperature,海表温度,海洋,海洋表层海水的温度，是海气相互作用与气候研究中的关键参数。,SST
+ocean color remote sensing,水色遥感,海洋,通过测量海水离水辐射率反演叶绿素、悬浮物等水色要素的卫星遥感技术。,
+underwater glider,水下滑翔机,海洋,依靠浮力调节与固定机翼产生升力、作锯齿形剖面运动的低功耗自主观测平台。,
+autonomous underwater vehicle,自主水下航行器,海洋,无需缆控、按预设程序自主航行并执行水下观测与作业任务的机器人。,AUV
+el niño,厄尔尼诺,海洋,赤道中东太平洋海表温度异常增暖并引发全球气候异常的现象。,El Niño
+la niña,拉尼娜,海洋,赤道中东太平洋海表温度异常偏冷的现象，与厄尔尼诺相位相反。,La Niña
+southern oscillation,南方涛动,海洋,赤道太平洋东西两侧海平面气压此高彼低、反向变化的大气振荡现象。,
+walker circulation,沃克环流,海洋,赤道太平洋上空沿东西方向闭合的大气环流，其强弱与海面温度分布密切相关。,
+air-sea flux,海气通量,海洋,海洋与大气之间热量、水汽、动量与气体的交换通量，是耦合系统的关键环节。,air-sea exchange
+latent heat flux,潜热通量,海洋,海水蒸发或水汽凝结过程中伴随的海气之间热量交换通量。,
+tropical cyclone,热带气旋,海洋,在暖洋面上生成、具有暖心结构和闭合环流的强烈旋转风暴系统。,
+storm surge,风暴潮,海洋,强烈天气系统引起海面异常升高、导致沿岸增水泛滥的灾害性现象。,
+ENSO,厄尔尼诺—南方涛动,海洋,赤道太平洋海表温度与大气环流相互耦合的年际尺度气候振荡现象。,El Niño-Southern Oscillation
+sea ice,海冰,海洋,海水直接冻结形成的冰，广布于极地海域并显著影响海气热量交换。,
+ice shelf,冰架,海洋,与陆地冰盖相连、漂浮于海面之上的大面积厚冰体。,
+iceberg,冰山,海洋,从冰川或冰架前端崩解落入海中漂浮的巨大淡水冰块。,
+polynya,冰间湖,海洋,大面积海冰覆盖区内常年或季节性保持无冰的开阔水域。,
+brine rejection,卤水排出,海洋,海水结冰过程中盐分被排斥进入下层海水、使其盐度与密度增加的过程。,
+antarctic circumpolar current,南极绕极流,海洋,环绕南极大陆向东流动的海流，是全球流量最大的海流系统。,ACC
+arctic amplification,北极放大效应,海洋,北极地区地表增温速率显著高于全球平均水平的气候现象。,
+melt pond,融池,海洋,夏季海冰表面融化积水形成的浅水池，可显著降低冰面反照率。,
+hadal zone,深渊带,海洋,水深超过六千米的海沟底部区域，是海洋中最深、压力最高的环境带。,hadalpelagic zone
+abyssal zone,深海带,海洋,水深约四千至六千米的环境带，终年黑暗、低温且食物匮乏。,
+deep scattering layer,深海散射层,海洋,由集群浮游生物和小型游泳生物形成的强烈声散射水层，呈现昼夜垂直迁移。,DSL
+chemosynthesis,化能合成,海洋,某些微生物利用无机物氧化所释放的能量将二氧化碳合成为有机物的过程。,
+whale fall,鲸落,海洋,鲸类尸体沉入海底形成的局部生态系统，可持续供养深海生物数十年。,
+cold seep,冷泉,海洋,海底渗漏富含甲烷与硫化氢流体的区域，常发育以化能合成为基础的生物群落。,
+manned submersible,载人潜水器,海洋,可搭载人员下潜至深海进行科学考察与工程作业的潜水装置。,human-occupied vehicle; HOV
+estuary,河口,海洋,河流入海处咸淡水混合、受潮汐显著影响的过渡性水域。,
+estuarine circulation,河口环流,海洋,河口区表层低盐水向外海流动、底层高盐水向陆入侵所构成的垂向环流。,
+delta,三角洲,海洋,河流入海时挟带泥沙堆积形成的扇形或舌状沉积地貌。,river delta
+coastal erosion,海岸侵蚀,海洋,波浪与海流作用使海岸物质流失、岸线向陆地后退的过程。,
+beach nourishment,海滩养护,海洋,人工向遭受侵蚀的海滩补充沙源以恢复滩面宽度的海岸防护措施。,beach replenishment
+salt marsh,盐沼,海洋,潮间带上部生长耐盐草本植物的滨海湿地，具有重要生态功能。,saltmarsh
+mangrove,红树林,海洋,分布于热带亚热带潮间带的耐盐木本植物群落，可防风消浪、固碳护岸。,
+tidal flat,潮滩,海洋,潮间带周期性淹没与出露的宽阔平缓泥质或沙质滩地。,mudflat
+submarine pipeline,海底管道,海洋,敷设于海底用于输送石油、天然气或淡水的管道工程设施。,subsea pipeline
+submarine cable,海底电缆,海洋,敷设于海底用于跨海电力输送或国际通信的缆线设施。,undersea cable
+tidal energy,潮汐能,海洋,利用潮汐涨落形成的水位差或潮流动能进行发电的可再生能源。,
+wave energy converter,波浪能转换装置,海洋,将波浪所携带的动能与势能转换为电能的海洋能利用装置。,WEC
+ocean thermal energy conversion,海洋温差能转换,海洋,利用表层暖水与深层冷水之间的温差驱动热力循环发电的技术。,OTEC
+marine corrosion,海洋腐蚀,海洋,金属材料在海水、海洋大气等腐蚀性环境中发生的电化学破坏过程。,

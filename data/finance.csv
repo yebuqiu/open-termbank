@@ -199,3 +199,53 @@ mutual fund,共同基金,金融,向众多投资者募集资金并由专业机构
 asset-backed security,资产支持证券,金融,以贷款应收款等基础资产现金流为偿付支持而发行的证券化产品,ABS
 collateralized debt obligation,担保债务凭证,金融,将债券贷款等债务资产打包并分级发行的结构化信用产品,CDO
 credit default swap,信用违约互换,金融,买方向卖方定期付费以在参考实体违约时获得赔偿的信用衍生品,CDS
+crypto asset,加密资产,金融,基于密码学与分布式账本技术发行并可转移的数字价值载体,cryptocurrency
+programmable money,可编程货币,金融,借助智能合约使货币附带自动执行条件与用途限制的数字价值形态,
+algorithmic stablecoin,算法稳定币,金融,依靠算法调节代币供需而非法币储备来维持价格锚定的稳定币,
+automated market maker,自动做市商,金融,通过智能合约定价公式自动撮合加密资产交易的去中心化做市机制,AMM
+tokenization of assets,资产代币化,金融,将现实资产权益转化为区块链上可交易数字代币的过程,asset tokenization
+regulatory sandbox,监管沙盒,金融,监管机构允许金融科技创新在限定范围内试验的弹性监管机制,
+virtual asset service provider,虚拟资产服务提供商,金融,从事虚拟资产兑换转移托管等业务的受监管商业实体,VASP
+climate finance,气候金融,金融,为减缓和适应气候变化项目提供资金的投融资活动,
+green finance,绿色金融,金融,为环境友好型项目与产业提供资金支持的金融体系,
+blue bond,蓝色债券,金融,募集资金专门用于海洋保护与可持续海洋经济项目的债券品种,
+sustainability-linked bond,可持续发展挂钩债券,金融,票面条款与发行人可持续发展绩效目标挂钩的债券,SLB
+transition finance,转型金融,金融,支持高碳行业向低碳路径有序转型的融资活动,
+carbon finance,碳金融,金融,围绕碳排放权交易及其衍生品开展的金融活动,
+ESG investing,ESG投资,金融,将环境社会与公司治理因素纳入决策的投资策略,ESG investment
+blended finance,混合融资,金融,以公共或慈善资金撬动私人资本投入可持续发展项目的结构化融资方式,
+climate risk stress testing,气候风险压力测试,金融,评估气候物理与转型风险冲击下金融机构稳健性的测试,climate stress test
+transition risk,转型风险,金融,低碳转型过程中政策技术与市场变化给机构资产价值带来的风险,
+supply chain finance,供应链金融,金融,依托核心企业信用为链上中小企业提供融资的金融服务模式,
+factoring,保理,金融,企业将应收账款转让保理商以获得融资与账款管理服务的交易安排,
+reverse factoring,反向保理,金融,由核心企业发起确权并为其上游供应商应收账款融资的保理模式,confirming
+accounts receivable financing,应收账款融资,金融,以应收账款质押或转让为基础获取流动资金的融资方式,
+inventory financing,存货融资,金融,以企业库存商品作为担保物获得贷款的融资方式,
+warehouse receipt pledge,仓单质押,金融,以仓储机构出具的仓单为质押物获取银行贷款的融资安排,
+inclusive finance,普惠金融,金融,以可负担成本为小微与低收入群体提供金融服务的体系,financial inclusion
+microfinance,小额信贷金融,金融,面向低收入与小微群体提供小额信贷储蓄保险等综合金融服务,
+microcredit,小额信贷,金融,向低收入人群发放无抵押小额贷款以帮助其经营脱贫的信贷方式,
+digital financial inclusion,数字普惠金融,金融,借助数字技术降低服务成本并扩大金融覆盖面的普惠金融形态,
+microinsurance,小额保险,金融,面向低收入群体提供低保费低保额风险保障的普惠保险产品,
+credit scoring,信用评分,金融,运用统计或机器学习模型量化评估借款人违约风险的方法,
+alternative data credit assessment,替代数据信用评估,金融,利用水电缴费电商行为等非传统数据评估个人信用的方法,
+systemic risk,系统性风险,金融,可能引发金融体系整体功能丧失或连锁崩溃的风险,
+total loss-absorbing capacity,总损失吸收能力,金融,系统重要性银行进入处置程序时可用于减记或转股吸收损失的资本与债务总量要求,TLAC
+countercyclical capital buffer,逆周期资本缓冲,金融,要求银行在经济上行期积累资本以应对下行损失的审慎工具,CCyB
+systemically important financial institution,系统重要性金融机构,金融,倒闭将严重冲击金融体系而需附加监管的金融机构,SIFI
+too big to fail,大而不能倒,金融,大型金融机构因倒闭代价巨大而获得隐性政府救助预期的现象,
+contagion effect,传染效应,金融,金融风险通过机构间关联从单个机构扩散至整个体系的现象,
+funding liquidity risk,融资流动性风险,金融,机构无法按合理成本及时筹措资金以履行到期偿付义务的风险,
+shadow banking,影子银行,金融,游离于传统银行监管体系之外行使信用中介功能的机构与业务,
+pension finance,养老金融,金融,围绕养老金积累与养老产业开展的综合金融活动,
+third pillar pension,第三支柱养老金,金融,个人自愿参加并享受税收优惠的个人养老金制度安排,
+target date fund,目标日期基金,金融,随投资者退休日期临近自动调整资产配置的养老基金,TDF
+annuity,年金,金融,在约定期间内按固定间隔支付系列等额款项的保险或金融产品,
+longevity risk,长寿风险,金融,因实际寿命超过预期导致养老金储备不足的风险,
+pension fund,养老基金,金融,为支付退休金而专门设立并进行长期投资的基金,
+open finance,开放金融,金融,在开放银行基础上将数据共享扩展至保险投资养老金等更广泛金融领域的模式,
+buy now pay later,先买后付,金融,允许消费者分期支付且通常免息的短期消费信贷服务,BNPL
+embedded finance,嵌入式金融,金融,将支付信贷保险等金融服务无缝嵌入非金融场景平台的模式,
+quantitative trading,量化交易,金融,利用数学模型与计算机算法自动执行投资决策的交易方式,
+digital wealth management,数字财富管理,金融,依托算法与线上平台为大众投资者提供低成本资产配置服务的财富管理模式,
+fintech,金融科技,金融,运用现代科技成果创新金融产品服务与模式的新兴领域,financial technology

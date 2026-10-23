@@ -1,8 +1,8 @@
 {
   "name": "open-termbank",
   "description": "多学科领域中英术语对照数据库（按域取用 / CSV+TBX / CC BY 4.0）",
-  "version": "2.1.0",
-  "updated": "2026-10-21T21:39:18+08:00",
+  "version": "2.2.0",
+  "updated": "2026-10-23T14:47:30+08:00",
   "owner": "yebuqiu",
   "language_pair": "en → zh-CN",
   "schema": "source,target,domain,definition,synonyms",
@@ -16,163 +16,227 @@
       "slug": "agriculture",
       "en": "Agriculture",
       "file": "agriculture.csv",
-      "count": 199,
-      "sha256": "f36618ac529de162ef6e4609279308c3b8f07224c1bf702a3d73d914b3ae7fad"
+      "count": 249,
+      "sha256": "deccce7c8cfefd3eba9dcd3fd7fec74a0fd31f9327f2793da9cb157484b8aad2"
+    },
+    {
+      "domain": "建筑",
+      "slug": "architecture",
+      "en": "Architecture / Urban Planning",
+      "file": "architecture.csv",
+      "count": 100,
+      "sha256": "f3dd2996795c4588414b6fc2f6463e048c81b10d39574c497278979bc4bdb1ee"
     },
     {
       "domain": "艺术",
       "slug": "art",
       "en": "Arts / Design",
       "file": "art.csv",
-      "count": 200,
-      "sha256": "a5b724221195186534c80f2094a1c845592c00e388404ce3392ad1d5cf5caaac"
+      "count": 250,
+      "sha256": "204fdac74f20fa732d48cb7b84029fd71a68216f649e088160bdfe4dd29ece83"
     },
     {
       "domain": "天文",
       "slug": "astronomy",
       "en": "Astronomy / Space Science",
       "file": "astronomy.csv",
-      "count": 200,
-      "sha256": "ffe0386d6771b9b24f88aca70e541430559eb8643b7c5c22cf7e54949655cacd"
+      "count": 250,
+      "sha256": "b0f7ec2963ef07561f7e4bdfe1dcb165eec91d3a6534e5fce634d9db4d526456"
     },
     {
       "domain": "生物",
       "slug": "biology",
       "en": "Biology / Life Sciences",
       "file": "biology.csv",
-      "count": 200,
-      "sha256": "63f9628705056eb5740667d3908bb91a30b9539bf9862b733adbbc0ae7a77557"
+      "count": 250,
+      "sha256": "64536661ecc92d8368c5c5a01e58b65dc273a47b5d7fdd3d4c27bb40999865f4"
     },
     {
       "domain": "化学",
       "slug": "chemistry",
       "en": "Chemistry",
       "file": "chemistry.csv",
-      "count": 200,
-      "sha256": "ce40b787d52d1d6c47a663e278e9c11ca00932f0787c75b55270c36bef8e073d"
+      "count": 250,
+      "sha256": "c70e17e956a8bebd920fa7e2b5139ed42ea4f674b00007d798b1d677bae892fa"
     },
     {
       "domain": "传播",
       "slug": "communication",
       "en": "Communication / Media Studies",
       "file": "communication.csv",
-      "count": 200,
-      "sha256": "143a8403ae33a553984a10fd76146ff84a5d1e25f2e5ea4e4f7ce54afb95b09c"
+      "count": 250,
+      "sha256": "3397a8dbb1b5d152ea8d8dd151ab4fbb67a1d26dfc89ca700c9afce749e1f25c"
     },
     {
       "domain": "计算机",
       "slug": "computer-science",
       "en": "Computer Science / AI",
       "file": "computer-science.csv",
-      "count": 200,
-      "sha256": "f374ce07cb77f98e1c235e349259a858fe54cb08273a0f10c5f19190a2a3a471"
+      "count": 250,
+      "sha256": "c51cb9a7814fbb4d784711eea939421a04ad79128c9b079b5483ca52cfafa979"
     },
     {
       "domain": "教育",
       "slug": "education",
       "en": "Education / Pedagogy",
       "file": "education.csv",
-      "count": 200,
-      "sha256": "3ecf0f7f23f4eba3410917aa468df974d43e9eeb50e0d0538e8a42ff862973fe"
+      "count": 250,
+      "sha256": "8a2e528fe3509cb3c829e4fb8b5b8d401d441fa670447d1278d3c7ff3f8c3e10"
     },
     {
       "domain": "能源",
       "slug": "energy",
       "en": "Energy / Power",
       "file": "energy.csv",
-      "count": 200,
-      "sha256": "27477f77fc42e1942fe8e45935c5b8c34a84609cdc42d026d95a195720072497"
+      "count": 250,
+      "sha256": "666f4c12372a0f9cfa650fe1b73dff25c52a2d444a6bfc14244ff10803f34f88"
     },
     {
       "domain": "工程",
       "slug": "engineering",
       "en": "Engineering (General / Mechanical / Electrical / Civil)",
       "file": "engineering.csv",
-      "count": 200,
-      "sha256": "1c94caf37440f9b87d1cc8f45d63700431975728084e13ec1261edaee00efadc"
+      "count": 250,
+      "sha256": "b7aeb60ca5767f124e68ab42337aa951acce3063b0879804501d8fd3c7eeca2e"
     },
     {
       "domain": "环境",
       "slug": "environment",
       "en": "Environmental Science",
       "file": "environment.csv",
-      "count": 200,
-      "sha256": "a1da876b24b9cc4e0378e0f12fccd5c0bd7f3b9061b74290cb3abec4970274c2"
+      "count": 250,
+      "sha256": "c8eda4dcf2fa92b320a018149e3ac3570afcb989e3fc1e7c95f80a9d871faf7f"
     },
     {
       "domain": "金融",
       "slug": "finance",
       "en": "Finance / Economics",
       "file": "finance.csv",
-      "count": 200,
-      "sha256": "77112ca772f06d6fadd964bf60f7af712abc61e9e486674599f51108d7979a97"
+      "count": 250,
+      "sha256": "72d1a17b479dcdedc6293f6bdadb97e9b7cf0648205c2d8f0e4803f9ce027224"
+    },
+    {
+      "domain": "地质",
+      "slug": "geology",
+      "en": "Geology / Earth Sciences",
+      "file": "geology.csv",
+      "count": 100,
+      "sha256": "226546665006ae299d52c20ea181544498c67f6fad77dd092a8202b9f36490a4"
+    },
+    {
+      "domain": "历史",
+      "slug": "history",
+      "en": "History / Historiography",
+      "file": "history.csv",
+      "count": 100,
+      "sha256": "e23401d626d661f010829f3cffda590f0fd752473f9ed91aad8a8e6592b943b1"
     },
     {
       "domain": "法律",
       "slug": "law",
       "en": "Law",
       "file": "law.csv",
-      "count": 200,
-      "sha256": "7f1f9df15bdce7ab185c4e8b2b9cbd03ddcf9e9038c544239fd3e17180e4aec2"
+      "count": 250,
+      "sha256": "f2f98a912f6c52fe047ab8dc36d2f91091776f8873143bffb574499be2c954b5"
     },
     {
       "domain": "语言学",
       "slug": "linguistics",
       "en": "Linguistics",
       "file": "linguistics.csv",
-      "count": 200,
-      "sha256": "f9621de82b1bc3fcdc0b5228ba7b50672fe9ab2f64a501c85856aad39b695b46"
+      "count": 250,
+      "sha256": "2fdb2d4b1cf477142c64d4b6d5fbd505991782e1be58046fd6f5f25ad794c40c"
     },
     {
       "domain": "管理",
       "slug": "management",
       "en": "Management / Business",
       "file": "management.csv",
-      "count": 199,
-      "sha256": "8f976118aaf5c84c57bedbe0f86e6c778c2b9a7f895bc262e738c99b87abbc77"
+      "count": 249,
+      "sha256": "64732a701e52c760906dd5960ebeed89783e946e4f28d15d1dd07aa51abc0548"
     },
     {
       "domain": "材料",
       "slug": "materials",
       "en": "Materials Science",
       "file": "materials.csv",
-      "count": 200,
-      "sha256": "58fa97fcecb2ab299c0c033206d4f4b72629b41ecb89891e770a5c83a8d38031"
+      "count": 250,
+      "sha256": "368cbba709c466931ca314789065cd4cad61cd5d7c722e3e3c9254876e108b15"
     },
     {
       "domain": "数学",
       "slug": "mathematics",
       "en": "Mathematics / Statistics",
       "file": "mathematics.csv",
-      "count": 200,
-      "sha256": "02561aaf3755ec1f33fa9071d8bae19967617accc04ebceea3844f121893ebc7"
+      "count": 250,
+      "sha256": "241a0dd135805de362745fb2d08435bf3e0894dee9add8ef768f1c2add176aa9"
     },
     {
       "domain": "医学",
       "slug": "medicine",
       "en": "Medicine",
       "file": "medicine.csv",
-      "count": 200,
-      "sha256": "93cee736032a720d65f4bcb80cfef48923a0a842beb9e26d8c5ce59eaa09898a"
+      "count": 250,
+      "sha256": "6271a99d619be3099e286406f09022ce8a9b127ca5af4677e02dab91cf9126d2"
+    },
+    {
+      "domain": "海洋",
+      "slug": "oceanography",
+      "en": "Oceanography / Marine Science",
+      "file": "oceanography.csv",
+      "count": 100,
+      "sha256": "654f1b938c3d9b65b32df0527688596d2b5b06d3b6bff93e5496c0df4b21edb4"
+    },
+    {
+      "domain": "药学",
+      "slug": "pharmacy",
+      "en": "Pharmacy / Pharmaceutical Sciences",
+      "file": "pharmacy.csv",
+      "count": 100,
+      "sha256": "bccede21cb2730956285df17db5fac250b037f4190063adc552b90ad2d184a48"
+    },
+    {
+      "domain": "哲学",
+      "slug": "philosophy",
+      "en": "Philosophy",
+      "file": "philosophy.csv",
+      "count": 100,
+      "sha256": "54d66c7b61d5e3aaac00981719b9720c7bfa06cb85fb4a9bdc7f9fd44b6e6d29"
     },
     {
       "domain": "物理",
       "slug": "physics",
       "en": "Physics",
       "file": "physics.csv",
-      "count": 200,
-      "sha256": "050bf41f0de839c8a8acf0e902e8b1b55529d139005f214cf38ae67ddd20a9b5"
+      "count": 250,
+      "sha256": "ab4b41ce8c05c9c4fa996545c533470f3d66a8a3b1f204b7e7181a89bfcc344f"
+    },
+    {
+      "domain": "政治学",
+      "slug": "political-science",
+      "en": "Political Science",
+      "file": "political-science.csv",
+      "count": 100,
+      "sha256": "0771f2f16b704fdd8f9fd2b4cb107e7e9de2c9640998cc5de836bc96572380dc"
     },
     {
       "domain": "心理学",
       "slug": "psychology",
       "en": "Psychology",
       "file": "psychology.csv",
-      "count": 200,
-      "sha256": "8af98ac45bedb45097928782f7bb8b8ea2e2ab42f0302d876b8650a0edbbb8f9"
+      "count": 250,
+      "sha256": "05702b4b763f70dd3c838261bf7fcd8dfe3f55c05175af9c174b3ede28222aba"
+    },
+    {
+      "domain": "社会学",
+      "slug": "sociology",
+      "en": "Sociology",
+      "file": "sociology.csv",
+      "count": 100,
+      "sha256": "058b25d1d19846a6a9559d1c11c623c8da56064c45a5bf25b7353ce74bd2fea8"
     }
   ],
-  "total": 3998,
+  "total": 5798,
   "protocol": {
     "sync": "消费方轮询 index.json；对比每域 sha256 决定是否重新下载该域 CSV",
     "urls": {

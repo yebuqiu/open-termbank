@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+ontology,本体论,哲学,研究存在本身及其基本范畴的哲学分支，探讨什么东西存在以及存在意味着什么。,metaphysics of being
+universals,共相,哲学,指可被多个个别事物共同具有的属性或性质，其实在性地位是形而上学争论的焦点。,
+nominalism,唯名论,哲学,认为共相只是名称或概念而不具有独立实在性的形而上学立场，与实在论相对。,
+substance,实体,哲学,指独立存在并作为属性承载者的基本存在物，是传统形而上学的核心范畴。,ousia
+causation,因果关系,哲学,指事件之间引起与被引起的联系，其本质是哲学与科学共同追问的问题。,causality
+determinism,决定论,哲学,主张一切事件包括人的行动都由先前原因与规律完全决定的学说。,causal determinism
+free will,自由意志,哲学,指行动者能够在同等条件下作出不同选择的能力，其与决定论的关系争论已久。,
+modality,模态,哲学,涉及可能性、必然性与偶然性等范畴，研究命题为真的方式与范围。,
+possible worlds,可能世界,哲学,用以刻画可能性与必然性的语义工具，把世界视为事物可能呈现的整体方式。,
+mind-body problem,心身问题,哲学,追问心理状态与物理状态之间关系的问题，是心灵哲学的核心难题。,mind-body relation
+epistemology,认识论,哲学,研究知识的本质、来源、范围与辩护条件的哲学分支。,theory of knowledge
+a priori,先天的,哲学,指不依赖经验而可获知的知识或辩护方式，与后天的经验知识相对。,
+empiricism,经验主义,哲学,主张知识主要来源于感觉经验的认识论立场，代表者有洛克与休谟。,
+rationalism,理性主义,哲学,强调理性与先天原则是知识首要来源的学说，代表者有笛卡尔与莱布尼茨。,
+skepticism,怀疑论,哲学,对知识的可能性或确定性提出系统性质疑的哲学立场。,scepticism
+foundationalism,基础主义,哲学,认为知识体系建立在不可再辩护的基本信念之上的辩护理论。,
+coherentism,融贯论,哲学,主张信念的辩护在于其与整个信念系统的融贯一致而非基础支撑。,
+gettier problem,盖梯尔问题,哲学,通过反例表明得到辩护的真信念并不足以构成知识的著名难题。,
+fallibilism,可错论,哲学,认为任何知识主张都可能出错、不存在绝对确定性的认识论观点。,
+virtue epistemology,德性认识论,哲学,以理智德性为核心解释知识辩护与认知成功的新进路。,
+utilitarianism,功利主义,哲学,以行为后果带来的总体幸福最大化作为道德对错标准的规范伦理学说。,
+deontology,义务论,哲学,主张行为对错取决于其是否符合道德义务或规则而非后果的伦理学说。,
+categorical imperative,绝对命令,哲学,康德提出的无条件道德律令，要求仅按可普遍化的准则行动。,
+virtue ethics,德性伦理学,哲学,以品格与德性而非规则或后果为中心的伦理学进路，源自亚里士多德传统。,
+eudaimonia,至福,哲学,亚里士多德所说的整个人生的繁盛与良好实现，被视为德性伦理学的最高目标。,flourishing
+consequentialism,后果主义,哲学,以行为后果的好坏作为评判行为道德性之标准的伦理学类别。,
+moral relativism,道德相对主义,哲学,认为道德判断的真理性依赖于特定文化或个体立场的元伦理学说。,
+emotivism,情感主义,哲学,主张道德判断只是表达态度与情感而不具有真假之分的元伦理学说。,
+moral luck,道德运气,哲学,指行为者因不可控因素而受到道德评价的现象，对责任归属构成挑战。,
+trolley problem,电车难题,哲学,用以检验后果主义与义务论冲突的思想实验，涉及牺牲少数人拯救多数人。,
+syllogism,三段论,哲学,由两个前提推出一个结论的演绎推理形式，是亚里士多德逻辑的核心。,
+logical form,逻辑形式,哲学,论证中决定其有效性的结构骨架，与具体内容无关而可由变项刻画。,argument form
+soundness,可靠性,哲学,指论证既形式有效且前提全部为真的性质，可靠论证的结论必然为真。,
+modus ponens,肯定前件式,哲学,由如果p则q与p推出q的基本有效推理形式。,
+fallacy,谬误,哲学,看似合理实则无效的论证方式，可分为形式谬误与非形式谬误两大类。,
+abduction,溯因推理,哲学,从观察结果推出最佳解释的推理方式，常用于科学假说的形成。,inference to the best explanation
+quantifier,量词,哲学,谓词逻辑中表达所有或存在等数量范围的算子，是全称与特称命题的形式基础。,
+logical consequence,逻辑后承,哲学,指结论在一切使前提为真的解释下都为真的语义关系。,logical entailment
+liar paradox,说谎者悖论,哲学,由本语句为假之类自我指涉语句导致的真值矛盾，对经典逻辑构成挑战。,
+sorites paradox,连锁悖论,哲学,由模糊谓词逐步推理导致荒谬结论的悖论，典型例子是一粒沙与沙堆问题。,paradox of the heap
+beauty,美,哲学,美学研究的核心价值范畴，涉及对象引起审美愉悦的性质及其判断依据。,
+aesthetic judgment,审美判断,哲学,对对象审美价值作出的评价性判断，康德称其兼具主观性与普遍性要求。,judgment of taste
+disinterestedness,无利害性,哲学,康德美学概念，指审美愉悦不涉及对对象实际存在或功用的欲望。,
+aesthetic experience,审美经验,哲学,主体在感知艺术或自然时获得的特有经验形态，强调感知本身的价值。,
+aesthetic attitude,审美态度,哲学,指以非功利方式观照对象的心理定向，是近代美学的重要理论。,
+picturesque,如画,哲学,十八世纪美学范畴，指介于优美与崇高之间、适合入画的粗犷景致趣味。,
+expression theory,表现说,哲学,认为艺术的本质在于表现情感或内心状态的艺术理论，代表者有克罗齐。,expression theory of art
+institutional theory of art,艺术制度论,哲学,主张某物成为艺术品取决于艺术界制度授予资格的学说。,
+aesthetic property,审美属性,哲学,指优雅、崇高、和谐等依赖感知与评价的对象属性，其本体地位存有争议。,
+ugliness,丑,哲学,与美相对的否定性审美范畴，现代美学中常被赋予独立的表现价值。,
+justice,正义,哲学,政治哲学核心概念，涉及权利、资源与责任在社会成员间的正当分配。,
+social contract,社会契约,哲学,以个体自愿让渡权利达成共同约定来解释政治秩序正当性的学说。,contract theory
+state of nature,自然状态,哲学,社会契约论设想的无政府状态下的人类处境，用以论证政治权威的必要。,
+liberalism,自由主义,哲学,强调个人自由、权利优先与有限政府的政治学说传统。,
+communitarianism,社群主义,哲学,批评自由主义原子化的个人观，强调共同体与传统对自我构成的作用。,
+libertarianism,自由至上主义,哲学,主张最小国家与充分自我所有权、反对财富再分配的政治学说。,
+veil of ignorance,无知之幕,哲学,罗尔斯设想的选择正义原则时屏蔽个人信息的原初状态装置。,
+difference principle,差别原则,哲学,罗尔斯第二正义原则，允许不平等仅当其最有利于最不利者。,
+legitimacy,正当性,哲学,指政治权力获得被统治者认可从而具有权威的性质与根据。,political legitimacy
+civil disobedience,公民不服从,哲学,基于良知公开而非暴力地违反不义法律以促请变革的行为方式。,
+falsificationism,证伪主义,哲学,波普尔提出的科学划界标准，认为科学理论必须具有可证伪性。,
+paradigm,范式,哲学,库恩提出的概念，指某一科学共同体共享的典范性成就与问题求解框架。,
+incommensurability,不可通约性,哲学,库恩与费耶阿本德用语，指不同范式之间缺乏中立的比较标准。,
+underdetermination,不充分决定,哲学,指经验证据不足以唯一确定理论选择的论题，由迪昂与奎因阐发。,Duhem-Quine thesis
+scientific realism,科学实在论,哲学,主张成熟科学理论近似为真且其所设定的不可观察实体真实存在的立场。,
+instrumentalism,工具主义,哲学,认为理论只是预测与计算的工具而不描述真实世界的科学观。,
+demarcation problem,划界问题,哲学,寻求区分科学与非科学之标准的问题，是科学哲学的中心议题。,
+research programme,研究纲领,哲学,拉卡托斯提出的科学评价单位，由硬核与保护带构成。,
+covering law model,覆盖律模型,哲学,亨普尔提出的科学解释模型，把解释看作从普遍律推导出被解释现象。,deductive-nomological model
+scientific revolution,科学革命,哲学,库恩所述范式更替引发的科学剧变过程，常规科学因此中断并重建。,
+analytic-synthetic distinction,分析综合区分,哲学,按命题真假是否仅凭词义确定所作的区分，奎因曾提出著名批评。,analytic/synthetic
+logical positivism,逻辑实证主义,哲学,维也纳学派的主张，以可证实性作为命题具有认知意义的标准。,logical empiricism
+verification principle,证实原则,哲学,逻辑实证主义的意义标准，认为命题的意义在于其经验证实方法。,verifiability criterion
+private language argument,私人语言论证,哲学,维特根斯坦关于不可能有仅指涉私人感觉之语言的论证。,
+rule-following,遵守规则,哲学,维特根斯坦讨论的问题：行为如何算作遵循规则而非仅仅合乎规则。,rule following
+language-game,语言游戏,哲学,后期维特根斯坦的概念，强调语言的意义在于生活形式中的使用活动。,language game
+rigid designator,严格指示词,哲学,克里普克用语，指在一切可能世界中指称同一对象的名称。,
+correspondence theory of truth,真理符合论,哲学,认为真理在于命题与事实相符合的理论，是历史悠久的真理观。,
+deflationary theory of truth,真理解缩论,哲学,认为真不过是表达同意的逻辑装置而不表达实质性质的理论。,redundancy theory of truth
+ordinary language philosophy,日常语言哲学,哲学,主张通过考察日常语言用法来消解哲学问题的牛津学派进路。,Oxford philosophy
+phenomenology,现象学,哲学,胡塞尔创立的方法，通过悬置自然态度来描述意识经验的本质结构。,
+intentionality,意向性,哲学,意识总是关于某物的指向性特征，由布伦塔诺重提并经胡塞尔发展。,
+epoché,悬搁,哲学,现象学还原的第一步，把对自然世界存在的信念暂时中止而不加否认。,bracketing
+lifeworld,生活世界,哲学,胡塞尔后期概念，指一切科学建构之前被直接经验的日常世界。,life-world
+Dasein,此在,哲学,海德格尔的术语，用以指称以领会自身存在之方式存在的特殊存在者即人。,being-there
+hermeneutics,解释学,哲学,研究理解与解释之条件与方法的传统，伽达默尔将其提升为哲学问题。,
+deconstruction,解构,哲学,德里达提出的阅读策略，揭示文本内部的对立等级并颠覆其稳定性。,
+existentialism,存在主义,哲学,强调个体存在先于本质、自由选择与承担责任的二十世纪思潮。,
+genealogy,谱系学,哲学,尼采与福柯使用的方法，追溯道德与制度的历史偶然而非理性起源。,
+alterity,他异性,哲学,列维纳斯等人的概念，指他者不可被同化为自我的绝对差异。,otherness
+dao,道,哲学,中国哲学最高范畴之一，道家视为万物本源与规律，儒家则指理想的人生与政治道路。,the Way
+wu wei,无为,哲学,道家主张的顺应自然而不妄为的行事方式，并非消极不为而是不强行干预。,non-action
+ren,仁,哲学,儒家的核心德目，指爱人、忠恕与成己成人的总体性道德理想。,benevolence; humaneness
+junzi,君子,哲学,儒家的理想人格，以德性与礼义自许，与小人的私利取向相对。,exemplary person
+li (ritual propriety),礼,哲学,儒家的规范体系，涵盖仪节、名分与行为准则，用以成就社会秩序与人格。,ritual; rites
+yi (righteousness),义,哲学,儒家德目，指合乎道义的行为准则以及对不当得利的拒斥。,righteousness
+xiao,孝,哲学,儒家的根本德目，指对父母祖先的敬爱与奉养，被视为人伦道德之始。,filial piety
+tian,天,哲学,中国哲学的重要范畴，既可指自然之天，也可指具有道德意志的最高主宰。,Heaven
+qi,气,哲学,中国哲学中构成万物的质料与能量概念，在宋明理学中与理相对成说。,vital energy; material force
+liangzhi,良知,哲学,王阳明心学术语，指人先天具有的判断是非善恶的道德直觉。,innate knowledge

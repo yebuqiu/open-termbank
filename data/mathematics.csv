@@ -199,3 +199,53 @@ tensor product,张量积,数学,将双线性映射转化为线性映射的泛性
 covering space,覆叠空间,数学,局部同胚且均匀覆盖底空间的拓扑空间用于研究基本群与映射提升性质,cover
 CW complex,CW复形,数学,由胞腔逐层粘合构建的拓扑空间类具有良好的同伦性质便于代数拓扑研究,
 exact sequence,正合列,数学,相邻同态的像等于下一同态的核的同态序列是同调代数描述结构的基本语言,
+compressed sensing,压缩感知,数学,利用信号稀疏性以远低于奈奎斯特率的采样精确重构信号的理论。,compressive sampling
+sparse representation,稀疏表示,数学,用少量基元素的线性组合表示信号的数学方法。,sparse coding
+restricted isometry property,限制等距性质,数学,测量矩阵在稀疏向量上近似保持距离关系的压缩感知关键条件。,RIP
+tensor decomposition,张量分解,数学,将高阶张量表示为低秩因子乘积以提取潜在结构的方法。,CP decomposition
+low-rank approximation,低秩近似,数学,用低秩矩阵逼近原矩阵以压缩数据并去除噪声的技术。,
+optimal transport,最优传输,数学,研究以最小代价将一个概率分布搬运为另一分布的数学理论。,Monge-Kantorovich problem
+Wasserstein distance,瓦瑟斯坦距离,数学,由最优传输代价定义的概率分布之间的距离度量。,earth mover's distance
+Sinkhorn algorithm,辛克霍恩算法,数学,通过熵正则化与交替缩放快速求解最优传输问题的迭代算法。,
+graph Laplacian,图拉普拉斯矩阵,数学,由图的邻接与度信息构造的刻画图结构的矩阵算子。,Laplacian matrix
+spectral clustering,谱聚类,数学,利用图拉普拉斯矩阵特征向量对数据进行聚类的方法。,
+manifold learning,流形学习,数学,假设数据位于低维流形上并恢复其内在结构的非线性降维方法。,
+persistent homology,持续同调,数学,追踪拓扑特征在多尺度过滤中诞生与消亡以刻画数据形状的工具。,
+topological data analysis,拓扑数据分析,数学,用代数拓扑方法研究数据整体形状结构的交叉研究领域。,TDA
+functor,函子,数学,在范畴之间保持对象与态射结构的映射。,
+natural transformation,自然变换,数学,在两个函子之间满足自然性条件的一族态射。,
+adjoint functor,伴随函子,数学,通过同态集合之间自然同构相联系的一对函子。,adjunction
+monad,单子,数学,范畴上配备单位与乘法自然变换并满足结合律的自函子结构。,
+Yoneda lemma,米田引理,数学,断言对象由它到其他对象的态射完全决定的范畴论基本结果。,
+colimit,余极限,数学,范畴论中对图表取泛余锥所得到的泛构造。,direct limit
+topos,拓扑斯,数学,具有类似集合范畴性质并可作为数学基础语境的范畴。,
+sheaf,层,数学,将局部数据以相容方式黏合成整体数据的拓扑空间上的代数结构。,
+scheme,概形,数学,以局部赋环空间形式推广代数簇的代数几何基本对象。,
+homological algebra,同调代数,数学,用链复形与导出函子研究代数结构的数学分支。,
+derived functor,导出函子,数学,度量函子不正合程度的同调代数工具。,
+spectral sequence,谱序列,数学,通过逐页逼近方式计算同调群的代数工具。,
+ergodic theory,遍历理论,数学,研究保测动力系统长时间平均行为的数学分支。,
+measure-theoretic entropy,测度熵,数学,量化保测变换产生信息速率的不变量。,Kolmogorov-Sinai entropy
+topological entropy,拓扑熵,数学,刻画连续映射轨道复杂程度的拓扑不变量。,
+hyperbolic dynamical system,双曲动力系统,数学,切空间可一致分解为收缩与扩张方向的动力系统。,Anosov system
+stable manifold theorem,稳定流形定理,数学,断言双曲不动点附近存在稳定与不稳定不变流形的定理。,
+symbolic dynamics,符号动力学,数学,用符号序列的位移映射研究动力系统轨道的理论。,
+Hamiltonian system,哈密顿系统,数学,由哈密顿函数生成并保持辛结构的动力系统。,
+integrable system,可积系统,数学,具有足够多首次积分从而可以完全求解的哈密顿系统。,
+inverse problem,反问题,数学,由观测结果反演模型参数或未知源的数学问题。,
+regularization,正则化,数学,为病态反问题引入先验约束以获得稳定解的方法。,
+variational inequality,变分不等式,数学,以不等式形式刻画约束优化与平衡问题的数学工具。,
+calculus of variations,变分法,数学,研究泛函极值问题的经典数学分支。,
+optimal control,最优控制,数学,寻求使性能指标达到最优的控制输入的数学理论。,
+viscosity solution,粘性解,数学,对非光滑哈密顿雅可比方程定义的广义解概念。,
+stochastic differential equation,随机微分方程,数学,含随机项的用于描述带噪声动态演化过程的微分方程。,SDE
+rough path theory,粗糙路径理论,数学,为高度不规则路径驱动的方程建立严格意义的分析框架。,
+fractional calculus,分数阶微积分,数学,将微分与积分的阶数推广到非整数的数学理论。,
+wavelet transform,小波变换,数学,用伸缩平移的母小波对信号进行多尺度局部分析的变换。,
+frame,框架,数学,希尔伯特空间中允许以冗余方式表示信号的向量族。,
+matrix completion,矩阵补全,数学,从少量已知元素恢复完整低秩矩阵的数学问题与方法。,
+phase retrieval,相位恢复,数学,仅由强度测量重建信号相位信息的逆问题。,
+semidefinite programming,半定规划,数学,在半定锥约束下优化线性目标函数的凸规划问题。,SDP
+stochastic gradient descent,随机梯度下降,数学,用随机小批量梯度迭代更新参数的一阶优化算法。,SGD
+free probability,自由概率,数学,研究非交换随机变量之间自由独立性的概率论分支。,
+KAM theory,KAM 理论,数学,断言近可积哈密顿系统多数不变环面在小扰动下得以保持的定理体系。,Kolmogorov-Arnold-Moser theorem

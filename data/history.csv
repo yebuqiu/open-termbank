@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+historiography,史学史,历史,研究历史书写之演变、史家流派与史学方法发展的史学分支,history of historiography
+historicism,历史主义,历史,认为一切思想与制度均应置于其特定历史情境中加以理解的观念,
+historical materialism,历史唯物主义,历史,以生产方式与社会经济结构的矛盾运动解释历史发展的理论,
+Rankean history,兰克史学,历史,强调以档案文献考证为基础、如实直书历史真相的近代史学范式,
+Whig interpretation of history,辉格史学,历史,以当下立场将历史叙述为通向自由与进步的线性过程的倾向,Whig history
+revisionism,修正史学,历史,对既有史学共识与主流解释提出系统性质疑与重新评价的学术取向,historical revisionism
+presentism,现时主义,历史,以当代价值与观念评判历史人物与事件的非历史性倾向,
+anachronism,时代错置,历史,将后世才有的观念、事物或制度误置于更早时代叙述中的谬误,
+teleology,目的论,历史,认为历史进程朝着某一预定目标或终点展开的解释模式,teleological history
+great man theory,英雄史观,历史,将历史变迁主要归因于杰出人物之意志与行动的史学观念,
+primary source,一手史料,历史,由历史事件亲历者或同时代人所留下的直接证据材料,
+secondary source,二手史料,历史,后世研究者基于一手史料对历史所作的加工与解释性文献,
+paleography,古文字学,历史,研究古代手写文字之形态、演变与识读方法的历史辅助学科,
+diplomatics,古文书学,历史,考证官方文书之形制、程式与真伪的历史辅助学科,diplomatic
+epigraphy,铭文学,历史,释读与研究刻于石、金属等硬质材料上的铭文文字的学科,
+sigillography,印章学,历史,研究历代印章之形制、印文与制度功能的历史辅助学科,sphragistics
+numismatics,钱币学,历史,研究历代货币之铸造、流通及其史料价值的辅助学科,
+codicology,写本学,历史,研究手写抄本之材质、形制与抄写传统以考定其年代与源流,
+palimpsest,重写本,历史,原有文字被刮除后再次书写的羊皮卷，常可借助技术手段复原下层文本,
+textual criticism,文本校勘,历史,比勘文献不同版本之异文以恢复文本原始面貌的文献学方法,
+source criticism,史料批判,历史,对史料之来源、真伪与可信度进行系统考辨的史学研究程序,
+external criticism,外部考证,历史,从载体、年代与作者等外部要素鉴别史料真伪的考证方法,
+internal criticism,内部考证,历史,通过分析文本内容与表述逻辑判断其记载可信度的考证方法,
+corroboration,史料互证,历史,以多种独立来源的史料相互印证以确认历史事实的方法,
+prosopography,群体传记学,历史,通过汇集大量人物小传研究某一群体共同特征与关系网络的方法,collective biography
+cliometrics,计量史学,历史,运用统计方法与经济学模型对历史数据进行量化分析的史学流派,quantitative history
+counterfactual history,反事实历史,历史,通过设想关键事件的不同结局探讨历史因果结构的分析方式,virtual history
+periodization,历史分期,历史,依据阶段性特征将历史进程划分为若干时代的分析框架,
+historical demography,历史人口学,历史,利用户籍、教区簿册等资料重建历史人口规模与结构的学科,
+family reconstitution,家庭重构法,历史,通过教区洗礼、婚姻与丧葬记录重建历史家庭结构的方法,
+global history,全球史,历史,超越民族国家框架、关注全球范围联系与互动的史学研究范式,
+transnational history,跨国史,历史,以跨越国界的人员、观念与制度流动为研究对象的历史视角,
+world history,世界史,历史,将各地区文明置于统一框架考察人类整体演进的历史编纂传统,
+connected history,关联史,历史,揭示不同地区历史进程之间相互联系与因果纽带的分析方法,
+entangled history,纠缠史,历史,强调历史主体在互动交往中相互塑造、难以分割的跨国史视角,shared history
+comparative history,比较史学,历史,通过系统比较不同社会之异同以识别历史规律的研究方法,
+Atlantic history,大西洋史,历史,以大西洋两岸之间的人员、商品与观念循环为单元的区域史范式,
+histoire croisée,交错史,历史,分析不同社会在接触点上相互交叉影响的法国跨国史方法,
+big history,大历史,历史,从大爆炸至今将宇宙、地球与人类历史整合叙述的宏大学科,
+deep history,深历史,历史,突破文字记录限制、将人类史前数万年纳入考察的长时段历史视角,
+oral history,口述历史,历史,通过有计划的访谈记录亲历者回忆以补充文献史料的方法与领域,
+testimony,证词,历史,亲历者就历史事件所作的第一人称陈述，是口述史与记忆研究的重要材料,witness testimony
+life writing,生命书写,历史,自传、回忆录与日记等以个体生命经历为内容的自我书写文类,
+ego-document,自我文献,历史,日记、书信与自传等以自我书写为特征的一手史料类别,
+memoir,回忆录,历史,亲历者依据个人记忆对既往事件与人物所作的追忆性记述,
+oral tradition,口述传统,历史,在无文字或文字不普及的社会中通过口头讲述代代相传的历史记忆形式,
+biographical method,传记方法,历史,以个体生命历程为线索透视社会结构与时代变迁的研究方法,
+reminiscence,追忆,历史,个体对往昔经历的回忆性叙述，常作为口述访谈的原始素材,
+narrative interview,叙事访谈,历史,鼓励受访者以完整故事形式自由叙述个人经历的质性访谈方法,
+oral archive,口述档案,历史,对口述访谈的录音、录像及转写文本进行系统保存的档案集合,
+historical geography,历史地理学,历史,研究历史时期地理环境变迁及其与人类活动相互作用的学科,
+historical GIS,历史地理信息系统,历史,将地理信息技术应用于历史空间数据整合与可视化分析的方法,HGIS
+paleogeography,古地理学,历史,重建地质时期与历史时期地理环境和海陆分布格局的学科,
+historical cartography,历史地图学,历史,研究历代地图之绘制、流传及其所反映的空间认知的学科,
+toponymy,地名学,历史,研究地名之起源、演变及其所蕴含的历史地理信息的学科,
+frontier,边疆,历史,国家控制力的边缘地带，也是不同族群与文化接触交融的历史空间,borderland
+cultural landscape,文化景观,历史,人类长期活动在自然环境中塑造出的兼具自然与人文属性的景观,
+historical region,历史区域,历史,因共同历史进程与文化传统而形成的具有整体性的地理单元,
+archaeology,考古学,历史,通过发掘与分析物质遗存重建古代人类社会面貌的学科,
+stratigraphy,地层学,历史,依据文化堆积层的叠压与打破关系判定遗存相对年代的考古学方法,
+typology,类型学,历史,按器物形态演变序列排比遗存以推断其年代与文化谱系的方法,typological method
+seriation,序列断代,历史,依据遗物风格与组合的频率变化排列相对年代序列的考古学方法,
+radiocarbon dating,放射性碳测年,历史,通过测定有机物中碳十四衰变含量确定其绝对年代的技术,carbon-14 dating
+thermoluminescence dating,热释光测年,历史,通过测定陶瓷等烧制物受热释放的累积光量确定其年代的技术,TL dating
+artifact,人工制品,历史,由人类制造或加工、承载文化信息且可移动的古代遗物,
+ecofact,自然遗物,历史,未经人类加工但能反映古代环境与人类生计的动植物遗存,
+assemblage,遗存组合,历史,在同一考古单位中共同出土、反映特定时期人类活动的一组遗物,
+taphonomy,埋藏学,历史,研究遗物从废弃到被发现期间所经历的搬运、扰乱与保存过程的学科,
+excavation,发掘,历史,以科学方法对遗址进行揭露、记录并提取遗存的考古田野工作,
+processual archaeology,过程考古学,历史,强调以科学实证与文化系统理论解释考古遗存的流派,new archaeology
+Annales School,年鉴学派,历史,以《年鉴》杂志为中心、倡导总体史与跨学科方法的法国史学派别,
+longue durée,长时段,历史,布罗代尔提出的以近乎静止的结构缓慢变迁为对象的深层历史时间尺度,
+mentalité,心态,历史,某一时代群体共享而不自觉的思维习惯、情感结构与集体表象,collective mentality
+total history,总体史,历史,年鉴学派主张的融合经济、社会与心态等层面考察历史整体的方法,histoire totale
+conjuncture,局势,历史,布罗代尔历史时间三分法中介于事件与结构之间的中时段经济周期层面,
+serial history,系列史,历史,对同质史料序列进行长时段量化分析以揭示结构变迁的方法,histoire sérielle
+nouvelle histoire,新史学,历史,二十世纪中期以来革新研究对象与方法、注重多学科对话的史学潮流,new history
+geohistory,地理历史学,历史,将地理环境置于历史分析核心、打通地理时间与历史时间的研究取向,
+microhistory,微观史,历史,以小尺度个案的深描揭示宏观结构运作与普通人经验的史学方法,microstoria
+Alltagsgeschichte,日常生活史,历史,德国兴起的关注普通人日常实践与经验的史学研究取向,history of everyday life
+history from below,自下而上的历史,历史,从底层民众视角重写历史、挑战精英中心叙事的史学取向,history from the bottom up
+subaltern studies,庶民研究,历史,以南亚底层群体为对象、批判殖民主义与民族主义精英史观的研究学派,
+thick description,深描,历史,对文化行为的具体语境与意义层次进行细致阐释的解释性方法,
+microanalysis,微观分析,历史,通过对细微史料与边缘个案的细密解读透视历史深层结构的分析路径,clue paradigm
+new cultural history,新文化史,历史,关注表象、符号与意义建构过程的后现代社会文化史取向,
+history of emotions,情感史,历史,研究情感表达与情感规范在历史中被建构与变迁过程的领域,emotions history
+sensory history,感官史,历史,考察不同历史时期感官体验与感知方式之文化差异的研究领域,
+historical anthropology,历史人类学,历史,运用人类学概念与方法研究过去社会与文化的交叉学科,
+collective memory,集体记忆,历史,社会群体共享并不断重构的关于过去的记忆及其承载机制,social memory
+cultural memory,文化记忆,历史,依托文本、仪式与纪念物等媒介实现代际传承的稳固记忆形态,
+lieux de mémoire,记忆之场,历史,诺拉提出的承载民族集体记忆的纪念物、场所与象征之总称,sites of memory
+postmemory,后记忆,历史,后代通过故事与影像承接亲历者创伤经验的跨代记忆形式,
+historical consciousness,历史意识,历史,个体与社会对过去的认知及其同当下与未来相联系的思维结构,
+public history,公共史学,历史,面向公众开展的历史阐释、传播与应用实践及其学术反思,
+digital humanities,数字人文,历史,运用计算方法与数字技术开展人文研究的新兴交叉领域,
+memory studies,记忆研究,历史,跨学科考察记忆之社会建构、媒介机制与政治意涵的研究领域,
+commemoration,纪念,历史,通过仪式与纪念物对历史人物或事件进行公共追忆的社会实践,
+invented tradition,传统的发明,历史,看似古老实为晚近人为建构以确立群体认同的仪式化实践,invention of tradition
+counter-memory,反记忆,历史,挑战官方记忆叙事的边缘化或对抗性历史记忆形态,countermemory
+heritage studies,遗产研究,历史,反思遗产之界定、保护与利用及其背后权力关系的跨学科领域,critical heritage studies

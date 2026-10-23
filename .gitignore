@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 # IATE 全量 dump 工作区（版权上可再分发但体积巨大，不入库）
 .work-iate/
+# 扩充批次工作区（增量候选与避让清单，合入后即冗余）
+.work-exp2/

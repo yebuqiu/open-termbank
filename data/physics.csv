@@ -199,3 +199,53 @@ single-molecule spectroscopy,单分子光谱,物理,对单个分子荧光等信�
 DNA supercoiling,DNA超螺旋,物理,DNA双螺旋轴进一步缠绕形成的高级结构；其拓扑状态由连接数与缠绕数刻画；影响基因表达。,DNA superhelix
 mechanosensitive channel,机械敏感通道,物理,感受膜张力或机械力刺激而开闭的离子通道；将机械信号转化为电化学信号。,mechanosensitive ion channel
 magnetic tweezers,磁镊,物理,用磁场梯度操控磁性微球对单分子施加力与扭矩的单分子技术；适于研究DNA拓扑。,
+quantum sensing,量子传感,物理,利用量子态对外界扰动的敏感性实现超高精度测量的技术。,quantum metrology
+nitrogen-vacancy center,氮空位中心,物理,金刚石中可用于磁场与温度量子传感的点缺陷体系。,NV center
+atomic clock,原子钟,物理,利用原子跃迁频率作为基准实现高精度计时的装置。,
+optical lattice clock,光晶格钟,物理,将原子囚禁于光晶格中并以光频跃迁计时的超高精度原子钟。,
+quantum gravimeter,量子重力仪,物理,基于原子干涉原理测量重力加速度的量子传感仪器。,
+squeezed state,压缩态,物理,某一正交分量的量子涨落被压缩至低于真空极限的量子态。,squeezed light
+topological insulator,拓扑绝缘体,物理,体内绝缘而表面存在受拓扑保护导电态的量子物态。,
+topological superconductor,拓扑超导体,物理,边界上存在马约拉纳零能模的拓扑非平庸超导态。,
+Weyl semimetal,外尔半金属,物理,能带具有线性色散外尔点的拓扑半金属材料。,
+quantum Hall effect,量子霍尔效应,物理,二维电子气在强磁场下霍尔电阻呈现量子化平台的现象。,
+quantum spin Hall effect,量子自旋霍尔效应,物理,无外加磁场时由自旋轨道耦合导致拓扑边缘态输运的现象。,
+Berry phase,贝里相位,物理,量子态在参数空间绝热循环一周后获得的几何相位。,geometric phase
+Chern number,陈数,物理,刻画能带贝里曲率整体拓扑性质的第一陈类整数不变量。,
+topological photonics,拓扑光子学,物理,在光子体系中实现并利用拓扑保护边界态的研究领域。,
+transformation optics,变换光学,物理,利用坐标变换设计材料参数以任意调控光传播路径的理论方法。,
+metasurface,超表面,物理,由亚波长单元阵列构成并可任意调控波前的二维超材料。,
+negative refractive index,负折射率,物理,介电常数与磁导率同时为负所导致的反常折射特性。,
+perfect lens,完美透镜,物理,利用负折射突破衍射极限以实现亚波长成像的理想透镜。,superlens
+photonic crystal,光子晶体,物理,介电常数周期调制而形成光子带隙的人工光学结构。,
+Bose-Einstein condensate,玻色爱因斯坦凝聚,物理,玻色子在极低温下宏观占据单一量子态的物态。,BEC
+Fermi condensate,费米凝聚体,物理,费米子配对形成宏观量子态的超流物态。,fermionic condensate
+optical lattice,光晶格,物理,由激光驻波形成的用于囚禁冷原子的周期势阱阵列。,
+Mott insulator,莫特绝缘体,物理,因强关联效应而绝缘的超出传统能带理论预言的物态。,
+quantum gas microscope,量子气体显微镜,物理,对光晶格中单个原子进行原位成像观测的实验装置。,
+evaporative cooling,蒸发冷却,物理,通过移除高能原子使冷原子气体进一步降低温度的技术。,
+magneto-optical trap,磁光阱,物理,结合磁场梯度与激光冷却来囚禁中性原子的装置。,MOT
+quantum simulation,量子模拟,物理,用可控量子体系模拟难以经典计算的量子多体问题的方法。,
+magnetic confinement fusion,磁约束聚变,物理,用强磁场约束高温等离子体以实现受控核聚变的技术路线。,
+inertial confinement fusion,惯性约束聚变,物理,用高功率驱动器压缩靶丸并依靠惯性约束实现聚变的技术路线。,
+Lawson criterion,劳森判据,物理,聚变输出功率超过输入功率所需满足的密度温度与约束时间条件。,
+bootstrap current,自举电流,物理,托卡马克等离子体压强梯度自发驱动的电流。,
+edge localized mode,边界局域模,物理,托卡马克高约束模式下边界区域周期性爆发的磁流体不稳定性。,ELM
+burning plasma,燃烧等离子体,物理,聚变自加热功率超过外部加热功率的等离子体状态。,
+self-organized criticality,自组织临界性,物理,复杂系统自发演化到具有幂律涨落临界状态的机制。,SOC
+scale-free network,无标度网络,物理,度分布服从幂律且少数节点拥有大量连接的网络。,
+synchronization,同步,物理,耦合振子系统通过相互作用趋于节律一致的现象。,
+coupled oscillators,耦合振子,物理,通过相互作用彼此影响运动节奏的振子系统模型。,
+fluctuation theorem,涨落定理,物理,给出非平衡系统中熵产生涨落概率精确关系的定理。,
+stochastic thermodynamics,随机热力学,物理,在单条随机轨道层面定义功热与熵的热力学理论。,
+active matter,活性物质,物理,由自驱动单元组成并持续消耗能量产生集体运动的软物质体系。,
+topological defect,拓扑缺陷,物理,有序介质中无法连续消除的涡旋与向错等奇异结构。,
+skyrmion,斯格明子,物理,磁性材料中具有拓扑保护性质的涡旋状自旋构型。,
+spin liquid,自旋液体,物理,低温下仍保持强涨落而不形成磁序的量子物态。,quantum spin liquid
+Majorana fermion,马约拉纳费米子,物理,反粒子即自身的费米子且可在拓扑超导体系中以准粒子形式涌现。,
+exciton-polariton,激子极化激元,物理,激子与光子强耦合形成的半光半物质玻色型准粒子。,
+quantum critical point,量子临界点,物理,零温下由量子涨落驱动的连续相变点。,
+holographic principle,全息原理,物理,认为时空区域的全部信息可编码于其边界上的理论物理思想。,
+non-equilibrium steady state,非平衡定态,物理,系统存在持续流但宏观性质不随时间变化的状态。,NESS
+tensor network state,张量网络态,物理,用张量收缩高效表示量子多体波函数的数值方法。,MPS; PEPS
+single-photon source,单光子源,物理,能够按需发射单个光子的量子光源器件。,

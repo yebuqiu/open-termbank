@@ -199,3 +199,53 @@ gradient checkpointing,梯度检查点,计算机,反向传播时重算部分中�
 model quantization,模型量化,计算机,将模型权重与激活由高精度浮点转换为低比特表示以降低存储与计算开销的技术,weight quantization
 model pruning,模型剪枝,计算机,移除对输出影响较小的权重或结构以稀疏化网络并加速推理的模型压缩技术,network pruning
 contrastive learning,对比学习,计算机,通过拉近正样本对并推远负样本对来学习判别性表示的自监督学习方法,
+AI alignment,人工智能对齐,计算机,使人工智能系统的目标与行为持续符合人类意图与价值的研究方向。,value alignment
+scalable oversight,可扩展监督,计算机,借助辅助技术让人类有效监督超出自身评估能力的智能系统输出的方法。,
+reward hacking,奖励投机,计算机,智能体利用奖励函数缺陷获得高分却不完成预期任务的现象。,specification gaming
+goal misgeneralization,目标误泛化,计算机,智能体在分布外环境中沿用训练时学到的错误目标而导致行为失控的问题。,
+mechanistic interpretability,机制可解释性,计算机,通过逆向工程神经网络内部结构以理解其计算机制的研究路线。,
+interpretability,可解释性,计算机,模型决策过程能被人类理解与解释的程度。,explainability
+red teaming,红队测试,计算机,主动构造对抗性输入以发现模型安全缺陷的评估方法。,adversarial testing
+embodied intelligence,具身智能,计算机,强调智能体通过身体与环境交互来获得与发展智能的研究范式。,embodied AI
+sim-to-real transfer,仿真到现实迁移,计算机,将在仿真环境中训练的策略迁移到真实物理系统的技术。,sim2real
+world model,世界模型,计算机,智能体内部学习环境动态以进行预测与规划的生成式模型。,
+neuro-symbolic learning,神经符号学习,计算机,结合神经网络学习能力与符号推理可解释性的混合方法。,neural-symbolic integration
+knowledge graph reasoning,知识图谱推理,计算机,在知识图谱上推导新事实或回答复杂查询的符号与神经方法。,
+chain-of-thought prompting,思维链提示,计算机,通过引导模型生成中间推理步骤来提升复杂任务表现的提示技术。,CoT prompting
+in-context learning,上下文学习,计算机,大模型仅根据提示中的示例而不更新参数即完成新任务的能力。,
+reinforcement learning from human feedback,人类反馈强化学习,计算机,用人类偏好训练的奖励模型来微调语言模型的对齐方法。,RLHF
+constitutional AI,宪法式人工智能,计算机,依据一组显式原则让模型自我批评与修正输出的对齐训练方法。,
+MLOps,机器学习运维,计算机,覆盖机器学习模型开发部署与监控全生命周期的工程实践体系。,
+model registry,模型注册表,计算机,集中管理模型版本与元数据及上线状态的系统组件。,
+feature store,特征存储,计算机,统一管理训练与服务所用特征以保证一致性的数据基础设施。,
+data drift,数据漂移,计算机,线上数据分布相对训练数据随时间变化从而影响模型性能的现象。,covariate shift
+model monitoring,模型监控,计算机,对线上模型的性能与输入分布及异常行为进行持续观测的实践。,
+continuous training,持续训练,计算机,自动利用新数据周期性重训并更新线上模型的流水线机制。,
+model card,模型卡,计算机,记录模型用途与性能及局限和伦理考量的标准化说明文档。,
+dataset datasheet,数据集说明书,计算机,记录数据集构建动机与采集过程及使用限制的透明性文档。,datasheets for datasets
+post-quantum cryptography,后量子密码,计算机,能够抵御量子计算机攻击的密码算法体系。,quantum-resistant cryptography
+lattice-based cryptography,格密码,计算机,基于格上困难问题构造的后量子密码体制。,
+key encapsulation mechanism,密钥封装机制,计算机,以公钥加密方式安全传输会话密钥的密码原语。,KEM
+hash-based signature,哈希签名,计算机,仅依赖哈希函数安全性构造的数字签名方案。,
+code-based cryptography,基于编码的密码,计算机,利用纠错码译码困难性构造的抗量子密码体制。,
+isogeny-based cryptography,同源密码,计算机,基于椭圆曲线同源计算困难性的后量子密码方案。,
+saliency map,显著性图,计算机,高亮输入中对模型预测影响最大区域的可视化解释方法。,
+counterfactual explanation,反事实解释,计算机,通过给出使预测结果改变的最小输入修改来解释模型决策的方法。,
+concept activation vector,概念激活向量,计算机,用人类可理解概念方向解释神经网络内部表示的技术。,TCAV
+Shapley value,沙普利值,计算机,源于合作博弈论并用于公平分配特征贡献的解释方法。,
+attention rollout,注意力展开,计算机,聚合各层注意力权重以解释 Transformer 预测结果的可视化方法。,
+open source governance,开源治理,计算机,对开源项目的决策结构与许可及社区协作进行管理的制度安排。,
+software bill of materials,软件物料清单,计算机,列出软件全部组件与依赖关系以支撑供应链安全管理的清单。,SBOM
+license compliance,许可证合规,计算机,确保软件使用与分发符合所用开源许可证条款的实践活动。,
+open source program office,开源项目办公室,计算机,组织内部统筹开源战略与合规及社区参与的专职机构。,OSPO
+software supply chain security,软件供应链安全,计算机,保护软件从开发到交付各环节免受篡改与依赖投毒的防护体系。,
+typosquatting,拼写仿冒攻击,计算机,注册与知名包名近似的名称以分发恶意软件的供应链攻击手法。,
+reproducible build,可复现构建,计算机,给定相同源码即可逐位重现相同构建产物的构建方法。,
+agentic workflow,智能体工作流,计算机,由大模型智能体自主规划并调用工具完成任务的工作模式。,
+tool use,工具调用,计算机,大模型生成结构化请求以调用外部函数或接口完成任务的能力。,function calling
+model context protocol,模型上下文协议,计算机,标准化大模型与外部数据源和工具交互方式的开放协议。,MCP
+language model evaluation,语言模型评测,计算机,用标准化任务与指标系统衡量语言模型能力的实践活动。,LLM evaluation
+jailbreak attack,越狱攻击,计算机,通过精心构造的提示绕过模型安全限制的对抗攻击。,
+prompt injection,提示注入,计算机,在输入中嵌入恶意指令以劫持模型行为的攻击方式。,
+guardrail,安全护栏,计算机,对模型输入输出进行约束与过滤以确保行为合规的机制。,
+adversarial example,对抗样本,计算机,经微小扰动即可使模型产生错误预测的恶意构造输入。,

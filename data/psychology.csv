@@ -199,3 +199,53 @@ mentalization,心智化,心理学,理解自己与他人的行为背后心理状�
 affect labeling,情绪标注,心理学,用语言将情绪体验命名以减弱杏仁核反应的情绪调节方式,
 psychological capital,心理资本,心理学,由希望、效能、韧性与乐观构成的可开发的积极心理资源,PsyCap
 eudaimonic well-being,实现论幸福感,心理学,源于发挥潜能与追求生命意义的深层次幸福体验,
+digital therapeutics,数字疗法,心理学,以软件程序为主要干预手段并经循证验证的疾病治疗方法,DTx
+telepsychology,远程心理学服务,心理学,借助通信技术提供心理咨询与评估的专业服务模式,
+ecological momentary assessment,生态瞬时评估,心理学,在自然情境中多次即时采集个体状态数据的方法,EMA
+experience sampling method,经验取样法,心理学,在随机时间点提示被试报告当下体验的研究方法,ESM
+ambulatory assessment,动态评估,心理学,结合可穿戴设备在日常生活中持续测量心理生理指标的方法,
+digital phenotyping,数字表型分析,心理学,利用智能手机行为数据推断个体心理健康状态的技术,
+computational psychiatry,计算精神病学,心理学,运用计算模型刻画精神疾病认知机制与症状的交叉领域,
+AI-assisted counseling,人工智能辅助咨询,心理学,利用对话系统为来访者提供初步心理支持与转介的服务,
+internet-delivered CBT,网络化认知行为治疗,心理学,通过互联网平台实施结构化认知行为治疗的方式,iCBT
+virtual reality exposure therapy,虚拟现实暴露疗法,心理学,在虚拟情境中逐级呈现恐惧刺激以缓解焦虑的疗法,VRET
+mental health app,心理健康应用,心理学,提供情绪记录冥想训练等自助功能的心理服务软件,
+online peer support,在线同伴支持,心理学,有相似经历者通过网络社区互助分享的心理支持形式,
+digital detox,数字戒断,心理学,主动减少电子设备使用以恢复注意与情绪平衡的行为实践,
+technostress,技术压力,心理学,因信息技术过载与持续在线要求引发的紧张状态,
+fear of missing out,错失焦虑,心理学,担心错过他人经历与信息而产生的持续性焦虑,FOMO
+nomophobia,无手机焦虑症,心理学,无法使用手机时出现的分离焦虑与不适感,
+problematic social media use,问题性社交媒体使用,心理学,失控并损害社会功能的社交媒体过度使用行为模式,
+internet gaming disorder,网络游戏障碍,心理学,以游戏失控与功能损害为特征的成瘾性行为问题,IGD
+attention residue,注意力残留,心理学,切换任务后部分注意仍滞留于先前任务的现象,
+positive psychology intervention,积极心理学干预,心理学,系统培养优势感恩与希望以提升幸福感的结构化练习,PPI
+character strengths,品格优势,心理学,跨文化普遍存在并可通过练习发展的积极人格特质,
+post-traumatic growth,创伤后成长,心理学,经历重大创伤后在意义感与人际联结等方面的积极转变,PTG
+meaning in life,生命意义感,心理学,个体对生活目的价值与连贯性的主观体验,
+savoring,品味,心理学,主动关注并延长积极体验以增强幸福感的心理策略,
+gratitude intervention,感恩干预,心理学,通过记录感恩事件等方式提升积极情绪的练习方案,
+flourishing,繁盛状态,心理学,个体在积极情绪投入与意义等维度全面良好的心理状态,心理繁盛
+cross-cultural psychology,跨文化心理学,心理学,比较不同文化背景下心理过程异同的分支学科,
+cultural competence,文化胜任力,心理学,在多元文化情境中有效理解与服务来访者的专业能力,
+acculturative stress,文化适应压力,心理学,移民等群体在适应新文化过程中体验的心理压力,
+indigenous psychology,本土心理学,心理学,立足本土文化脉络建构心理理论与方法的研究取向,
+cultural humility,文化谦逊,心理学,以开放自省态度对待他者文化的专业立场,
+decolonizing psychology,去殖民化心理学,心理学,反思并纠正心理学中西方中心主义倾向的学术运动,
+network theory of psychopathology,心理病理网络理论,心理学,将精神障碍视为症状相互作用网络的理论框架,
+transdiagnostic process,跨诊断过程,心理学,在多种障碍中共同起作用的认知情绪机制,
+process-based therapy,过程取向治疗,心理学,围绕个体化功能分析选择改变过程而非诊断标签的疗法,PBT
+precision psychiatry,精准精神病学,心理学,依据生物心理特征为患者匹配最优干预的取向,
+measurement-based care,测量本位的照护,心理学,常规采集症状量表数据以动态调整治疗的做法,MBC
+single-case experimental design,单被试实验设计,心理学,对单个被试进行条件操纵以检验干预效果的实验设计,SCED
+intensive longitudinal data,密集纵向数据,心理学,高频次重复测量获得的时间序列心理数据,
+dynamic structural equation modeling,动态结构方程建模,心理学,对个体时间序列数据建模潜变量动态关系的方法,DSEM
+replication crisis,可重复性危机,心理学,大量经典研究结果无法重复引发的学科信任危机,
+preregistration,预注册,心理学,在收集数据前公开假设与分析计划以提高研究透明度的做法,
+registered report,注册报告,心理学,依据研究计划质量先行评审的论文发表模式,
+adversarial collaboration,对抗性合作,心理学,持相反观点的研究者共同设计实验检验争议假说,
+open science practices,开放科学实践,心理学,共享数据材料与代码以提升研究可验证性的做法,
+eco-anxiety,生态焦虑,心理学,因气候变化与生态危机引发的持续性担忧情绪,
+climate psychology,气候心理学,心理学,研究气候危机下人类心理反应与行为的分支领域,
+loneliness epidemic,孤独流行,心理学,现代社会中孤独感普遍上升被视为公共健康问题的现象,
+collective trauma,集体创伤,心理学,重大灾难或事件给群体成员共同造成的心理创伤,
+post-pandemic mental health,疫后心理健康,心理学,疫情长期影响下人群心理状态的恢复与干预议题,

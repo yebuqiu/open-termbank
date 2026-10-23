@@ -199,3 +199,53 @@ hydrogen embrittlement,氢脆,材料,氢进入金属内部导致塑性韧性下�
 fatigue striation,疲劳辉纹,材料,疲劳断口上与裂纹逐次扩展相对应的微观条带形貌。,striation
 fracture mechanics,断裂力学,材料,研究含裂纹构件裂纹扩展规律与断裂判据的力学分支。,
 creep rupture,蠕变断裂,材料,材料在高温恒应力下经长时间蠕变变形后发生的断裂。,stress rupture
+lithium iron phosphate,磷酸铁锂,材料,具有橄榄石结构的低成本高安全锂离子正极材料,LFP
+ternary cathode material,三元正极材料,材料,由镍钴锰或镍钴铝复合氧化物构成的高能量密度正极材料,NCM; NCA
+high-nickel cathode material,高镍正极材料,材料,镍含量较高以提升容量但稳定性下降的三元正极材料,nickel-rich cathode material
+lithium-rich manganese-based cathode,富锂锰基正极材料,材料,利用阴离子氧化还原获得超高比容量的层状正极材料,
+silicon-carbon anode,硅碳负极,材料,将硅与碳复合以兼顾高容量与循环稳定性的锂离子电池负极材料,Si/C anode
+lithium metal anode,锂金属负极,材料,以金属锂为活性物质具有最高理论比容量的负极体系,
+solid-state electrolyte,固态电解质,材料,在固态电池中传导锂离子并兼作隔膜的不可燃固体离子导体,SSE
+sulfide solid electrolyte,硫化物固态电解质,材料,离子电导率高且易冷压成形但空气稳定性差的固态电解质,
+oxide solid electrolyte,氧化物固态电解质,材料,化学稳定性好但界面阻抗较大的石榴石型等固态电解质,
+solid polymer electrolyte,固态聚合物电解质,材料,以聚合物基体溶解锂盐实现离子传输的柔性固态电解质,SPE
+sulfur cathode,硫正极,材料,理论比容量高成本低但存在穿梭效应的锂硫电池正极材料,
+sodium-ion cathode material,钠离子电池正极材料,材料,以层状氧化物或聚阴离子化合物为主的低成本钠电正极材料,
+transition metal dichalcogenide,过渡金属硫族化合物,材料,具有层状结构带隙可调的一类二维半导体材料,TMD
+molybdenum disulfide,二硫化钼,材料,单层呈直接带隙可用于晶体管与催化的典型二维材料,MoS2
+hexagonal boron nitride,六方氮化硼,材料,具有类石墨烯层状结构的宽带隙绝缘二维材料,h-BN
+black phosphorus,黑磷,材料,具有褶皱层状结构与可调带隙及高载流子迁移率的二维材料,
+van der Waals heterostructure,范德瓦尔斯异质结,材料,由不同二维材料依靠范德瓦尔斯力堆叠形成的功能异质结构,vdW heterostructure
+graphene oxide,氧化石墨烯,材料,石墨烯经氧化引入含氧官能团后得到的可分散二维材料,GO
+topological material,拓扑材料,材料,体态与表面电子态受拓扑保护的具有奇异输运性质的材料,
+high-entropy alloy,高熵合金,材料,由五种及以上主元近等比构成具有优异综合性能的多主元合金,HEA
+medium-entropy alloy,中熵合金,材料,由三至四种主元构成构型熵介于常规与高熵合金之间的合金,MEA
+refractory high-entropy alloy,难熔高熵合金,材料,由难熔金属元素构成适用于高温环境的多主元合金,
+compositionally complex alloy,成分复杂合金,材料,成分空间宽广包含高熵与中熵合金的多主元合金统称,CCA
+cocktail effect,鸡尾酒效应,材料,高熵合金中多主元协同作用带来超出单一组元的综合性能效应,
+severe lattice distortion,严重晶格畸变,材料,高熵合金中不同尺寸原子随机占位导致的显著晶格畸变现象,
+sluggish diffusion,迟滞扩散,材料,高熵合金中多主元相互作用导致原子扩散速率降低的效应,
+biobased polymer,生物基聚合物,材料,以可再生生物质为原料合成用于替代石油基塑料的高分子材料,bio-based polymer
+polybutylene adipate terephthalate,聚己二酸对苯二甲酸丁二酯,材料,兼具柔性与可堆肥降解性的脂肪族芳香族共聚酯材料,PBAT
+polyhydroxyalkanoate,聚羟基脂肪酸酯,材料,由微生物发酵合成的可完全生物降解的聚酯类材料,PHA
+compostable plastic,可堆肥塑料,材料,在工业堆肥条件下可完全分解为水二氧化碳与生物质的塑料,
+degradable magnesium alloy,可降解镁合金,材料,在生理环境中可逐步腐蚀降解用于骨植入的医用镁合金,
+intrinsic self-healing polymer,本征型自修复聚合物,材料,依靠分子链内可逆键作用无需外加修复剂即可自主愈合损伤的聚合物,
+vitrimer,类玻璃高分子,材料,具有动态共价键网络兼具热固性强度与可再加工性的高分子材料,
+materials informatics,材料信息学,材料,运用数据科学与机器学习方法挖掘材料成分工艺性能关系的交叉学科,
+high-throughput screening of materials,材料高通量筛选,材料,利用并行计算与实验快速从候选空间筛选目标材料的方法,
+data-driven materials design,数据驱动材料设计,材料,以材料数据库与统计模型为基础反向设计满足目标性能的新材料的方法,
+machine learning for materials,材料机器学习,材料,利用数据驱动模型预测材料性能并辅助成分与工艺设计的方法,
+autonomous materials discovery,材料自主发现,材料,由人工智能驱动结合机器人实验自动探索新材料的研发模式,
+perovskite solar cell material,钙钛矿光伏材料,材料,具有ABX3晶体结构吸光系数高的新一代光伏材料,perovskite photovoltaic material
+perovskite light-emitting diode,钙钛矿发光二极管,材料,以金属卤化物钙钛矿为发光层的外量子效率高的发光器件,PeLED
+quantum well,量子阱,材料,载流子在某一维度受限形成分立能级的半导体低维结构,
+zeolitic imidazolate framework,沸石咪唑酯骨架,材料,由金属离子与咪唑配体构成兼具沸石拓扑与稳定性的多孔晶态材料,ZIF
+hydrogen-bonded organic framework,氢键有机框架,材料,由有机单元通过氢键组装形成的结构可调多孔晶态材料,HOF
+aerogel,气凝胶,材料,以气体为分散介质具有纳米多孔结构的超轻低导热固体材料,
+double network hydrogel,双网络水凝胶,材料,由刚柔两种互穿网络构成具有高断裂韧性的高强度水凝胶,DN hydrogel
+eutectic high-entropy alloy,共晶高熵合金,材料,兼具共晶组织优异铸造性与多主元强韧化效果的高熵合金,EHEA
+acoustic metamaterial,声学超材料,材料,通过人工微结构实现负等效参数从而超常调控声波传播的功能材料,
+photonic crystal,光子晶体,材料,折射率周期性变化形成光子带隙从而调控光传播的人工材料,
+electrocaloric material,电卡效应材料,材料,在电场变化下产生可逆绝热温变可用于固态制冷的功能材料,
+layered double hydroxide,层状双氢氧化物,材料,层板带正电荷且层间可插层阴离子的二维功能材料,LDH

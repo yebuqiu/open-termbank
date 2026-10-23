@@ -199,3 +199,53 @@ subpoena,传票,法律,法院签发责令证人到庭作证或提交证据的强
 voir dire,预先审核,法律,庭审前对陪审员候选人或证人资格进行审查询问的程序,
 punitive damages,惩罚性赔偿,法律,在补偿实际损失之外为惩罚与威慑恶意侵权而判令的额外赔偿,exemplary damages
 stare decisis,遵循先例,法律,法院应受在先判决拘束对同类案件作相同裁判的普通法原则,doctrine of precedent
+algorithmic governance,算法治理,法律,对算法的设计部署与使用进行规范和监督的制度安排,algorithm governance
+algorithm transparency,算法透明,法律,要求算法开发者披露算法逻辑与决策依据以增强可问责性的原则,
+automated decision-making,自动化决策,法律,完全或部分由算法自动作出并对个人权益产生影响的决策方式,
+data protection law,数据保护法,法律,规范个人数据处理活动并保护个人信息主体权利的法律制度,
+data subject right,数据主体权利,法律,个人信息主体依法享有的知情决定查阅更正删除等权利统称,
+right to explanation,解释权,法律,个人在受到自动化决策影响时要求获得决策理由说明的权利,
+AI liability,人工智能责任,法律,人工智能系统造成损害时确定责任主体与归责原则的法律制度,artificial intelligence liability
+algorithmic discrimination,算法歧视,法律,算法因训练数据或设计缺陷对特定群体作出不合理差别对待的现象,
+deepfake regulation,深度合成规制,法律,对利用人工智能合成伪造音视频内容进行标识与问责的法律规制,deep synthesis regulation
+data sovereignty,数据主权,法律,国家对本国境内数据及其跨境流动行使管辖与控制权的主张,
+data export security assessment,数据出境安全评估,法律,数据处理者向境外提供重要数据前须接受的安全评估监管程序,
+environmental tort,环境侵权,法律,因污染环境或破坏生态造成他人人身财产损害而承担民事责任的侵权行为,
+environmental public interest litigation,环境公益诉讼,法律,由法定主体为保护公共环境利益提起的诉讼制度,
+environmental damage liability,生态环境损害赔偿责任,法律,行为人对其造成的生态环境损害承担修复与赔偿责任的制度,
+carbon emission right,碳排放权,法律,主体在碳交易制度下依法取得并可交易排放配额的财产性权利,
+climate litigation,气候诉讼,法律,以应对气候变化或追究气候损害责任为目的提起的诉讼,
+environmental liability insurance,环境污染责任保险,法律,以企业环境污染损害赔偿责任为保险标的的责任保险,
+medical law,医事法,法律,调整医疗卫生活动中医患关系与医疗管理的法律规范总称,health law
+medical malpractice,医疗损害责任,法律,医疗机构及其医务人员因过错诊疗造成患者损害应承担的侵权责任,
+physician-patient relationship,医患关系,法律,医疗服务提供者与患者之间形成的法律关系及其权利义务,doctor-patient relationship
+organ transplantation law,人体器官移植法,法律,规范人体器官捐献获取与移植活动的法律制度,
+human genetic resources regulation,人类遗传资源管理,法律,对人类遗传资源的采集保藏利用与对外提供实施的行政监管,
+clinical trial regulation,临床试验管理规范,法律,规范以人为对象的临床试验以保护受试者权益的法律与伦理规范,
+fintech regulation,金融科技监管,法律,对金融科技业务活动实施的以防范风险为目标的金融监管,
+cryptocurrency regulation,加密资产监管,法律,对加密资产发行交易与服务机构实施的金融监管制度,crypto asset regulation
+security token offering,证券型代币发行,法律,以代币形式发行具有证券属性权益并接受证券监管的行为,STO
+international investment law,国际投资法,法律,调整跨国私人直接投资关系的国际法分支,
+bilateral investment treaty,双边投资协定,法律,两国间为促进和保护相互投资而缔结的条约,BIT
+investor-state dispute settlement,投资者与国家间争端解决,法律,外国投资者针对东道国提起国际仲裁的争端解决机制,ISDS
+indirect expropriation,间接征收,法律,东道国措施虽未剥夺所有权但实质剥夺投资经济价值构成征收的行为,
+fair and equitable treatment,公平公正待遇,法律,国际投资协定中要求东道国给予外国投资者的基本待遇标准,FET
+national treatment,国民待遇,法律,要求东道国给予外国投资者不低于本国投资者待遇的标准,
+compliance management,合规管理,法律,企业为遵守法律法规与道德规范而建立的识别防范风险的治理体系,
+corporate compliance,企业合规,法律,企业确保自身经营活动符合法律法规与商业伦理的管理制度,
+anti-money laundering,反洗钱,法律,预防和打击掩饰隐瞒犯罪所得及其收益来源性质的法律制度,AML
+counter-terrorism financing,反恐怖融资,法律,防止资金被用于恐怖活动并切断恐怖组织资金来源的法律制度,CTF
+export control,出口管制,法律,国家基于安全与外交政策对特定物项技术出口实施的管制,
+economic sanctions compliance,经济制裁合规,法律,企业为遵守各国经济制裁措施而建立的筛查与管控机制,sanctions compliance
+whistleblower protection,举报人保护,法律,保护内部人员举报违法行为免受报复的法律制度,
+data compliance,数据合规,法律,组织在数据处理活动中遵守数据安全与个人信息保护法规的管理活动,
+privacy by design,隐私设计,法律,在产品与服务设计阶段即嵌入个人信息保护要求的方法论,
+platform liability,平台责任,法律,网络交易平台对平台内经营行为与内容应承担的法律责任,
+gatekeeper obligation,守门人义务,法律,大型平台经营者承担的公平开放与数据使用方面的特殊法定义务,
+digital services regulation,数字服务规制,法律,对在线平台内容审核透明度与算法推荐等实施的监管制度,
+digital market regulation,数字市场监管,法律,针对数字市场垄断行为维护公平竞争的规制框架,
+standard-essential patent,标准必要专利,法律,为实施技术标准而不可避免使用的专利,SEP
+FRAND commitment,FRAND承诺,法律,标准必要专利持有人作出的以公平合理无歧视条件许可的承诺,
+blockchain evidence preservation,区块链存证,法律,利用区块链不可篡改特性固定电子数据以证明案件事实的取证方式,
+decentralized autonomous organization,去中心化自治组织,法律,以智能合约为治理规则由成员共同决策的区块链组织形态其法律地位尚待明确,DAO
+gene patenting,基因专利,法律,对分离的基因序列或基因相关发明授予专利权的做法,gene patent

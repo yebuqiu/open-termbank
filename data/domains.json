@@ -120,6 +120,54 @@
       "slug": "astronomy",
       "en": "Astronomy / Space Science",
       "source_note": "v2.0.0 自编扩充；天文学与航天界通行译法"
+    },
+    {
+      "domain": "哲学",
+      "slug": "philosophy",
+      "en": "Philosophy",
+      "source_note": "v2.2.0 自编扩充；哲学界通行译法"
+    },
+    {
+      "domain": "社会学",
+      "slug": "sociology",
+      "en": "Sociology",
+      "source_note": "v2.2.0 自编扩充；社会学界通行译法"
+    },
+    {
+      "domain": "政治学",
+      "slug": "political-science",
+      "en": "Political Science",
+      "source_note": "v2.2.0 自编扩充；政治学与公共管理通行译法"
+    },
+    {
+      "domain": "历史",
+      "slug": "history",
+      "en": "History / Historiography",
+      "source_note": "v2.2.0 自编扩充；史学界通行译法"
+    },
+    {
+      "domain": "建筑",
+      "slug": "architecture",
+      "en": "Architecture / Urban Planning",
+      "source_note": "v2.2.0 自编扩充；建筑与规划界通行译法"
+    },
+    {
+      "domain": "地质",
+      "slug": "geology",
+      "en": "Geology / Earth Sciences",
+      "source_note": "v2.2.0 自编扩充；地质与地学界通行译法"
+    },
+    {
+      "domain": "海洋",
+      "slug": "oceanography",
+      "en": "Oceanography / Marine Science",
+      "source_note": "v2.2.0 自编扩充；海洋科学界通行译法"
+    },
+    {
+      "domain": "药学",
+      "slug": "pharmacy",
+      "en": "Pharmacy / Pharmaceutical Sciences",
+      "source_note": "v2.2.0 自编扩充；药学与药剂学界通行译法"
     }
   ]
 }

@@ -1,0 +1,101 @@
+source,target,domain,definition,synonyms
+rock-forming mineral,造岩矿物,地质,构成岩石主体的常见矿物；如石英、长石与云母等。,
+crystal habit,晶习,地质,矿物晶体常呈现的外部形态特征；受内部结构与生长环境共同控制。,crystal morphology
+luster,光泽,地质,矿物表面对可见光反射所呈现的亮度与质感；分为金属与非金属光泽。,lustre
+streak,条痕,地质,矿物在无釉瓷板上刻划所留粉末的颜色；比表面颜色更为稳定。,
+igneous rock,火成岩,地质,由岩浆冷却凝固形成的岩石；按产状分为侵入岩与喷出岩。,magmatic rock
+magma,岩浆,地质,地壳深处或上地幔中形成的炽热硅酸盐熔体；常含挥发分与晶体。,
+granite,花岗岩,地质,以石英、长石为主的酸性深成侵入岩；广泛构成大陆地壳。,
+basalt,玄武岩,地质,基性喷出岩；多呈黑色致密块状；是大洋地壳的主要组成岩石。,
+metamorphic rock,变质岩,地质,原有岩石经高温高压及流体作用发生矿物与结构改造形成的岩石。,
+quartz,石英,地质,化学成分为二氧化硅的架状硅酸盐矿物；摩氏硬度七；极耐风化。,
+stratum,地层,地质,具有共同岩性或时代特征、成层产出的岩石体；是地质历史的记录载体。,layer; bed
+sequence stratigraphy,层序地层学,地质,以不整合面及可对比整合面为界划分等时地层单元并重建海平面变化的方法。,
+sedimentation,沉积作用,地质,风化剥蚀产物经搬运、停积并堆积为松散沉积物的过程。,sediment deposition
+sedimentary facies,沉积相,地质,反映特定沉积环境的岩性与古生物特征的综合。,facies
+unconformity,不整合,地质,上下两套地层之间代表沉积间断或侵蚀缺失的接触界面。,
+bedding,层理,地质,沉积岩中由成分、粒度或颜色变化所显示的成层构造。,stratification
+cross-bedding,交错层理,地质,层系界面与主层理斜交的内部纹理；反映水流或风的搬运方向。,cross-stratification
+biostratigraphy,生物地层学,地质,依据化石组合对地层进行划分、对比与定年的地层学分支。,
+index fossil,标准化石,地质,演化快、分布广、特征明显；可用于判定地层时代的化石。,guide fossil
+diagenesis,成岩作用,地质,松散沉积物经压实、胶结、重结晶转变为坚硬岩石的过程。,
+fault,断层,地质,岩层受力破裂并沿破裂面发生明显位移的构造形迹。,
+fold,褶皱,地质,岩层受水平挤压发生弯曲变形而形成的波状起伏构造。,
+anticline,背斜,地质,核部地层较老、两翼地层较新的向上拱曲褶皱形态。,
+syncline,向斜,地质,核部地层较新、两翼地层较老的向下凹陷褶皱形态。,
+rock joint,节理,地质,岩石破裂但破裂面两侧未发生明显位移的裂隙构造。,joint; jointing
+dip,倾向,地质,倾斜岩层层面垂直于走向向下倾斜的方向；以方位角表示。,
+strike,走向,地质,倾斜岩层层面与水平面交线的延伸方向。,
+thrust fault,逆冲断层,地质,倾角较缓、上盘相对向上逆掩推移的低角度逆断层。,overthrust
+graben,地堑,地质,由两条相向正断层夹持、中间地块相对下降形成的构造单元。,
+foliation,面理,地质,变质岩中矿物定向排列形成的面状构造；如片理与片麻理。,
+fossil,化石,地质,保存在岩层中的古生物遗体、遗迹或有机分子残余。,
+paleontology,古生物学,地质,研究地质历史时期生物的形态、演化与生态的地质学分支。,palaeontology
+trilobite,三叶虫,地质,寒武纪至二叠纪繁盛的海生节肢动物；背甲纵向分为三叶而得名。,
+ammonite,菊石,地质,中生代繁盛的海生头足类；具复杂缝合线的旋卷壳；常用作标准化石。,
+mass extinction,大灭绝,地质,短地质时期内全球范围内大量生物门类同时消亡的事件。,extinction event
+trace fossil,遗迹化石,地质,生物活动留下的足迹、爬痕、潜穴等行为记录所形成的化石。,ichnofossil
+microfossil,微体化石,地质,需借助显微镜观察的微小生物化石；如有孔虫与孢粉。,
+paleoecology,古生态学,地质,依据化石组合与沉积特征重建地质历史时期生物与环境关系的学科。,palaeoecology
+stromatolite,叠层石,地质,由蓝藻等微生物捕获黏结沉积物形成的层纹状生物沉积构造。,
+Cambrian explosion,寒武纪大爆发,地质,约五亿四千万年前动物门类在短时期内快速出现的演化事件。,Cambrian radiation
+geochemistry,地球化学,地质,研究地球各圈层化学组成、元素迁移与演化规律的学科。,
+stable isotope,稳定同位素,地质,不发生放射性衰变的同位素；其比值可用于示踪地质过程。,
+radiometric dating,放射性测年,地质,利用放射性核素衰变速率测定岩石与矿物形成年龄的方法。,radioactive dating
+isotope fractionation,同位素分馏,地质,物理化学过程中轻重同位素比例发生系统性改变的现象。,
+indicator element,指示元素,地质,含量变化能指示矿化或地质体存在与否的地球化学元素。,pathfinder element
+rare earth element,稀土元素,地质,镧系元素及钪钇共十七种元素的统称；广泛应用于高新材料。,REE
+geochemical anomaly,地球化学异常,地质,元素含量显著偏离区域背景值的地球化学分布区。,
+hydrothermal fluid,热液,地质,与岩浆或地热系统有关的高温含矿水溶液；可形成热液矿床。,hydrothermal solution
+weathering,风化作用,地质,岩石在地表受温度、水、生物等因素作用而破碎分解的过程。,
+geochronology,地质年代学,地质,测定地质体年龄并建立地质年代序列的学科。,
+confined aquifer,承压含水层,地质,夹于上下隔水层之间、承受静水压力的含水层。,artesian aquifer
+aquitard,隔水层,地质,透水性差、能够限制地下水上下运动的岩土层。,aquiclude
+water table,地下水位,地质,即潜水面；包气带与饱水带之间压力等于大气压的分界面。,groundwater level
+transmissivity,导水系数,地质,含水层渗透系数与其厚度的乘积；表征含水层整体输水能力。,transmissibility
+specific yield,给水度,地质,饱水岩土在重力作用下可释放的水体积与岩土总体积之比。,
+piezometric head,测压水头,地质,承压水在测压管中上升所达到的水位高度；反映地下水的势能。,piezometric level
+Darcy's law,达西定律,地质,描述地下水渗流速度与水力坡度成正比的基本定律。,Darcy law
+karst,岩溶,地质,可溶性岩石受水溶蚀形成溶洞、石林等特殊地貌与水文地质现象。,karst topography
+cone of depression,降落漏斗,地质,抽水井周围地下水位下降所形成的漏斗状曲面。,drawdown cone
+phreatic water,潜水,地质,埋藏于第一个稳定隔水层之上、具有自由水面的重力地下水。,unconfined groundwater
+slope stability,边坡稳定性,地质,边坡岩土体抵抗滑动、崩塌等破坏的能力；取决于强度与结构面。,
+landslide,滑坡,地质,斜坡岩土体沿贯通的滑动面整体向下滑动的地质现象。,landslip
+debris flow,泥石流,地质,大量泥沙石块与水混合沿沟谷快速下泄的突发性洪流。,mudflow
+rock mass,岩体,地质,由结构面切割、原位赋存并含地下水等地质因素的岩石综合体。,
+soil mechanics,土力学,地质,研究土的应力、变形、强度与渗透性质的工程力学分支。,
+liquefaction,液化,地质,饱和砂土在震动作用下孔隙水压力骤升而丧失强度的现象。,soil liquefaction
+subsidence,地面沉降,地质,因抽取地下水或采空塌陷等引起的地面缓慢下沉现象。,land subsidence
+expansive soil,膨胀土,地质,富含蒙脱石等黏土矿物；吸水膨胀、失水收缩的特殊土。,swelling soil
+rock quality designation,岩石质量指标,地质,以岩心中长度大于十厘米的完整段累计百分比评价岩体完整性。,RQD
+geotechnical investigation,岩土工程勘察,地质,通过钻探、试验与测试查明场地工程地质条件的系统性工作。,site investigation
+earthquake,地震,地质,地壳岩层突然破裂错动并以地震波形式释放能量的自然现象。,
+epicenter,震中,地质,震源在地表的垂直投影点；通常是宏观破坏最严重的位置。,epicentre
+hypocenter,震源,地质,地球内部地震断层开始破裂错动的初始位置。,focus
+seismic wave,地震波,地质,地震时在地球介质中传播的弹性波；分为体波与面波。,
+moment magnitude,矩震级,地质,根据断层破裂面积、位错量与介质刚度计算的现代震级标度。,Mw; moment magnitude scale
+seismic intensity,地震烈度,地质,衡量地震对地表与建筑物造成的影响与破坏程度的等级。,intensity
+Richter scale,里氏震级,地质,依据地震仪记录振幅与距离关系测定震级的经典标度。,Richter magnitude scale
+seismograph,地震仪,地质,记录地面运动并将机械振动转换为可读波形的观测仪器。,seismometer
+aftershock,余震,地质,主震之后在同一震源区发生的较小地震；可持续数月至数年。,
+tsunami,海啸,地质,海底地震或滑坡激发的长周期海水波动；近岸波高骤增造成灾害。,seismic sea wave
+plate tectonics,板块构造,地质,认为岩石圈分为若干刚性板块并相对运动的全球构造理论。,
+lithosphere,岩石圈,地质,地壳与上地幔顶部组成的刚性圈层；厚度约数十至二百千米。,
+asthenosphere,软流圈,地质,位于岩石圈之下塑性较强、可缓慢流动的地幔圈层。,
+continental drift,大陆漂移,地质,魏格纳提出的大陆在地质历史中发生大规模水平移动的假说。,
+paleomagnetism,古地磁,地质,研究岩石形成时记录的地磁场方向与强度以恢复板块运动历史的学科。,palaeomagnetism
+subduction,俯冲,地质,大洋板块在汇聚边界俯入地幔的消亡过程；伴随深源地震与火山弧。,
+island arc,岛弧,地质,俯冲带火山活动形成的弧形岛链；通常与海沟相伴生。,volcanic arc
+ocean trench,海沟,地质,俯冲带处大洋板块下弯形成的深海狭长洼地；是海洋最深处。,deep-sea trench
+transform fault,转换断层,地质,连接两段洋脊或俯冲带、板块作水平错动的板块边界断层。,
+rift,裂谷,地质,岩石圈受拉张减薄形成的线性凹陷带；可演化为新洋盆。,rift valley
+geological map,地质图,地质,以不同符号与色调表示地层、岩性与构造等地质要素分布的图件。,geologic map
+outcrop,露头,地质,基岩在地表出露的部分；是野外地质观察的直接对象。,
+borehole,钻孔,地质,用钻机向地下钻进的柱状孔；用于取样、测试与监测。,drill hole; boring
+core sample,岩心,地质,钻探取出的圆柱状岩土实物样品；是研究深部地质的直接资料。,drill core; core
+geological survey,地质调查,地质,通过野外观测、钻探与采样系统查明区域地质情况的工作。,geological mapping
+geophysical prospecting,地球物理勘探,地质,利用岩土物性差异推断地下结构与矿体分布的间接探测方法。,geophysical exploration
+seismic reflection,地震反射,地质,利用人工震源激发并记录界面反射波以探测地下构造的方法。,reflection seismology
+magnetotellurics,大地电磁测深,地质,观测天然交变电磁场反演地下电阻率结构的地球物理方法。,MT; magnetotelluric sounding
+synthetic aperture radar,合成孔径雷达,地质,通过相干处理获得高分辨率地表影像的主动式微波遥感技术。,SAR
+aeromagnetic survey,航空磁测,地质,用飞机搭载磁力仪测量磁场以推断地下岩性与构造的物探方法。,airborne magnetic survey

@@ -199,3 +199,53 @@ color-magnitude diagram,颜色-星等图,天文,以恒星颜色为横轴、星�
 sky survey,巡天,天文,对大范围天区进行系统成像或光谱观测的项目；如SDSS与LSST；产出海量数据。,astronomical survey
 virtual observatory,虚拟天文台,天文,通过网络标准整合全球天文数据资源并提供统一访问的数据密集型研究平台。,VO
 light curve,光变曲线,天文,天体亮度随时间变化的曲线；用于研究变星、凌星行星与暂现源。,
+time-domain astronomy,时域天文学,天文,系统监测天体随时间变化以研究暂现与变源现象的学科,
+near-Earth object,近地天体,天文,轨道接近地球轨道的小行星与彗星总称,NEO
+planetary defense,行星防御,天文,监测预警并处置近地天体撞击威胁的活动体系,
+kinetic impactor,动能撞击器,天文,通过高速撞击改变小行星轨道的防御航天器,
+asteroid deflection,小行星偏转,天文,人为改变有威胁小行星轨道使其避开地球的技术,
+space debris,空间碎片,天文,地球轨道上废弃航天器及其解体产生的人造碎片,轨道碎片
+active debris removal,主动碎片清除,天文,通过捕获离轨等方式主动清理空间碎片的技术,ADR
+space situational awareness,空间态势感知,天文,监测编目在轨物体并预警碰撞风险的能力体系,SSA
+conjunction assessment,交会评估,天文,对在轨物体间潜在接近与碰撞风险进行的分析,
+mega-constellation,巨型星座,天文,由成千上万颗卫星组网的低轨通信卫星系统,
+satellite constellation,卫星星座,天文,多颗卫星按设计轨道协同工作构成的系统,
+James Webb Space Telescope,詹姆斯·韦布空间望远镜,天文,以红外观测为主的六米半口径空间望远镜,JWST
+extremely large telescope,极大望远镜,天文,口径二十米以上的下一代地基光学红外望远镜,ELT
+square kilometre array,平方公里阵列,天文,由数千面天线组成总接收面积达一平方公里的射电阵列,SKA
+Vera Rubin Observatory,薇拉·鲁宾天文台,天文,开展时空遗赠巡天的大视场地面光学天文台,鲁宾天文台
+roman space telescope,罗曼空间望远镜,天文,以宽视场红外观测研究暗能量的空间望远镜,
+exoplanet atmosphere,系外行星大气,天文,围绕系外行星的气体包层及其成分结构研究对象,
+atmospheric characterization,大气刻画,天文,测定行星大气成分温度与云霾结构的观测分析,
+biosignature,生物标志,天文,可能指示生命存在的大气成分或表面特征信号,
+technosignature,技术标志,天文,可能指示地外技术文明存在的可观测信号,
+secondary eclipse,次食,天文,行星从宿主恒星后方经过导致系统流量下降的现象,
+phase curve,相位曲线,天文,行星系统亮度随轨道相位变化的光变曲线,
+hycean world,氢海世界,天文,富氢大气覆盖全球海洋的潜在宜居系外行星类型,
+cosmic noon,宇宙正午,天文,红移约二至三宇宙恒星形成最剧烈的时期,
+first stars,第一代恒星,天文,宇宙大爆炸后由原始气体形成的首批恒星,
+cosmic dark ages,宇宙黑暗时代,天文,复合之后第一代发光天体形成之前的无光源时期,
+twenty-one centimeter cosmology,二十一厘米宇宙学,天文,利用中性氢二十一厘米谱线研究早期宇宙的方法,
+fast radio burst,快速射电暴,天文,持续毫秒量级来自河外的强射电脉冲现象,FRB
+standard siren,标准汽笛,天文,可据波形直接测定距离的引力波源及其测距方法,
+supermassive black hole binary,超大质量双黑洞,天文,星系并合形成的相互绕转的超大质量黑洞对,
+nanohertz gravitational wave,纳赫兹引力波,天文,频率纳赫兹量级由超大质量双黑洞产生的引力波背景,
+gravitational wave background,引力波背景,天文,众多引力波源叠加形成的弥漫性随机引力波信号,GWB
+tidal disruption event,潮汐瓦解事件,天文,恒星过于靠近超大质量黑洞被潮汐力撕碎的事件,TDE
+changing-look active galactic nucleus,变脸活动星系核,天文,短期内光谱型态发生转变的活动星系核,
+blazar,耀变体,天文,喷流指向地球的极端明亮活动星系核子类,
+interstellar object,星际天体,天文,起源于太阳系外并穿越太阳系的小天体,星际访客
+active asteroid,活动小行星,天文,表现出彗星式尘埃喷发活动的小行星,主带彗星
+cislunar space,地月空间,天文,地球与月球之间及其附近的空间区域,
+asteroid mining,小行星采矿,天文,开采小行星水与金属资源的设想与工程活动,
+in-situ resource utilization,原位资源利用,天文,就地获取利用地外天体资源以支持探测任务的技术,ISRU
+stellar stream,恒星流,天文,星团或矮星系被银河系潮汐瓦解形成的恒星带状结构,
+galactic archaeology,星系考古学,天文,通过恒星化学与运动学信息重建银河系形成历史的学科,
+near-field cosmology,近场宇宙学,天文,利用近邻宇宙恒星考古检验宇宙学模型的研究方法,
+astronomical transient,天文暂现源,天文,亮度在短时间内出现并消逝的爆发现象天体,
+fast blue optical transient,快速蓝色光学暂现源,天文,上升快颜色偏蓝且成因未明的亮光学爆发现象,FBOT
+gravitational-wave sky localization,引力波天空定位,天文,由多台探测器信号时延反演引力波源天区的过程,
+X-ray polarimetry,X射线偏振测量,天文,测量X射线偏振以研究致密天体磁场的观测手段,
+lunar radio telescope,月面射电望远镜,天文,部署于月球表面尤其背面开展低频射电观测的设备,
+cosmic neutrino background,宇宙中微子背景,天文,大爆炸遗留下来的弥漫整个宇宙的低能中微子,
+primordial black hole,原初黑洞,天文,极早期宇宙密度涨落坍缩可能形成的黑洞,PBH

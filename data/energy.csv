@@ -199,3 +199,53 @@ source-grid-load-storage integration,源网荷储一体化,能源,统筹电源�
 shared energy storage,共享储能,能源,储能设施以容量租赁方式服务多个新能源项目的商业模式。,
 thermal energy storage,储热,能源,利用显热、潜热或热化学方式储存热能并在需要时释放的技术。,TES
 compressed air energy storage,压缩空气储能,能源,用电低谷时压缩空气存于洞穴、高峰时释放发电的大规模储能技术。,CAES
+long-duration energy storage,长时储能,能源,可持续放电数小时至数周以支撑高比例可再生能源电网的储能技术,LDES
+small modular reactor,小型模块化反应堆,能源,功率较小且可工厂预制模块化建造的新一代核反应堆,SMR
+power spot market,电力现货市场,能源,以日前日内实时竞价形成分时电价的电力交易市场,
+day-ahead market,日前市场,能源,运行日前一天组织发电与用电申报并出清的交易市场,
+intraday market,日内市场,能源,日内时段根据最新预测调整发电计划的交易市场,
+real-time balancing market,实时平衡市场,能源,实际运行时刻平衡电力供需偏差的市场机制,实时市场
+ancillary services market,辅助服务市场,能源,交易调频备用无功支撑等电网辅助服务的市场,
+green power trading,绿电交易,能源,将可再生能源电量与环境属性捆绑交易的市场机制,
+contract for difference,差价合约,能源,按约定执行价与市场价差结算以稳定收益的合约机制,CfD
+flexibility market,灵活性市场,能源,交易需求侧与分布式资源灵活调节能力的市场,
+demand-side flexibility,需求侧灵活性,能源,用户侧根据价格或激励信号调整用电行为的能力,
+prosumer,产消者,能源,既消费又生产能源并可向电网售电的主体,
+gravity energy storage,重力储能,能源,通过升降重物实现电能与重力势能转换的储能技术,
+liquid air energy storage,液态空气储能,能源,将空气液化储存再气化膨胀发电的储能技术,LAES
+molten salt thermal storage,熔盐储热,能源,利用熔融盐介质储存高温热能的光热发电配套技术,
+hydrogen energy storage,氢储能,能源,通过电解制氢储存电能并在需要时发电的储能方式,
+iron-air battery,铁空气电池,能源,以铁氧化还原与空气中氧反应储能的低成本长时电池,
+zinc-air battery,锌空气电池,能源,以锌为负极空气为正极活性物质的金属空气电池,
+lithium metal battery,锂金属电池,能源,以金属锂为负极的高能量密度下一代电池,
+sodium-sulfur battery,钠硫电池,能源,以钠和硫为电极活性物质的高温二次电池,
+vanadium redox flow battery,全钒液流电池,能源,利用钒离子价态变化储能与释能的液流电池,
+solid-state electrolyte,固态电解质,能源,取代液态电解液以提升安全性与能量密度的固态离子导体,
+cell-to-pack,无模组电池成组技术,能源,省略模组环节将电芯直接集成为电池包的技术,CTP
+battery swapping,换电模式,能源,通过直接更换电池包实现电动车快速补能的模式,
+second-life battery,梯次利用电池,能源,车用退役后降级用于储能等场景的再利用电池,
+battery passport,电池护照,能源,记录电池全生命周期碳足迹与材料来源的数字档案,
+energy digitalization,能源数字化,能源,利用数字技术重构能源生产传输消费全过程的转型,
+power grid digital twin,电网数字孪生,能源,物理电网在数字空间的实时镜像与仿真模型,
+energy blockchain,能源区块链,能源,应用于点对点电力交易与绿证溯源的分布式账本技术,
+smart charging,智能充电,能源,根据电网状态与电价优化电动车充电过程的技术,
+green ammonia,绿氨,能源,以绿氢与氮气合成的零碳燃料及氢能载体,
+power-to-x,电转多元技术,能源,将电力转化为氢氨醇甲烷等燃料或化学原料的技术总称,PtX
+electrofuel,电子燃料,能源,以绿氢和捕集二氧化碳合成的液态碳中性燃料,e-fuel
+sustainable aviation fuel,可持续航空燃料,能源,由生物质或合成路线生产的低碳航空替代燃料,SAF
+green methanol,绿色甲醇,能源,以绿氢与二氧化碳合成的低碳甲醇燃料,
+fourth-generation nuclear reactor,第四代核反应堆,能源,具备固有安全性与可持续性的先进核能系统总称,四代堆
+nuclear fusion,核聚变,能源,轻原子核聚合成重核并释放巨大能量的反应过程,
+magnetic confinement fusion,磁约束聚变,能源,利用强磁场约束高温等离子体以实现持续聚变反应的技术路线,MCF
+inertial confinement fusion,惯性约束聚变,能源,以高功率激光压缩靶丸引发聚变反应的技术路线,ICF
+fusion energy gain factor,聚变能量增益因子,能源,聚变输出能量与加热输入能量之比,Q值
+floating offshore wind,漂浮式海上风电,能源,风机安装于浮式基础以开发深远海风资源的技术,
+perovskite-silicon tandem solar cell,钙钛矿晶硅叠层电池,能源,钙钛矿与晶硅叠加提升光电转换效率的太阳电池,叠层电池
+ultra high voltage direct current,特高压直流输电,能源,电压等级八百千伏及以上的大容量直流输电技术,UHVDC
+charging infrastructure,充电基础设施,能源,支撑电动汽车规模化发展的充电桩与配套网络设施,
+wireless power transfer,无线电能传输,能源,通过电磁场非接触传输电能的技术,WPT
+energy transition,能源转型,能源,能源系统由化石能源主导转向低碳清洁能源主导的过程,
+energy poverty,能源贫困,能源,无法获得充足可负担现代能源服务的状态,
+energy trilemma,能源三难困境,能源,能源安全公平与环境可持续三者难以兼顾的权衡困境,
+methane abatement,甲烷减排,能源,减少油气煤炭与废弃物领域甲烷泄漏排放的行动,
+hydrogen blending,天然气掺氢,能源,在现有天然气管网中掺混氢气输送利用的技术,

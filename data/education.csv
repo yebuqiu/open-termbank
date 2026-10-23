@@ -199,3 +199,53 @@ peer instruction,同伴教学,教育,学生在课堂中就概念问题相互讨�
 think-pair-share,思考结对分享,教育,学生先独立思考再两两讨论最后全班分享的三段式课堂参与结构,
 concept mapping,概念地图,教育,用节点与连线外化知识结构的图形化学习工具与教学策略,
 elaborative interrogation,精细提问,教育,引导学习者对学习内容追问原因并联系已有知识以促进深度加工的策略,
+AI tutor,人工智能导师,教育,基于人工智能为学习者提供个性化讲解答疑与即时反馈的教学代理系统,智能导师
+intelligent tutoring system,智能导师系统,教育,模拟人类导师根据学习者模型动态调整教学策略的计算机系统,ITS
+generative AI in education,教育生成式人工智能,教育,生成式人工智能在课程设计作业批改与学习辅导等教育场景中的应用,
+automated essay scoring,自动作文评分,教育,利用自然语言处理技术对学生作文进行自动评分与反馈的方法,AES
+AI literacy,人工智能素养,教育,理解人工智能基本原理及其社会影响并能批判性使用相关工具的能力,
+prompt literacy,提示词素养,教育,有效设计与评估人工智能提示词以获取所需输出的知识与技能,
+educational chatbot,教育聊天机器人,教育,以对话方式为学生提供答疑督学与心理支持的智能程序,
+social robot in education,教育社交机器人,教育,具备语音与表情交互能力用于陪伴教学与语言训练的实体机器人,
+machine teaching,机器教学,教育,人类专家通过设计课程与示例教会机器学习模型完成任务的范式,
+learning analytics dashboard,学习分析仪表盘,教育,将学习者过程数据可视化呈现以支持教学决策的交互界面,
+micro-credential,微证书,教育,证明持有者掌握某项具体技能的短期模块化学习成果认证,
+open badge,开放徽章,教育,以可验证开放标准表征学习成就并可在线分享的数字凭证,
+bite-sized learning,碎片式学习,教育,将内容切分为短小单元以便学习者利用零散时间学习的模式,
+nano degree,纳米学位,教育,由在线教育平台与企业合作推出的聚焦职业技能的短期证书项目,
+stackable credential,可叠加证书,教育,多份短期证书可累积兑换为更高学位或资格的认证体系,
+proficiency-based learning,熟练本位学习,教育,以学习者实际达到的能力水平而非修业年限作为进阶依据的模式,能力本位学习
+mastery transcript,精熟成绩单,教育,以能力掌握证据替代传统分数呈现学习成果的成绩记录,
+outcome-based education,成果导向教育,教育,围绕预期学习成果反向设计课程与评价的教育范式,OBE
+accreditation of prior experiential learning,先前经验学习认定,教育,将正规教育之外通过经验获得的知识技能认定为学分的制度,APEL
+social-emotional learning,社会情感学习,教育,培养自我意识情绪管理与人际交往等情感社会技能的教育,SEL
+trauma-informed pedagogy,创伤知情教学法,教育,识别学生创伤经历并以安全稳定原则设计教学的方法,
+culturally responsive teaching,文化回应式教学,教育,将学生文化背景融入教学以促进公平与参与的策略,
+inclusive curriculum design,包容性课程设计,教育,通过多元呈现参与与表达路径满足所有学习者需求的课程设计取向,
+restorative practices,恢复性实践,教育,以对话修复关系与重建社区来处理校园冲突的实践体系,
+mindfulness-based education,正念教育,教育,将正念练习融入课堂以提升学生专注与情绪调节能力的教学,
+open pedagogy,开放教学法,教育,让学生共创并公开分享学习成果的教学实践取向,
+OER-enabled pedagogy,开放资源教学法,教育,依托开放教育资源授权让学生参与内容改编与再创作的教学法,
+zero textbook cost,零教材成本,教育,课程全部采用免费开放资源使学生无需购买教材的做法,ZTC
+open textbook,开放教材,教育,以开放许可发布允许自由使用与改编的教材,
+HyFlex course,混合弹性课程,教育,同一课程同时提供面授同步在线与异步三种参与路径的模式,
+flipped learning,翻转学习,教育,知识传授移至课前课堂时间用于互动探究的教学结构,
+synchronous hybrid learning,同步混合学习,教育,现场与远程学生同时参与同一课堂的教学形态,
+learning experience design,学习体验设计,教育,以学习者为中心整合目标内容与交互设计学习过程的方法,LXD
+teachable agent,可教代理,教育,学生通过教导虚拟学伴来深化自身理解的学习技术,学伴代理
+algorithmic proctoring,算法监考,教育,利用人工智能监测考试行为识别可疑作弊迹象的技术,
+remote proctoring,远程监考,教育,借助摄像头与屏幕监控对居家考试进行监督的方式,
+assessment as learning,作为学习的评价,教育,让学生在评价过程中发展自我监控与元认知能力的取向,
+ipsative assessment,自我参照评价,教育,将学习者当前表现与其过往表现比较的评价方式,
+e-portfolio assessment,电子档案袋评价,教育,依据学习者数字化作品集对能力发展进行评价的方法,
+peer assessment,同伴评价,教育,学习者依据标准相互评价作业以促进反思与协作的活动,
+gamified assessment,游戏化评价,教育,将积分关卡等游戏机制引入评价以提升学习动机的方式,
+escape room learning,密室逃脱学习,教育,通过限时解谜任务促进知识应用与协作的教学设计,
+makerspace,创客空间,教育,配备工具材料供学习者动手造物开展项目学习的场所,创客工坊
+design thinking in education,教育设计思维,教育,将同理心定义构思原型测试的设计流程引入教学的方法,
+digital equity,数字公平,教育,保障所有学习者平等获得设备网络与数字技能的教育公平议题,
+one-to-one computing,一对一数字化学习,教育,为每位学生配备专属终端设备的教学模式,
+bring your own device,自带设备,教育,允许学生使用个人设备接入课堂学习环境的政策,BYOD
+screen time guideline,屏幕时间指南,教育,针对不同年龄段合理使用电子屏幕时长的建议规范,
+academic early warning,学业预警,教育,利用学习行为数据识别学业风险学生并触发干预的机制,
+student success platform,学生成功平台,教育,整合作业出勤与咨询数据支持学生留存与学业成功的系统,
